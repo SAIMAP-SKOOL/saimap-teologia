@@ -1,0 +1,243 @@
+{
+  "id": "1.1-mod01",
+  "module": 1,
+  "title": "El Contexto Histórico, Político y Religioso de Judea",
+  "subtitle": "Judea en el siglo I: Roma, Herodes y las facciones judías",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Pax Romana", "es": "Periodo de estabilidad y orden militar impuesto por Roma desde Augusto, que unificó el Mediterráneo" },
+        { "en": "Herodianos", "es": "Facciones partidarias de la dinastía de Herodes, de sincretismo helenista y colaboracionismo con Roma" },
+        { "en": "Mesianismo", "es": "Corriente judía que esperaba la llegada de un ungido de Yahvé para restaurar la soberanía de Israel" },
+        { "en": "Sanedrín", "es": "Asamblea de sabios y sacerdotes judíos con funciones judiciales, bajo supervisión del procurador romano" },
+        { "en": "Kyrios", "es": "Título griego («Señor») que los primeros cristianos daban a Jesucristo, en competencia con el título imperial" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué facción teológica del judaísmo del Segundo Templo rechazaba la resurrección de los muertos, limitando su exégesis a la Torá escrita?",
+      "options": ["Los fariseos", "Los saduceos", "Los esenios"],
+      "correct": 1,
+      "hint": "Eran la aristocracia sacerdotal del Templo.",
+      "explanation": "Los saduceos representaban a la aristocracia del Templo. Su teología, conservadora y pragmática, se limitaba a la Torá escrita y rechazaba doctrinas posteriores como la resurrección, lo que justificaba su colaboracionismo con Roma."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ era la asamblea de sabios y sacerdotes judíos con funciones judiciales, bajo supervisión del procurador romano.",
+      "options": ["Sanedrín", "Sínodo", "Concilio"],
+      "answer": "Sanedrín",
+      "explanation": "El Sanedrín ejercía funciones judiciales y administrativas en Judea bajo la supervisión última de Roma."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El principio del tributo (Mateo 22,19)",
+      "tiles": ["Dar", "al", "César", "lo", "que", "es", "del", "César", "Dios", "emperador"],
+      "answer": "Dar al César lo que es del César",
+      "explanation": "Esta directriz de Jesucristo consagró la autonomía eclesial en materia de fe y culto, reconociendo a la vez la legitimidad instrumental de la autoridad civil romana en lo temporal."
+    },
+    {
+      "type": "quiz",
+      "q": "Filológicamente, ¿qué implica el término griego «nomisma» (la moneda del tributo) en el debate de Mateo 22,19?",
+      "options": ["Un medio de cambio puramente neutral", "La ley y el derecho del César impresos sobre el metal", "La validez litúrgica de la moneda dentro del Templo"],
+      "correct": 1,
+      "hint": "«Nomisma» deriva de «nomos» (ley).",
+      "explanation": "Para la exégesis patrística, la moneda del censo romano no era neutral: portaba la ley y la efigie divinizada del emperador, delimitando la esfera civil material frente a la soberanía de Dios."
+    },
+    {
+      "type": "gap",
+      "text": "Los ___ eran la aristocracia sacerdotal del Templo que rechazaba la resurrección de los muertos.",
+      "options": ["saduceos", "fariseos", "esenios"],
+      "answer": "saduceos",
+      "explanation": "Los saduceos limitaban su exégesis a la Torá escrita y rechazaban doctrinas posteriores como la resurrección o los ángeles."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada facción con su postura fiscal ante Roma",
+      "pairs": [
+        { "en": "Saduceos", "es": "Colaboracionismo político activo" },
+        { "en": "Fariseos", "es": "Obediencia civil pasiva" },
+        { "en": "Esenios", "es": "Ruptura radical y retirada al desierto" },
+        { "en": "Zelotes", "es": "Insurrección armada violenta" },
+        { "en": "Iglesia primitiva", "es": "Dar al César lo que es del César, y a Dios lo que es de Dios" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La colisión de soberanías",
+      "tiles": ["Jesucristo", "es", "el", "único", "y", "absoluto", "Señor", "emperador", "César"],
+      "answer": "Jesucristo es el único y absoluto Señor",
+      "explanation": "Al proclamar a Jesucristo como el único y absoluto Kyrios (Señor), los primeros cristianos chocaron con la pretensión soteriológica del emperador, que reclamaba ese título como salvador del orbe romano."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hito administrativo del año 6 d.C. desató la insurrección nacionalista que consolidó el ala zelote?",
+      "options": ["La destitución de Poncio Pilato", "El censo de capitación de Quirinio", "La destrucción del Templo por Tito"],
+      "correct": 1,
+      "hint": "Coincidió con la conversión de Judea en provincia de administración directa.",
+      "explanation": "La imposición del censo de Quirinio, tras la conversión de Judea en provincia romana de administración directa, desató una resistencia armada: los rebeldes interpretaban que pagar capitación equivalía a una apostasía de la soberanía de Yahvé."
+    },
+    {
+      "type": "gap",
+      "text": "Los ___ defendían la tradición oral y afirmaban la resurrección escatológica de los justos.",
+      "options": ["fariseos", "saduceos", "zelotes"],
+      "answer": "fariseos",
+      "explanation": "Los fariseos complementaban la ley mosaica con la tradición oral y afirmaban dogmáticamente la resurrección y la inmortalidad del alma."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se contrapone la Pax Romana a la eirene proclamada por la Iglesia primitiva, según Agustín de Hipona en «De Civitate Dei»?",
+      "options": ["La Pax Romana era ausencia de guerra por sumisión armada; la eirene, el orden de la concordia universal", "Eran conceptos sinónimos compartidos por la propaganda de Augusto", "La eirene se basaba también en la imposición militar"],
+      "correct": 0,
+      "hint": "Agustín contrasta lo exterior-coercitivo con lo interior-espiritual.",
+      "explanation": "Agustín de Hipona detalla que la Pax Romana era puramente exterior y coercitiva, impuesta por las legiones, mientras que la eirene cristiana es un don del Espíritu fundado en la comunión con Dios."
+    },
+    {
+      "type": "gap",
+      "text": "La comunidad de ___ se refugió en el desierto del mar Muerto y produjo los manuscritos de Qumrán.",
+      "options": ["esenios", "zelotes", "fariseos"],
+      "answer": "esenios",
+      "explanation": "Los esenios, de dualismo determinista radical, rechazaban el sacerdocio del Templo como profanador y se retiraron al ascetismo eremítico."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La interpretación de Orígenes sobre el Templo",
+      "tiles": ["El", "verdadero", "templo", "es", "el", "cuerpo", "de", "Cristo", "edificio", "piedra"],
+      "answer": "El verdadero templo es el cuerpo de Cristo",
+      "explanation": "Orígenes, en su Comentario a Juan, sostiene que el verdadero templo destruido y reconstruido es el cuerpo de Cristo, lo que hace obsoletas las piedras monumentales de la explanada herodiana."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién incorporó Judea al Imperio romano en el año 63 a.C., poniendo fin a la independencia asmonea?",
+      "options": ["Augusto", "Pompeyo Magno", "Herodes el Grande"],
+      "correct": 1,
+      "hint": "Su nombre completo era Pompeyo Magno.",
+      "explanation": "En el 63 a.C., bajo el mando de Pompeyo Magno, Judea quedó incorporada al engranaje geopolítico de Roma, marcando el fin de la independencia asmonea."
+    },
+    {
+      "type": "gap",
+      "text": "Los ___ consideraban el pago de tributo a Roma una apostasía y practicaban la insurrección armada.",
+      "options": ["zelotes", "saduceos", "fariseos"],
+      "answer": "zelotes",
+      "explanation": "Para los zelotes, pagar impuestos a Roma implicaba reconocer una autoridad terrenal en competencia con la soberanía exclusiva de Yahvé."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada autor con su aportación",
+      "pairs": [
+        { "en": "Justino Mártir", "es": "Usó el censo de Quirinio como prueba jurídica del cumplimiento mesiánico (Apología Primera)" },
+        { "en": "Orígenes", "es": "Interpretó el templo destruido como el cuerpo de Cristo (Comentario a Juan)" },
+        { "en": "Agustín de Hipona", "es": "Contrastó la Pax Romana con la eirene cristiana (De Civitate Dei)" },
+        { "en": "Ireneo de Lyon", "es": "Sistematizó la sucesión apostólica tomando Roma como referente (Adversus Haereses)" },
+        { "en": "Ignacio de Antioquía", "es": "Defendió el episcopado monárquico a comienzos del siglo II" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué corriente judía rechazaba el sacerdocio del Templo de Jerusalén como ilegítimo y se retiró al desierto del mar Muerto?",
+      "options": ["Los fariseos", "Los saduceos", "Los esenios"],
+      "correct": 2,
+      "hint": "Produjeron los manuscritos de Qumrán.",
+      "explanation": "La comunidad esenia rechazaba el sacerdocio del Templo como ilegítimo y profanador, retirándose al ascetismo eremítico para purificarse mediante ritos diarios."
+    },
+    {
+      "type": "gap",
+      "text": "El censo de ___ en el año 6 d.C. desató una profunda crisis dogmática y civil en Judea.",
+      "options": ["Quirinio", "Pilato", "Herodes"],
+      "answer": "Quirinio",
+      "explanation": "La imposición del censo de Quirinio, con la conversión de Judea en provincia de administración directa, provocó una resistencia armada nacionalista."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Agustín de Hipona, «De Civitate Dei»",
+      "tiles": ["La", "eirene", "es", "el", "orden", "de", "la", "concordia", "universal", "guerra", "imperio"],
+      "answer": "La eirene es el orden de la concordia universal",
+      "explanation": "Agustín catalogó la Pax Romana como una mera ausencia de guerra temporal, y a la eirene de la Iglesia como el orden perfecto de la concordia universal."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué principio articuló Jesucristo sobre el tributo, consagrando la autonomía eclesial frente al poder civil?",
+      "options": ["Dar al César lo que es del César y a Dios lo que es de Dios", "Todo poder viene de Dios y debe obedecerse sin condición", "El tributo a Roma es una apostasía que debe rechazarse siempre"],
+      "correct": 0,
+      "hint": "Es la respuesta de Jesús ante la moneda del censo.",
+      "explanation": "Esta directriz consagró el principio de la autonomía eclesial en materia de fe y culto, reconociendo a la vez la legitimidad instrumental de la autoridad civil romana en el orden secular."
+    },
+    {
+      "type": "gap",
+      "text": "La destrucción del Templo de Jerusalén por las legiones de Tito ocurrió en el año ___ d.C.",
+      "options": ["70", "63", "6"],
+      "answer": "70",
+      "explanation": "La catástrofe del año 70 d.C. supuso el colapso físico de la teología del espacio sagrado del judaísmo del Segundo Templo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La doctrina saducea",
+      "tiles": ["Los", "saduceos", "rechazaban", "la", "resurrección", "de", "los", "muertos", "fariseos", "ángeles"],
+      "answer": "Los saduceos rechazaban la resurrección de los muertos",
+      "explanation": "Los saduceos negaban rotundamente la inmortalidad personal apelando a una exégesis reduccionista del Pentateuco."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué suceso del año 70 d.C. marcó un punto de inflexión radical en la hermenéutica de la Iglesia primitiva?",
+      "options": ["La destrucción del Templo de Jerusalén por las legiones de Tito", "El concilio de Jerusalén sobre la circuncisión de los gentiles", "La expulsión de los judíos de Roma decretada por Claudio"],
+      "correct": 0,
+      "hint": "Eusebio de Cesarea y Agustín de Hipona lo interpretaron como un juicio providencial.",
+      "explanation": "Los Padres de la Iglesia interpretaron la destrucción del Templo como el juicio providencial que ponía fin a la economía ritual de la antigua alianza sacerdotal."
+    },
+    {
+      "type": "gap",
+      "text": "___ el Grande reconstruyó el Templo de Jerusalén combinando teatros paganos con la magnificencia del culto judío.",
+      "options": ["Herodes", "Pompeyo", "Tiberio"],
+      "answer": "Herodes",
+      "explanation": "Herodes, idumeo de educación helenista, combinó un programa constructivo pagano con la suntuosa reconstrucción del Templo de Jerusalén."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La comunidad de Qumrán",
+      "tiles": ["Los", "esenios", "se", "retiraron", "al", "desierto", "del", "mar", "Muerto", "Templo", "ciudad"],
+      "answer": "Los esenios se retiraron al desierto del mar Muerto",
+      "explanation": "La comunidad esenia reflejada en los manuscritos de Qumrán rechazaba el sacerdocio del Templo y se retiró al ascetismo eremítico."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada espacio u objeto con su descripción",
+      "pairs": [
+        { "en": "Fortaleza Antonia", "es": "Guarnición romana junto al Templo que vigilaba las ceremonias religiosas" },
+        { "en": "Pórtico Real", "es": "Basílica de columnas corintias que dominaba el atrio sur del Templo" },
+        { "en": "Denario de Tiberio", "es": "Moneda del tributo con la inscripción «hijo del divino Augusto»" },
+        { "en": "Domus ecclesiae", "es": "Iglesias domésticas de las provincias orientales del Imperio" },
+        { "en": "Explanada del Templo", "es": "Reconstruida por Herodes sobre muros de contención ciclópeos" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué padre de la Iglesia defendió con vehemencia el episcopado monárquico a principios del siglo II?",
+      "options": ["Ireneo de Lyon", "Ignacio de Antioquía", "Tertuliano"],
+      "correct": 1,
+      "hint": "Escribió cartas a varias iglesias camino de su martirio en Roma.",
+      "explanation": "Ignacio de Antioquía defendió el ordenamiento episcopal monárquico, dotando a la Iglesia de una columna vertebral institucional resiliente frente a los vaivenes políticos."
+    },
+    {
+      "type": "gap",
+      "text": "La moneda del tributo romano llevaba la efigie de ___, proclamado hijo del divino Augusto.",
+      "options": ["Tiberio", "Augusto", "Nerón"],
+      "answer": "Tiberio",
+      "explanation": "El denario de plata portaba el rostro de Tiberio con la inscripción «Tiberio César, hijo del divino Augusto»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El principio de sucesión apostólica (Ireneo de Lyon)",
+      "tiles": ["La", "sucesión", "apostólica", "garantiza", "la", "verdadera", "fe", "doctrina", "obispo"],
+      "answer": "La sucesión apostólica garantiza la verdadera fe",
+      "explanation": "Ireneo de Lyon sistematizó el principio de sucesión apostólica tomando a la iglesia de Roma como referente universal de la tradición."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La destrucción del Templo (70 d.C.)",
+      "tiles": ["El", "Templo", "de", "Jerusalén", "fue", "destruido", "por", "Tito", "reconstruido", "Pompeyo"],
+      "answer": "El Templo de Jerusalén fue destruido por Tito",
+      "explanation": "La catástrofe del año 70 d.C., con el asedio y destrucción de Jerusalén y su Templo a manos de las legiones de Tito, supuso un punto de inflexión en la Iglesia primitiva."
+    }
+  ]
+}

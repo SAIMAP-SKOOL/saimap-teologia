@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SAIMAP Historia del Cristianismo</title>
+<script>
+(function(){
+  var t = localStorage.getItem("saimap-teologia-theme") || "dark";
+  document.documentElement.setAttribute("data-theme", t);
+})();
+</script>
+<style>
+  :root, :root[data-theme="dark"]{
+    --bg:#1B1712;
+    --panel:#26201A;
+    --panel-2:#312921;
+    --line:#463A2C;
+    --ink:#F1EAD9;
+    --ink-soft:#B3A489;
+    --green:#7A9B7E;
+    --green-dark:#5C7C60;
+    --gold:#D1A736;
+    --gold-shadow:#A8842A;
+    --gold-ink:#3A2C05;
+    --red:#B5584A;
+    --blue:#5B8AA6;
+    --locked:#4A4032;
+    --locked-shadow:#332B21;
+    --streak:#C97A3B;
+  }
+  :root[data-theme="light"]{
+    --bg:#DEDBD0;
+    --panel:#F6F3E9;
+    --panel-2:#EAE5D3;
+    --line:#CFC7AC;
+    --ink:#2B2318;
+    --ink-soft:#6B6048;
+    --green:#4E6A57;
+    --green-dark:#3C5343;
+    --gold:#8C6A22;
+    --gold-shadow:#6E521A;
+    --gold-ink:#2C2000;
+    --red:#A6532E;
+    --blue:#3D6E86;
+    --locked:#CFC7AC;
+    --locked-shadow:#B3AB90;
+    --streak:#A85D1E;
+  }
+  :root[data-theme="sepia"]{
+    --bg:#EBDFC4;
+    --panel:#F5ECD4;
+    --panel-2:#E4D6AF;
+    --line:#C9B583;
+    --ink:#3B2E1A;
+    --ink-soft:#7A6A42;
+    --green:#5E7C43;
+    --green-dark:#4A6335;
+    --gold:#9C7A16;
+    --gold-shadow:#7C6110;
+    --gold-ink:#2A2000;
+    --red:#A6462E;
+    --blue:#4A6E7A;
+    --locked:#D9C99B;
+    --locked-shadow:#BEAE7C;
+    --streak:#9C5A1E;
+  }
+  :root{
+    --radius:16px;
+    --font:'Segoe UI',system-ui,-apple-system,sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{transition:background-color .2s,color .2s;}
+  body{background:var(--bg);color:var(--ink);font-family:var(--font);min-height:100vh;}
+  button{font-family:var(--font);cursor:pointer;}
+
+  /* ---------- Header ---------- */
+  header{
+    position:sticky;top:0;z-index:20;
+    background:var(--bg);
+    border-bottom:2px solid var(--line);
+    padding:12px 20px;
+  }
+  .header-inner{
+    max-width:680px;margin:0 auto;
+    display:flex;align-items:center;gap:18px;
+  }
+  .logo{font-weight:800;font-size:20px;letter-spacing:-.02em;color:var(--green);}
+  .logo span{color:var(--ink);font-weight:600;}
+  .stats{margin-left:auto;display:flex;gap:16px;font-weight:700;font-size:15px;}
+  .stat-chip{display:flex;align-items:center;gap:5px;}
+  .stat-chip.streak{color:var(--streak);}
+  .stat-chip.xp{color:var(--gold);}
+  .stat-chip.hearts{color:var(--red);}
+  #btn-logout{background:none;border:none;color:var(--ink-soft);font-size:13px;text-decoration:underline;}
+  #btn-theme{
+    background:none;border:2px solid var(--line);border-radius:10px;
+    width:36px;height:36px;font-size:16px;line-height:1;
+    display:flex;align-items:center;justify-content:center;
+  }
+
+  /* ---------- Login ---------- */
+  #login-screen{
+    max-width:400px;margin:10vh auto;padding:32px;
+    background:var(--panel);border-radius:var(--radius);
+    border:2px solid var(--line);
+    display:none;
+  }
+  #login-screen h1{font-size:24px;margin-bottom:6px;}
+  #login-screen p{color:var(--ink-soft);font-size:14px;margin-bottom:22px;}
+  #login-email{
+    width:100%;padding:13px 14px;border-radius:12px;
+    border:2px solid var(--line);background:var(--panel-2);
+    color:var(--ink);font-size:15px;margin-bottom:14px;outline:none;
+  }
+  #login-email:focus{border-color:var(--blue);}
+  .btn-primary{
+    width:100%;padding:13px;border-radius:12px;border:none;
+    background:var(--green);color:#0E1A0F;font-weight:800;font-size:15px;
+    box-shadow:0 4px 0 var(--green-dark);
+    transition:transform .06s;
+  }
+  .btn-primary:active{transform:translateY(3px);box-shadow:0 1px 0 var(--green-dark);}
+  .btn-ghost{
+    width:100%;padding:11px;margin-top:10px;border-radius:12px;
+    border:2px solid var(--line);background:none;color:var(--ink-soft);
+    font-weight:700;font-size:14px;
+  }
+  #login-error{color:var(--red);font-size:13px;margin-top:12px;display:none;}
+  #login-loading{color:var(--ink-soft);font-size:13px;margin-top:12px;display:none;}
+
+  /* ---------- Path map ---------- */
+  main{max-width:680px;margin:0 auto;padding:24px 20px 100px;display:none;}
+  .level-banner{
+    border-radius:var(--radius);
+    padding:18px 22px;margin:34px 0 26px;
+    display:flex;align-items:center;gap:14px;
+    color:#fff;
+  }
+  .level-banner:first-child{margin-top:8px;}
+  .level-banner .code{
+    font-size:26px;font-weight:900;
+    background:rgba(255,255,255,.2);
+    border-radius:10px;padding:4px 12px;
+  }
+  .level-banner .name{font-weight:700;font-size:16px;}
+  .level-banner .sub{font-size:12.5px;opacity:.85;}
+  .level-banner.locked{filter:saturate(.25) brightness(.75);}
+  .level-banner .lock{margin-left:auto;font-size:22px;}
+
+  .path{display:flex;flex-direction:column;align-items:center;gap:22px;}
+  .node-row{display:flex;justify-content:center;width:100%;}
+  .node{
+    width:76px;height:76px;border-radius:50%;
+    border:none;position:relative;
+    display:flex;align-items:center;justify-content:center;
+    font-size:28px;
+    background:var(--locked);
+    box-shadow:0 6px 0 var(--locked-shadow);
+    transition:transform .06s;
+    color:#fff;
+  }
+  .node.available{background:var(--green);box-shadow:0 6px 0 var(--green-dark);}
+  .node.done{background:var(--gold);box-shadow:0 6px 0 var(--gold-shadow);color:var(--gold-ink);}
+  .node.available:active,.node.done:active{transform:translateY(4px);box-shadow:0 2px 0 var(--green-dark);}
+  .node:disabled{cursor:default;}
+  .node .mod-num{
+    position:absolute;top:-6px;right:-6px;
+    background:var(--panel-2);border:2px solid var(--line);
+    color:var(--ink-soft);font-size:11px;font-weight:800;
+    width:26px;height:26px;border-radius:50%;
+    display:flex;align-items:center;justify-content:center;
+  }
+  .node-label{
+    text-align:center;font-size:12.5px;color:var(--ink-soft);
+    max-width:150px;margin-top:8px;font-weight:600;line-height:1.3;
+  }
+  .node-wrap{display:flex;flex-direction:column;align-items:center;}
+  /* serpentine offsets */
+  .offset-l{transform:translateX(-90px);}
+  .offset-r{transform:translateX(90px);}
+  @media (max-width:520px){
+    .offset-l{transform:translateX(-56px);}
+    .offset-r{transform:translateX(56px);}
+  }
+
+  .locked-note{
+    text-align:center;color:var(--ink-soft);font-size:13px;
+    background:var(--panel);border:2px dashed var(--line);
+    border-radius:var(--radius);padding:16px 20px;width:100%;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="logo">SAIMAP <span>Historia del Cristianismo</span> ⛪</div>
+    <div class="stats">
+      <div class="stat-chip streak">🔥 <span id="stat-streak">0</span></div>
+      <div class="stat-chip xp">⚡ <span id="stat-xp">0</span></div>
+      <div class="stat-chip hearts">❤️ <span id="stat-hearts">5</span></div>
+    </div>
+    <button id="btn-theme" title="Cambiar tema">🌙</button>
+    <button id="btn-logout" style="display:none">Salir</button>
+  </div>
+</header>
+
+<div id="login-screen">
+  <h1>Historia del Cristianismo</h1>
+  <p>Introduce tu correo de la academia para acceder al curso.</p>
+  <input type="email" id="login-email" placeholder="tu@correo.com" autocomplete="email">
+  <button class="btn-primary" id="btn-login">ENTRAR</button>
+  <button class="btn-ghost" id="btn-guest">Probar como invitado</button>
+  <div id="login-loading">Comprobando acceso…</div>
+  <div id="login-error"></div>
+</div>
+
+<main id="app"></main>
+
+<script>
+"use strict";
+/* ================= CONFIG ================= */
+const REQUIRE_AUTH = true;
+const FIREBASE_PROJECT_ID = "saimap-ingenieria-informatica"; // misma whitelist que el resto de SAIMAP
+
+/* ================= TEMA (claro / sepia / oscuro) ================= */
+const THEME_KEY = "saimap-teologia-theme";
+const THEMES = ["dark", "light", "sepia"];
+const THEME_ICON = { dark: "🌙", light: "☀️", sepia: "📜" };
+const btnTheme = document.getElementById("btn-theme");
+function syncThemeIcon(){
+  const cur = document.documentElement.getAttribute("data-theme") || "dark";
+  if (btnTheme) btnTheme.textContent = THEME_ICON[cur];
+}
+syncThemeIcon();
+btnTheme.addEventListener("click", () => {
+  const cur = document.documentElement.getAttribute("data-theme") || "dark";
+  const next = THEMES[(THEMES.indexOf(cur) + 1) % THEMES.length];
+  document.documentElement.setAttribute("data-theme", next);
+  localStorage.setItem(THEME_KEY, next);
+  syncThemeIcon();
+});
+
+/* ================= PROGRESS (localStorage) ================= */
+const store = {
+  key: "saimap-historia",
+  load(){ try { return JSON.parse(localStorage.getItem(this.key)) || {}; } catch { return {}; } },
+  save(d){ localStorage.setItem(this.key, JSON.stringify(d)); }
+};
+function getProgress(){
+  const d = store.load();
+  return {
+    xp: d.xp || 0,
+    hearts: (typeof d.hearts === "number") ? d.hearts : 5,
+    heartsDay: d.heartsDay || "",
+    completed: d.completed || [],          // ["1.1-mod01", ...]
+    streak: d.streak || 0,
+    lastDay: d.lastDay || ""
+  };
+}
+function refreshDailyState(p){
+  const today = new Date().toISOString().slice(0,10);
+  if (p.heartsDay !== today){ p.hearts = 5; p.heartsDay = today; } // corazones se regeneran a diario
+  if (p.lastDay && p.lastDay !== today){
+    const diff = (new Date(today) - new Date(p.lastDay)) / 86400000;
+    if (diff > 1) p.streak = 0; // racha rota
+  }
+  store.save(p);
+  return p;
+}
+function renderStats(p){
+  document.getElementById("stat-streak").textContent = p.streak;
+  document.getElementById("stat-xp").textContent = p.xp;
+  document.getElementById("stat-hearts").textContent = p.hearts;
+}
+
+/* ================= AUTH (whitelist SHA-256 vía Firestore REST) ================= */
+async function sha256(text){
+  const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(text.trim().toLowerCase()));
+  return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2,"0")).join("");
+}
+async function checkWhitelist(email){
+  const hash = await sha256(email);
+  const url = `https://firestore.googleapis.com/v1/projects/${FIREBASE_PROJECT_ID}/databases/(default)/documents/whitelist/${hash}`;
+  const res = await fetch(url);
+  return res.ok;
+}
+
+const loginScreen = document.getElementById("login-screen");
+const app = document.getElementById("app");
+const btnLogout = document.getElementById("btn-logout");
+
+function showApp(){
+  loginScreen.style.display = "none";
+  app.style.display = "block";
+  btnLogout.style.display = "inline";
+  loadCourse();
+}
+function showLogin(){
+  loginScreen.style.display = "block";
+  app.style.display = "none";
+  btnLogout.style.display = "none";
+}
+
+document.getElementById("btn-login").addEventListener("click", async () => {
+  const email = document.getElementById("login-email").value.trim();
+  const err = document.getElementById("login-error");
+  const loading = document.getElementById("login-loading");
+  err.style.display = "none";
+  if (!email || !email.includes("@")){ err.textContent = "Introduce un correo válido."; err.style.display = "block"; return; }
+  loading.style.display = "block";
+  try {
+    if (await checkWhitelist(email)){
+      sessionStorage.setItem("saimap-historia-user", email);
+      showApp();
+    } else {
+      err.textContent = "Este correo no está registrado en la academia. Contacta con soporte si acabas de suscribirte.";
+      err.style.display = "block";
+    }
+  } catch {
+    err.textContent = "Error de conexión con el servidor de autenticación. Inténtalo de nuevo.";
+    err.style.display = "block";
+  } finally {
+    loading.style.display = "none";
+  }
+});
+document.getElementById("btn-guest").addEventListener("click", () => {
+  sessionStorage.setItem("saimap-historia-user", "invitado");
+  showApp();
+});
+btnLogout.addEventListener("click", () => {
+  sessionStorage.removeItem("saimap-historia-user");
+  showLogin();
+});
+
+/* ================= COURSE MAP ================= */
+async function loadCourse(){
+  const p = refreshDailyState(getProgress());
+  renderStats(p);
+  const res = await fetch("json/course.json");
+  const course = await res.json();
+  app.innerHTML = "";
+
+  let prevModId = null; // encadena el desbloqueo entre módulos Y entre niveles
+  course.levels.forEach(level => {
+    const banner = document.createElement("div");
+    banner.className = "level-banner" + (level.locked ? " locked" : "");
+    banner.style.background = level.color;
+    banner.innerHTML = `
+      <div class="code">${level.code}</div>
+      <div>
+        <div class="name">${level.name}</div>
+        <div class="sub">${level.locked ? (level.moduleCount + " temas · en preparación") : (level.sub || level.modules.length + " temas")}</div>
+      </div>
+      ${level.locked ? '<div class="lock">🔒</div>' : ""}
+    `;
+    app.appendChild(banner);
+    if (level.locked) return;
+
+    const path = document.createElement("div");
+    path.className = "path";
+    const offsets = ["", "offset-l", "", "offset-r"]; // serpentina
+
+    level.modules.forEach((mod, i) => {
+      const modId = `${level.code.toLowerCase()}-mod${String(mod.n).padStart(2,"0")}`;
+      const hasContent = !!mod.file;
+      const done = p.completed.includes(modId);
+      const unlocked = hasContent && (prevModId === null || p.completed.includes(prevModId));
+      prevModId = modId;
+
+      const row = document.createElement("div");
+      row.className = "node-row";
+      const wrap = document.createElement("div");
+      wrap.className = "node-wrap " + offsets[i % 4];
+
+      const btn = document.createElement("button");
+      btn.className = "node" + (done ? " done" : (unlocked ? " available" : ""));
+      btn.disabled = !unlocked && !done;
+      btn.innerHTML = (done ? "👑" : (unlocked ? "⭐" : "🔒")) + `<span class="mod-num">${mod.n}</span>`;
+      btn.setAttribute("aria-label", `Tema ${mod.n}: ${mod.title}`);
+      if (unlocked || done){
+        btn.addEventListener("click", () => {
+          location.href = `leccion.html?file=${encodeURIComponent(mod.file)}&id=${modId}`;
+        });
+      }
+      const label = document.createElement("div");
+      label.className = "node-label";
+      label.textContent = mod.es || mod.title;
+
+      wrap.appendChild(btn);
+      wrap.appendChild(label);
+      row.appendChild(wrap);
+      path.appendChild(row);
+    });
+
+    app.appendChild(path);
+  });
+}
+
+/* ================= INIT ================= */
+(function init(){
+  const saved = sessionStorage.getItem("saimap-historia-user");
+  if (!REQUIRE_AUTH || saved){ showApp(); } else { showLogin(); }
+})();
+</script>
+</body>
+</html>

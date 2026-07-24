@@ -1,0 +1,618 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lección — SAIMAP Historia del Cristianismo</title>
+<script>
+(function(){
+  var t = localStorage.getItem("saimap-teologia-theme") || "dark";
+  document.documentElement.setAttribute("data-theme", t);
+})();
+</script>
+<style>
+  :root, :root[data-theme="dark"]{
+    --bg:#1B1712;
+    --panel:#26201A;
+    --panel-2:#312921;
+    --line:#463A2C;
+    --ink:#F1EAD9;
+    --ink-soft:#B3A489;
+    --green:#7A9B7E;
+    --green-dark:#5C7C60;
+    --green-bg:#243024;
+    --gold:#D1A736;
+    --red:#B5584A;
+    --red-dark:#8F4438;
+    --red-bg:#3A241E;
+    --blue:#5B8AA6;
+    --blue-dark:#446C85;
+    --review-bg:#2E2A40;
+    --review-border:#7C74B0;
+    --review-ink:#C2BCE8;
+  }
+  :root[data-theme="light"]{
+    --bg:#DEDBD0;
+    --panel:#F6F3E9;
+    --panel-2:#EAE5D3;
+    --line:#CFC7AC;
+    --ink:#2B2318;
+    --ink-soft:#6B6048;
+    --green:#4E6A57;
+    --green-dark:#3C5343;
+    --green-bg:#DDE7DC;
+    --gold:#8C6A22;
+    --red:#A6532E;
+    --red-dark:#853F22;
+    --red-bg:#F0DDCF;
+    --blue:#3D6E86;
+    --blue-dark:#2E5468;
+    --review-bg:#E7E2F2;
+    --review-border:#B4A6DA;
+    --review-ink:#4C3F80;
+  }
+  :root[data-theme="sepia"]{
+    --bg:#EBDFC4;
+    --panel:#F5ECD4;
+    --panel-2:#E4D6AF;
+    --line:#C9B583;
+    --ink:#3B2E1A;
+    --ink-soft:#7A6A42;
+    --green:#5E7C43;
+    --green-dark:#4A6335;
+    --green-bg:#DEE3BF;
+    --gold:#9C7A16;
+    --red:#A6462E;
+    --red-dark:#833823;
+    --red-bg:#E9D2B9;
+    --blue:#4A6E7A;
+    --blue-dark:#385560;
+    --review-bg:#E2D6B6;
+    --review-border:#B39A5F;
+    --review-ink:#5A4420;
+  }
+  :root{
+    --radius:16px;
+    --font:'Segoe UI',system-ui,-apple-system,sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{transition:background-color .2s,color .2s;}
+  body{background:var(--bg);color:var(--ink);font-family:var(--font);min-height:100vh;display:flex;flex-direction:column;}
+  button{font-family:var(--font);cursor:pointer;}
+
+  /* ---------- Top bar ---------- */
+  .topbar{
+    display:flex;align-items:center;gap:14px;
+    max-width:640px;width:100%;margin:0 auto;padding:16px 20px;
+  }
+  #btn-quit{background:none;border:none;color:var(--ink-soft);font-size:22px;line-height:1;}
+  #btn-theme{
+    background:none;border:2px solid var(--line);border-radius:10px;
+    width:34px;height:34px;font-size:15px;line-height:1;
+    display:flex;align-items:center;justify-content:center;flex-shrink:0;
+  }
+  .progress-track{
+    flex:1;height:14px;border-radius:8px;background:var(--panel-2);overflow:hidden;
+  }
+  .progress-fill{
+    height:100%;width:0%;border-radius:8px;background:var(--green);
+    transition:width .35s ease;
+  }
+  .hearts{color:var(--red);font-weight:800;font-size:16px;white-space:nowrap;}
+
+  /* ---------- Stage ---------- */
+  main{
+    flex:1;max-width:640px;width:100%;margin:0 auto;padding:10px 20px 24px;
+    display:flex;flex-direction:column;
+  }
+  .exercise-title{font-size:21px;font-weight:800;margin:14px 0 20px;line-height:1.3;}
+  .exercise-sub{color:var(--ink-soft);font-size:14px;margin:-12px 0 18px;}
+  .review-chip{
+    display:inline-block;align-self:flex-start;
+    background:var(--review-bg);border:1px solid var(--review-border);color:var(--review-ink);
+    border-radius:20px;padding:4px 12px;font-size:12.5px;font-weight:700;
+    margin:10px 0 -6px;
+  }
+
+  /* quiz / gap options */
+  .options{display:flex;flex-direction:column;gap:10px;}
+  .opt{
+    text-align:left;padding:14px 16px;border-radius:12px;font-size:16px;
+    background:var(--panel);border:2px solid var(--line);color:var(--ink);
+    box-shadow:0 3px 0 var(--line);transition:transform .05s;
+  }
+  .opt:not(:disabled):hover{background:var(--panel-2);}
+  .opt.selected{border-color:var(--blue);background:var(--panel-2);box-shadow:0 3px 0 var(--blue-dark);}
+  .opt:disabled{cursor:default;}
+  .opt.reveal-good{border-color:var(--green);background:var(--green-bg);}
+  .opt.reveal-bad{border-color:var(--red);background:var(--red-bg);}
+
+  .gap-sentence{font-size:22px;font-weight:700;margin-bottom:22px;line-height:1.5;}
+  .gap-hole{
+    display:inline-block;min-width:70px;border-bottom:3px solid var(--blue);
+    text-align:center;color:var(--blue);font-weight:800;
+  }
+
+  /* word bank */
+  .wb-answer{
+    min-height:58px;border-bottom:2px solid var(--line);
+    display:flex;flex-wrap:wrap;gap:8px;padding:8px 2px;margin-bottom:22px;
+  }
+  .wb-bank{display:flex;flex-wrap:wrap;gap:8px;}
+  .tile{
+    padding:10px 14px;border-radius:12px;font-size:16px;font-weight:600;
+    background:var(--panel);border:2px solid var(--line);color:var(--ink);
+    box-shadow:0 3px 0 var(--line);
+  }
+  .tile:disabled{opacity:.25;cursor:default;}
+
+  /* match */
+  .match-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;}
+  .match-col{display:flex;flex-direction:column;gap:10px;}
+  .mtile{
+    padding:14px 12px;border-radius:12px;font-size:15.5px;font-weight:600;
+    background:var(--panel);border:2px solid var(--line);color:var(--ink);
+    box-shadow:0 3px 0 var(--line);
+  }
+  .mtile.selected{border-color:var(--blue);background:var(--panel-2);}
+  .mtile.matched{opacity:.35;border-color:var(--green);cursor:default;}
+  .mtile.shake{animation:shake .3s;}
+  @keyframes shake{0%,100%{transform:translateX(0)}25%{transform:translateX(-6px)}75%{transform:translateX(6px)}}
+
+  /* ---------- Footer / feedback ---------- */
+  footer{
+    border-top:2px solid var(--line);padding:18px 20px 26px;
+    background:var(--bg);
+  }
+  footer.good{background:var(--green-bg);border-color:var(--green);}
+  footer.bad{background:var(--red-bg);border-color:var(--red);}
+  .footer-inner{max-width:640px;margin:0 auto;display:flex;align-items:center;gap:18px;flex-wrap:wrap;}
+  .feedback{flex:1;min-width:240px;}
+  .feedback .verdict{font-weight:900;font-size:18px;margin-bottom:4px;}
+  footer.good .verdict{color:var(--green);}
+  footer.bad .verdict{color:var(--red);}
+  .feedback .detail{font-size:14px;color:var(--ink);line-height:1.5;}
+  .btn-main{
+    padding:13px 40px;border-radius:12px;border:none;
+    background:var(--green);color:#0E1A0F;font-weight:800;font-size:15px;
+    box-shadow:0 4px 0 var(--green-dark);transition:transform .06s;
+    margin-left:auto;
+  }
+  .btn-main:active{transform:translateY(3px);box-shadow:0 1px 0 var(--green-dark);}
+  .btn-main:disabled{background:var(--panel-2);color:var(--ink-soft);box-shadow:0 4px 0 var(--line);cursor:default;}
+  footer.bad .btn-main{background:var(--red);color:#2B0F09;box-shadow:0 4px 0 var(--red-dark);}
+
+  /* ---------- End screens ---------- */
+  .end-screen{text-align:center;padding:60px 20px;}
+  .end-screen .big{font-size:66px;margin-bottom:12px;}
+  .end-screen h2{font-size:26px;margin-bottom:8px;}
+  .end-screen p{color:var(--ink-soft);margin-bottom:26px;}
+  .end-xp{
+    display:inline-block;background:var(--panel);border:2px solid var(--gold);
+    border-radius:14px;padding:14px 26px;font-size:20px;font-weight:900;color:var(--gold);
+    margin-bottom:30px;
+  }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <button id="btn-quit" title="Salir de la lección">✕</button>
+  <div class="progress-track"><div class="progress-fill" id="progress"></div></div>
+  <div class="hearts">❤️ <span id="hearts">5</span></div>
+  <button id="btn-theme" title="Cambiar tema">🌙</button>
+</div>
+
+<main id="stage"></main>
+
+<footer id="footer" style="display:none">
+  <div class="footer-inner">
+    <div class="feedback" id="feedback"></div>
+    <button class="btn-main" id="btn-continue">CONTINUAR</button>
+  </div>
+</footer>
+<footer id="footer-check">
+  <div class="footer-inner">
+    <div class="feedback" id="check-hint" style="color:var(--ink-soft);font-size:13.5px;"></div>
+    <button class="btn-main" id="btn-check" disabled>COMPROBAR</button>
+  </div>
+</footer>
+
+<script>
+"use strict";
+/* ================= STATE ================= */
+const params = new URLSearchParams(location.search);
+const FILE = params.get("file");
+const MOD_ID = params.get("id");
+const XP_PER_OK = 10;
+const SESSION_SIZE = 10;   // ejercicios por sesión (del banco de ~30 del módulo)
+const REVIEW_SLOTS = 2;    // huecos de repaso de módulos anteriores (20% de la sesión)
+
+const store = {
+  key: "saimap-historia",
+  load(){ try { return JSON.parse(localStorage.getItem(this.key)) || {}; } catch { return {}; } },
+  save(d){ localStorage.setItem(this.key, JSON.stringify(d)); }
+};
+
+let exercises = [];
+let idx = 0;
+let hearts = 5;
+let sessionXP = 0;
+let checkFn = null;       // función que evalúa el ejercicio actual
+let currentSelection = null;
+
+const stage = document.getElementById("stage");
+const footer = document.getElementById("footer");
+const footerCheck = document.getElementById("footer-check");
+const btnCheck = document.getElementById("btn-check");
+const btnContinue = document.getElementById("btn-continue");
+const heartsEl = document.getElementById("hearts");
+
+document.getElementById("btn-quit").addEventListener("click", () => {
+  if (confirm("¿Salir de la lección? Perderás el progreso de esta sesión.")) location.href = "index.html";
+});
+
+/* ================= TEMA (claro / sepia / oscuro) ================= */
+const THEME_KEY = "saimap-teologia-theme";
+const THEMES = ["dark", "light", "sepia"];
+const THEME_ICON = { dark: "🌙", light: "☀️", sepia: "📜" };
+const btnTheme = document.getElementById("btn-theme");
+function syncThemeIcon(){
+  const cur = document.documentElement.getAttribute("data-theme") || "dark";
+  btnTheme.textContent = THEME_ICON[cur];
+}
+syncThemeIcon();
+btnTheme.addEventListener("click", () => {
+  const cur = document.documentElement.getAttribute("data-theme") || "dark";
+  const next = THEMES[(THEMES.indexOf(cur) + 1) % THEMES.length];
+  document.documentElement.setAttribute("data-theme", next);
+  localStorage.setItem(THEME_KEY, next);
+  syncThemeIcon();
+});
+
+/* ================= HELPERS ================= */
+function shuffle(arr){
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--){
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+function normalize(s){
+  return s.toLowerCase()
+    .replace(/[.,!?;:'"«»""''¿¡-]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+function updateProgress(){
+  document.getElementById("progress").style.width = ((idx / exercises.length) * 100) + "%";
+}
+function setCheckEnabled(on, hint){
+  btnCheck.disabled = !on;
+  document.getElementById("check-hint").textContent = hint || "";
+}
+
+/* ================= STATS (repaso espaciado) ================= */
+function recordStat(ex, ok){
+  if (!ex || !ex._id) return;
+  const d = store.load();
+  d.stats = d.stats || {};
+  const s = d.stats[ex._id] || { seen: 0, fails: 0, last: 0 };
+  s.seen++;
+  if (!ok) s.fails++;
+  s.last = Date.now();
+  d.stats[ex._id] = s;
+  store.save(d);
+}
+/* Prioridad de repaso: fallados > nunca vistos > más tiempo sin ver */
+function reviewScore(ex, stats){
+  const s = stats[ex._id];
+  if (!s) return 50;                                  // nunca visto
+  const days = (Date.now() - s.last) / 86400000;
+  return s.fails * 30 + Math.min(days, 30);           // cada fallo pesa como 30 días de olvido
+}
+
+/* ================= FEEDBACK FLOW ================= */
+function showFeedback(ok, detail){
+  recordStat(exercises[idx], ok);
+  footerCheck.style.display = "none";
+  footer.style.display = "block";
+  footer.className = ok ? "good" : "bad";
+  document.getElementById("feedback").innerHTML =
+    `<div class="verdict">${ok ? "¡Correcto! +"+XP_PER_OK+" XP" : "Incorrecto"}</div>
+     <div class="detail">${detail || ""}</div>`;
+  if (ok){ sessionXP += XP_PER_OK; }
+  else {
+    hearts--;
+    heartsEl.textContent = hearts;
+    if (hearts <= 0){ btnContinue.textContent = "VER RESULTADO"; }
+  }
+}
+btnContinue.addEventListener("click", () => {
+  footer.style.display = "none";
+  footerCheck.style.display = "block";
+  btnContinue.textContent = "CONTINUAR";
+  if (hearts <= 0) return endLesson(false);
+  idx++;
+  if (idx >= exercises.length) return endLesson(true);
+  renderExercise();
+});
+btnCheck.addEventListener("click", () => { if (checkFn) checkFn(); });
+
+/* ================= RENDERERS ================= */
+function renderExercise(){
+  updateProgress();
+  currentSelection = null;
+  checkFn = null;
+  setCheckEnabled(false, "");
+  const ex = exercises[idx];
+  stage.innerHTML = "";
+  ({ quiz: renderQuiz, gap: renderGap, wordbank: renderWordbank, match: renderMatch })[ex.type](ex);
+  if (ex._review){
+    const chip = document.createElement("div");
+    chip.className = "review-chip";
+    chip.textContent = "🔁 Repaso · " + ex._review;
+    stage.prepend(chip);
+  }
+}
+
+/* ---- QUIZ (3 opciones) ---- */
+function renderQuiz(ex){
+  stage.innerHTML = `<div class="exercise-title">${ex.q}</div>
+    ${ex.hint ? `<div class="exercise-sub">💡 ${ex.hint}</div>` : ""}
+    <div class="options" id="opts"></div>`;
+  const opts = document.getElementById("opts");
+  ex.options.forEach((o, i) => {
+    const b = document.createElement("button");
+    b.className = "opt";
+    b.textContent = o;
+    b.addEventListener("click", () => {
+      currentSelection = i;
+      opts.querySelectorAll(".opt").forEach(x => x.classList.remove("selected"));
+      b.classList.add("selected");
+      setCheckEnabled(true);
+    });
+    opts.appendChild(b);
+  });
+  checkFn = () => {
+    const ok = currentSelection === ex.correct;
+    opts.querySelectorAll(".opt").forEach((b, i) => {
+      b.disabled = true;
+      if (i === ex.correct) b.classList.add("reveal-good");
+      else if (i === currentSelection && !ok) b.classList.add("reveal-bad");
+    });
+    showFeedback(ok, ex.explanation);
+  };
+}
+
+/* ---- GAP (rellenar hueco) ---- */
+function renderGap(ex){
+  const parts = ex.text.split("___");
+  stage.innerHTML = `<div class="exercise-title">Completa el texto</div>
+    <div class="gap-sentence">${parts[0]}<span class="gap-hole" id="hole">&nbsp;</span>${parts[1] || ""}</div>
+    <div class="options" id="opts"></div>`;
+  const opts = document.getElementById("opts");
+  const hole = document.getElementById("hole");
+  shuffle(ex.options).forEach(o => {
+    const b = document.createElement("button");
+    b.className = "opt";
+    b.textContent = o;
+    b.addEventListener("click", () => {
+      currentSelection = o;
+      hole.textContent = o;
+      opts.querySelectorAll(".opt").forEach(x => x.classList.remove("selected"));
+      b.classList.add("selected");
+      setCheckEnabled(true);
+    });
+    opts.appendChild(b);
+  });
+  checkFn = () => {
+    const ok = currentSelection === ex.answer;
+    opts.querySelectorAll(".opt").forEach(b => {
+      b.disabled = true;
+      if (b.textContent === ex.answer) b.classList.add("reveal-good");
+      else if (b.textContent === currentSelection && !ok) b.classList.add("reveal-bad");
+    });
+    showFeedback(ok, ex.explanation);
+  };
+}
+
+/* ---- WORDBANK (banco de palabras) ---- */
+function renderWordbank(ex){
+  stage.innerHTML = `<div class="exercise-title">Reconstruye la frase</div>
+    <div class="exercise-sub" style="font-size:18px;color:var(--ink);font-weight:700;">«${ex.prompt}»</div>
+    <div class="wb-answer" id="wb-answer"></div>
+    <div class="wb-bank" id="wb-bank"></div>`;
+  const answerRow = document.getElementById("wb-answer");
+  const bank = document.getElementById("wb-bank");
+  const picked = []; // {word, bankBtn}
+
+  function refresh(){
+    setCheckEnabled(picked.length > 0, picked.length === 0 ? "Toca las fichas para reconstruir la frase." : "");
+  }
+  shuffle(ex.tiles).forEach(word => {
+    const b = document.createElement("button");
+    b.className = "tile";
+    b.textContent = word;
+    b.addEventListener("click", () => {
+      if (b.disabled) return;
+      b.disabled = true;
+      const chip = document.createElement("button");
+      chip.className = "tile";
+      chip.textContent = word;
+      chip.addEventListener("click", () => {
+        answerRow.removeChild(chip);
+        picked.splice(picked.findIndex(p => p.chip === chip), 1);
+        b.disabled = false;
+        refresh();
+      });
+      answerRow.appendChild(chip);
+      picked.push({ word, chip });
+      refresh();
+    });
+    bank.appendChild(b);
+  });
+  refresh();
+
+  checkFn = () => {
+    const attempt = normalize(picked.map(p => p.word).join(" "));
+    const ok = attempt === normalize(ex.answer);
+    document.querySelectorAll(".tile").forEach(t => t.disabled = true);
+    showFeedback(ok, (ok ? "" : `Respuesta correcta: <b>${ex.answer}</b>. `) + ex.explanation);
+  };
+}
+
+/* ---- MATCH (emparejar) ---- */
+function renderMatch(ex){
+  stage.innerHTML = `<div class="exercise-title">${ex.prompt}</div>
+    <div class="match-grid">
+      <div class="match-col" id="col-en"></div>
+      <div class="match-col" id="col-es"></div>
+    </div>`;
+  const colEn = document.getElementById("col-en");
+  const colEs = document.getElementById("col-es");
+  let selEn = null, selEs = null, matched = 0, fails = 0;
+
+  function tryMatch(){
+    if (!selEn || !selEs) return;
+    const pair = ex.pairs.find(p => p.en === selEn.dataset.v);
+    const good = pair && pair.es === selEs.dataset.v;
+    const a = selEn, b = selEs;
+    selEn = null; selEs = null;
+    if (good){
+      [a, b].forEach(t => { t.classList.remove("selected"); t.classList.add("matched"); t.disabled = true; });
+      matched++;
+      if (matched === ex.pairs.length){
+        // el ejercicio se resuelve solo al completar todas las parejas
+        const ok = fails === 0;
+        showFeedback(ok, ok ? "Todas las parejas a la primera." :
+          `Completado con ${fails} ${fails === 1 ? "fallo" : "fallos"}. Repasa el contenido de este tema.`);
+      }
+    } else {
+      fails++;
+      [a, b].forEach(t => { t.classList.add("shake"); setTimeout(() => { t.classList.remove("shake","selected"); }, 320); });
+    }
+  }
+  shuffle(ex.pairs.map(p => p.en)).forEach(v => {
+    const t = document.createElement("button");
+    t.className = "mtile"; t.textContent = v; t.dataset.v = v;
+    t.addEventListener("click", () => {
+      if (t.disabled) return;
+      colEn.querySelectorAll(".mtile").forEach(x => x.classList.remove("selected"));
+      t.classList.add("selected"); selEn = t; tryMatch();
+    });
+    colEn.appendChild(t);
+  });
+  shuffle(ex.pairs.map(p => p.es)).forEach(v => {
+    const t = document.createElement("button");
+    t.className = "mtile"; t.textContent = v; t.dataset.v = v;
+    t.addEventListener("click", () => {
+      if (t.disabled) return;
+      colEs.querySelectorAll(".mtile").forEach(x => x.classList.remove("selected"));
+      t.classList.add("selected"); selEs = t; tryMatch();
+    });
+    colEs.appendChild(t);
+  });
+  setCheckEnabled(false, "Empareja todos los elementos para continuar.");
+}
+
+/* ================= END ================= */
+function endLesson(passed){
+  footer.style.display = "none";
+  footerCheck.style.display = "none";
+  document.getElementById("progress").style.width = "100%";
+
+  const d = store.load();
+  d.xp = (d.xp || 0) + sessionXP;
+  d.hearts = hearts;
+  d.heartsDay = new Date().toISOString().slice(0,10);
+  const today = d.heartsDay;
+  if (passed){
+    d.completed = d.completed || [];
+    if (!d.completed.includes(MOD_ID)) d.completed.push(MOD_ID);
+    if (d.lastDay !== today){
+      const diff = d.lastDay ? (new Date(today) - new Date(d.lastDay)) / 86400000 : Infinity;
+      d.streak = (diff === 1) ? (d.streak || 0) + 1 : 1;
+      d.lastDay = today;
+    }
+  }
+  store.save(d);
+
+  stage.innerHTML = passed
+    ? `<div class="end-screen">
+        <div class="big">🎉</div>
+        <h2>¡Tema completado!</h2>
+        <p>Racha actual: 🔥 ${d.streak} ${d.streak === 1 ? "día" : "días"}</p>
+        <div class="end-xp">⚡ +${sessionXP} XP</div><br>
+        <button class="btn-main" onclick="location.href='index.html'">VOLVER AL MAPA</button>
+      </div>`
+    : `<div class="end-screen">
+        <div class="big">💔</div>
+        <h2>Te has quedado sin corazones</h2>
+        <p>Se regeneran cada día. Conservas ${sessionXP} XP de esta sesión.</p>
+        <button class="btn-main" onclick="location.href='index.html'">VOLVER AL MAPA</button>
+      </div>`;
+}
+
+/* ================= INIT ================= */
+(async function init(){
+  if (!FILE){ location.href = "index.html"; return; }
+  const d = store.load();
+  const today = new Date().toISOString().slice(0,10);
+  hearts = (d.heartsDay === today && typeof d.hearts === "number") ? d.hearts : 5;
+  heartsEl.textContent = hearts;
+  if (hearts <= 0){
+    stage.innerHTML = `<div class="end-screen"><div class="big">💔</div>
+      <h2>Sin corazones por hoy</h2><p>Vuelve mañana: se regeneran cada día.</p>
+      <button class="btn-main" onclick="location.href='index.html'">VOLVER AL MAPA</button></div>`;
+    footerCheck.style.display = "none";
+    return;
+  }
+  try {
+    /* 1) Banco del tema actual, con ids estables */
+    const res = await fetch("json/" + FILE);
+    const mod = await res.json();
+    const pool = mod.exercises.map((ex, i) => ({ ...ex, _id: `${MOD_ID}#${i}` }));
+    document.title = `Tema ${mod.module}: ${mod.title} — SAIMAP Historia del Cristianismo`;
+
+    const stats = d.stats || {};
+
+    /* 2) Banco de repaso: temas ya completados (aprendizaje continuado) */
+    let review = [];
+    const completed = (d.completed || []).filter(id => id !== MOD_ID);
+    if (completed.length){
+      try {
+        const course = await (await fetch("json/course.json")).json();
+        const sources = [];
+        course.levels.forEach(lvl => (lvl.modules || []).forEach(m => {
+          const id = `${lvl.code.toLowerCase()}-mod${String(m.n).padStart(2,"0")}`;
+          if (m.file && completed.includes(id)) sources.push({ id, n: m.n, file: m.file });
+        }));
+        const pools = await Promise.all(sources.map(async src => {
+          const mj = await (await fetch("json/" + src.file)).json();
+          return mj.exercises.map((ex, i) => ({ ...ex, _id: `${src.id}#${i}`, _review: `Tema ${src.n}` }));
+        }));
+        const all = shuffle(pools.flat()); // barajar antes de ordenar ⇒ los empates de prioridad se reparten entre temas
+        all.sort((a, b) => reviewScore(b, stats) - reviewScore(a, stats));
+        // pequeño azar entre los mejores candidatos para no repetir siempre los mismos
+        review = shuffle(all.slice(0, REVIEW_SLOTS * 3)).slice(0, REVIEW_SLOTS);
+      } catch { review = []; }
+    }
+
+    /* 3) Sesión: ejercicios nuevos priorizados (fallados > no vistos > antiguos) + repaso */
+    const newCount = SESSION_SIZE - review.length;
+    pool.sort((a, b) => reviewScore(b, stats) - reviewScore(a, stats));
+    const fresh = shuffle(pool.slice(0, Math.min(newCount + 4, pool.length))).slice(0, newCount);
+    exercises = shuffle([...fresh, ...review]);
+
+    renderExercise();
+  } catch {
+    stage.innerHTML = `<div class="end-screen"><h2>No se pudo cargar el tema</h2>
+      <p>Comprueba la conexión o vuelve al mapa.</p>
+      <button class="btn-main" onclick="location.href='index.html'">VOLVER</button></div>`;
+  }
+})();
+</script>
+</body>
+</html>

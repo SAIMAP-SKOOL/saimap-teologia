@@ -1,0 +1,28 @@
+{
+  "levels": [
+    {
+      "code": "1.1",
+      "name": "El Cristianismo Primitivo y la Iglesia Apostólica",
+      "sub": "1/12 temas · En curso",
+      "color": "#6B5B3E",
+      "modules": [
+        { "n": 1,  "title": "El Contexto Histórico, Político y Religioso de Judea", "es": "1 · Contexto de Judea", "file": "1.1/mod01.json" },
+        { "n": 2,  "title": "Pentecostés y la Primera Comunidad de Jerusalén", "es": "2 · Pentecostés" },
+        { "n": 3,  "title": "San Pablo, las Misiones Gentiles y el Concilio de Jerusalén", "es": "3 · San Pablo y Misiones" },
+        { "n": 4,  "title": "Las Persecuciones Imperiales y el Testimonio del Martirio", "es": "4 · Persecuciones y Martirio" },
+        { "n": 5,  "title": "La Vida en las Catacumbas, la Liturgia Primitiva y la Arqueología Cristiana", "es": "5 · Catacumbas y Liturgia" },
+        { "n": 6,  "title": "Los Padres Apostólicos y la Consolidación de la Tradición", "es": "6 · Padres Apostólicos" },
+        { "n": 7,  "title": "Las Primeras Herejías y la Defensa de la Ortodoxia Cristiana", "es": "7 · Herejías y Ortodoxia" },
+        { "n": 8,  "title": "Los Apologistas Griegos y Latinos", "es": "8 · Apologistas" },
+        { "n": 9,  "title": "La Formación del Canon del Nuevo Testamento", "es": "9 · Formación del Canon" },
+        { "n": 10, "title": "El Papel de las Mujeres en la Iglesia Primitiva", "es": "10 · Mujeres en la Iglesia" },
+        { "n": 11, "title": "La Escuela de Alejandría y los Orígenes de la Exégesis Bíblica", "es": "11 · Escuela de Alejandría" },
+        { "n": 12, "title": "La Estructura Jerárquica y el Desarrollo Eclesiástico", "es": "12 · Estructura Eclesiástica" }
+      ]
+    },
+    { "code": "1.2", "name": "Iglesia Imperial y Concilios",           "color": "#3E5B6B", "locked": true, "moduleCount": 12 },
+    { "code": "1.3", "name": "Cristianismo Medieval",                  "color": "#5B3E6B", "locked": true, "moduleCount": 12 },
+    { "code": "1.4", "name": "Reforma y Contrarreforma",               "color": "#6B3E4A", "locked": true, "moduleCount": 12 },
+    { "code": "1.5", "name": "Edad Moderna y Contemporánea",           "color": "#4A6B3E", "locked": true, "moduleCount": 12 }
+  ]
+}
