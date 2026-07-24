@@ -1,0 +1,243 @@
+{
+  "id": "1.1-mod05",
+  "module": 5,
+  "title": "La Vida en las Catacumbas, la Liturgia Primitiva y la Arqueología Cristiana",
+  "subtitle": "El testimonio funerario e iconográfico de la Iglesia clandestina",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Loculi", "es": "Nichos rectangulares excavados horizontalmente para los cuerpos amortajados" },
+        { "en": "Arcosolium", "es": "Nicho rematado por un arco, reservado a familias aristocráticas o mártires" },
+        { "en": "Refrigerium", "es": "Banquete funerario ritual sobre las tumbas, resignificado como oración de intercesión" },
+        { "en": "Fossores", "es": "Corporación de excavadores y sepultureros de las galerías subterráneas" },
+        { "en": "Coemeterium", "es": "«Dormitorio»: término griego adoptado para el cementerio, profesión de fe en la resurrección" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué motivo litúrgico impulsó a la Iglesia primitiva a trasladar el día de la fracción del pan del sábado al domingo?",
+      "options": ["La conmemoración pascual de la resurrección, ocurrida el primer día de la semana", "El decreto de Constantino que regulaba el descanso de la burocracia imperial", "La prohibición de las reuniones de las sinagogas"],
+      "correct": 0,
+      "hint": "El domingo se llamó «Kyriakē», el día del Señor.",
+      "explanation": "Desde la era apostólica, el domingo se autocomprendió como el día del Señor, reemplazando el reposo del sábado mosaico para celebrar el memorial eucarístico de la resurrección."
+    },
+    {
+      "type": "gap",
+      "text": "Los ___ son nichos rectangulares excavados horizontalmente para albergar los cuerpos amortajados.",
+      "options": ["loculi", "arcosolia", "cubicula"],
+      "answer": "loculi",
+      "explanation": "Los loculi eran los nichos funerarios más comunes, destinados a las clases populares de la comunidad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La fe en la resurrección corporal",
+      "tiles": ["Los", "cristianos", "duermen", "en", "espera", "de", "la", "resurrección", "mueren", "olvido"],
+      "answer": "Los cristianos duermen en espera de la resurrección",
+      "explanation": "El término coemeterium («dormitorio») proclamaba que la muerte biológica era un estado transitorio de sueño del que se despertaría en la resurrección."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué prescribe el capítulo 7 de la Didaché sobre el bautismo?",
+      "options": ["Bautizar en agua corriente en el nombre de la Trinidad, permitiendo verter agua si no hay agua viva", "Bautizar obligatoriamente solo a los niños recién nacidos", "Exigir la circuncisión previa del catecúmeno gentil"],
+      "correct": 0,
+      "hint": "Es el manual catequético más antiguo.",
+      "explanation": "La Didaché prefiere el bautismo por inmersión en agua corriente, pero autoriza la afusión (verter agua en la cabeza) en casos de necesidad o escasez de agua."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ era un nicho rematado por un arco, reservado a familias aristocráticas o mártires.",
+      "options": ["arcosolium", "loculus", "cubiculum"],
+      "answer": "arcosolium",
+      "explanation": "El arcosolium funcionaba como espacio de culto preferente para las celebraciones eucarísticas del aniversario del difunto."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada estructura con su significado teológico",
+      "pairs": [
+        { "en": "Loculus", "es": "La muerte como sueño transitorio en espera de la parusía" },
+        { "en": "Arcosolium", "es": "Espacio de culto preferente para las celebraciones eucarísticas del aniversario" },
+        { "en": "Cubiculum", "es": "Capilla litúrgica doméstica y familiar subterránea de conmemoración" },
+        { "en": "Martyrium", "es": "Eje geográfico del culto a las reliquias y comunión de los santos" },
+        { "en": "Ambulacrum", "es": "Pasillo estrecho tallado en toba volcánica que comunica las galerías" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La lápida del mártir (in pace)",
+      "tiles": ["Vive", "en", "paz", "junto", "a", "Dios", "muere", "solo"],
+      "answer": "Vive en paz junto a Dios",
+      "explanation": "Fórmulas epigráficas como esta atestiguan la paz bautismal que une a la comunidad más allá de la tumba."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué estructura sirvió de alojamiento para la liturgia antes de las basílicas constantinianas?",
+      "options": ["La domus ecclesiae, iglesia doméstica en viviendas privadas", "El templo pagano de la deidad imperial", "Las catacumbas subterráneas de Roma"],
+      "correct": 0,
+      "hint": "Un ejemplo arqueológico es Dura Europos.",
+      "explanation": "Antes de la paz de Constantino, las comunidades se reunían en casas privadas modificadas para albergar una sala de asamblea, un baptisterio y áreas de caridad."
+    },
+    {
+      "type": "gap",
+      "text": "Los ___ eran la corporación de excavadores encargados de las galerías subterráneas.",
+      "options": ["fossores", "presbyteroi", "diakonoi"],
+      "answer": "fossores",
+      "explanation": "Los fossores poseían conocimientos de ingeniería civil para perforar la toba volcánica sin provocar derrumbes."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué práctica ritual en las catacumbas simbolizaba la comunión entre vivos y difuntos?",
+      "options": ["El refrigerium o banquete conmemorativo sobre las tumbas de los mártires", "La inmolación de animales al estilo levítico", "La cremación de los cuerpos"],
+      "correct": 0,
+      "hint": "Se celebraba con vino y comida sobre la tumba.",
+      "explanation": "El refrigerium era una comida ritual de comunión interpretada cristianamente como afirmación de la comunión de los santos y la resurrección final de la carne."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ era el banquete funerario ritual celebrado sobre las tumbas de los difuntos.",
+      "options": ["refrigerium", "kerygma", "agape"],
+      "answer": "refrigerium",
+      "explanation": "Los cristianos transformaron esta práctica pagana en un acto de comunión espiritual y solidaridad caritativa con los pobres."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El acróstico del pez",
+      "tiles": ["Jesucristo", "Hijo", "de", "Dios", "Salvador", "Rey", "Profeta"],
+      "answer": "Jesucristo Hijo de Dios Salvador",
+      "explanation": "El acrónimo griego ichthys (pez) condensaba las dos naturalezas de Cristo y su función soteriológica en un símbolo clandestino."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué los cristianos primitivos exigían la inhumación del cuerpo en vez de la incineración pagana?",
+      "options": ["Por su fe en la resurrección física de los cuerpos a imitación del sepulcro vacío de Cristo", "Por razones de higiene pública en las densas urbes", "Por seguir la costumbre funeraria de la aristocracia romana"],
+      "correct": 0,
+      "hint": "Los paganos preferían la cremación.",
+      "explanation": "La comunidad cristiana fundamentó la inhumación corporal en su fe inquebrantable en la resurrección física, frente a la cremación mayoritaria del mundo grecorromano."
+    },
+    {
+      "type": "gap",
+      "text": "Los cristianos llamaron a sus cementerios ___ («dormitorio»), en profesión de fe en la resurrección.",
+      "options": ["koimeterion", "necropolis", "mausoleum"],
+      "answer": "koimeterion",
+      "explanation": "Frente al término pagano necropolis («ciudad de los muertos»), los cristianos eligieron un vocablo que proclamaba la muerte como un sueño transitorio."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada símbolo con su significado",
+      "pairs": [
+        { "en": "Ichthys (pez)", "es": "Acrónimo griego de «Jesucristo, Hijo de Dios, Salvador»" },
+        { "en": "Ancla", "es": "Símbolo de la esperanza salvífica" },
+        { "en": "Pavo real", "es": "Símbolo de la inmortalidad del alma" },
+        { "en": "Crismón", "es": "Monograma de Cristo" },
+        { "en": "Buen Pastor", "es": "Cristo como el pastor que busca a la oveja perdida" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué significa el término griego «ichthys» tallado en las catacumbas del siglo II?",
+      "options": ["Acrónimo de «Jesucristo, Hijo de Dios, Salvador»", "El nombre del primer obispo de Roma", "Una fórmula de saludo entre fossores"],
+      "correct": 0,
+      "hint": "Significa literalmente «pez».",
+      "explanation": "El acrónimo griego ichthys condensaba las dos naturalezas de Cristo y su función soteriológica universal en un símbolo clandestino y portátil."
+    },
+    {
+      "type": "gap",
+      "text": "El acróstico griego ___ condensaba el título «Jesucristo, Hijo de Dios, Salvador».",
+      "options": ["ichthys", "crismón", "ancla"],
+      "answer": "ichthys",
+      "explanation": "Este símbolo permitía formular de manera condensada y portátil la profesión de fe cristológica frente a la religión imperial pagana."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La resignificación del Buen Pastor",
+      "tiles": ["Cristo", "busca", "a", "la", "oveja", "perdida", "abandona", "castiga"],
+      "answer": "Cristo busca a la oveja perdida",
+      "explanation": "Los pintores cristianos transformaron a Hermes Crióforo y a Orfeo en el icono del pastor que busca a la oveja perdida."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué escenas del Antiguo Testamento se repetían en los frescos de las catacumbas como prefiguración de la resurrección?",
+      "options": ["Jonás saliendo del pez, Daniel en el foso de los leones y los tres jóvenes en el horno", "El diluvio universal y el arca de Noé", "La entrega de la ley a Moisés en el Sinaí"],
+      "correct": 0,
+      "hint": "Son tres escenas de liberación milagrosa.",
+      "explanation": "Estas escenas funcionaban como oraciones visuales que reforzaban la esperanza de la salvación de la carne y el triunfo sobre la muerte corporal."
+    },
+    {
+      "type": "gap",
+      "text": "___, Domitila y Lucina donaron sus propiedades para el enterramiento de los cristianos.",
+      "options": ["Priscila", "Perpetua", "Blandina"],
+      "answer": "Priscila",
+      "explanation": "Estas aristócratas romanas convertidas al cristianismo donaron sus propiedades suburbanas en las vías Appia, Salaria y Ardeatina."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jonás como figura de la resurrección",
+      "tiles": ["Jonás", "salió", "del", "vientre", "del", "pez", "mar", "barco"],
+      "answer": "Jonás salió del vientre del pez",
+      "explanation": "Jonás saliendo del vientre del gran pez al cabo de tres días era una de las prefiguraciones bíblicas más repetidas en las bóvedas de las catacumbas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Bajo qué papa el diácono Calixto organizó el cementerio oficial de la sede romana en la Vía Appia?",
+      "options": ["Ceferino", "Dámaso I", "Fabián"],
+      "correct": 0,
+      "hint": "Esto dio origen a las catacumbas de San Calixto.",
+      "explanation": "El obispo de Roma Ceferino encomendó al diácono Calixto la administración unificada de las principales catacumbas de la Vía Appia."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ I mandó inscribir epigráficamente las tumbas de los mártires tras la paz de Constantino.",
+      "options": ["Dámaso", "Ceferino", "Fabián"],
+      "answer": "Dámaso",
+      "explanation": "Dámaso I abrió nuevos accesos y compuso epigramas en latín clásico tallados por el calígrafo Filócalo para ornamentar las criptas de los mártires."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La liturgia sobre las reliquias",
+      "tiles": ["El", "altar", "se", "alza", "sobre", "el", "mártir", "suelo", "templo"],
+      "answer": "El altar se alza sobre el mártir",
+      "explanation": "La mesa del altar se colocaba sobre la losa que sellaba la sepultura del mártir, origen de la tradición de colocar reliquias en los altares."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada persona con su papel en la historia de las catacumbas",
+      "pairs": [
+        { "en": "Priscila, Domitila y Lucina", "es": "Aristócratas romanas que donaron sus propiedades para las catacumbas" },
+        { "en": "Calixto", "es": "Diácono que organizó el cementerio oficial de la sede romana" },
+        { "en": "Dámaso I", "es": "Papa que identificó e inscribió epigráficamente las tumbas de los mártires" },
+        { "en": "Antonio Bosio", "es": "Redescubridor de las catacumbas en el siglo XVI (Roma Sotterranea)" },
+        { "en": "Giovanni Battista de Rossi", "es": "Fundador de la arqueología cristiana científica en el siglo XIX" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué figura del arte pagano fue transformada por los cristianos en el icono del Buen Pastor?",
+      "options": ["Hermes Crióforo y Orfeo, que amansa a las fieras con su lira", "Zeus entronizado con el rayo", "Venus surgiendo del mar"],
+      "correct": 0,
+      "hint": "Orfeo pacificaba a los animales con su música.",
+      "explanation": "Clemente de Alejandría presentó a Cristo como el verdadero Orfeo divino que pacifica las almas mediante la melodía del Espíritu Santo."
+    },
+    {
+      "type": "gap",
+      "text": "___ redescubrió científicamente las catacumbas en el siglo XVI con su obra «Roma Sotterranea».",
+      "options": ["Antonio Bosio", "Giovanni Battista de Rossi", "César Baronio"],
+      "answer": "Antonio Bosio",
+      "explanation": "Antonio Bosio, considerado el pionero Colón de las catacumbas, redescubrió las galerías tras siglos de olvido secular."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El bautismo en la vigilia pascual",
+      "tiles": ["El", "bautizado", "muere", "y", "renace", "con", "Cristo", "vive", "duerme"],
+      "answer": "El bautizado muere y renace con Cristo",
+      "explanation": "La liturgia de la iniciación acentuaba la analogía sacramental de morir con Cristo descendiendo al agua para renacer a la luz del Espíritu."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La caridad funeraria de la Iglesia",
+      "tiles": ["La", "Iglesia", "entierra", "a", "ricos", "y", "pobres", "solo", "nunca"],
+      "answer": "La Iglesia entierra a ricos y pobres",
+      "explanation": "Acólitos, lectores y fossores aseguraban la inhumación ordenada de todos los creyentes sin distinción de riqueza, asumiendo la Iglesia los costes de los entierros de huérfanos y viudas."
+    }
+  ]
+}

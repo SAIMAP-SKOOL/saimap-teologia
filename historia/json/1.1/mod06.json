@@ -1,0 +1,243 @@
+{
+  "id": "1.1-mod06",
+  "module": 6,
+  "title": "Los Padres Apostólicos y la Consolidación de la Tradición",
+  "subtitle": "De Clemente de Roma a Policarpo de Esmirna",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Episkopos", "es": "Supervisor helénico adoptado para el obispo, cabeza pastoral de la comunidad" },
+        { "en": "Presbyteros", "es": "Anciano judío, asimilado para los presbíteros subordinados al obispo" },
+        { "en": "Traditio", "es": "Entrega fiel y viva del depósito de la fe recibido de los apóstoles" },
+        { "en": "Didache", "es": "Primer manual de catequesis, liturgia y disciplina eclesiástica del siglo I" },
+        { "en": "Katholike", "es": "«Universal»: término acuñado por Ignacio para la unidad orgánica de la Iglesia" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el valor teológico-canónico de la Primera Epístola de Clemente a los Corintios (ca. 96 d.C.)?",
+      "options": ["Es el primer testimonio del ejercicio del primado de la sede romana, fundamentando la sucesión apostólica", "Define por vez primera el dogma de la inmortalidad del alma", "Aprueba la praxis del rebautismo de los clérigos cismáticos"],
+      "correct": 0,
+      "hint": "Restituye a unos presbíteros depuestos injustamente en Corinto.",
+      "explanation": "Clemente argumenta jurídicamente que la jerarquía eclesial fue establecida por los apóstoles bajo el orden del Espíritu, sentando las bases de la sucesión episcopal."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ era el supervisor o inspector, adoptado por la Iglesia para designar al obispo.",
+      "options": ["episkopos", "presbyteros", "diakonos"],
+      "answer": "episkopos",
+      "explanation": "El término griego episkopos designaba originalmente a los inspectores civiles de las asociaciones helénicas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La fórmula del episcopado (Ignacio a los Esmirniotas)",
+      "tiles": ["Donde", "está", "el", "obispo", "allí", "está", "la", "Iglesia", "pueblo", "César"],
+      "answer": "Donde está el obispo allí está la Iglesia",
+      "explanation": "Ignacio consagró al obispo local como cabeza absoluta de la comunidad sacramental y custodio supremo del dogma ortodoxo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué tesis eclesiológica defiende Ignacio de Antioquía contra el docetismo?",
+      "options": ["El afianzamiento del episcopado monárquico: nada debe hacerse sin la obediencia al obispo local", "El rechazo del bautismo trinitario y la primacía del carismatismo libre", "La subordinación del obispo a los profetas itinerantes"],
+      "correct": 0,
+      "hint": "Para Ignacio el obispo representa al Padre divino.",
+      "explanation": "Ignacio consagró la estructura jerárquica tripartita: el obispo local representa a Cristo y es el garante del culto del altar y de la ortodoxia frente a las asambleas de los herejes docetas."
+    },
+    {
+      "type": "gap",
+      "text": "Los ___ eran los ancianos judíos, asimilados para los sacerdotes subordinados al obispo.",
+      "options": ["presbyteros", "episkopos", "katholike"],
+      "answer": "presbyteros",
+      "explanation": "El término presbyteros, de origen judío, significa «anciano» o «miembro del consejo»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada Padre Apostólico con su obra clave",
+      "pairs": [
+        { "en": "Clemente de Roma", "es": "Epístola a los Corintios (I Clementis)" },
+        { "en": "Ignacio de Antioquía", "es": "Siete cartas a las iglesias de Asia Menor" },
+        { "en": "Policarpo de Esmirna", "es": "Epístola a los Filipenses y carta de martirio" },
+        { "en": "Autor anónimo", "es": "La Didaché, enseñanza de los doce apóstoles" },
+        { "en": "Hermas", "es": "El Pastor, sobre la segunda penitencia posbautismal" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El deseo martirial de Ignacio",
+      "tiles": ["Soy", "el", "trigo", "de", "Dios", "pan", "vino"],
+      "answer": "Soy el trigo de Dios",
+      "explanation": "Ignacio concebía su suplicio físico como el bautismo definitivo que confirmaría su discipulado."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué método hermenéutico emplea la Epístola de Bernabé para interpretar el Antiguo Testamento?",
+      "options": ["Una hermenéutica alegórica y tipológica radical, acusando a los judíos de leer la ley literalmente", "Defiende la vigencia literal de la circuncisión y el templo", "Armoniza la ley mosaica con la filosofía estoica de Séneca"],
+      "correct": 0,
+      "hint": "Sostiene que los judíos malinterpretaron la ley.",
+      "explanation": "El autor de Bernabé sostiene que los preceptos del Levítico poseían un sentido espiritual y moral profético que se cumple en Cristo."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la entrega fiel y viva del depósito de la fe recibido de los apóstoles.",
+      "options": ["traditio", "apologia", "halajá"],
+      "answer": "traditio",
+      "explanation": "Los Padres Apostólicos elevaron este concepto jurídico romano a la transmisión fiel, viva y unificada del depósito de la fe bajo la asistencia del Espíritu Santo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué doctrina penitencial propone «El Pastor» de Hermas?",
+      "options": ["Una única segunda penitencia posbautismal para el perdón de los pecados graves", "La condenación irrevocable de todo pecado grave posbautismal", "La absolución automática de los lapsi sin penitencia pública"],
+      "correct": 0,
+      "hint": "Se la llamó la «segunda tabla de salvación».",
+      "explanation": "Frente al rigorismo que negaba la reconciliación del adulterio o la apostasía, Hermas recibió una revelación que abría una sola oportunidad de penitencia pública."
+    },
+    {
+      "type": "gap",
+      "text": "Clemente de Roma escribió a la comunidad de ___ hacia el año 96 d.C. para restaurar el orden jerárquico.",
+      "options": ["Corinto", "Éfeso", "Antioquía"],
+      "answer": "Corinto",
+      "explanation": "Un grupo de presbíteros ambiciosos había depuesto a los ancianos constituidos por los apóstoles, provocando un grave escándalo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La sucesión apostólica según Clemente",
+      "tiles": ["Otros", "hombres", "aprobados", "les", "sucederán", "elegidos", "rechazados"],
+      "answer": "Otros hombres aprobados les sucederán",
+      "explanation": "Clemente argumentó que los apóstoles instituyeron obispos y diáconos y ordenaron que otros hombres aprobados les sucedieran en el ministerio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué comunidad motivó la intervención epistolar de Clemente de Roma hacia el año 96 d.C.?",
+      "options": ["Corinto, donde jóvenes presbíteros depusieron ilegítimamente a los ancianos", "Antioquía, donde Ignacio fue arrestado", "Esmirna, donde Policarpo fue martirizado"],
+      "correct": 0,
+      "hint": "Fue un grave escándalo moral en la diáspora.",
+      "explanation": "Un grupo de presbíteros ambiciosos de la comunidad corintia había depuesto de forma ilegítima a los ancianos constituidos por los apóstoles."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Antioquía fue trasladado bajo custodia militar a Roma, escribiendo siete cartas por el camino.",
+      "options": ["Ignacio", "Policarpo", "Clemente"],
+      "answer": "Ignacio",
+      "explanation": "En sus siete cartas a las iglesias de Asia Menor, Ignacio delimitó el esquema jerárquico monárquico y trinitario del episcopado."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada Padre con el desvío doctrinal que combatió",
+      "pairs": [
+        { "en": "Clemente de Roma", "es": "Rebelión de presbíteros y desorden cívico en Corinto" },
+        { "en": "Ignacio de Antioquía", "es": "Docetismo desmaterializador gnóstico" },
+        { "en": "Policarpo de Esmirna", "es": "Gnosticismo de Marción y relativismo moral" },
+        { "en": "Autor de la Didaché", "es": "Falsos profetas itinerantes carismáticos" },
+        { "en": "Autor de la Epístola de Bernabé", "es": "Interpretación literal judía de la Torá" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La unidad del altar (Ignacio a los Filadelfios)",
+      "tiles": ["Hay", "un", "solo", "cáliz", "de", "comunión", "dos", "tres"],
+      "answer": "Hay un solo cáliz de comunión",
+      "explanation": "Ignacio dogmatizó que hay una sola carne de Jesucristo, un solo cáliz de comunión y un solo obispo en unión con su presbiterio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién fue discípulo directo de Juan el Evangelista y maestro de Ireneo de Lyon?",
+      "options": ["Policarpo de Esmirna", "Clemente de Roma", "Ignacio de Antioquía"],
+      "correct": 0,
+      "hint": "Ireneo evocó sus recuerdos de infancia en una carta a Florino.",
+      "explanation": "Policarpo personificó la autenticidad ininterrumpida de la tradición subapostólica, siendo el puente vivo entre los apóstoles y la Iglesia del siglo II."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ estructura la catequesis en torno a la tipología de los dos caminos: el de la vida y el de la muerte.",
+      "options": ["Didaché", "Epístola de Bernabé", "Pastor de Hermas"],
+      "answer": "Didaché",
+      "explanation": "Esta exégesis catequética adaptaba el decálogo veterotestamentario al dinamismo de la moral evangélica antes del bautismo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los dos caminos de la Didaché",
+      "tiles": ["Hay", "dos", "caminos", "uno", "de", "vida", "tres", "muerte"],
+      "answer": "Hay dos caminos uno de vida",
+      "explanation": "La Didaché presenta a los catecúmenos un marco ético riguroso antes de acceder al bautismo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué expresión griega acuñó Ignacio de Antioquía para designar la universalidad de la Iglesia?",
+      "options": ["Katholike ekklesia (Iglesia católica)", "Ekklesia tou Theou (Iglesia de Dios)", "Basileia tou Theou (Reino de Dios)"],
+      "correct": 0,
+      "hint": "Aparece en su carta a los Esmirniotas.",
+      "explanation": "Ignacio elevó el vocablo katholikos, que denotaba lo universal en la filosofía clásica, para designar la unidad orgánica de todas las comunidades bajo el señorío de Cristo."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Esmirna fue discípulo directo del apóstol Juan y maestro de Ireneo de Lyon.",
+      "options": ["Policarpo", "Clemente", "Ignacio"],
+      "answer": "Policarpo",
+      "explanation": "Como discípulo directo de Juan el Evangelista, Policarpo personificó la autenticidad ininterrumpida de la tradición subapostólica en Asia Menor."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La condena a Marción",
+      "tiles": ["Marción", "es", "el", "primogénito", "de", "Satanás", "hijo", "ángel"],
+      "answer": "Marción es el primogénito de Satanás",
+      "explanation": "Policarpo calificó así a Marción en su célebre encuentro personal en Roma, consagrándose a refutar esta herejía gnóstica."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada concepto o doctrina con su autor",
+      "pairs": [
+        { "en": "Sucesión apostólica", "es": "Doctrina de Clemente de Roma sobre la transmisión legítima del episcopado" },
+        { "en": "Episcopado monárquico", "es": "Doctrina de Ignacio: obispo, presbiterio y diáconos como orden trinitario" },
+        { "en": "Segunda penitencia", "es": "Doctrina del Pastor de Hermas para pecados graves posbautismales" },
+        { "en": "Los dos caminos", "es": "Tipología moral de la Didaché: el camino de la vida y el de la muerte" },
+        { "en": "Hermenéutica alegórica", "es": "Método de la Epístola de Bernabé para interpretar la Torá" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué días de la semana prescribe la Didaché para el ayuno cristiano, diferenciándose de los hipócritas?",
+      "options": ["Miércoles y viernes", "Lunes y jueves", "Sábado y domingo"],
+      "correct": 0,
+      "hint": "También insta a recitar el Padre Nuestro tres veces al día.",
+      "explanation": "Estas directrices rituales estructuraron el tiempo cotidiano de los fieles subapostólicos, proporcionando una marca de identidad frente al entorno pagano."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ propuso una única segunda penitencia posbautismal para los pecados graves.",
+      "options": ["Pastor de Hermas", "Didaché", "I Clementis"],
+      "answer": "Pastor de Hermas",
+      "explanation": "Frente a la corriente rigorista, Hermas defendió una única oportunidad de arrepentimiento tras el bautismo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La Iglesia católica (Ignacio a los Esmirniotas)",
+      "tiles": ["Allí", "donde", "está", "Cristo", "está", "la", "Iglesia", "César", "templo"],
+      "answer": "Allí donde está Cristo está la Iglesia",
+      "explanation": "Ignacio elevó el vocablo katholikos para designar la plenitud y unidad orgánica de todas las comunidades locales bajo el señorío de Cristo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué herejía calificó Policarpo de Esmirna como «el primogénito de Satanás» en su encuentro personal en Roma?",
+      "options": ["Marción", "Arrio", "Pelagio"],
+      "correct": 0,
+      "hint": "Rechazaba el Antiguo Testamento como obra de un demiurgo inferior.",
+      "explanation": "Policarpo se consagró a refutar el gnosticismo marcionita mediante la defensa del canon de la Escritura y la tradición apostólica."
+    },
+    {
+      "type": "gap",
+      "text": "La Epístola de ___ interpreta la Torá con una hermenéutica alegórica radical.",
+      "options": ["Bernabé", "Clemente", "Policarpo"],
+      "answer": "Bernabé",
+      "explanation": "El redactor argumentó que la circuncisión carnal y los sacrificios de animales eran desviaciones idolátricas debidas a una incomprensión espiritual de la ley."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El discernimiento de los falsos profetas (Didaché)",
+      "tiles": ["El", "que", "pide", "dinero", "es", "un", "falso", "profeta", "verdadero", "apóstol"],
+      "answer": "El que pide dinero es un falso profeta",
+      "explanation": "La Didaché dictamina que los profetas que piden bienes materiales en el Espíritu son charlatanes de conveniencia."
+    }
+  ]
+}

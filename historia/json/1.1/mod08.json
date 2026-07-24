@@ -1,0 +1,243 @@
+{
+  "id": "1.1-mod08",
+  "module": 8,
+  "title": "Los Apologistas Griegos y Latinos",
+  "subtitle": "El diálogo entre la fe y la razón en el siglo II",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Apologia", "es": "Discurso judicial de defensa, adoptado por los cristianos ante el emperador" },
+        { "en": "Logos", "es": "Razón creadora y Palabra divina, unió el platonismo con la cristología de Juan" },
+        { "en": "Fideismus", "es": "Rechazo del valor de la filosofía y la razón para justificar la fe" },
+        { "en": "Ancilla Fidei", "es": "La filosofía clásica como sirvienta subordinada de las verdades de la fe" },
+        { "en": "Pax Deorum", "es": "Orden ritual romano cuyo incumplimiento se consideraba causa de desgracias civiles" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué tesis formuló Justino Mártir con el concepto de «Logos Spermatikos»?",
+      "options": ["Que toda verdad expresada por filósofos clásicos era una iluminación parcial del único Logos encarnado en Cristo", "Que los filósofos paganos eran adoradores conscientes de los ídolos del césar", "Que rechazaba por completo el uso de la filosofía clásica"],
+      "correct": 0,
+      "hint": "Consideraba a Sócrates y Platón «cristianos implícitos».",
+      "explanation": "Justino defendió que pensadores como Sócrates o Platón, al vivir conforme al Logos, eran iluminados por la luz previa de la revelación que se consumó en Jesucristo."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es el discurso judicial de defensa que los cristianos adoptaron ante el emperador y el Senado.",
+      "options": ["apologia", "heresis", "traditio"],
+      "answer": "apologia",
+      "explanation": "Los apologistas adoptaron este ropaje forense para presentarse ante las autoridades imperiales como ciudadanos formados, no como suplicantes desvalidos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La pregunta de Tertuliano",
+      "tiles": ["Qué", "tiene", "que", "ver", "Atenas", "con", "Jerusalén", "Roma", "César"],
+      "answer": "Qué tiene que ver Atenas con Jerusalén",
+      "explanation": "Esta célebre interrogación expresaba el fideísmo beligerante de Tertuliano, que exigía la sumisión absoluta al depósito de la Revelación."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué postura defendió Tertuliano en «De Praescriptione Haereticorum» frente al uso de la filosofía?",
+      "options": ["Rechazó la filosofía clásica como caldo de cultivo de las herejías, contraponiendo Atenas a Jerusalén", "Abogó por la plena asimilación del platonismo en las escuelas diocesanas", "Apoyó la exégesis de las semillas del Verbo griegas"],
+      "correct": 0,
+      "hint": "Es la postura opuesta a la de Justino.",
+      "explanation": "Tertuliano denunció que las escuelas filosóficas neoplatónicas adulteraban la pureza de la revelación bíblica, exigiendo un retorno radical a la Regla de Fe."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es la Razón creadora y Palabra divina que unió el platonismo con la cristología de Juan.",
+      "options": ["Logos", "Pleroma", "Demiurgo"],
+      "answer": "Logos",
+      "explanation": "Este concepto griego permitió a los apologistas tender un puente entre la metafísica clásica y el evangelio de Juan."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada apologista con su concepto teológico clave",
+      "pairs": [
+        { "en": "Justino Mártir", "es": "Semillas del Verbo (Logos Spermatikos)" },
+        { "en": "Atenágoras", "es": "Refutación forense de las tres calumnias" },
+        { "en": "Tertuliano", "es": "Trinidad (Trinitas) y persona" },
+        { "en": "Minucio Félix", "es": "Racionalidad cívica (diálogo Octavius)" },
+        { "en": "Teófilo de Antioquía", "es": "Deconstrucción racional de los mitos de Homero y Hesíodo" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El Logos Spermatikos de Justino",
+      "tiles": ["Toda", "verdad", "procede", "del", "único", "Logos", "mentira", "muchos"],
+      "answer": "Toda verdad procede del único Logos",
+      "explanation": "Justino afirmó que toda porción de verdad en la filosofía clásica procedía de la iluminación parcial del mismo Logos que se encarnó en Cristo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué estrategia empleó Atenágoras en su «Presbeia» dedicada a Marco Aurelio?",
+      "options": ["Refutó lógicamente las calumnias de ateísmo, canibalismo e incesto", "Desafió militarmente a las legiones romanas", "Rechazó la validez de la sucesión apostólica"],
+      "correct": 0,
+      "hint": "Las calumnias se llamaban «banquetes tiesteos» y «uniones edípicas».",
+      "explanation": "Atenágoras demostró que una comunidad que prohibía el aborto y defendía la castidad era incapaz de cometer crímenes de sangre o incesto sacramental."
+    },
+    {
+      "type": "gap",
+      "text": "La filosofía como ___ describe su papel de sirvienta subordinada a las verdades de la fe.",
+      "options": ["ancilla fidei", "regula fidei", "pax deorum"],
+      "answer": "ancilla fidei",
+      "explanation": "La razón iluminada por la gracia permitía profundizar en el misterio dogmático revelado, sin sustituir a la Revelación."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué argumento expone el personaje pagano Cecilio en el «Octavius» de Minucio Félix?",
+      "options": ["Un escepticismo pragmático que aconseja conservar los cultos tradicionales por la estabilidad del Imperio", "Una sólida metafísica monoteísta basada en el platonismo", "La exigencia de someterse a la circuncisión de Judea"],
+      "correct": 0,
+      "hint": "Encarna a la élite patricia senatorial pagana.",
+      "explanation": "Cecilio argumenta que la verdad última sobre los dioses es inalcanzable, por lo que el ciudadano debe venerar los ritos cívicos tradicionales de la pax deorum."
+    },
+    {
+      "type": "gap",
+      "text": "Los romanos justificaban la persecución alegando que los cristianos atentaban contra la ___.",
+      "options": ["pax deorum", "pax romana", "lex talionis"],
+      "answer": "pax deorum",
+      "explanation": "Para el ciudadano romano medio, la prosperidad del Imperio dependía del cumplimiento estricto de los ritos de sacrificio público a los dioses."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La fórmula trinitaria de Tertuliano",
+      "tiles": ["Una", "sola", "sustancia", "en", "tres", "personas", "dos", "cuatro"],
+      "answer": "Una sola sustancia en tres personas",
+      "explanation": "Tertuliano acuñó los conceptos de Trinitas, substantia y persona para formular la paradoja de la unidad y distinción divina."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué términos latinos acuñó Tertuliano en «Adversus Praxean» para formular el dogma trinitario?",
+      "options": ["Trinitas, substantia y persona", "Kerygma, koinonia y leitourgia", "Ancilla fidei y logos spermatikos"],
+      "correct": 0,
+      "hint": "Combatía el modalismo de Praxeas.",
+      "explanation": "Este andamiaje conceptual permitió a la Iglesia latina formular que Dios es una sola sustancia que subsiste en tres personas distintas."
+    },
+    {
+      "type": "gap",
+      "text": "___ Mártir formuló la teología del Logos Spermatikos o semillas del Verbo.",
+      "options": ["Justino", "Atenágoras", "Tertuliano"],
+      "answer": "Justino",
+      "explanation": "Justino no abandonó su manto de filósofo al convertirse, sino que lo vistió con orgullo para fundar una escuela teológica en Roma."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada apologista con su idioma y sede",
+      "pairs": [
+        { "en": "Justino Mártir", "es": "Griego, escuela de filosofía en Roma" },
+        { "en": "Atenágoras", "es": "Griego, Atenas" },
+        { "en": "Tertuliano", "es": "Latín, Cartago" },
+        { "en": "Minucio Félix", "es": "Latín, Roma" },
+        { "en": "Melitón de Sardes", "es": "Griego, memorial de defensa a los Antoninos" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La filosofía sirvienta de la fe",
+      "tiles": ["La", "filosofía", "es", "sierva", "de", "la", "fe", "dueña", "reina"],
+      "answer": "La filosofía es sierva de la fe",
+      "explanation": "Justino y sus sucesores establecieron que el uso de la razón natural no era enemigo de la Revelación, sino una preparación propedéutica."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué apologista escribió el tratado «Sobre la resurrección de los muertos» defendiendo la restauración física del cuerpo?",
+      "options": ["Atenágoras de Atenas", "Tertuliano de Cartago", "Melitón de Sardes"],
+      "correct": 0,
+      "hint": "Aplicó la lógica estoica.",
+      "explanation": "Atenágoras adujo que la justicia divina y la unidad ontológica del ser humano exigen que tanto el alma como el cuerpo sean recompensados eternamente."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Cartago preguntó: «¿Qué tiene que ver Atenas con Jerusalén?».",
+      "options": ["Tertuliano", "Justino", "Minucio Félix"],
+      "answer": "Tertuliano",
+      "explanation": "Esta pregunta retórica expresaba su rechazo visceral al sincretismo helenista y su fideísmo beligerante."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La defensa de Atenágoras",
+      "tiles": ["Los", "cristianos", "no", "cometen", "crímenes", "de", "sangre", "siempre", "aman"],
+      "answer": "Los cristianos no cometen crímenes de sangre",
+      "explanation": "Atenágoras demostró que la elevada ética cristiana era incompatible con las atrocidades morales imputadas por sus delatores paganos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué manto conservó Justino Mártir tras su conversión, al fundar su escuela teológica en Roma?",
+      "options": ["El manto del filósofo clásico (pallium)", "La toga senatorial romana", "El manto sacerdotal levítico"],
+      "correct": 0,
+      "hint": "Es el mismo manto que vestían los filósofos griegos.",
+      "explanation": "Justino no abandonó su condición de filósofo, sino que la vistió con orgullo, demostrando que la fe era la culminación del pensamiento clásico."
+    },
+    {
+      "type": "gap",
+      "text": "___ refutó en su «Presbeia» las calumnias de canibalismo e incesto ante Marco Aurelio.",
+      "options": ["Atenágoras", "Teófilo", "Melitón"],
+      "answer": "Atenágoras",
+      "explanation": "Con elegancia y rigor conceptual, Atenágoras demostró que la ética cristiana era incompatible con las atrocidades imputadas por los delatores paganos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El manto del filósofo",
+      "tiles": ["Justino", "vistió", "el", "manto", "del", "filósofo", "abandonó", "togado"],
+      "answer": "Justino vistió el manto del filósofo",
+      "explanation": "Al convertirse, Justino demostró que la fe no constituía una abdicación de la inteligencia, sino la culminación del pensamiento clásico."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada frase o estrategia con su autor",
+      "pairs": [
+        { "en": "«¿Qué tiene que ver Atenas con Jerusalén?»", "es": "Tertuliano" },
+        { "en": "«Semillas del Verbo» (Logos Spermatikos)", "es": "Justino Mártir" },
+        { "en": "Refutación de las tres calumnias vulgares", "es": "Atenágoras" },
+        { "en": "El diálogo entre Cecilio y Octavio", "es": "Minucio Félix" },
+        { "en": "La deconstrucción de los mitos de Homero", "es": "Teófilo de Antioquía" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué apologista griego demostró con ironía satírica la inmoralidad de los dioses del Olimpo en su defensa de la fe?",
+      "options": ["Teófilo de Antioquía", "Minucio Félix", "Tertuliano"],
+      "correct": 0,
+      "hint": "Criticó a Homero y Hesíodo.",
+      "explanation": "Teófilo argumentó que una religión que divinizaba pasiones humanas degeneradas no podía constituir el fundamento moral de una sociedad civil."
+    },
+    {
+      "type": "gap",
+      "text": "En el diálogo «Octavius», el patricio pagano ___ defendía conservar los cultos tradicionales.",
+      "options": ["Cecilio", "Octavio", "Trifón"],
+      "answer": "Cecilio",
+      "explanation": "Cecilio sostenía un escepticismo filosófico pragmático que abogaba por conservar los ritos tradicionales del politeísmo cívico."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La resurrección según Atenágoras",
+      "tiles": ["El", "cuerpo", "y", "el", "alma", "serán", "recompensados", "castigados", "olvidados"],
+      "answer": "El cuerpo y el alma serán recompensados",
+      "explanation": "Atenágoras defendió la viabilidad racional de la restauración final de los cuerpos físicos tras la muerte corporal."
+    },
+    {
+      "type": "gap",
+      "text": "Tertuliano acuñó los términos «substantia» y «persona» en su tratado ___.",
+      "options": ["Adversus Praxean", "Apologeticum", "De Corona"],
+      "answer": "Adversus Praxean",
+      "explanation": "Este andamiaje conceptual permitió a la Iglesia latina formular con precisión técnica la paradoja de la unidad y la distinción divina."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La sucesión apostólica frente a la gnosis",
+      "tiles": ["La", "Escritura", "pertenece", "a", "la", "Tradición", "secta", "escuela"],
+      "answer": "La Escritura pertenece a la Tradición",
+      "explanation": "Tertuliano argumentó que los herejes carecen de derecho a interpretar las Escrituras, pues son propiedad exclusiva de la Tradición apostólica."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué acusación legal romana justificaba la represión de los cristianos por negarse a los sacrificios públicos?",
+      "options": ["Atentar contra la pax deorum, la paz de los dioses", "El delito de traducción no autorizada de la Torá", "La usurpación del título de ciudadano romano"],
+      "correct": 0,
+      "hint": "Los magistrados vinculaban esta paz ritual a la prosperidad del Imperio.",
+      "explanation": "Para el ciudadano romano medio, la prosperidad material y las victorias militares dependían del cumplimiento estricto de los ritos de sacrificio público a los dioses de la patria."
+    }
+  ]
+}

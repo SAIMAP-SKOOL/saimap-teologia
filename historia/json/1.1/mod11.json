@@ -1,0 +1,243 @@
+{
+  "id": "1.1-mod11",
+  "module": 11,
+  "title": "La Escuela de Alejandría y los Orígenes de la Exégesis Bíblica",
+  "subtitle": "Del Didaskaleion de Panteno a la Hexapla de Orígenes",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Didaskaleion", "es": "Casa de enseñanza superior, centro académico de teología científica en Alejandría" },
+        { "en": "Apokatastasis", "es": "Restauración final purificada de todas las criaturas racionales en la comunión divina" },
+        { "en": "Exēgēsis", "es": "Desentrañar el sentido: método de interpretación filológica e histórica de la Biblia" },
+        { "en": "Allegoria", "es": "«Decir otra cosa»: método que desvela el sentido espiritual bajo la literalidad del texto" },
+        { "en": "Paidagogos", "es": "El preceptor que educa moralmente; la filosofía como pedagoga que prepara a los paganos" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué método hermenéutico caracterizó a la Escuela de Alejandría frente a la de Antioquía?",
+      "options": ["La exégesis alegórica y mística, buscando los sentidos literal, moral y espiritual del texto", "El literalismo histórico y el rechazo de todo sentido espiritual", "La traducción de los textos al latín vulgar de Cartago"],
+      "correct": 0,
+      "hint": "Los alejandrinos estaban influidos por Filón y el platonismo medio.",
+      "explanation": "Los alejandrinos sostenían que la Escritura posee un cuerpo (sentido literal) y un espíritu (sentido espiritual profundo), armonizando las dificultades del texto con la razón."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ era la casa de enseñanza superior fundada en Alejandría para instruir a catecúmenos cultos.",
+      "options": ["Didaskaleion", "Kanon", "Kerygma"],
+      "answer": "Didaskaleion",
+      "explanation": "Este centro académico combinaba el estudio de las ciencias auxiliares clásicas con el análisis crítico de las Escrituras."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El verdadero gnóstico (Clemente)",
+      "tiles": ["El", "gnóstico", "verdadero", "conoce", "y", "ama", "falso", "odia"],
+      "answer": "El gnóstico verdadero conoce y ama",
+      "explanation": "Clemente recuperó la palabra «gnóstico» para definir al cristiano maduro que une la fe apostólica con la ciencia y la caridad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué tratado de Orígenes representa la primera gran sistematización teológica de la Iglesia?",
+      "options": ["De Principiis (Peri Archon)", "Adversus Haereses", "El Pedagogo"],
+      "correct": 0,
+      "hint": "Analiza sucesivamente la doctrina de Dios, la creación y la caída de las almas.",
+      "explanation": "En esta obra en cuatro libros, Orígenes intenta estructurar la fe de la Iglesia en un sistema intelectual coherente."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ postula la restauración final purificada de todas las criaturas racionales en la comunión divina.",
+      "options": ["apokatastasis", "alegoria", "exégesis"],
+      "answer": "apokatastasis",
+      "explanation": "Esta hipótesis de Orígenes, incluyendo la reconciliación de Satanás, generó rechazo entre los obispos ortodoxos posteriores."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada escuela o pensador con su enfoque",
+      "pairs": [
+        { "en": "Alejandría", "es": "Exégesis alegórica, platonismo tardío, divinidad del Logos" },
+        { "en": "Antioquía", "es": "Exégesis literal, aristotelismo clásico, realidad histórica de Cristo" },
+        { "en": "Roma y Cartago", "es": "Hermenéutica forense, estoicismo y derecho romano" },
+        { "en": "Orígenes", "es": "Estructuró los tres sentidos: histórico, moral y espiritual" },
+        { "en": "Clemente de Alejandría", "es": "La filosofía como preparación evangélica" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los tres sentidos de la Escritura",
+      "tiles": ["Cuerpo", "alma", "y", "espíritu", "del", "texto", "piedra", "carne"],
+      "answer": "Cuerpo alma y espíritu del texto",
+      "explanation": "Orígenes sostenía que la Palabra de Dios consta de un sentido histórico, un sentido moral y un sentido espiritual, siendo este último el objeto final de la exégesis."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué consiste la controversia origenista de la Apocatástasis?",
+      "options": ["La propuesta de que todas las criaturas racionales, incluidos los demonios, serán purificadas y reconciliadas con Dios", "La exigencia del rebautismo para los presbíteros de Alejandría", "La defensa de la divinidad de Arrio"],
+      "correct": 0,
+      "hint": "Incluía incluso a Satanás.",
+      "explanation": "Esta teoría sostenía que el mal no posee consistencia eterna y que el amor divino restauraría la unidad originaria del cosmos de los espíritus."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es el método que desvela el sentido espiritual latente bajo la literalidad del texto bíblico.",
+      "options": ["alegoria", "exégesis", "gnosis"],
+      "answer": "alegoria",
+      "explanation": "Esta herramienta permitía desarmar las burlas de filósofos paganos como Celso, revelando prefiguraciones del misterio redentor de Cristo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué tesis expone Clemente de Alejandría en los «Stromata» sobre el «gnóstico verdadero»?",
+      "options": ["Es el cristiano que une la fe apostólica con la ciencia y la contemplación del Logos", "Sostiene que el gnosticismo de Valentín es el único camino de salvación", "Exige el rechazo total de la cultura helenista"],
+      "correct": 0,
+      "hint": "Recupera el término «gnóstico» de sus adversarios.",
+      "explanation": "Clemente combate a los herejes gnósticos en su propio terreno, definiendo al cristiano maduro que profundiza en la Escritura mediante la razón."
+    },
+    {
+      "type": "gap",
+      "text": "___ fundó el Didaskaleion, combinando el estudio de las ciencias clásicas con el análisis de las Escrituras.",
+      "options": ["Panteno", "Orígenes", "Clemente"],
+      "answer": "Panteno",
+      "explanation": "Panteno defendió que la razón natural constituía una preparación propedéutica indispensable para ascender al misterio del Logos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La filosofía como pedagoga",
+      "tiles": ["La", "filosofía", "preparó", "a", "los", "griegos", "engañó", "corrompió"],
+      "answer": "La filosofía preparó a los griegos",
+      "explanation": "Clemente defendió que la filosofía clásica desempeñó para los paganos una función análoga a la ley mosaica para Israel."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién fundó el Didaskaleion de Alejandría, combinando las ciencias clásicas con el estudio de las Escrituras?",
+      "options": ["Panteno", "Orígenes", "Demetrio"],
+      "correct": 0,
+      "hint": "Tenía una sólida formación estoica previa.",
+      "explanation": "Panteno estructuró un plan académico riguroso que combinaba las ciencias auxiliares clásicas con el análisis crítico de las Escrituras."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Alejandría escribió el Pedagogo y los Stromata, defendiendo el uso de la filosofía.",
+      "options": ["Clemente", "Orígenes", "Panteno"],
+      "answer": "Clemente",
+      "explanation": "Clemente defendió que la filosofía había actuado como preceptor temporal preparando a los pueblos paganos para el Kerigma de Cristo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada persona con su papel en la Escuela de Alejandría",
+      "pairs": [
+        { "en": "Panteno", "es": "Fundó el Didaskaleion, combinando ciencias clásicas con la exégesis" },
+        { "en": "Clemente de Alejandría", "es": "Redefinió al «verdadero gnóstico» como el cristiano maduro en la fe y la ciencia" },
+        { "en": "Orígenes", "es": "Compuso la Hexapla, crítica textual en seis columnas" },
+        { "en": "Demetrio", "es": "Obispo de Alejandría en tensión con Orígenes" },
+        { "en": "Basílides y Valentín", "es": "Líderes del gnosticismo alejandrino combatido por el Didaskaleion" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La Hexapla de Orígenes",
+      "tiles": ["Seis", "columnas", "confrontan", "el", "texto", "cuatro", "ocultan"],
+      "answer": "Seis columnas confrontan el texto",
+      "explanation": "La Hexapla confrontaba el texto hebreo original, su transliteración fonética griega y diferentes traducciones griegas de la Septuaginta."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obra de crítica textual compuso Orígenes con seis columnas paralelas del texto bíblico?",
+      "options": ["La Hexapla", "La Didaché", "El Fragmento de Muratori"],
+      "correct": 0,
+      "hint": "Su nombre significa «séxtuple» en griego.",
+      "explanation": "Este rigor filológico sin precedentes cimentó el análisis científico de la Biblia frente a las objeciones del escepticismo de Celso."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ de Orígenes confrontaba el texto hebreo con sus traducciones griegas en seis columnas.",
+      "options": ["Hexapla", "Didascalia", "Vulgata"],
+      "answer": "Hexapla",
+      "explanation": "Esta obra demostró que la ortodoxia dogmática de la Iglesia requería del auxilio de las herramientas lingüísticas de la filología clásica."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La ascesis de Orígenes",
+      "tiles": ["Orígenes", "vivió", "con", "extrema", "austeridad", "lujo", "comodidad"],
+      "answer": "Orígenes vivió con extrema austeridad",
+      "explanation": "Su estilo de vida ascético reflejaba su convicción de que la especulación intelectual debía estar respaldada por el rigor corporal."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué escuela rival de Antioquía criticaba a los alejandrinos por disolver el realismo histórico de la Biblia en alegorías?",
+      "options": ["La Escuela de Antioquía", "La Escuela de Roma", "La Escuela de Cartago"],
+      "correct": 0,
+      "hint": "Su filosofía de base era aristotélica.",
+      "explanation": "Los antioquenos defendían el valor primario del sentido literal e histórico como fundamento ineludible de cualquier tipología posterior."
+    },
+    {
+      "type": "gap",
+      "text": "___ fue el padre de Orígenes, martirizado cuando este era joven.",
+      "options": ["Leónidas", "Demetrio", "Panteno"],
+      "answer": "Leónidas",
+      "explanation": "Orígenes, testigo del martirio de su propio padre, asumió la dirección de la Escuela a una edad muy temprana."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El debate con Celso",
+      "tiles": ["La", "Escritura", "contiene", "sentido", "espiritual", "carece", "material"],
+      "answer": "La Escritura contiene sentido espiritual",
+      "explanation": "La exégesis alegórica permitía demostrar que pasajes conflictivos del Antiguo Testamento contenían prefiguraciones del misterio redentor."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada obra o concepto con su descripción",
+      "pairs": [
+        { "en": "Hexapla", "es": "Confronta el texto hebreo, su transliteración y las traducciones griegas en seis columnas" },
+        { "en": "De Principiis", "es": "Primera gran obra de sistematización teológica de la historia de la Iglesia" },
+        { "en": "Stromata", "es": "Obra de Clemente que defiende el uso de la filosofía" },
+        { "en": "Paedagogus", "es": "Obra de Clemente sobre la moral práctica del converso" },
+        { "en": "Concilio de Constantinopla II (553 d.C.)", "es": "Condenó los quince anatemas origenistas" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué concilio ecuménico fueron condenados los quince anatemas origenistas?",
+      "options": ["Constantinopla II (553 d.C.)", "Nicea (325 d.C.)", "Calcedonia (451 d.C.)"],
+      "correct": 0,
+      "hint": "Se celebró bajo el patrocinio del emperador Justiniano.",
+      "explanation": "Esta condena depuró el legado de Orígenes de sus elementos heterodoxos, a la vez que conservó su inmenso aporte filológico y espiritual."
+    },
+    {
+      "type": "gap",
+      "text": "La Escuela de ___ defendía el sentido literal e histórico frente al alegorismo alejandrino.",
+      "options": ["Antioquía", "Cartago", "Roma"],
+      "answer": "Antioquía",
+      "explanation": "Los teólogos de Antioquía, de filosofía aristotélica, acusaban a los alejandrinos de disolver el realismo histórico de la Biblia en abstracciones."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La escuela rival de Antioquía",
+      "tiles": ["Antioquía", "defiende", "el", "sentido", "literal", "alegórico", "oculto"],
+      "answer": "Antioquía defiende el sentido literal",
+      "explanation": "Los antioquenos acusaban a los alejandrinos de disolver el realismo histórico de la Biblia al transformarlo en abstracciones poéticas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obispo occidental descubrió en el alegorismo alejandrino la clave para reconciliar el Antiguo Testamento con la razón, influyendo en la conversión de Agustín?",
+      "options": ["Ambrosio de Milán", "Jerónimo de Estridón", "Eusebio de Cesarea"],
+      "correct": 0,
+      "hint": "Fue el obispo que bautizó a Agustín de Hipona.",
+      "explanation": "Ambrosio superó el literalismo que apartaba a los intelectuales de la fe, enriqueciendo la predicación homilética de la cristiandad latina."
+    },
+    {
+      "type": "gap",
+      "text": "Los quince anatemas origenistas fueron condenados en el año ___ en Constantinopla.",
+      "options": ["553", "325", "451"],
+      "answer": "553",
+      "explanation": "Esta resolución dogmática, bajo Justiniano, depuró de forma definitiva el legado de Orígenes de sus elementos más heterodoxos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El legado alejandrino en Nicea",
+      "tiles": ["El", "Logos", "es", "de", "la", "misma", "sustancia", "distinta", "creada"],
+      "answer": "El Logos es de la misma sustancia",
+      "explanation": "Los teólogos alejandrinos proveyeron a Atanasio de las categorías metafísicas para formular la ortodoxia trinitaria en el Concilio de Nicea."
+    }
+  ]
+}

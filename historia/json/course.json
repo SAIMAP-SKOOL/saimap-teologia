@@ -3,21 +3,21 @@
     {
       "code": "1.1",
       "name": "El Cristianismo Primitivo y la Iglesia Apostólica",
-      "sub": "1/12 temas · En curso",
+      "sub": "12/12 temas · Completo",
       "color": "#6B5B3E",
       "modules": [
         { "n": 1,  "title": "El Contexto Histórico, Político y Religioso de Judea", "es": "1 · Contexto de Judea", "file": "1.1/mod01.json" },
-        { "n": 2,  "title": "Pentecostés y la Primera Comunidad de Jerusalén", "es": "2 · Pentecostés" },
-        { "n": 3,  "title": "San Pablo, las Misiones Gentiles y el Concilio de Jerusalén", "es": "3 · San Pablo y Misiones" },
-        { "n": 4,  "title": "Las Persecuciones Imperiales y el Testimonio del Martirio", "es": "4 · Persecuciones y Martirio" },
-        { "n": 5,  "title": "La Vida en las Catacumbas, la Liturgia Primitiva y la Arqueología Cristiana", "es": "5 · Catacumbas y Liturgia" },
-        { "n": 6,  "title": "Los Padres Apostólicos y la Consolidación de la Tradición", "es": "6 · Padres Apostólicos" },
-        { "n": 7,  "title": "Las Primeras Herejías y la Defensa de la Ortodoxia Cristiana", "es": "7 · Herejías y Ortodoxia" },
-        { "n": 8,  "title": "Los Apologistas Griegos y Latinos", "es": "8 · Apologistas" },
-        { "n": 9,  "title": "La Formación del Canon del Nuevo Testamento", "es": "9 · Formación del Canon" },
-        { "n": 10, "title": "El Papel de las Mujeres en la Iglesia Primitiva", "es": "10 · Mujeres en la Iglesia" },
-        { "n": 11, "title": "La Escuela de Alejandría y los Orígenes de la Exégesis Bíblica", "es": "11 · Escuela de Alejandría" },
-        { "n": 12, "title": "La Estructura Jerárquica y el Desarrollo Eclesiástico", "es": "12 · Estructura Eclesiástica" }
+        { "n": 2,  "title": "Pentecostés y la Primera Comunidad de Jerusalén", "es": "2 · Pentecostés", "file": "1.1/mod02.json" },
+        { "n": 3,  "title": "San Pablo, las Misiones Gentiles y el Concilio de Jerusalén", "es": "3 · San Pablo y Misiones", "file": "1.1/mod03.json" },
+        { "n": 4,  "title": "Las Persecuciones Imperiales y el Testimonio del Martirio", "es": "4 · Persecuciones y Martirio", "file": "1.1/mod04.json" },
+        { "n": 5,  "title": "La Vida en las Catacumbas, la Liturgia Primitiva y la Arqueología Cristiana", "es": "5 · Catacumbas y Liturgia", "file": "1.1/mod05.json" },
+        { "n": 6,  "title": "Los Padres Apostólicos y la Consolidación de la Tradición", "es": "6 · Padres Apostólicos", "file": "1.1/mod06.json" },
+        { "n": 7,  "title": "Las Primeras Herejías y la Defensa de la Ortodoxia Cristiana", "es": "7 · Herejías y Ortodoxia", "file": "1.1/mod07.json" },
+        { "n": 8,  "title": "Los Apologistas Griegos y Latinos", "es": "8 · Apologistas", "file": "1.1/mod08.json" },
+        { "n": 9,  "title": "La Formación del Canon del Nuevo Testamento", "es": "9 · Formación del Canon", "file": "1.1/mod09.json" },
+        { "n": 10, "title": "El Papel de las Mujeres en la Iglesia Primitiva", "es": "10 · Mujeres en la Iglesia", "file": "1.1/mod10.json" },
+        { "n": 11, "title": "La Escuela de Alejandría y los Orígenes de la Exégesis Bíblica", "es": "11 · Escuela de Alejandría", "file": "1.1/mod11.json" },
+        { "n": 12, "title": "La Estructura Jerárquica y el Desarrollo Eclesiástico", "es": "12 · Estructura Eclesiástica", "file": "1.1/mod12.json" }
       ]
     },
     { "code": "1.2", "name": "Iglesia Imperial y Concilios",           "color": "#3E5B6B", "locked": true, "moduleCount": 12 },

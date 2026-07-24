@@ -1,0 +1,243 @@
+{
+  "id": "1.1-mod02",
+  "module": 2,
+  "title": "Pentecostés y la Primera Comunidad de Jerusalén",
+  "subtitle": "De la efusión del Espíritu a la organización de la ekklesia",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Ekklesia", "es": "Término griego de asamblea cívica, resignificado por los cristianos como la asamblea convocada por Dios" },
+        { "en": "Koinonia", "es": "Comunión y solidaridad orgánica, manifestada en la puesta en común de bienes y la comunión eucarística" },
+        { "en": "Leitourgia", "es": "Oficio público grecorromano, adoptado para designar el culto formal y sacramental de la Iglesia" },
+        { "en": "Glossolalia", "es": "Don de lenguas incomprensibles como signo visible de la inhabitación del Espíritu" },
+        { "en": "Kerygma", "es": "Proclamación pública del mensaje central de la muerte y resurrección de Jesucristo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se diferenciaba la festividad cristiana de Pentecostés frente a la solemnidad judía de Shavuot?",
+      "options": ["Shavuot conmemoraba la entrega de la ley en el Sinaí; Pentecostés, la ley del Espíritu en los corazones", "Eran fiestas de distinto calendario de origen pagano romano", "Shavuot exigía el bautismo y Pentecostés la circuncisión de los gentiles"],
+      "correct": 0,
+      "hint": "Los Padres compararon el fuego del Sinaí con las lenguas de fuego de Pentecostés.",
+      "explanation": "Los Padres de la Iglesia trazaron una analogía entre las teofanías de fuego del Sinaí y el descenso de lenguas de fuego en Pentecostés: la ley escrita en piedra fue perfeccionada por la ley del Espíritu derramada sobre toda la oikoumene."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la comunión y solidaridad orgánica manifestada en la puesta en común de bienes.",
+      "options": ["koinonia", "ekklesia", "leitourgia"],
+      "answer": "koinonia",
+      "explanation": "La koinonia se manifestaba en la primera comunidad a través de la puesta en común de bienes y la comunión eucarística."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La autocomprensión de la comunidad (Hechos 7)",
+      "tiles": ["Dios", "no", "habita", "en", "templos", "hechos", "por", "manos", "humanas", "piedra", "oro"],
+      "answer": "Dios no habita en templos hechos por manos humanas",
+      "explanation": "Esteban argumentó ante el Sanedrín que Dios no habita en templos hechos por manos humanas, atacando el núcleo de la teología saducea centrada en el Templo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál fue el verdadero carácter teológico del castigo de Ananías y Safira en Hechos 5?",
+      "options": ["Un pecado de mentira y sacrilegio contra la santidad del Espíritu Santo en la koinonía", "Un delito de evasión fiscal ante las autoridades romanas", "Una violación del sábado litúrgico judío"],
+      "correct": 0,
+      "hint": "No se les castigó por quedarse con parte del dinero, sino por otra cosa.",
+      "explanation": "Como expuso Cipriano de Cartago, la gravedad del acto no residía en retener propiedad privada, sino en defraudar y fingir una entrega total, introduciendo la mentira profana en el templo vivo de la ekklesia."
+    },
+    {
+      "type": "gap",
+      "text": "El fenómeno de la ___ consistió en el don de hablar en lenguas incomprensibles como signo de la inhabitación del Espíritu.",
+      "options": ["glossolalia", "leitourgia", "didache"],
+      "answer": "glossolalia",
+      "explanation": "El estallido público de la glossolalia fue interpretado como un desafío directo al orden teológico controlado por la aristocracia sacerdotal saducea."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada institución con su rasgo distintivo",
+      "pairs": [
+        { "en": "Templo de Jerusalén", "es": "Sacrificio animal y expiación sacerdotal" },
+        { "en": "Sinagoga tradicional", "es": "Estudio de la Torá y oración comunitaria" },
+        { "en": "Ekklesia cristiana", "es": "Fracción del pan y comunión del Espíritu" },
+        { "en": "Aristocracia sacerdotal saducea", "es": "Jerarquía hereditaria del Templo" },
+        { "en": "Colegio de los Doce", "es": "Jerarquía apostólica de la ekklesia" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La primera comunidad de bienes",
+      "tiles": ["Tenían", "un", "solo", "corazón", "y", "una", "sola", "alma", "dos", "mente"],
+      "answer": "Tenían un solo corazón y una sola alma",
+      "explanation": "Esta utopía fundacional de comunión de bienes materiales y espirituales sirvió de modelo para el posterior monacato cenobítico."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué conflicto originó la consagración de los siete diáconos helenistas en Hechos 6?",
+      "options": ["El debate sobre la circuncisión de los gentiles en Antioquía", "Las quejas por la desatención de las viudas de habla griega en la diakonia diaria", "La disputa sobre el canon del Antiguo Testamento en griego"],
+      "correct": 1,
+      "hint": "Era una disputa entre hebreos y helenistas.",
+      "explanation": "La disputa reflejaba la brecha cultural entre judíos de habla aramea (hebreos) y los de habla griega de la diáspora (helenistas); los Doce institucionalizaron el servicio de caridad ordenando diáconos."
+    },
+    {
+      "type": "gap",
+      "text": "Los primeros cristianos usaron el término griego ___ para autodefinirse como la verdadera asamblea convocada por Dios.",
+      "options": ["ekklesia", "synagoge", "Sanedrín"],
+      "answer": "ekklesia",
+      "explanation": "En lugar del término tradicional synagoge, la comunidad primitiva se proclamó ekklesia, la verdadera asamblea del pueblo convocada de forma soberana por Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo rompió el discurso de Esteban (Hechos 7) con la teología del espacio sagrado del Segundo Templo?",
+      "options": ["Defendió la santidad eterna del Templo herodiano", "Sostuvo que el Templo de piedra era una forma de idolatría que limitaba la presencia de Dios", "Apoyó la exégesis saducea sobre el culto sacrificial"],
+      "correct": 1,
+      "hint": "Contrastó la tienda móvil del desierto con el edificio de piedra.",
+      "explanation": "Esteban argumentó que mientras el tabernáculo del desierto manifestaba la presencia móvil de Yahvé, el Templo monumental se había convertido en un ídolo arquitectónico que intentaba domesticar la soberanía divina."
+    },
+    {
+      "type": "gap",
+      "text": "___ fue lapidado tras su discurso sobre la tienda del testimonio ante el Sanedrín.",
+      "options": ["Esteban", "Bernabé", "Santiago"],
+      "answer": "Esteban",
+      "explanation": "Esteban, cabeza del grupo de los siete diáconos helenistas, fue lapidado por blasfemia tras su relectura radical de la historia de Israel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El don de Pentecostés",
+      "tiles": ["El", "Espíritu", "Santo", "descendió", "sobre", "los", "apóstoles", "ángel", "profetas"],
+      "answer": "El Espíritu Santo descendió sobre los apóstoles",
+      "explanation": "La efusión del Espíritu transformó la autoconciencia de un grupo de discípulos atemorizados en una comunidad carismática audaz."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué lugar de Jerusalén tuvo lugar la efusión del Espíritu Santo en Pentecostés?",
+      "options": ["En el Cenáculo, una estancia en el monte Sion", "En el atrio interior del Templo", "En la sinagoga principal de la ciudad"],
+      "correct": 0,
+      "hint": "Era la estancia superior de una vivienda privada.",
+      "explanation": "El Cenáculo se erigió como el contra-espacio del Templo monumental, un nuevo templo espiritual invisible edificado sobre piedras vivas y vivificado por el Espíritu."
+    },
+    {
+      "type": "gap",
+      "text": "___ y Safira murieron tras mentir sobre el precio de la venta de un campo.",
+      "options": ["Ananías", "Bernabé", "Cornelio"],
+      "answer": "Ananías",
+      "explanation": "A diferencia de Bernabé, que entregó honestamente el producto de su venta, Ananías y Safira simularon una entrega total mientras retenían parte del precio."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada personaje con su papel en Hechos",
+      "pairs": [
+        { "en": "Esteban", "es": "Diácono helenista lapidado tras su discurso sobre la tienda del testimonio" },
+        { "en": "Ananías y Safira", "es": "Matrimonio castigado por mentir sobre la venta de sus bienes" },
+        { "en": "Bernabé", "es": "Vendió su campo y entregó el producto a los apóstoles" },
+        { "en": "Santiago el Justo", "es": "Obispo de Jerusalén que armonizó la fe en Cristo con la piedad legal judía" },
+        { "en": "Pedro", "es": "Recibió en Jope la visión que abrió la comunión a los gentiles" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué visión llevó a Pedro a comprender que la purificación de Cristo abolía la distinción entre alimentos limpios e inmundos?",
+      "options": ["La visión del gran lienzo en Jope", "La predicación en el Pórtico de Salomón", "El discurso de Esteban ante el Sanedrín"],
+      "correct": 0,
+      "hint": "Ocurrió justo antes de la conversión del centurión Cornelio.",
+      "explanation": "La visión de Jope y la posterior conversión del centurión Cornelio forzaron una redefinición radical de la pureza ritual, abriendo la comunión eclesial a los gentiles."
+    },
+    {
+      "type": "gap",
+      "text": "La visión del gran lienzo llevó a ___ a comprender la abolición de las leyes dietéticas para los gentiles.",
+      "options": ["Pedro", "Esteban", "Santiago"],
+      "answer": "Pedro",
+      "explanation": "Pedro comprendió que la antigua distinción entre alimentos limpios e inmundos era una tipología pedagógica que había cumplido su función tras la purificación de Cristo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La liturgia central (klasis tou artou)",
+      "tiles": ["La", "fracción", "del", "pan", "actualizaba", "el", "sacrificio", "de", "Cristo", "banquete", "fiesta"],
+      "answer": "La fracción del pan actualizaba el sacrificio de Cristo",
+      "explanation": "La fracción del pan no era una mera cena fraternal, sino una liturgia sacramental que actualizaba el sacrificio redentor de Cristo y anticipaba su retorno escatológico."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué papel desempeñó Santiago el Justo en la primera comunidad de Jerusalén?",
+      "options": ["Lideró el ala hebrea, armonizando la fe en Cristo con la piedad legal judía", "Encabezó el grupo de los siete diáconos helenistas", "Fue el primer converso gentil bautizado por Pedro"],
+      "correct": 0,
+      "hint": "Era hermano del Señor.",
+      "explanation": "Bajo el liderazgo de Santiago el Justo, el ala hebrea de la Iglesia de Jerusalén intentó armonizar la fe en Cristo con una estricta observancia de la piedad legalista judía."
+    },
+    {
+      "type": "gap",
+      "text": "El ___, en el monte Sion, fue el lugar donde tuvo lugar la efusión del Espíritu Santo.",
+      "options": ["Cenáculo", "Sanedrín", "Pórtico de Salomón"],
+      "answer": "Cenáculo",
+      "explanation": "El Cenáculo, estancia superior de una vivienda privada en el monte Sion, se erigió como el contra-espacio del Templo monumental."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El pecado de Ananías y Safira",
+      "tiles": ["Mintieron", "al", "Espíritu", "Santo", "sobre", "el", "precio", "del", "campo", "tierra", "oro"],
+      "answer": "Mintieron al Espíritu Santo sobre el precio del campo",
+      "explanation": "Su pecado no fue retener parte de su patrimonio, sino simular una entrega total, introduciendo el engaño en el seno de la ekklesia."
+    },
+    {
+      "type": "quiz",
+      "q": "Según Hechos 2,42, ¿cuáles son los cuatro pilares de la vida comunitaria de la primera Iglesia?",
+      "options": ["Didache, koinonia, fracción del pan y oraciones comunitarias", "Circuncisión, sábado, Templo y sinagoga", "Bautismo, confirmación, matrimonio y orden"],
+      "correct": 0,
+      "hint": "Son cuatro términos griegos citados en el «foco» exegético del tema.",
+      "explanation": "Los términos didache (doctrina apostólica), koinonia (comunión de bienes), klasis tou artou (fracción del pan) y proseuches (oraciones) configuraron la matriz teológica de la comunidad primitiva."
+    },
+    {
+      "type": "gap",
+      "text": "Bajo el liderazgo de ___ el Justo, el ala hebrea armonizó la fe en Cristo con la piedad legal judía.",
+      "options": ["Santiago", "Pedro", "Bernabé"],
+      "answer": "Santiago",
+      "explanation": "Santiago, hermano del Señor, mantenía que la Iglesia debía constituir el cumplimiento perfecto de la piedad judía tradicional, no su abolición."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La ordenación de los diáconos",
+      "tiles": ["Los", "apóstoles", "impusieron", "las", "manos", "sobre", "los", "siete", "doce", "cinco"],
+      "answer": "Los apóstoles impusieron las manos sobre los siete",
+      "explanation": "Mediante la imposición de manos, los apóstoles consagraron a los siete diáconos, delegando en ellos la administración material y la asistencia caritativa."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada autor con su aportación",
+      "pairs": [
+        { "en": "Justino Mártir", "es": "Sistematizó la doctrina eucarística en su Apología Primera" },
+        { "en": "Ireneo de Lyon", "es": "Interpretó Pentecostés como la recapitulación eclesial que revierte Babel" },
+        { "en": "Agustín de Hipona", "es": "Comparó el Sinaí y Pentecostés en «De Spiritu et Littera»" },
+        { "en": "Cipriano de Cartago", "es": "Usó el caso de Ananías y Safira para amonestar a los lapsi" },
+        { "en": "Eusebio de Cesarea", "es": "Registró la sucesión de los obispos judíos de Jerusalén" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué tensión demográfica atravesó a la primera comunidad de Jerusalén desde su origen?",
+      "options": ["La tensión entre hebreos, apegados a la tradición aramea, y helenistas, judíos de la diáspora de lengua griega", "La tensión entre saduceos y fariseos por el control del Sanedrín", "La tensión entre romanos y samaritanos por el control de Galilea"],
+      "correct": 0,
+      "hint": "Esta tensión desembocó en el conflicto de las viudas de Hechos 6.",
+      "explanation": "Los hebreos representaban el sector más conservador y apegado a las tradiciones arameas, mientras que los helenistas eran judíos de la diáspora de lengua griega con una visión más cosmopolita."
+    },
+    {
+      "type": "gap",
+      "text": "La fiesta judía de ___ conmemoraba la entrega de la ley mosaica en el Sinaí.",
+      "options": ["Shavuot", "Yom Kippur", "Janucá"],
+      "answer": "Shavuot",
+      "explanation": "Pentecostés, celebrado durante la fiesta judía de las Semanas o Shavuot, transformó una festividad agrícola en la conmemoración de la ley del Espíritu."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La visión de Jope",
+      "tiles": ["Lo", "que", "Dios", "ha", "purificado", "no", "lo", "llames", "profano", "sagrado", "puro"],
+      "answer": "Lo que Dios ha purificado no lo llames profano",
+      "explanation": "Esta orden de la visión de Jope inauguró una nueva hermenéutica de las leyes dietéticas, derribando las barreras rituales entre judíos y gentiles."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El testimonio de Esteban",
+      "tiles": ["El", "Altísimo", "no", "habita", "en", "casas", "hechas", "por", "hombres", "templos", "piedras"],
+      "answer": "El Altísimo no habita en casas hechas por hombres",
+      "explanation": "Al desvincular la presencia divina del espacio físico del Templo, Esteban sentó las bases para el universalismo cristiano."
+    }
+  ]
+}

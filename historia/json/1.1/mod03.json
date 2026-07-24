@@ -1,0 +1,243 @@
+{
+  "id": "1.1-mod03",
+  "module": 3,
+  "title": "San Pablo, las Misiones Gentiles y el Concilio de Jerusalén",
+  "subtitle": "De la controversia de la circuncisión a la ekklesia universal",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Ethne", "es": "Naciones o gentiles, pueblos no judíos fuera de la alianza mosaica" },
+        { "en": "Apostolos", "es": "Enviado con autoridad plenipotenciaria directa de Cristo" },
+        { "en": "Kerygma", "es": "Proclamación esencial de la muerte y resurrección de Jesucristo" },
+        { "en": "Halajá", "es": "Cuerpo de leyes y normas rabínicas que regulaba el comportamiento cotidiano" },
+        { "en": "Erga nomou", "es": "Obras de la ley: marcadores de identidad judía como el sábado, la dieta y la circuncisión" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál fue el debate central del Concilio de Jerusalén (ca. 49 d.C.)?",
+      "options": ["La obligatoriedad de la circuncisión y la ley de Moisés para los gentiles conversos", "La divinidad del Espíritu Santo y la definición de la Trinidad", "El rango primado de la sede de Jerusalén sobre Antioquía"],
+      "correct": 0,
+      "hint": "Se decidió si la salvación exigía someterse a los ritos identitarios mosaicos.",
+      "explanation": "La asamblea decretó que la salvación es un don de la gracia por la fe en Cristo y no depende del cumplimiento de los ritos mosaicos; se liberó a los gentiles del yugo de la circuncisión."
+    },
+    {
+      "type": "gap",
+      "text": "El término griego ___ designaba a los pueblos no judíos, fuera de la alianza mosaica.",
+      "options": ["ethne", "apostolos", "halajá"],
+      "answer": "ethne",
+      "explanation": "En las cartas paulinas, el vocablo ethne se redefine: de la alteridad pagana pasa a ser el objeto prioritario de la gracia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La fórmula decretal del Concilio (Hechos 15,28)",
+      "tiles": ["Nos", "ha", "parecido", "al", "Espíritu", "Santo", "y", "a", "nosotros", "ellos", "ley"],
+      "answer": "Nos ha parecido al Espíritu Santo y a nosotros",
+      "explanation": "Esta fórmula denota una decisión oficial y decretal: la soberanía dogmática de la Iglesia se fundamenta en el discernimiento pneumático vivo del colegio apostólico."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué consistió el «incidente de Antioquía» entre Pablo y Pedro (Gálatas 2)?",
+      "options": ["La hipocresía de Pedro al retirarse de comer con los gentiles tras la llegada del partido de la circuncisión", "Una disputa por la primacía de la predicación en Roma", "El rechazo de Pablo a que Pedro bautizara a Cornelio"],
+      "correct": 0,
+      "hint": "Pedro cedió a la presión de los emisarios de Santiago.",
+      "explanation": "Pablo reprendió públicamente a Pedro por actuar con falsedad: al negarse a compartir mesa con los gentiles, comprometía el universalismo eclesial y obligaba indirectamente a los gentiles a judaizar."
+    },
+    {
+      "type": "gap",
+      "text": "___ era el cuerpo de leyes y normas rabínicas que regulaba el comportamiento cotidiano judío.",
+      "options": ["Halajá", "Ethne", "Kerygma"],
+      "answer": "Halajá",
+      "explanation": "La Halajá regulaba minuciosamente el comportamiento cotidiano y litúrgico a partir de la tradición oral y escrita judía."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada aspecto con la resolución del Concilio",
+      "pairs": [
+        { "en": "Soteriología", "es": "Salvación por la gracia de Jesucristo" },
+        { "en": "Estatuto del gentil", "es": "Libre de la ley mosaica general" },
+        { "en": "Normativa dietética", "es": "Abstención de sangre e ídolos por caridad" },
+        { "en": "Autoridad rectora", "es": "Colegio apostólico asistido por el Espíritu" },
+        { "en": "Facción judaizante", "es": "Exigía la circuncisión y la incorporación plena a Israel" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La justificación según Pablo (Gálatas)",
+      "tiles": ["El", "justo", "por", "la", "fe", "vivirá", "ley", "obras"],
+      "answer": "El justo por la fe vivirá",
+      "explanation": "Pablo argumentó que si la justicia se obtuviera por la observancia de la ley, la muerte de Cristo habría sido vana."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué tesis desarrolla Pablo en Gálatas sobre la justificación frente a las «obras de la ley»?",
+      "options": ["Que el ser humano es justificado exclusivamente por la fe en Jesucristo, no por el cumplimiento ritual de la ley", "Que la circuncisión sigue siendo indispensable para recibir el Espíritu", "Que la ley mosaica posee un valor de salvación eterno"],
+      "correct": 0,
+      "hint": "Pablo advierte que si se circuncidan, Cristo no les servirá de nada.",
+      "explanation": "Pablo expone que la Torá funcionó como un pedagogo temporal; una vez consumada la redención en la cruz, el creyente es liberado de las obras rituales identitarias mediante la gracia."
+    },
+    {
+      "type": "gap",
+      "text": "Saulo de Tarso se formó como fariseo en Jerusalén bajo el magisterio de ___.",
+      "options": ["Gamaliel", "Santiago", "Pedro"],
+      "answer": "Gamaliel",
+      "explanation": "Como judío de la diáspora, Saulo se educó en la estricta escuela farisea de Jerusalén bajo el magisterio de Gamaliel."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo influyó la ciudadanía romana de Pablo en el desarrollo de su misión?",
+      "options": ["Le permitió apelar al tribunal del emperador y evitar castigos corporales sumarios", "Le eximió de comparecer ante las sinagogas judías", "Le garantizó apoyo financiero del senado romano"],
+      "correct": 0,
+      "hint": "Es la «provocatio ad Caesarem».",
+      "explanation": "La civitas romana otorgaba a Pablo derechos jurídicos como el de no ser azotado sin juicio previo y apelar directamente al césar, trasladando el testimonio de la fe a Roma."
+    },
+    {
+      "type": "gap",
+      "text": "En el incidente de ___, Pedro se retiró de comer con los gentiles por temor al partido de la circuncisión.",
+      "options": ["Antioquía", "Corinto", "Éfeso"],
+      "answer": "Antioquía",
+      "explanation": "Este dramático incidente, narrado por Pablo en Gálatas 2, puso de manifiesto el carácter agudo de las tensiones entre los líderes apostólicos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La nueva identidad en Cristo (Gálatas 3)",
+      "tiles": ["Ya", "no", "hay", "judío", "ni", "griego", "esclavo", "libre"],
+      "answer": "Ya no hay judío ni griego",
+      "explanation": "En Cristo quedan abolidas las clasificaciones sociopolíticas tradicionales, constituyendo un nuevo sujeto espiritual unificado por el Espíritu."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué cuatro abstenciones impuso el Decreto Apostólico a los gentiles conversos?",
+      "options": ["Lo sacrificado a ídolos, la sangre, lo ahogado y las uniones ilegítimas", "El sábado, la circuncisión, las leyes dietéticas y el diezmo", "El bautismo, la confirmación, la eucaristía y la penitencia"],
+      "correct": 0,
+      "hint": "Se basaban en las leyes del Levítico para los extranjeros residentes.",
+      "explanation": "Estas cuatro abstenciones no eran un medio de justificación legal, sino normas pastorales de convivencia que posibilitaban la comunión de mesa entre judeocristianos y gentiles."
+    },
+    {
+      "type": "gap",
+      "text": "El Decreto Apostólico exigía abstenerse de lo sacrificado a los ídolos, la sangre, lo ahogado y las uniones ___.",
+      "options": ["ilegítimas", "matrimoniales", "sagradas"],
+      "answer": "ilegítimas",
+      "explanation": "Estas cuatro cláusulas mínimas de respeto mutuo evitaban escandalizar a los judeocristianos de conciencia débil."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada persona con su papel en la controversia",
+      "pairs": [
+        { "en": "Pablo", "es": "Ciudadano romano y fariseo formado por Gamaliel, apóstol de los gentiles" },
+        { "en": "Pedro", "es": "Se retiró de comer con gentiles en Antioquía por temor a los emisarios de Santiago" },
+        { "en": "Santiago", "es": "Citó el oráculo de Amós para pacificar el Concilio de Jerusalén" },
+        { "en": "Bernabé", "es": "Acompañó a Pablo a Jerusalén como embajador de Antioquía" },
+        { "en": "Timoteo, Tito y Silas", "es": "Delegados apostólicos que ordenaban presbíteros en las iglesias locales" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué analogía usa Pablo en Romanos 9–11 para explicar la relación entre Israel y los gentiles?",
+      "options": ["El olivo silvestre injertado en el olivo cultivado", "La viña y los labradores homicidas", "El buen pastor y las cien ovejas"],
+      "correct": 0,
+      "hint": "Es una imagen agrícola sobre el injerto.",
+      "explanation": "Pablo sostiene que el endurecimiento parcial de Israel permitió la entrada de los gentiles a la salvación, pero la promesa a la descendencia de Abraham sigue siendo irrevocable."
+    },
+    {
+      "type": "gap",
+      "text": "Pablo compara la ley de Moisés con un ___ (tutor temporal) que guía hasta la llegada de Cristo.",
+      "options": ["paidagogos", "kerygma", "apostolos"],
+      "answer": "paidagogos",
+      "explanation": "Para Pablo, la función pedagógica de la ley consistía en custodiar al pueblo hebreo en la infancia de la revelación, preparándolo para la libertad filial en Cristo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El discurso del Areópago",
+      "tiles": ["Dios", "no", "habita", "en", "templos", "hechos", "por", "manos", "ídolos", "piedra"],
+      "answer": "Dios no habita en templos hechos por manos",
+      "explanation": "Pablo utilizó el altar dedicado al Dios desconocido en Atenas para anunciar al Dios creador que no habita en templos hechos por manos humanas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué iniciativa de Pablo manifestaba la solidaridad material entre las iglesias gentiles y la comunidad judeocristiana de Jerusalén?",
+      "options": ["La colecta para los santos de Jerusalén", "El bautismo por inmersión trina", "El ayuno de los cuarenta días"],
+      "correct": 0,
+      "hint": "Se recaudaba en Galacia, Macedonia y Acaya.",
+      "explanation": "Esta recaudación no era solo ayuda humanitaria de emergencia, sino una declaración teológica del deber de gratitud espiritual de los gentiles hacia Israel."
+    },
+    {
+      "type": "gap",
+      "text": "El Concilio de Jerusalén se celebró aproximadamente en el año ___ d.C.",
+      "options": ["49", "70", "6"],
+      "answer": "49",
+      "explanation": "El Concilio de Jerusalén constituyó el primer ejercicio de sinodalidad y colegialidad en la historia del cristianismo primitivo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La reprensión de Pablo a Pedro",
+      "tiles": ["Pedro", "actuaba", "con", "hipocresía", "ante", "los", "gentiles", "sabiduría", "judíos"],
+      "answer": "Pedro actuaba con hipocresía ante los gentiles",
+      "explanation": "Pablo lo acusó de forzar a los gentiles a vivir como judíos cuando él mismo no observaba la ley con rigor."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ciudad fue el epicentro de la primera comunidad mixta de judíos y paganos conversos sin mediación previa de la Torá?",
+      "options": ["Antioquía de Siria", "Éfeso", "Corinto"],
+      "correct": 0,
+      "hint": "De ahí partieron Pablo y Bernabé hacia el Concilio.",
+      "explanation": "La fundación de la iglesia de Antioquía congregó por primera vez a judíos y paganos conversos, generando el conflicto de la mesa eucarística que llevó al Concilio de Jerusalén."
+    },
+    {
+      "type": "gap",
+      "text": "Pablo predicó ante los filósofos atenienses en el ___, junto al altar del Dios desconocido.",
+      "options": ["Areópago", "Sanedrín", "Pórtico de Salomón"],
+      "answer": "Areópago",
+      "explanation": "Este discurso representa el encuentro entre la revelación bíblica y la tradición filosófica clásica de la polis helénica."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La colecta para Jerusalén",
+      "tiles": ["Los", "gentiles", "socorrieron", "a", "los", "santos", "de", "Jerusalén", "judíos", "Roma"],
+      "answer": "Los gentiles socorrieron a los santos de Jerusalén",
+      "explanation": "La colecta manifestaba de forma visible la unidad orgánica y universal del cuerpo místico de la Iglesia frente a las divisiones geográficas."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada autor con su aportación",
+      "pairs": [
+        { "en": "Justino Mártir", "es": "Defendió la obediencia a las abstenciones del Decreto Apostólico" },
+        { "en": "Agustín de Hipona", "es": "Fundamentó la primacía de la gracia frente a Pelagio usando Romanos" },
+        { "en": "Juan Crisóstomo", "es": "Justificó la reprensión pública de Pablo a Pedro en Antioquía" },
+        { "en": "Orígenes", "es": "Definió el verdadero Israel de Dios como la Iglesia unificada en la fe" },
+        { "en": "Ireneo de Lyon", "es": "Vio en la Pax Romana la preparación providencial para el kerygma" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "___ citó el oráculo de Amós para pacificar a la facción judaizante en el Concilio.",
+      "options": ["Santiago", "Pedro", "Bernabé"],
+      "answer": "Santiago",
+      "explanation": "Santiago demostró con la exégesis de los profetas que el plan de Dios contemplaba la incorporación de los gentiles, pacificando a la facción judaizante."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El apostolado de Pablo",
+      "tiles": ["Pablo", "fue", "enviado", "directo", "de", "Jesucristo", "elegido", "pueblo"],
+      "answer": "Pablo fue enviado directo de Jesucristo",
+      "explanation": "Para Pablo, el apostolado dependía de un encuentro revelador con el Cristo Resucitado, no de una delegación administrativa de la iglesia de Jerusalén."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La ley como pedagogo (Gálatas 3)",
+      "tiles": ["La", "ley", "fue", "nuestro", "ayo", "hasta", "Cristo", "templo", "padre"],
+      "answer": "La ley fue nuestro ayo hasta Cristo",
+      "explanation": "Cuando el alumno madura bajo el magisterio directo de Cristo, la guía del pedagogo deja de ser necesaria."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué expresión usaron los apologistas para describir a los cristianos como una identidad distinta de judíos y paganos?",
+      "options": ["El tercer género (tertium genus)", "El pueblo elegido", "La secta de los nazarenos"],
+      "correct": 0,
+      "hint": "Aparece en la Carta a Diogneto.",
+      "explanation": "Frente a la sociedad romana, los cristianos no eran clasificados como una etnia judía ni como adoradores del panteón grecorromano, sino como una raza espiritual nueva de carácter transnacional."
+    }
+  ]
+}

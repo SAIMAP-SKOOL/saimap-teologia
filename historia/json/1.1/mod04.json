@@ -1,0 +1,243 @@
+{
+  "id": "1.1-mod04",
+  "module": 4,
+  "title": "Las Persecuciones Imperiales y el Testimonio del Martirio",
+  "subtitle": "Del incendio de Nerón al edicto de Decio",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Martys", "es": "Testigo jurídico griego, resignificado para quien testimonia su fe con la entrega de su vida" },
+        { "en": "Religio Illicita", "es": "Culto no reconocido oficialmente por Roma y prohibido por la ley imperial" },
+        { "en": "Apologia", "es": "Discurso de defensa intelectual de la doctrina cristiana ante el Imperio" },
+        { "en": "Lapsi", "es": "Cristianos que renegaron de su fe bajo presión, sacrificando a los ídolos" },
+        { "en": "Libellus", "es": "Certificado oficial que atestiguaba haber sacrificado a los dioses del Imperio" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Bajo qué emperador y con qué acusación se inició la primera persecución sistemática contra la Iglesia en Roma (64 d.C.)?",
+      "options": ["Nerón, acusado de provocar el gran incendio de Roma", "Decio, por no poseer el certificado de sacrificio", "Trajano, por instigar conspiraciones en Bitinia"],
+      "correct": 0,
+      "hint": "El historiador Tácito narra el episodio en sus Anales.",
+      "explanation": "Nerón culpó a los cristianos del incendio de Roma para acallar los rumores sobre su propia autoría, ejecutando a una gran multitud bajo cargos de «odio al género humano»."
+    },
+    {
+      "type": "gap",
+      "text": "El término griego ___ significaba originalmente «testigo» en un tribunal, antes de aplicarse a quien entrega su vida por la fe.",
+      "options": ["martys", "apologia", "lapsi"],
+      "answer": "martys",
+      "explanation": "Los apologistas resignificaron este término procesal mundano en un título de gloria sacramental para quien testimonia la resurrección de Cristo con su vida."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tertuliano, «Apologeticum»",
+      "tiles": ["La", "sangre", "de", "los", "cristianos", "es", "semilla", "flor", "agua"],
+      "answer": "La sangre de los cristianos es semilla",
+      "explanation": "Tertuliano afirmó que la violencia del verdugo imperial multiplicaba de forma providencial la expansión de la fe."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué directriz estableció Trajano en su rescripto a Plinio el Joven (ca. 112 d.C.)?",
+      "options": ["Prohibió la búsqueda de oficio, exigió acusadores formales y liberó a quienes sacrificaran", "Ordenó la persecución activa mediante delaciones anónimas", "Decretó el perdón incondicional de los cristianos"],
+      "correct": 0,
+      "hint": "Rechazó explícitamente las denuncias anónimas.",
+      "explanation": "Trajano fijó una política de prudencia procesal: no buscar a los cristianos de oficio, pero ejecutar a quienes, siendo acusados formalmente, se negaran a sacrificar."
+    },
+    {
+      "type": "gap",
+      "text": "Los ___ eran los cristianos que renegaron públicamente de su fe sacrificando a los ídolos.",
+      "options": ["lapsi", "confessores", "martys"],
+      "answer": "lapsi",
+      "explanation": "El vocablo latino lapsi designaba a quienes sucumbieron a la presión del tribunal imperial y renegaron públicamente de su fe."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada fase de persecución con sus mártires emblemáticos",
+      "pairs": [
+        { "en": "Fase inicial (siglo I, Nerón)", "es": "Pedro, Pablo, Antipas de Pérgamo" },
+        { "en": "Fase intermedia (siglos II-III)", "es": "Ignacio, Policarpo, Justino, Perpetua y Felicidad" },
+        { "en": "Fase generalizada (Decio, Valeriano)", "es": "Fabián de Roma, Cipriano de Cartago, Lorenzo" },
+        { "en": "Gran Persecución (Diocleciano)", "es": "Sebastián, Inés, Vicente de Zaragoza, Lucía" },
+        { "en": "Persecución de Lyon (177 d.C.)", "es": "Blandina, la joven esclava mártir" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ignacio de Antioquía camino al martirio",
+      "tiles": ["Soy", "trigo", "de", "Dios", "molido", "por", "las", "fieras", "pan", "leones"],
+      "answer": "Soy trigo de Dios molido por las fieras",
+      "explanation": "Ignacio suplicó a la comunidad que no intercediera por su vida, deseando convertirse en pan puro de Cristo a través de su martirio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué controversia se desató en la Iglesia norteafricana tras la persecución de Decio (249-251 d.C.)?",
+      "options": ["El debate sobre la readmisión de los lapsi y la penitencia", "La polémica sobre la naturaleza divina de Cristo frente a Arrio", "La disputa por la fecha de la Pascua"],
+      "correct": 0,
+      "hint": "Enfrentó al rigorista Novaciano con Cipriano de Cartago.",
+      "explanation": "La persecución de Decio forzó a muchos creyentes a sacrificar o comprar certificados falsos, originando un debate entre rigoristas y moderados sobre la penitencia para readmitirlos."
+    },
+    {
+      "type": "gap",
+      "text": "En el año ___ d.C., el emperador Nerón culpó a los cristianos del incendio de Roma.",
+      "options": ["64", "112", "250"],
+      "answer": "64",
+      "explanation": "La persecución neroniana, narrada con horror por Tácito, fijó el precedente de que la sola confesión del nombre cristiano constituía un delito capital."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo interpreta Ignacio de Antioquía el martirio en sus cartas camino a Roma?",
+      "options": ["Como un sacrificio eucarístico en el que desea ser trigo molido por las fieras", "Como una desgracia física y una derrota de la presencia divina", "Como un motivo para sobornar a los guardias imperiales"],
+      "correct": 0,
+      "hint": "Suplicó a la comunidad que no intercediera por su vida.",
+      "explanation": "Para Ignacio, el sufrimiento físico del martirio era la conformación mística definitiva con la pasión de Cristo y el nacimiento al verdadero discipulado."
+    },
+    {
+      "type": "gap",
+      "text": "El rescripto de ___ estableció que los cristianos no debían ser buscados de oficio, pero sí ejecutados si se negaban a sacrificar.",
+      "options": ["Trajano", "Nerón", "Decio"],
+      "answer": "Trajano",
+      "explanation": "Esta correspondencia diplomática con Plinio el Joven, gobernador de Bitinia, sentó la jurisprudencia oficial de la represión anticristiana condicional."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La respuesta de Trajano a Plinio",
+      "tiles": ["Los", "cristianos", "no", "deben", "ser", "buscados", "de", "oficio", "perseguidos", "siempre"],
+      "answer": "Los cristianos no deben ser buscados de oficio",
+      "explanation": "Trajano decretó que solo se ejecutara a quienes, denunciados formalmente, se negaran a retractarse sacrificando ante las estatuas imperiales."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué significaba originalmente el término griego «martys» en el derecho clásico?",
+      "options": ["Testigo que prestaba declaración bajo juramento en un litigio", "Mártir que moría por su fe", "Sacerdote que oficiaba sacrificios públicos"],
+      "correct": 0,
+      "hint": "Su sentido jurídico es anterior al cristianismo.",
+      "explanation": "Los apologistas paleocristianos resignificaron este término procesal mundano al aplicarlo de forma exclusiva a quienes testifican con la entrega de su vida."
+    },
+    {
+      "type": "gap",
+      "text": "En el año 250 d.C., el emperador ___ exigió un certificado oficial de sacrificio a todo habitante del Imperio.",
+      "options": ["Decio", "Trajano", "Diocleciano"],
+      "answer": "Decio",
+      "explanation": "Decio provocó la apostasía masiva de miles de cristianos que claudicaron por debilidad física o material ante la exigencia del libellus."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada categoría de apóstatas o testigos con su definición",
+      "pairs": [
+        { "en": "Sacrificati", "es": "Realizaron sacrificios reales de carne a los ídolos" },
+        { "en": "Thurificati", "es": "Quemaron incienso ante el altar imperial" },
+        { "en": "Libellatici", "es": "Obtuvieron certificados falsos de sumisión mediante soborno" },
+        { "en": "Confessores", "es": "Sobrevivieron a la tortura sin renegar de su fe" },
+        { "en": "Traditores", "es": "Entregaron los libros sagrados a las autoridades durante la Gran Persecución" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué doctrina sostenía que el martirio purificaba de todo pecado sin necesidad del bautismo de agua?",
+      "options": ["El bautismo de sangre (baptismus sanguinis)", "La disciplina del secreto (disciplina arcani)", "El expolio de los egipcios (spoliatio Aegyptiorum)"],
+      "correct": 0,
+      "hint": "Cancelaba la culpa de todo pecado cometido tras el bautismo ordinario.",
+      "explanation": "Esta convicción sostenía que el mártir que confesaba su fe ante la espada accedía directamente a la gloria celestial sin mediación del estado de purificación común."
+    },
+    {
+      "type": "gap",
+      "text": "___, esclava mártir de Lyon (177 d.C.), fue vista por los testigos como una encarnación de la pasión de Cristo.",
+      "options": ["Blandina", "Perpetua", "Felicidad"],
+      "answer": "Blandina",
+      "explanation": "Eusebio de Cesarea registra el testimonio de quienes afirmaban ver en la pequeña Blandina crucificada a Aquel que fue crucificado por la salvación del mundo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El culto imperial exigido",
+      "tiles": ["El", "césar", "exige", "un", "sacrificio", "de", "incienso", "oro", "vino"],
+      "answer": "El césar exige un sacrificio de incienso",
+      "explanation": "La proclamación imperial exigía reconocer al césar como soberano absoluto, rindiéndole sacrificios rituales para asegurar la estabilidad del Imperio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué corriente rigorista promovía la búsqueda voluntaria y provocada del martirio, condenada por la Iglesia ortodoxa?",
+      "options": ["El montanismo", "El donatismo", "El arrianismo"],
+      "correct": 0,
+      "hint": "Estaba activa en la provincia de Frigia.",
+      "explanation": "La Iglesia condenó esta praxis extremista, argumentando que el verdadero seguidor de Cristo debe soportar el martirio con mansedumbre, no buscarlo temerariamente."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Cartago defendió una penitencia gradual para los lapsi, frente al rigorismo de Novaciano.",
+      "options": ["Cipriano", "Tertuliano", "Ignacio"],
+      "answer": "Cipriano",
+      "explanation": "Cipriano defendió la primacía de la misericordia jerárquica a través de una penitencia gradual y proporcionada, frente a Novaciano, que negaba a la jerarquía el poder de perdonar."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La condena de Justino Mártir",
+      "tiles": ["Solo", "adoramos", "al", "único", "Dios", "verdadero", "césar", "emperador"],
+      "answer": "Solo adoramos al único Dios verdadero",
+      "explanation": "Justino sostuvo ante el emperador que los cristianos pagan con fidelidad los impuestos civiles pero reservan el culto sagrado exclusivamente a Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué se conmemoraba litúrgicamente como el «dies natalis» de un mártir?",
+      "options": ["El día aniversario de su suplicio, considerado su nacimiento a la eternidad", "El día de su bautismo en la fe cristiana", "El día de su nombramiento como obispo"],
+      "correct": 0,
+      "hint": "Se celebraba la eucaristía sobre su tumba.",
+      "explanation": "La comunidad se reunía anualmente sobre la tumba del mártir para celebrar la eucaristía en el día de su nacimiento a la eternidad celestial."
+    },
+    {
+      "type": "gap",
+      "text": "Ignacio de Antioquía deseaba ser ___ de Dios, molido por los dientes de las fieras.",
+      "options": ["trigo", "pan", "vino"],
+      "answer": "trigo",
+      "explanation": "Ignacio proclamó su deseo de ser trigo de Dios triturado por las fieras para convertirse en pan puro de Cristo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El Martirio de Policarpo",
+      "tiles": ["Policarpo", "esperó", "pacientemente", "su", "detención", "huyó", "escondió", "provocó"],
+      "answer": "Policarpo esperó pacientemente su detención",
+      "explanation": "El Martirio de Policarpo condenaba a quienes se presentaban espontáneamente ante los tribunales, señalando que Policarpo esperó su detención en sintonía con el evangelio."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada autor con su aportación",
+      "pairs": [
+        { "en": "Tertuliano", "es": "«La sangre de los cristianos es semilla de nuevos creyentes» (Apologeticum)" },
+        { "en": "Justino Mártir", "es": "Formuló la teoría del Logos espermático en los filósofos paganos" },
+        { "en": "Cipriano de Cartago", "es": "Defendió la penitencia gradual de los lapsi frente al rigorismo de Novaciano" },
+        { "en": "Eusebio de Cesarea", "es": "Recopiló los Mártires de Palestina como testimonio histórico" },
+        { "en": "Ignacio de Antioquía", "es": "Se definió como «trigo de Dios» molido por los dientes de las fieras" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Los ___ obtuvieron certificados falsos de sumisión mediante soborno, sin haber sacrificado realmente.",
+      "options": ["libellatici", "sacrificati", "thurificati"],
+      "answer": "libellatici",
+      "explanation": "A diferencia de los sacrificati y thurificati, los libellatici compraban certificados falsos a los funcionarios sin realizar el sacrificio material."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obra de Tertuliano defiende que el creyente no puede prestar el sacramentum militar sin traicionar su bautismo?",
+      "options": ["De Corona", "Apologeticum", "De Lapsis"],
+      "correct": 0,
+      "hint": "Trata sobre la corona militar romana.",
+      "explanation": "Tertuliano argumentó que el creyente no puede jurar fidelidad a dos señores ni portar la corona militar sin traicionar el sacramentum del bautismo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Agustín sobre la Iglesia mixta",
+      "tiles": ["La", "Iglesia", "es", "trigo", "y", "cizaña", "pura", "santa"],
+      "answer": "La Iglesia es trigo y cizaña",
+      "explanation": "Agustín refutó la teología cismática rigorista argumentando que la validez de los sacramentos depende de la santidad de Cristo, no de la dignidad moral del ministro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El culto a las reliquias",
+      "tiles": ["Los", "mártires", "son", "intercesores", "ante", "Dios", "jueces", "reyes"],
+      "answer": "Los mártires son intercesores ante Dios",
+      "explanation": "La teología patrística consideró a los mártires como intercesores celestiales, consolidando el culto a los santos y a las reliquias."
+    }
+  ]
+}

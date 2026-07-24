@@ -1,0 +1,243 @@
+{
+  "id": "1.1-mod10",
+  "module": 10,
+  "title": "El Papel de las Mujeres en la Iglesia Primitiva",
+  "subtitle": "Diaconisas, matronas, vírgenes consagradas y mártires",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Diakonos", "es": "Servidora consagrada para el ministerio asistencial y caritativo femenino" },
+        { "en": "Domus Ecclesiae", "es": "Casa de la iglesia: espacio doméstico que servía de santuario eucarístico" },
+        { "en": "Ordo Virginum", "es": "Orden de las vírgenes consagradas que profesaban celibato voluntario" },
+        { "en": "Pater Familias", "es": "Figura del derecho romano con patria potestad absoluta sobre la familia" },
+        { "en": "Ordo Viduarum", "es": "Orden de las viudas consagradas a la oración continua y la caridad" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ministerio eclesiástico femenino atestiguan las cartas de Pablo y la correspondencia de Plinio el Joven?",
+      "options": ["El diaconado de las mujeres o diaconisas", "El obispado monárquico metropolitano", "El orden de los presbíteros sacerdotales"],
+      "correct": 0,
+      "hint": "Plinio menciona a dos «ministrae» interrogadas bajo tortura.",
+      "explanation": "Pablo describe a Febe como diakonos de la iglesia de Cencreas; Plinio confirma su papel institucional en la caridad y la liturgia."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el servidor consagrado para el ministerio asistencial y caritativo, en femenino designaba a las diaconisas.",
+      "options": ["diakonos", "presbyteros", "episkopos"],
+      "answer": "diakonos",
+      "explanation": "En las epístolas paulinas designa un ministerio consagrado formalmente para el servicio asistencial y caritativo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La igualdad bautismal (Gálatas 3,28)",
+      "tiles": ["Ya", "no", "hay", "varón", "ni", "mujer", "siempre", "esclavo"],
+      "answer": "Ya no hay varón ni mujer",
+      "explanation": "Esta declaración apostólica obligó a la Iglesia a afirmar la igualdad ontológica y espiritual absoluta de ambos sexos ante la gracia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué funciones definían al «orden de las viudas» en los siglos I al III?",
+      "options": ["Un grupo consagrado a la oración, el ayuno y la caridad asistencial, sostenido por la colecta diocesana", "La defensa judicial ante los tribunales romanos", "La consagración del bautismo y la Eucaristía"],
+      "correct": 0,
+      "hint": "Se inscribían a partir de los sesenta años, según 1 Timoteo 5.",
+      "explanation": "Formaban un orden respetado que auxiliaba en la visitación de enfermos y la preparación de mujeres catecúmenas para el bautismo."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ era el espacio doméstico de familias convertidas que servía de santuario eucarístico.",
+      "options": ["domus ecclesiae", "ordo virginum", "kanon"],
+      "answer": "domus ecclesiae",
+      "explanation": "Este espacio doméstico servía de santuario eucarístico y centro de auxilio social, financiado a menudo por matronas."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada ministerio femenino con su finalidad pastoral",
+      "pairs": [
+        { "en": "Diaconisa", "es": "Unción bautismal y visita a hospitales" },
+        { "en": "Matrona", "es": "Sostenimiento material y litúrgico de la iglesia doméstica" },
+        { "en": "Virgen consagrada", "es": "Oración litúrgica y costura sagrada del altar" },
+        { "en": "Viuda", "es": "Visitación de enfermos y preparación de catecúmenas" },
+        { "en": "Mártir", "es": "Testimonio supremo de fe con el bautismo de sangre" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La diaconisa de Cencreas (Romanos 16)",
+      "tiles": ["Febe", "es", "diaconisa", "de", "la", "iglesia", "obispo", "reina"],
+      "answer": "Febe es diaconisa de la iglesia",
+      "explanation": "Pablo recomienda a Febe, calificada en griego como diakonon de la iglesia de Cencreas, en el capítulo 16 de Romanos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo desafió el martirio de Perpetua el orden patriarcal grecorromano?",
+      "options": ["Desafió la autoridad absoluta de su padre y los lazos del matrimonio pagano al persistir en su fe", "Asumió el mando militar de la provincia", "Exigió la legalización de los matrimonios de esclavas"],
+      "correct": 0,
+      "hint": "Su padre le rogaba que sacrificara al césar.",
+      "explanation": "El relato autógrafo de Perpetua muestra el violento choque con su padre; al negarse, situó su lealtad a Cristo por encima del control patriarcal romano."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ designaba el orden de las vírgenes consagradas que profesaban celibato voluntario a Cristo.",
+      "options": ["Ordo Virginum", "Ordo Viduarum", "Domus Ecclesiae"],
+      "answer": "Ordo Virginum",
+      "explanation": "Las vírgenes consagradas habitaban en sus propias casas, dedicando su tiempo a la oración y la costura de lienzos para el altar."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué papel desempeñaron las matronas de la aristocracia en el desarrollo material del cristianismo?",
+      "options": ["Aportaron su patrimonio y sus mansiones para el establecimiento de las iglesias domésticas", "Escribieron tratados en la Escuela de Alejandría", "Presidieron los sínodos y concilios de obispos"],
+      "correct": 0,
+      "hint": "Un ejemplo es Lidia de Filipos.",
+      "explanation": "Mujeres pudientes sirvieron de patronas de la Iglesia, protegiendo jurídicamente y financiando los viajes misioneros y las asambleas locales."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ ostentaba la patria potestad absoluta sobre la vida y el patrimonio de la familia romana.",
+      "options": ["pater familias", "episkopos", "diakonos"],
+      "answer": "pater familias",
+      "explanation": "Este derecho confería al varón cabeza de familia una soberanía despótica sobre la vida y el consentimiento matrimonial de su esposa e hijos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El diario de Perpetua",
+      "tiles": ["Perpetua", "venció", "al", "diablo", "en", "la", "arena", "huyó", "perdió"],
+      "answer": "Perpetua venció al diablo en la arena",
+      "explanation": "En prisión, Perpetua experimentó visiones místicas donde combatía y vencía a Satanás disfrazado de gladiador egipcio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué figura jurídica romana ostentaba el derecho de vida o muerte sobre todos los miembros de la familia?",
+      "options": ["El pater familias", "El diakonos", "El presbyteros"],
+      "correct": 0,
+      "hint": "Ejercía la «patria potestas».",
+      "explanation": "Este derecho confería al varón cabeza de familia una soberanía despótica indiscutible sobre la vida, el patrimonio y el consentimiento matrimonial de su familia."
+    },
+    {
+      "type": "gap",
+      "text": "___, calificada como diaconisa de la iglesia de Cencreas, es mencionada por Pablo en Romanos 16.",
+      "options": ["Febe", "Junia", "Priscila"],
+      "answer": "Febe",
+      "explanation": "El uso del sustantivo griego diakonon con artículo femenino denota que Febe ejercía un ministerio eclesial formal asistencial."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada mujer con su papel en la Iglesia primitiva",
+      "pairs": [
+        { "en": "Febe", "es": "Diaconisa de la iglesia de Cencreas, mencionada por Pablo en Romanos 16" },
+        { "en": "Junia", "es": "Descrita por Pablo como «célebre entre los apóstoles»" },
+        { "en": "Lidia de Filipos", "es": "Comerciante de púrpura que ofreció su casa como iglesia doméstica" },
+        { "en": "Perpetua", "es": "Patricia mártir de Cartago, autora de su propio diario de prisión" },
+        { "en": "Olimpia", "es": "Diaconisa de Constantinopla, colaboradora de Juan Crisóstomo" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El heroísmo de las mártires",
+      "tiles": ["Perpetua", "y", "Felicidad", "murieron", "juntas", "solas", "huyeron"],
+      "answer": "Perpetua y Felicidad murieron juntas",
+      "explanation": "La patricia Perpetua y la esclava Felicitas demostraron ante las fieras del circo que el carisma del martirio no distinguía de rango civil."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A quién describe Pablo en Romanos 16 como «célebre entre los apóstoles»?",
+      "options": ["Junia", "Febe", "Priscila"],
+      "correct": 0,
+      "hint": "Es distinta de Febe, la diaconisa de Cencreas.",
+      "explanation": "Este pasaje muestra que las mujeres cristianas primitivas asumían tareas de predicación y gestión organizativa dentro de la red de iglesias."
+    },
+    {
+      "type": "gap",
+      "text": "La patricia ___ escribió su propio diario de prisión antes de su martirio en Cartago en el año 203 d.C.",
+      "options": ["Perpetua", "Felicidad", "Inés"],
+      "answer": "Perpetua",
+      "explanation": "Este diario constituye uno de los pocos documentos femeninos directos de la antigüedad grecorromana, de honda madurez teológica."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La casa de Lidia en Filipos",
+      "tiles": ["Lidia", "abrió", "su", "casa", "a", "la", "Iglesia", "cerró", "vendió"],
+      "answer": "Lidia abrió su casa a la Iglesia",
+      "explanation": "Viudas y matronas adineradas como Lidia de Filipos pusieron sus viviendas a disposición de la asamblea para la celebración litúrgica."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué versículo bíblico fundamenta la igualdad ontológica de varón y mujer ante la gracia bautismal?",
+      "options": ["Gálatas 3,28", "Romanos 13,1", "Mateo 22,19"],
+      "correct": 0,
+      "hint": "Habla de que «todos sois uno en Cristo Jesús».",
+      "explanation": "«Ya no hay judío ni griego, no hay esclavo ni libre, no hay varón ni mujer; porque todos vosotros sois uno en Cristo Jesús»."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Filipos, comerciante de púrpura, ofreció su casa como iglesia doméstica.",
+      "options": ["Lidia", "Priscila", "Junia"],
+      "answer": "Lidia",
+      "explanation": "Esta generosidad patrimonial desafiaba la exclusión de las mujeres del espacio público romano, erigiendo el hogar en un centro de soberanía eclesial."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada concepto o documento con su descripción",
+      "pairs": [
+        { "en": "Gálatas 3,28", "es": "«Ya no hay varón ni mujer, todos sois uno en Cristo»" },
+        { "en": "Didascalia Apostolorum", "es": "Reguló las atribuciones litúrgicas de las diaconisas en Siria" },
+        { "en": "Passio Perpetuae et Felicitatis", "es": "Acta de martirio redactada en Cartago en el año 203 d.C." },
+        { "en": "La Orante", "es": "Figura de mujer en oración que decora las catacumbas de Priscila" },
+        { "en": "Leyes de Augusto", "es": "Penalizaban fiscalmente a las mujeres solteras o viudas sin hijos" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué documento sirio del siglo III reguló detalladamente las atribuciones litúrgicas de las diaconisas?",
+      "options": ["La Didascalia Apostolorum", "El Fragmento de Muratori", "La Epístola de Bernabé"],
+      "correct": 0,
+      "hint": "Diferenciaba sus atribuciones de las del clero presbiteral masculino.",
+      "explanation": "Este documento reguló minuciosamente el orden de las diaconisas, diferenciando claramente sus atribuciones litúrgicas."
+    },
+    {
+      "type": "gap",
+      "text": "La diaconisa ___ colaboró con Juan Crisóstomo en la caridad de Constantinopla.",
+      "options": ["Olimpia", "Perpetua", "Cecilia"],
+      "answer": "Olimpia",
+      "explanation": "Crisóstomo contó con su auxilio y consejo espiritual directo para coordinar los hospitales y albergues de la capital."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La Orante de las catacumbas",
+      "tiles": ["La", "Orante", "representa", "el", "alma", "en", "oración", "cuerpo", "guerra"],
+      "answer": "La Orante representa el alma en oración",
+      "explanation": "Esta figura de mujer con los brazos extendidos domina los muros del cementerio de Priscila, representando el alma purificada del creyente."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué diaconisa colaboró estrechamente con Juan Crisóstomo para coordinar los hospitales de Constantinopla?",
+      "options": ["Olimpia", "Perpetua", "Cecilia"],
+      "correct": 0,
+      "hint": "Vivió en la sede episcopal de Constantinopla.",
+      "explanation": "Crisóstomo reconoció la primacía del discernimiento organizativo de Olimpia en materia de caridad diocesana."
+    },
+    {
+      "type": "gap",
+      "text": "Las leyes demográficas de ___ penalizaban fiscalmente a las mujeres solteras o viudas sin hijos.",
+      "options": ["Augusto", "Trajano", "Nerón"],
+      "answer": "Augusto",
+      "explanation": "Al defender la virginidad consagrada como opción moral legítima, la Iglesia rompió las cadenas del matrimonio concertado obligatorio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El servicio de las diaconisas",
+      "tiles": ["Las", "diaconisas", "ungen", "a", "las", "candidatas", "bautizan", "ordenan"],
+      "answer": "Las diaconisas ungen a las candidatas",
+      "explanation": "Correspondía a las diaconisas ungir corporalmente a las mujeres con el aceite de exorcismo durante el bautismo por inmersión."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La resistencia de Perpetua a su padre",
+      "tiles": ["Soy", "cristiana", "dijo", "Perpetua", "a", "su", "padre", "pagana", "madre"],
+      "answer": "Soy cristiana dijo Perpetua a su padre",
+      "explanation": "Su firme resistencia a los ruegos familiares consolidó la supremacía de la conciencia eclesial sobre los deberes de piedad civil del Imperio."
+    }
+  ]
+}

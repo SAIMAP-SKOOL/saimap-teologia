@@ -1,0 +1,243 @@
+{
+  "id": "1.1-mod09",
+  "module": 9,
+  "title": "La Formación del Canon del Nuevo Testamento",
+  "subtitle": "Del Fragmento de Muratori a los sínodos de Hipona y Cartago",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Kanon", "es": "Caña de medir, catálogo oficial de escritos bíblicos inspirados" },
+        { "en": "Homologoumena", "es": "Escritos aceptados unánimemente por todas las diócesis, como los cuatro evangelios" },
+        { "en": "Antilegomena", "es": "Escritos discutidos temporalmente en algunas iglesias, como Hebreos o Apocalipsis" },
+        { "en": "Theopneustos", "es": "«Soplado por Dios»: los libros sagrados escritos bajo la asistencia del Espíritu Santo" },
+        { "en": "Notha", "es": "Escritos espurios o abiertamente heréticos, según Eusebio de Cesarea" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué importancia histórico-canónica posee el «Fragmento Muratoriano»?",
+      "options": ["Es la lista oficial más antigua conservada de los libros del Nuevo Testamento (ca. 170 d.C.) en Roma", "Es el catecismo litúrgico de las Dos Vías de la Didaché", "Contiene los decretos del Concilio de Jerusalén"],
+      "correct": 0,
+      "hint": "Fue descubierto en Milán.",
+      "explanation": "Este documento en latín detalla qué libros se leían públicamente en la liturgia romana y cuáles eran descartados por ser falsificaciones gnósticas."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es la caña de medir: el catálogo oficial de escritos bíblicos inspirados por Dios.",
+      "options": ["kanon", "kerygma", "logos"],
+      "answer": "kanon",
+      "explanation": "Este catálogo servía para la liturgia y la doctrina, midiendo la veracidad de la predicación de la Iglesia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El Evangelio uno y cuádruple (Ireneo)",
+      "tiles": ["El", "Evangelio", "es", "uno", "y", "cuádruple", "dos", "triple"],
+      "answer": "El Evangelio es uno y cuádruple",
+      "explanation": "Ireneo argumentó que el orden del cosmos exige que el Evangelio sea uno y cuádruple, apelando al simbolismo de los cuatro seres vivientes de Ezequiel."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo clasifica Eusebio de Cesarea los escritos sagrados en su «Historia Eclesiástica»?",
+      "options": ["Homologoumena, antilegomena y notha", "Apócrifos y canónicos trinitarios", "Escritos de origen romano y alejandrino"],
+      "correct": 0,
+      "hint": "Son tres categorías griegas.",
+      "explanation": "Los homologoumena incluían los cuatro evangelios, Hechos y las cartas paulinas; los antilegomena, Santiago, Judas, 2 Pedro, 2-3 Juan y el Apocalipsis; y los notha, los textos heréticos."
+    },
+    {
+      "type": "gap",
+      "text": "Los libros ___ fueron aceptados unánimemente por todas las diócesis desde el inicio.",
+      "options": ["homologoumena", "antilegomena", "notha"],
+      "answer": "homologoumena",
+      "explanation": "A diferencia de los antilegomena, estos escritos como los cuatro evangelios no sufrieron debates sobre su canonicidad."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada hito canónico con su aportación",
+      "pairs": [
+        { "en": "Canon de Muratori", "es": "Lista latina más antigua conservada, c. 170 d.C. en Roma" },
+        { "en": "Ireneo de Lyon", "es": "Consagró el Tetramorfos evangélico en Adversus Haereses" },
+        { "en": "Carta Festiva 39 de Atanasio", "es": "Fijó por primera vez los 27 libros del Nuevo Testamento (367 d.C.)" },
+        { "en": "Sínodos de Hipona y Cartago", "es": "Cierre definitivo del canon del Nuevo Testamento en Occidente" },
+        { "en": "Orígenes de Alejandría", "es": "Clasificó los textos en aceptados, disputados y heréticos" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La inspiración de las Escrituras",
+      "tiles": ["Los", "libros", "sagrados", "fueron", "soplados", "por", "Dios", "escritos", "hombres"],
+      "answer": "Los libros sagrados fueron soplados por Dios",
+      "explanation": "El concepto theopneustos afirma la asistencia carismática del Espíritu Santo sobre los hagiógrafos, sin anular su personalidad ni su estilo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué sínodos fijaron el canon de 27 libros del Nuevo Testamento en Occidente a finales del siglo IV?",
+      "options": ["Los sínodos de Hipona (393 d.C.) y de Cartago (397 d.C.)", "El Concilio de Jerusalén y el Sínodo de Antioquía", "El Concilio de Nicea bajo Constantino"],
+      "correct": 0,
+      "hint": "Contaron con la influencia teológica de san Agustín.",
+      "explanation": "Estas asambleas locales episcopales, en sintonía con la carta festiva 39 de Atanasio, decretaron formalmente la lista definitiva del Nuevo Testamento."
+    },
+    {
+      "type": "gap",
+      "text": "Los libros ___ fueron discutidos temporalmente en algunas iglesias antes de su canonización.",
+      "options": ["antilegomena", "homologoumena", "theopneustos"],
+      "answer": "antilegomena",
+      "explanation": "Textos como Hebreos, Santiago, 2 Pedro y el Apocalipsis sufrieron prolongados debates antes de su incorporación definitiva."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuáles eran los tres criterios de canonicidad aplicados por los Padres de la Iglesia?",
+      "options": ["Origen apostólico, ortodoxia doctrinal y uso litúrgico universal", "El apoyo del emperador, el pergamino egipcio y el idioma griego", "El rechazo del Antiguo Testamento y la aprobación del Sanedrín"],
+      "correct": 0,
+      "hint": "Uno de ellos exige coherencia con la regula fidei.",
+      "explanation": "La Iglesia exigía que el texto estuviera respaldado por un testigo apostólico directo, no contradijera la regla de fe y contara con recepción litúrgica universal."
+    },
+    {
+      "type": "gap",
+      "text": "El concepto de ___ afirma que los libros sagrados fueron escritos bajo la asistencia directa del Espíritu Santo.",
+      "options": ["theopneustos", "kanon", "notha"],
+      "answer": "theopneustos",
+      "explanation": "Esta teología de la inspiración evitó el extremo del dictado mecánico propugnado por las sectas gnósticas y sibilinas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El criterio de apostolicidad",
+      "tiles": ["El", "escrito", "procede", "de", "un", "apóstol", "rey", "sacerdote"],
+      "answer": "El escrito procede de un apóstol",
+      "explanation": "El criterio de apostolicidad exigía que el texto procediera directamente de un Apóstol de Cristo o de uno de sus colaboradores inmediatos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué doctrina formuló Ireneo de Lyon para consagrar exactamente cuatro evangelios canónicos?",
+      "options": ["La doctrina del tetramorfos evangélico, ligada a los cuatro seres vivientes de Ezequiel", "La doctrina de la apocatástasis final", "La doctrina de la recapitulación de la carne"],
+      "correct": 0,
+      "hint": "Son el hombre, el león, el toro y el águila.",
+      "explanation": "Ireneo argumentó que el orden del cosmos exige que el Evangelio sea uno y cuádruple, consagrando la exclusividad de Mateo, Marcos, Lucas y Juan."
+    },
+    {
+      "type": "gap",
+      "text": "El Fragmento de ___, hallado en Milán y fechado ca. 170 d.C., es el catálogo canónico latino más antiguo conservado.",
+      "options": ["Muratori", "Qumrán", "Nag Hammadi"],
+      "answer": "Muratori",
+      "explanation": "Este documento demuestra que ya en el siglo II la iglesia romana poseía una lista estructurada de escritos reconocidos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada libro o categoría con su estatus canónico",
+      "pairs": [
+        { "en": "Los cuatro evangelios", "es": "Homologoumena: aceptados unánimemente desde el inicio" },
+        { "en": "Epístola a los Hebreos", "es": "Antilegomena: dudas por su anonimato y estilo elevado" },
+        { "en": "Apocalipsis de Juan", "es": "Antilegomena: recelo en Oriente por su uso montanista" },
+        { "en": "Pastor de Hermas", "es": "Excluido por no proceder de la era apostólica, pese a su valor pedagógico" },
+        { "en": "Evangelios gnósticos", "es": "Notha: espurios, escritos bajo falsa autoría apostólica" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La exclusión del Pastor de Hermas",
+      "tiles": ["Hermas", "escribió", "en", "nuestros", "días", "apóstoles", "antiguos"],
+      "answer": "Hermas escribió en nuestros días",
+      "explanation": "El Canon de Muratori señala que Hermas escribió el Pastor «hace muy poco tiempo», careciendo del requisito de apostolicidad de origen."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obispo egipcio fijó por primera vez la lista completa de los 27 libros del Nuevo Testamento en su Carta Festiva 39?",
+      "options": ["Atanasio de Alejandría", "Orígenes de Alejandría", "Eusebio de Cesarea"],
+      "correct": 0,
+      "hint": "Escribió esta carta en el año 367 d.C.",
+      "explanation": "Esta carta prohibió de manera tajante la lectura de escritos secretos gnósticos en las parroquias bajo su jurisdicción."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Lyon consagró la doctrina del tetramorfos evangélico en «Adversus Haereses».",
+      "options": ["Ireneo", "Orígenes", "Atanasio"],
+      "answer": "Ireneo",
+      "explanation": "Ireneo rebatió a los gnósticos que pretendían usar un único evangelio o multiplicar los textos de forma indefinida."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La Carta Festiva 39 de Atanasio",
+      "tiles": ["Estos", "son", "los", "libros", "del", "canon", "aquellos", "apócrifos"],
+      "answer": "Estos son los libros del canon",
+      "explanation": "Atanasio incluyó una lista formal que detallaba con absoluta precisión los 27 libros del Nuevo Testamento que componen la Biblia actual."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué se demoró en Oriente la aceptación litúrgica del Apocalipsis de Juan?",
+      "options": ["Por el temor de que su escatología apocalíptica justificara el milenarismo de los montanistas", "Porque contradecía la doctrina de la Trinidad", "Porque narraba hechos posteriores a la destrucción del Templo"],
+      "correct": 0,
+      "hint": "Los montanistas eran de la región de Frigia.",
+      "explanation": "Los antioquenos temían que el milenarismo literalista de los montanistas frigios encontrara justificación en las visiones cósmicas del Apocalipsis."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Alejandría fijó los 27 libros del Nuevo Testamento en su Carta Festiva 39 del año 367 d.C.",
+      "options": ["Atanasio", "Orígenes", "Eusebio"],
+      "answer": "Atanasio",
+      "explanation": "Esta Carta Festiva representa la primera delimitación unificada de la totalidad del corpus neotestamentario en la historia de la Iglesia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los tres sentidos de Orígenes",
+      "tiles": ["El", "sentido", "corporal", "moral", "y", "espiritual", "literal", "alegórico"],
+      "answer": "El sentido corporal moral y espiritual",
+      "explanation": "Orígenes estructuró un método hermenéutico unificado que culminaba en el sentido espiritual o dogmático profundo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada autor con su obra o aportación",
+      "pairs": [
+        { "en": "Ireneo de Lyon", "es": "Adversus Haereses: defiende el Evangelio uno y cuádruple" },
+        { "en": "Orígenes de Alejandría", "es": "Distinguió los libros admitidos, disputados y heréticos" },
+        { "en": "Atanasio de Alejandría", "es": "Carta Festiva 39 (367 d.C.)" },
+        { "en": "Eusebio de Cesarea", "es": "Historia Eclesiástica: clasificó homologoumena, antilegomena y notha" },
+        { "en": "Agustín de Hipona", "es": "Presidió los sínodos africanos que cerraron el canon" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué se excluyó el Pastor de Hermas del canon, pese a su alta calidad pedagógica?",
+      "options": ["Porque fue redactado con posterioridad a la era de los apóstoles directos de Cristo", "Porque negaba la divinidad de Cristo", "Porque fue escrito originalmente en copto"],
+      "correct": 0,
+      "hint": "El Canon de Muratori lo señala explícitamente.",
+      "explanation": "El Canon de Muratori indica que Hermas escribió el Pastor «hace muy poco tiempo, en nuestros días», careciendo del requisito de apostolicidad."
+    },
+    {
+      "type": "gap",
+      "text": "Los sínodos de Hipona y ___ cerraron oficialmente el canon del Nuevo Testamento en Occidente.",
+      "options": ["Cartago", "Nicea", "Éfeso"],
+      "answer": "Cartago",
+      "explanation": "Estos sínodos, celebrados en el 393 y el 397 d.C., ratificaron solemnemente la lista de los 27 libros decretada por Atanasio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El cierre de la Revelación",
+      "tiles": ["La", "Revelación", "terminó", "con", "los", "apóstoles", "continúa", "profetas"],
+      "answer": "La Revelación terminó con los apóstoles",
+      "explanation": "La Iglesia estableció que la Revelación fundacional y normativa concluyó definitivamente con la muerte de los apóstoles directos de Cristo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué método hermenéutico desarrolló Orígenes de Alejandría para interpretar las Escrituras frente a la alegoría gnóstica?",
+      "options": ["Un método que unía el sentido corporal, el sentido moral y el sentido espiritual", "El rechazo absoluto de toda interpretación alegórica", "La traducción literal palabra por palabra sin comentario"],
+      "correct": 0,
+      "hint": "Culminaba en el sentido dogmático profundo.",
+      "explanation": "Orígenes demostró que la Revelación divina constituye un todo coherente y ordenado al misterio de la redención."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Sinope propuso el primer canon explícito, mutilado, compuesto solo por Lucas y diez cartas paulinas.",
+      "options": ["Marción", "Montano", "Valentín"],
+      "answer": "Marción",
+      "explanation": "Esta agresión teológica obligó a los obispos a impulsar la delimitación formal de un canon católico frente al canon marcionita."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El canon frente al gnosticismo",
+      "tiles": ["La", "Iglesia", "excluyó", "los", "libros", "heréticos", "aceptó", "sagrados"],
+      "answer": "La Iglesia excluyó los libros heréticos",
+      "explanation": "Al fijar el canon frente al marcionismo y al gnosticismo, el episcopado blindó las Sagradas Escrituras de manipulaciones exegéticas particulares."
+    }
+  ]
+}

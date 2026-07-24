@@ -1,0 +1,243 @@
+{
+  "id": "1.1-mod07",
+  "module": 7,
+  "title": "Las Primeras Herejías y la Defensa de la Ortodoxia Cristiana",
+  "subtitle": "Gnosticismo, marcionismo y montanismo frente al canon y el Credo",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Gnosis", "es": "Conocimiento místico revelado en secreto a los iniciados para liberar el alma" },
+        { "en": "Heresis", "es": "Elección u opción filosófica, resignificada como desviación de la fe común" },
+        { "en": "Demiurgo", "es": "Creador inferior y defectuoso del mundo material en la cosmología gnóstica" },
+        { "en": "Pleroma", "es": "Plenitud divina superior habitada por los eones, de la que cayeron las almas" },
+        { "en": "Anakephalaiosis", "es": "Recapitulación de toda la creación en Cristo, doctrina de Ireneo de Lyon" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué premisa cosmológica definía al gnosticismo del siglo II frente a la ortodoxia católica?",
+      "options": ["El dualismo radical entre el Demiurgo del Antiguo Testamento y el Dios verdadero de Cristo", "La afirmación del monoteísmo trinitario y la resurrección de la carne", "La coexistencia de dos voluntades y naturalezas en Jesús"],
+      "correct": 0,
+      "hint": "Identificaban falsamente al Demiurgo con el Dios del Antiguo Testamento.",
+      "explanation": "El gnosticismo sostenía que la materia es intrínsecamente mala, creada por una deidad inferior; la salvación no dependía del sacrificio redentor histórico, sino de la gnosis secreta."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el conocimiento místico revelado en secreto a los iniciados para liberar el alma de la materia.",
+      "options": ["gnosis", "kerygma", "traditio"],
+      "answer": "gnosis",
+      "explanation": "Las corrientes gnósticas consideraban este conocimiento revelado de manera secreta a una minoría de iniciados."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La teología de la recapitulación (Ireneo)",
+      "tiles": ["Cristo", "recapitula", "toda", "la", "creación", "abandona", "destruye"],
+      "answer": "Cristo recapitula toda la creación",
+      "explanation": "Ireneo demostró que Dios asumió la materia y la historia humana en la encarnación, recapitulando en sí mismo toda la creación para sanarla."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué acción editorial de Marción de Sinope (ca. 144 d.C.) aceleró la definición del canon del Nuevo Testamento?",
+      "options": ["El rechazo del Antiguo Testamento y un canon reducido a Lucas purgado y diez cartas paulinas", "La inclusión de escritos apócrifos gnósticos en la liturgia", "La traducción de la Biblia al latín de Cartago"],
+      "correct": 0,
+      "hint": "Fue excomulgado en Roma en el año 144 d.C.",
+      "explanation": "Al proponer un canon sesgado para adaptarlo a su teología dualista antijudía, Marción obligó a la ortodoxia a fijar de forma objetiva la lista de los escritos apostólicos inspirados."
+    },
+    {
+      "type": "gap",
+      "text": "El término griego ___ significaba originalmente «elección», antes de convertirse en sinónimo de desviación de la fe.",
+      "options": ["heresis", "gnosis", "pleroma"],
+      "answer": "heresis",
+      "explanation": "En el mundo helenístico, heresis designaba una escuela de pensamiento a la que un ciudadano elegía adherirse voluntariamente, sin connotación de reproche."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada corriente herética con su refutador ortodoxo",
+      "pairs": [
+        { "en": "Gnosticismo", "es": "Ireneo de Lyon (Adversus Haereses)" },
+        { "en": "Marcionismo", "es": "Tertuliano de Cartago (Adversus Marcionem)" },
+        { "en": "Montanismo", "es": "Sínodos locales de Asia Menor" },
+        { "en": "Docetismo", "es": "Ignacio de Antioquía (cartas episcopales)" },
+        { "en": "Escuelas gnósticas siríacas (Bardesanes)", "es": "Refutadas defendiendo la libre elección humana frente al determinismo astral" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La refutación del docetismo (Ignacio)",
+      "tiles": ["Cristo", "sufrió", "verdaderamente", "en", "la", "carne", "aparentemente", "espíritu"],
+      "answer": "Cristo sufrió verdaderamente en la carne",
+      "explanation": "Ignacio insiste en la carnalidad fáctica del Logos encarnado frente al docetismo, pues si la crucifixión no fue material, la resurrección quedaría vacía."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué caracterizó al montanismo (Nueva Profecía) surgido en Frigia?",
+      "options": ["Un carismatismo apocalíptico con profetas extáticos que desafiaban la autoridad episcopal", "El fideísmo extremo ligado al platonismo alejandrino", "La defensa del colaboracionismo cívico con el culto al césar"],
+      "correct": 0,
+      "hint": "Sus líderes eran Montano, Priscila y Maximila.",
+      "explanation": "Montano anunciaba el fin inminente del cosmos y la venida de la nueva Jerusalén, exigiendo un ascetismo rigorista y pretendiendo que sus profecías superaban los cánones episcopales."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el creador inferior y defectuoso del mundo material según la cosmología gnóstica.",
+      "options": ["Demiurgo", "Pleroma", "Paráclito"],
+      "answer": "Demiurgo",
+      "explanation": "Era identificado falsamente por los gnósticos con el Dios del Antiguo Testamento."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué concepto formuló Ireneo de Lyon en «Adversus Haereses» para justificar la unidad del plan salvífico?",
+      "options": ["La recapitulación (anakephalaiosis) de toda la creación en Jesucristo", "La doctrina de la apocatástasis de las almas", "El primado monárquico del Sumo Sacerdote del Templo"],
+      "correct": 0,
+      "hint": "Argumenta contra la separación gnóstica de materia y espíritu.",
+      "explanation": "Ireneo sostiene que el Logos encarnado asume la carne de Adán y toda la creación material, restaurando y santificando la historia humana."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el ámbito divino de plenitud habitado por los eones, del cual cayeron las almas.",
+      "options": ["Pleroma", "Demiurgo", "canon"],
+      "answer": "Pleroma",
+      "explanation": "Los gnósticos usaban este término para referirse al ámbito divino superior habitado por los eones y la deidad suprema."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El Credo bautismal frente al Demiurgo",
+      "tiles": ["Creo", "en", "Dios", "creador", "del", "cielo", "Demiurgo", "materia"],
+      "answer": "Creo en Dios creador del cielo",
+      "explanation": "Al declarar que Dios es el creador del cielo y de la tierra, el Símbolo de los Apóstoles atacaba directamente el mito gnóstico del Demiurgo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué significa literalmente el término griego «heresis» en su sentido original, antes de ser resignificado por la Iglesia?",
+      "options": ["Elección u opción filosófica legítima", "Traición a la patria romana", "Desviación de la fe común"],
+      "correct": 0,
+      "hint": "Deriva del verbo «haireo», elegir.",
+      "explanation": "En el mundo helenístico secular, una heresis designaba simplemente una escuela de pensamiento filosófico legítima a la que se elegía adherirse."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Sinope propuso la abolición del Antiguo Testamento y un canon mutilado hacia el año 144 d.C.",
+      "options": ["Marción", "Montano", "Valentín"],
+      "answer": "Marción",
+      "explanation": "Marción planteó una oposición absoluta entre el Dios creador de la ley y el Dios bueno revelado por Jesucristo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada líder herético con su doctrina",
+      "pairs": [
+        { "en": "Valentín, Basílides, Ptolomeo", "es": "Dualismo radical y salvación por gnosis secreta" },
+        { "en": "Marción de Sinope", "es": "Antítesis entre el Dios de la ley y el Dios bueno de Cristo" },
+        { "en": "Montano, Priscila y Maximila", "es": "Profecía extática continua superior a los apóstoles" },
+        { "en": "Corrientes gnósticas tempranas", "es": "El cuerpo físico de Cristo fue una mera apariencia (docetismo)" },
+        { "en": "Bardesanes de Edesa", "es": "Especulación sobre almas atrapadas en los astros" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La antítesis de Marción",
+      "tiles": ["Amad", "a", "vuestros", "enemigos", "dice", "Cristo", "odiad", "Moisés"],
+      "answer": "Amad a vuestros enemigos dice Cristo",
+      "explanation": "Marción contraponía este mandato de Jesús con la ley del ojo por ojo, concluyendo erróneamente que pertenecían a deidades distintas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obra de Tertuliano refuta sistemáticamente la antítesis entre el Dios de la Ley y el Dios de la Gracia propuesta por Marción?",
+      "options": ["Adversus Marcionem", "Apologeticum", "De Corona"],
+      "correct": 0,
+      "hint": "El título significa «Contra Marción».",
+      "explanation": "Tertuliano demostró que la justicia y la misericordia son atributos complementarios del único Dios verdadero, que educa pedagógicamente a la humanidad."
+    },
+    {
+      "type": "gap",
+      "text": "___ y las profetisas Priscila y Maximila lideraron el movimiento de la Nueva Profecía en Frigia.",
+      "options": ["Montano", "Marción", "Valentín"],
+      "answer": "Montano",
+      "explanation": "Los montanistas proclamaban recibir revelaciones directas y extáticas del Espíritu Santo que exigían un rigorismo ascético extremo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El canon frente a la herejía",
+      "tiles": ["El", "canon", "mide", "la", "verdad", "apostólica", "oculta", "secreta"],
+      "answer": "El canon mide la verdad apostólica",
+      "explanation": "El vocablo canon, derivado de la caña de medir, denota la norma con la que la Iglesia regulaba la veracidad de su predicación."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué documento de finales del siglo II fijó por primera vez la nómina de los libros canónicos del Nuevo Testamento?",
+      "options": ["El Fragmento Muratoriano", "La Epístola de Bernabé", "El Diálogo con Trifón"],
+      "correct": 0,
+      "hint": "Su nombre proviene del erudito que lo descubrió, Ludovico Antonio Muratori.",
+      "explanation": "Este documento fijó de forma inalterable los cuatro evangelios canónicos y las epístolas apostólicas de probada autenticidad."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Lyon formuló la teología de la recapitulación en su obra «Adversus Haereses».",
+      "options": ["Ireneo", "Tertuliano", "Justino"],
+      "answer": "Ireneo",
+      "explanation": "Ireneo demostró, contra el dualismo gnóstico, que Dios asumió la materia y la historia humana en la encarnación de Jesucristo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La condena del montanismo",
+      "tiles": ["La", "profecía", "no", "supera", "a", "los", "apóstoles", "sustituye", "iguala"],
+      "answer": "La profecía no supera a los apóstoles",
+      "explanation": "La Iglesia defendió que la revelación fundacional se había cerrado con la muerte del último apóstol, sin admitir añadiduras posteriores."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada corriente con la medida de consolidación eclesial que provocó",
+      "pairs": [
+        { "en": "Gnosticismo", "es": "Fijación del Credo trinitario y la regla de fe" },
+        { "en": "Marcionismo", "es": "Consolidación del canon del Nuevo Testamento de 27 libros" },
+        { "en": "Montanismo", "es": "Delimitación del cierre de la Revelación pública tras los apóstoles" },
+        { "en": "Docetismo", "es": "Afirmación sacramental de la carne real del Redentor" },
+        { "en": "Herejías en general", "es": "Excomunión canónica de los cabecillas en sínodos regionales" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué corriente ética extrema promovían tanto gnósticos como marcionitas, prohibiendo el matrimonio y la procreación?",
+      "options": ["El encratismo", "El montanismo", "El donatismo"],
+      "correct": 0,
+      "hint": "Del griego «enkrateia», dominio de sí.",
+      "explanation": "Argumentaban que traer hijos al mundo prolongaba el aprisionamiento de las chispas divinas; la Iglesia refutó esto afirmando la santidad del matrimonio."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Cartago refutó a Marción en su obra «Adversus Marcionem».",
+      "options": ["Tertuliano", "Ireneo", "Orígenes"],
+      "answer": "Tertuliano",
+      "explanation": "Tertuliano demostró con ironía retórica que la justicia y la misericordia son atributos complementarios del único Dios verdadero."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La bondad de la materia (Ireneo)",
+      "tiles": ["La", "carne", "es", "obra", "maestra", "de", "Dios", "prisión", "cárcel"],
+      "answer": "La carne es obra maestra de Dios",
+      "explanation": "Frente al desprecio gnóstico de la materia, Ireneo y Tertuliano reivindicaron el cuerpo físico como la obra maestra del Creador."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué descubrimiento arqueológico de 1945 en Egipto reveló una biblioteca de textos gnósticos originales?",
+      "options": ["La biblioteca de Nag Hammadi", "Los manuscritos del Mar Muerto", "El Papiro de Rylands"],
+      "correct": 0,
+      "hint": "Se encontró en una vasija de papiro en el Alto Egipto.",
+      "explanation": "El hallazgo de cincuenta y dos tratados gnósticos en copto, incluido el evangelio de Tomás, permitió estudiar el gnosticismo sin el filtro apologético de los Padres."
+    },
+    {
+      "type": "gap",
+      "text": "En 1945 se descubrió en ___ una biblioteca de cincuenta y dos tratados gnósticos escritos en copto.",
+      "options": ["Nag Hammadi", "Qumrán", "Alejandría"],
+      "answer": "Nag Hammadi",
+      "explanation": "Este hallazgo en el Alto Egipto permitió a los investigadores acceder de manera directa a la literatura gnóstica original."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La sucesión episcopal frente al gnosticismo",
+      "tiles": ["Los", "obispos", "custodian", "la", "fe", "pública", "secreta", "oculta"],
+      "answer": "Los obispos custodian la fe pública",
+      "explanation": "Ireneo argumentó que las iglesias apostólicas conservaban listas públicas e ininterrumpidas de sus obispos, frente a la pretensión gnóstica de una tradición secreta."
+    }
+  ]
+}

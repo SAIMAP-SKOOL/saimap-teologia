@@ -1,0 +1,243 @@
+{
+  "id": "1.1-mod12",
+  "module": 12,
+  "title": "La Estructura Jerárquica y el Desarrollo Eclesiástico",
+  "subtitle": "Del episcopado monárquico al Edicto de Milán",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Episkopos", "es": "Vigilante o sobrestante, ministro consagrado como obispo local sucesor de los apóstoles" },
+        { "en": "Presbyteros", "es": "Anciano, sacerdote auxiliar que asiste al obispo en la administración sacramental" },
+        { "en": "Metropolites", "es": "Obispo de la capital provincial que preside los sínodos regionales" },
+        { "en": "Sacerdotium", "es": "Potestad cultual y litúrgica de ofrecer el sacrificio eucarístico" },
+        { "en": "Chorepiskopos", "es": "Obispo rural con competencias limitadas frente al metropolitano" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué documento del siglo III detalla la estructura de las órdenes menores del clero en la diócesis de Roma?",
+      "options": ["La carta del papa Cornelio al obispo Fabio de Antioquía (251 d.C.)", "La Primera Apología de Justino Mártir", "La Didaché de las Dos Vías"],
+      "correct": 0,
+      "hint": "Se conserva gracias a Eusebio de Cesarea.",
+      "explanation": "Esta carta forense detalla que Roma contaba con presbíteros, diáconos, subdiáconos, acólitos, lectores, exorcistas y ostiarios."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el ministro consagrado como obispo local, sucesor de los apóstoles.",
+      "options": ["episkopos", "presbyteros", "diakonos"],
+      "answer": "episkopos",
+      "explanation": "Este término griego, empleado en el ámbito civil para inspectores financieros, adquirió una connotación litúrgica y sacramental en la Iglesia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El obispado monárquico (Ignacio)",
+      "tiles": ["Donde", "está", "el", "obispo", "está", "la", "Iglesia", "pueblo", "César"],
+      "answer": "Donde está el obispo está la Iglesia",
+      "explanation": "Ignacio afirmó que nada en materia litúrgica o disciplinar debe realizarse al margen de la obediencia y comunión con el obispo local."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué principio defiende Cipriano de Cartago en «De Catholicae Ecclesiae Unitate»?",
+      "options": ["Que la unidad de la Iglesia reside en el obispo y la comunión episcopal universal", "La plena autonomía de los presbíteros para confesar a los lapsi", "La subordinación de Roma al Concilio de Jerusalén"],
+      "correct": 0,
+      "hint": "Contiene la frase «extra ecclesiam nulla salus».",
+      "explanation": "Cipriano sostiene que la Iglesia es un cuerpo único e indivisible, siendo la comunión episcopal el criterio de ortodoxia frente a las divisiones cismáticas."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el sacerdote del colegio auxiliar que asiste al obispo en la administración sacramental.",
+      "options": ["presbyteros", "episkopos", "metropolites"],
+      "answer": "presbyteros",
+      "explanation": "El vocablo presbyteros (anciano) perdió su sentido secular para estructurar uno de los tres grados del orden sagrado."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada grado del clero con su función y base legal",
+      "pairs": [
+        { "en": "Obispo", "es": "Gobierno y magisterio, sucesión apostólica directa" },
+        { "en": "Presbítero", "es": "Función sacramental y de auxilio, delegación episcopal consagrada" },
+        { "en": "Diácono", "es": "Administración y caridad, consagración para el servicio" },
+        { "en": "Subdiáconos, acólitos y lectores", "es": "Órdenes menores dedicadas a la liturgia y la caridad asistencial" },
+        { "en": "Metropolitano", "es": "Preside los sínodos regionales y consagra a los obispos sufragáneos" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La unidad de la Iglesia (Cipriano)",
+      "tiles": ["No", "hay", "salvación", "fuera", "de", "la", "Iglesia", "dentro", "siempre"],
+      "answer": "No hay salvación fuera de la Iglesia",
+      "explanation": "Cipriano combate las divisiones cismáticas de Novaciano, sosteniendo que la comunión episcopal es el criterio objetivo de la ortodoxia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo afectó el Edicto de Milán (313 d.C.) al plano jurisdiccional de las diócesis?",
+      "options": ["Concedió reconocimiento legal, restituyó el patrimonio confiscado y asimiló la geografía diocesana a la provincial romana", "Decretó el arresto de los metropolitanos cristianos", "Prohibió la celebración de sínodos regionales"],
+      "correct": 0,
+      "hint": "Fue promulgado por el emperador Constantino.",
+      "explanation": "El edicto otorgó personalidad jurídica a las iglesias locales, permitiéndoles poseer bienes colectivos y recibir donaciones."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el obispo de la capital provincial que preside los sínodos regionales.",
+      "options": ["metropolites", "chorepiskopos", "sacerdotium"],
+      "answer": "metropolites",
+      "explanation": "El metropolitano asumía la potestad canónica de convocar sínodos y consagrar a los nuevos prelados de las urbes vecinas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el origen del vocablo griego «episkopos» y cómo se transformó su significado?",
+      "options": ["De supervisor financiero en la polis griega, transformado en el obispo diocesano sucesor de los apóstoles", "De soldado de la fortaleza Antonia, transformado en clérigo menor", "De esclavo doméstico, transformado en diácono"],
+      "correct": 0,
+      "hint": "En la administración civil helenística era un inspector.",
+      "explanation": "La Iglesia primitiva adoptó el vocablo para designar al pastor y cabeza de la comunidad local, atribuyéndole la custodia doctrinal del rebaño."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es la potestad cultual de ofrecer el sacrificio eucarístico en el altar.",
+      "options": ["sacerdotium", "kerygma", "kanon"],
+      "answer": "sacerdotium",
+      "explanation": "Este concepto teológico y canónico define la potestad litúrgica de ofrecer el sacrificio eucarístico en el altar de la comunión católica."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El principio de Cornelio sobre el episcopado único",
+      "tiles": ["Debe", "haber", "un", "solo", "obispo", "dos", "tres"],
+      "answer": "Debe haber un solo obispo",
+      "explanation": "Esta declaración contra el cisma de Novaciano consagró el principio del obispado monárquico exclusivo por diócesis local."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué facción rigorista rechazaba la autoridad de los obispos para readmitir a los lapsi, defendiendo un liderazgo de profetas inspirados?",
+      "options": ["Los montanistas y novacianos", "Los donatistas y arrianos", "Los nestorianos y monofisitas"],
+      "correct": 0,
+      "hint": "Actuaban en Asia Menor y en Roma.",
+      "explanation": "Estas facciones rigoristas defendían que la Iglesia debía estar regida exclusivamente por carismáticos, rechazando la autoridad episcopal para la reconciliación."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Cartago afirmó que «no hay salvación fuera de la Iglesia».",
+      "options": ["Cipriano", "Ignacio", "Cornelio"],
+      "answer": "Cipriano",
+      "explanation": "Esta formulación exegética consagró que la potestad sacramental reside de manera exclusiva en la estructura de sucesión apostólica."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada persona con su aportación a la estructura eclesiástica",
+      "pairs": [
+        { "en": "Ignacio de Antioquía", "es": "Defendió el episcopado monárquico: «donde está el obispo, allí la comunidad»" },
+        { "en": "Cipriano de Cartago", "es": "«No hay salvación fuera de la Iglesia» (De Catholicae Ecclesiae Unitate)" },
+        { "en": "Papa Cornelio", "es": "Documentó la estructura del clero romano en su carta a Fabio de Antioquía" },
+        { "en": "Papa Esteban", "es": "Defendió la validez del bautismo de los herejes frente a Cipriano" },
+        { "en": "Hipólito de Roma", "es": "Detalló el ritual de imposición de manos en la Tradición Apostólica" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La primacía de la cátedra de Pedro",
+      "tiles": ["Tú", "eres", "Pedro", "y", "sobre", "esta", "piedra", "arena", "roca"],
+      "answer": "Tú eres Pedro y sobre esta piedra",
+      "explanation": "Apelando a Mateo 16,18, los obispos romanos afirmaron la primacía de la cátedra de Pedro sobre las restantes sedes patriarcales."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué controversia enfrentó al papa Esteban con Cipriano de Cartago a mediados del siglo III?",
+      "options": ["La validez del bautismo administrado por los cismáticos", "La fecha de la celebración de la Pascua", "La naturaleza divina del Logos"],
+      "correct": 0,
+      "hint": "Uno defendía el rebautismo, el otro la imposición de manos.",
+      "explanation": "Cipriano defendía el rebautismo de los cismáticos, mientras Esteban apeló a la tradición romana para prohibirlo, imponiendo solo la penitencia."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ documentó la estructura del clero romano en su carta a Fabio de Antioquía.",
+      "options": ["Cornelio", "Esteban", "Dámaso"],
+      "answer": "Cornelio",
+      "explanation": "Esta carta, conservada por Eusebio, testimonia la complejidad de la burocracia eclesiástica asistencial necesaria para sostener a los fieles."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El Edicto de Milán",
+      "tiles": ["El", "emperador", "concedió", "libertad", "de", "culto", "prohibió", "guerra"],
+      "answer": "El emperador concedió libertad de culto",
+      "explanation": "Al conceder libertad de culto y restituir los bienes patrimoniales, el Estado romano capituló ante la soberanía espiritual de los obispos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obra de Hipólito de Roma detalla la liturgia de imposición de manos para consagrar a un obispo?",
+      "options": ["La Tradición Apostólica", "La Didascalia Apostolorum", "El Pastor de Hermas"],
+      "correct": 0,
+      "hint": "Su autor es un presbítero romano del siglo III.",
+      "explanation": "Este documento consagra que la potestad sacerdotal y magisterial procede de una cadena de transmisión apostólica ininterrumpida."
+    },
+    {
+      "type": "gap",
+      "text": "El ___, promulgado en el año 313 d.C., concedió reconocimiento legal a la Iglesia.",
+      "options": ["Edicto de Milán", "Concilio de Nicea", "Sínodo de Cartago"],
+      "answer": "Edicto de Milán",
+      "explanation": "Este edicto no hizo sino reconocer la realidad jurídica e institucional de una Iglesia que ya gobernaba capilarmente el Imperio desde el subsuelo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La respuesta de Agustín a los donatistas",
+      "tiles": ["Cristo", "es", "el", "verdadero", "sacerdote", "falso", "ministro"],
+      "answer": "Cristo es el verdadero sacerdote",
+      "explanation": "Agustín demostró que la validez del bautismo y la Eucaristía no depende de la santidad personal del clérigo, sino de la acción salvífica de Cristo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué controversia del norte de África negaba la validez de los sacramentos administrados por clérigos indignos?",
+      "options": ["El donatismo", "El montanismo", "El marcionismo"],
+      "correct": 0,
+      "hint": "Fue refutada sistemáticamente por Agustín de Hipona.",
+      "explanation": "Agustín demostró que la validez de los sacramentos depende de la acción objetiva de Jesucristo, no de la santidad subjetiva del ministro."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Antioquía defendió que «donde está el obispo, allí la comunidad».",
+      "options": ["Ignacio", "Policarpo", "Clemente"],
+      "answer": "Ignacio",
+      "explanation": "Esta centralización de la autoridad en la figura de un único obispo por ciudad unificó el culto del altar y dotó a la Iglesia de resistencia estructural."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada concepto o evento con su descripción",
+      "pairs": [
+        { "en": "Cathedra Petri", "es": "Primacía de la sede de Roma, fundada en Mateo 16,18" },
+        { "en": "Controversia del rebautismo", "es": "Enfrentó al papa Esteban con Cipriano de Cartago" },
+        { "en": "Edicto de Milán (313 d.C.)", "es": "Reconoció legalmente a la Iglesia y restituyó su patrimonio" },
+        { "en": "Litterae formatae", "es": "Cartas de comunión episcopal entre las diócesis" },
+        { "en": "Donatismo", "es": "Negaba la validez de los sacramentos administrados por clérigos indignos" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La carta de Cornelio sobre el clero de Roma",
+      "tiles": ["Roma", "tiene", "presbíteros", "diáconos", "y", "lectores", "ninguno", "pocos"],
+      "answer": "Roma tiene presbíteros diáconos y lectores",
+      "explanation": "Esta carta documenta que la diócesis de Roma contaba con un clero complejo organizado en grados para coordinar la ayuda asistencial."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué título recibía el obispo de la capital de una provincia romana, con potestad para presidir los sínodos regionales?",
+      "options": ["Metropolites", "Chorepiskopos", "Presbyteros"],
+      "correct": 0,
+      "hint": "Significa «obispo de la urbe madre».",
+      "explanation": "El metropolitano asumía la potestad canónica de convocar sínodos, ratificar elecciones episcopales y consagrar a los nuevos prelados de las urbes vecinas."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ negaba la validez de los sacramentos administrados por clérigos considerados traidores.",
+      "options": ["donatismo", "montanismo", "marcionismo"],
+      "answer": "donatismo",
+      "explanation": "Agustín de Hipona rebatió sistemáticamente a los rigoristas donatistas del norte de África."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La sucesión apostólica ininterrumpida",
+      "tiles": ["La", "imposición", "de", "manos", "transmite", "la", "verdad", "oculta", "niega"],
+      "answer": "La imposición de manos transmite la verdad",
+      "explanation": "La ortodoxia patrística ratificó que la imposición de manos transmite de forma ininterrumpida el carisma de la verdad y la custodia del depósito bíblico."
+    }
+  ]
+}
