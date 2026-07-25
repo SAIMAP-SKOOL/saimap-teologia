@@ -1,0 +1,243 @@
+{
+  "id": "1.2-mod09",
+  "module": 9,
+  "title": "San Agustín y el Cisma Donatista",
+  "subtitle": "Ex opere operato frente a la pureza sectaria del Norte de África",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Traditores", "es": "Clérigos que entregaron los libros sagrados a las autoridades durante la persecución" },
+        { "en": "Ex opere operato", "es": "La eficacia sacramental reside en la acción objetiva del rito, no en el ministro" },
+        { "en": "Ex opere operantis", "es": "Doctrina donatista: la validez depende de la rectitud moral del ministro" },
+        { "en": "Corpus Permixtum", "es": "La Iglesia terrenal como cuerpo mixto de santos y pecadores" },
+        { "en": "Circunceliones", "es": "Campesinos armados de Numidia que adoptaron el donatismo como lucha social" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál era el argumento central del donatismo sobre la validez de los sacramentos?",
+      "options": ["Que la validez depende de la dignidad y pureza moral del ministro (ex opere operantis)", "Que los sacramentos solo podían administrarse en latín romano", "Que el bautismo de niños era un sacramento nulo"],
+      "correct": 0,
+      "hint": "Sostenían que el pecado del ministro anulaba el don del Espíritu.",
+      "explanation": "El donatismo defendía que si un clérigo había claudicado durante la persecución (traditor), sus ordenaciones y bautismos carecían de validez."
+    },
+    {
+      "type": "gap",
+      "text": "Los ___ eran los clérigos que entregaron los libros sagrados a las autoridades durante la persecución de Diocleciano.",
+      "options": ["traditores", "circunceliones", "donatistas"],
+      "answer": "traditores",
+      "explanation": "Este término deriva del latín «traditio», que significa entrega de bienes."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El argumento donatista",
+      "tiles": ["Nadie", "puede", "dar", "lo", "que", "no", "tiene", "todos", "siempre"],
+      "answer": "Nadie puede dar lo que no tiene",
+      "explanation": "Según esta postura, si el ministro estaba corrupto, el sacramento administrado por él carecía de eficacia y valía espiritual."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo definió Agustín de Hipona la eficacia de los sacramentos frente a los donatistas?",
+      "options": ["Sosteniendo que el verdadero ministro es Cristo, actuando de forma objetiva (ex opere operato)", "Afirmando que dependen exclusivamente de la fe personal del receptor", "Condicionando la eficacia a la aprobación del magistrado civil"],
+      "correct": 0,
+      "hint": "El sacerdote actúa solo como instrumento canalizador.",
+      "explanation": "Agustín argumentó que la validez de los sacramentos no reside en el carácter moral del ministro, sino en la acción objetiva de Jesucristo."
+    },
+    {
+      "type": "gap",
+      "text": "El principio ___ afirma que la eficacia sacramental reside en la acción objetiva del rito, no en el ministro.",
+      "options": ["ex opere operato", "ex opere operantis", "corpus permixtum"],
+      "answer": "ex opere operato",
+      "explanation": "Esta distinción liberó a los fieles de la incertidumbre espiritual sobre sus bautismos y ordenaciones."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada concepto con la postura católica de Agustín",
+      "pairs": [
+        { "en": "Eficacia sacramental", "es": "Depende de la acción objetiva de Cristo en el rito" },
+        { "en": "Naturaleza de la Iglesia", "es": "Cuerpo mixto que alberga justos y pecadores en la tierra" },
+        { "en": "Universalidad eclesial", "es": "Extendida por todo el orbe romano universal" },
+        { "en": "Práctica de rebautismo", "es": "Prohibida porque el carácter bautismal es indeleble" },
+        { "en": "Relación con el Estado", "es": "Colaboración e instrumentalización del brazo secular" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La respuesta de Agustín",
+      "tiles": ["Cristo", "es", "el", "verdadero", "ministro", "falso", "sacerdote"],
+      "answer": "Cristo es el verdadero ministro",
+      "explanation": "El sacerdote o el obispo en el altar actúa únicamente como un instrumento canalizador de la gracia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué designaba el término «traditores» en el norte de África?",
+      "options": ["Clérigos que entregaron los libros bíblicos y vasos sagrados a las autoridades paganas", "Soldados romanos que se convertían clandestinamente al cristianismo", "Obispos que abandonaban su sede para retirarse al desierto"],
+      "correct": 0,
+      "hint": "Ocurrió durante los edictos de Diocleciano.",
+      "explanation": "Este vocablo se aplicaba a los clérigos que entregaron los textos de las Sagradas Escrituras para ser destruidos, cometiendo un pecado de apostasía."
+    },
+    {
+      "type": "gap",
+      "text": "La doctrina donatista del ___ subordinaba la validez del sacramento a la rectitud moral del ministro.",
+      "options": ["ex opere operantis", "ex opere operato", "character sacramentalis"],
+      "answer": "ex opere operantis",
+      "explanation": "Según esta postura, un obispo en estado de pecado no poseía el Espíritu Santo y no podía transmitirlo a los fieles."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué concepto eclesiológico formula Agustín frente al purismo donatista?",
+      "options": ["La Iglesia en la tierra como un corpus permixtum de santos y pecadores", "La absoluta identidad entre la Iglesia y la ciudadanía romana", "La exclusión automática de los pecadores públicos"],
+      "correct": 0,
+      "hint": "Se apoya en la parábola del trigo y la cizaña.",
+      "explanation": "Agustín aclara que la Iglesia histórica es un cuerpo mixto donde conviven el trigo y la cizaña hasta el juicio escatológico final."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es la imagen agustiniana de la Iglesia terrenal como un cuerpo de santos y pecadores.",
+      "options": ["Corpus Permixtum", "Corpus Christianorum", "Collegium Licitum"],
+      "answer": "Corpus Permixtum",
+      "explanation": "Esta imagen eclesiológica define a la Iglesia terrenal como un cuerpo mixto hasta el juicio escatológico."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La marca militar del bautismo",
+      "tiles": ["La", "marca", "del", "soldado", "permanece", "siempre", "desaparece", "nunca"],
+      "answer": "La marca del soldado permanece siempre",
+      "explanation": "Agustín ilustró el carácter sacramental indeleble con la analogía de la marca militar de los soldados romanos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién fue elegido líder de la facción rigorista tras la muerte de Mayorino, dando nombre al movimiento donatista?",
+      "options": ["Donato de Casae Nigrae", "Secundo de Tigisi", "Petiliano de Cirta"],
+      "correct": 0,
+      "hint": "El movimiento tomó su nombre.",
+      "explanation": "Donato estructuró la nueva organización con un celo implacable, autoproclamándose el único obispo legítimo de la provincia."
+    },
+    {
+      "type": "gap",
+      "text": "___, obispo de Cartago, fue consagrado apresuradamente, desatando el cisma donatista.",
+      "options": ["Ceciliano", "Donato", "Mayorino"],
+      "answer": "Ceciliano",
+      "explanation": "Su consagración fue realizada por Félix de Aptunga, acusado de ser traditor por la facción rigorista."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada persona con su papel en el cisma",
+      "pairs": [
+        { "en": "Ceciliano", "es": "Obispo de Cartago cuya consagración fue impugnada, origen del cisma" },
+        { "en": "Donato de Casae Nigrae", "es": "Dio nombre al movimiento, negó validez a los sacramentos católicos" },
+        { "en": "Agustín de Hipona", "es": "Refutó el donatismo con el ex opere operato y el Corpus Permixtum" },
+        { "en": "Petiliano de Cirta", "es": "Obispo donatista que argumentó que solo manos puras podían bautizar" },
+        { "en": "Marcelino", "es": "Comisionado imperial que presidió la Conferencia de Cartago del 411" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El Corpus Permixtum",
+      "tiles": ["El", "trigo", "y", "la", "cizaña", "crecen", "juntos", "separados", "solos"],
+      "answer": "El trigo y la cizaña crecen juntos",
+      "explanation": "Agustín demostró que la Iglesia en este mundo alberga necesariamente tanto a santos como a pecadores."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué analogía usó Agustín para explicar el carácter sacramental indeleble del bautismo?",
+      "options": ["La marca militar (stigma) de los soldados romanos", "El sello de cera de las cartas imperiales", "La cicatriz de un mártir"],
+      "correct": 0,
+      "hint": "Se refería a un soldado desertor.",
+      "explanation": "Si un soldado desertaba de las filas, la marca grabada en su cuerpo seguía siendo real y válida, aunque no sirviera al emperador."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Casae Nigrae dio nombre al movimiento donatista tras la muerte de Mayorino.",
+      "options": ["Donato", "Petiliano", "Secundo"],
+      "answer": "Donato",
+      "explanation": "Bajo su dirección, el donatismo se transformó en una Iglesia paralela que reclamaba representar a la verdadera Iglesia de los mártires."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La consigna de Donato",
+      "tiles": ["Qué", "tiene", "que", "ver", "el", "emperador", "con", "la", "Iglesia", "todo", "nada"],
+      "answer": "Qué tiene que ver el emperador con la Iglesia",
+      "explanation": "Esta consigna reflejaba la teología política de la no-colaboración de los donatistas con el poder secular."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué grupo de campesinos armados actuó como brazo violento del donatismo en las zonas rurales?",
+      "options": ["Los circunceliones", "Los parabolanos", "Los monjes de Nitria"],
+      "correct": 0,
+      "hint": "Portaban mazas que llamaban «israelitas».",
+      "explanation": "Armados con estas mazas, atacaban las propiedades de los terratenientes católicos y liberaban esclavos."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Hipona refutó el donatismo con la doctrina del ex opere operato.",
+      "options": ["Agustín", "Ambrosio", "Jerónimo"],
+      "answer": "Agustín",
+      "explanation": "Tras su consagración episcopal en el año 395 d.C., dedicó numerosas obras a desmantelar los fundamentos del donatismo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o concepto con su descripción",
+      "pairs": [
+        { "en": "Sínodo de Letrán (313 d.C.)", "es": "Declaró inocente a Ceciliano bajo el obispo Melquíades" },
+        { "en": "Concilio de Arles (314 d.C.)", "es": "Rechazó la eclesiología donatista y afirmó la validez del bautismo" },
+        { "en": "Conferencia de Cartago (411 d.C.)", "es": "Sentenció formalmente a favor de la causa católica" },
+        { "en": "Character sacramentalis", "es": "Marca indeleble del bautismo, comparada con la marca militar romana" },
+        { "en": "Invasión vándala (429 d.C.)", "es": "Aceleró la decadencia irreversible del donatismo" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La caridad según Agustín",
+      "tiles": ["Sin", "caridad", "los", "sacramentos", "no", "aprovechan", "con", "siempre"],
+      "answer": "Sin caridad los sacramentos no aprovechan",
+      "explanation": "Agustín sostuvo que sin la caridad que une a los creyentes en un solo cuerpo, los sacramentos carecen de provecho para la salvación."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué comisionado imperial presidió la Conferencia de Cartago del año 411 d.C.?",
+      "options": ["Marcelino", "Honorio", "Constantino"],
+      "correct": 0,
+      "hint": "Era amigo cercano de Agustín de Hipona.",
+      "explanation": "Este devoto cristiano dictó sentencia formal a favor de la causa católica al finalizar las sesiones."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ del año 411 d.C. sentenció formalmente a favor de la causa católica.",
+      "options": ["Conferencia de Cartago", "Conferencia de Arles", "Conferencia de Roma"],
+      "answer": "Conferencia de Cartago",
+      "explanation": "Esta asamblea congregó a 286 obispos católicos y 279 obispos donatistas en un juicio forense formal."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La coerción benevolente",
+      "tiles": ["Obliga", "a", "entrar", "en", "la", "comunión", "prohíbe", "salir"],
+      "answer": "Obliga a entrar en la comunión",
+      "explanation": "Agustín justificó la intervención de las leyes imperiales apelando a la parábola del banquete nupcial."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué invasión aceleró la decadencia irreversible del donatismo en el año 429 d.C.?",
+      "options": ["La invasión de los vándalos", "La invasión de los visigodos", "La invasión persa"],
+      "correct": 0,
+      "hint": "Los invasores eran arrianos.",
+      "explanation": "Estos invasores germánicos persiguieron tanto a católicos como a donatistas, destruyendo las estructuras del poder romano."
+    },
+    {
+      "type": "gap",
+      "text": "El comisionado imperial ___ presidió la Conferencia de Cartago del 411 d.C.",
+      "options": ["Marcelino", "Honorio", "Candidiano"],
+      "answer": "Marcelino",
+      "explanation": "Declaró que los donatistas habían fracasado en probar sus acusaciones contra Ceciliano y Félix de Aptunga."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La sentencia de Marcelino en Cartago",
+      "tiles": ["Los", "donatistas", "perdieron", "sus", "basílicas", "ganaron", "conservaron"],
+      "answer": "Los donatistas perdieron sus basílicas",
+      "explanation": "El veredicto ordenaba la transferencia de sus propiedades a la Iglesia católica y la condena de sus prácticas de rebautismo."
+    }
+  ]
+}

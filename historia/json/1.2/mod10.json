@@ -1,0 +1,243 @@
+{
+  "id": "1.2-mod10",
+  "module": 10,
+  "title": "La Controversia Pelagiana y la Gracia",
+  "subtitle": "De Pelagio a Agustín y el Segundo Concilio de Orange",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Peccatum originale", "es": "El pecado de Adán transmitido a su descendencia por generación" },
+        { "en": "Gratia gratis data", "es": "La gracia dada gratuitamente por Dios, necesaria para mover la voluntad" },
+        { "en": "Liberum arbitrium", "es": "Libre albedrío: facultad de la voluntad para elegir, dañada pero no destruida" },
+        { "en": "Massa damnata", "es": "Condición desamparada de la humanidad caída bajo el pecado original" },
+        { "en": "Semipelagianismo", "es": "Corriente que sostenía que el inicio de la fe procede de la voluntad humana" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál era la tesis antropológica fundamental de Pelagio condenada en el siglo V?",
+      "options": ["Que el ser humano nace neutro y puede salvarse por sus propias fuerzas sin la gracia divina interna", "Que el ser humano está predestinado al mal absoluto sin libre albedrío", "Que el alma humana es de naturaleza idéntica a la sustancia divina"],
+      "correct": 0,
+      "hint": "Defendía un optimismo moral radical.",
+      "explanation": "Pelagio afirmaba que el pecado de Adán fue solo un mal ejemplo y no dañó la naturaleza humana, por lo que el hombre puede salvarse usando solo su libre albedrío."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el pecado de Adán transmitido a su descendencia por generación biológica.",
+      "options": ["peccatum originale", "liberum arbitrium", "massa damnata"],
+      "answer": "peccatum originale",
+      "explanation": "Este pecado se transmite de Adán a su descendencia, debilitando la naturaleza humana y privándola de la justicia original."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El optimismo de Pelagio",
+      "tiles": ["El", "hombre", "puede", "no", "pecar", "por", "sí", "mismo", "necesita", "ayuda"],
+      "answer": "El hombre puede no pecar por sí mismo",
+      "explanation": "Pelagio sostenía el posse non peccare: el hombre posee de forma natural la capacidad de no pecar."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Agustín el impacto del pecado original en la condición humana?",
+      "options": ["Como una herida heredada (massa damnata) que daña el libre albedrío, requiriendo la gracia sanadora", "Como una herida superficial que no afecta la libre elección", "Como la total aniquilación física del alma humana"],
+      "correct": 0,
+      "hint": "El hombre requiere el auxilio sobrenatural de la gracia.",
+      "explanation": "Agustín enseñó que el pecado original introdujo un desorden intrínseco que debilitó la libertad humana, requiriendo la gracia divina para obrar el bien."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la gracia dada gratuitamente por Dios, necesaria para mover la voluntad humana.",
+      "options": ["gratia gratis data", "gratia cooperans", "initium fidei"],
+      "answer": "gratia gratis data",
+      "explanation": "Esta gracia es concedida por la pura benevolencia de Dios, con total independencia de los méritos previos del hombre."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada concepto con la postura de Agustín",
+      "pairs": [
+        { "en": "Pecado Original", "es": "Transmisión universal por propagación física, massa damnata" },
+        { "en": "Libre Albedrío", "es": "Gravemente dañado por la caída, requiere la gracia" },
+        { "en": "Gracia Divina", "es": "Fuerza interna e infundida indispensable para mover la voluntad" },
+        { "en": "Inicio de la Fe", "es": "Don divino preveniente que precede a cualquier mérito humano" },
+        { "en": "Predestinación", "es": "Incondicional, basada en la soberanía y misericordia de Dios" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La respuesta de Agustín sobre la gracia",
+      "tiles": ["El", "hombre", "necesita", "la", "gracia", "de", "Dios", "rechaza", "nunca"],
+      "answer": "El hombre necesita la gracia de Dios",
+      "explanation": "Sin este auxilio divino constante, todo esfuerzo moral humano resulta estéril para la salvación."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué sostenía el pelagianismo respecto al bautismo de los recién nacidos?",
+      "options": ["Que no se administraba para remitir una culpa heredada, sino para la adopción y entrada en el Reino", "Que debía prohibirse por ser sacrílego", "Que debía retrasarse hasta la madurez intelectual"],
+      "correct": 0,
+      "hint": "Negaban que los niños nacieran con el pecado de Adán.",
+      "explanation": "Puesto que Pelagio negaba la transmisión del pecado original, el bautismo infantil no borraba culpa alguna sino que actuaba como consagración positiva."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es la facultad de la voluntad para elegir entre el bien y el mal, dañada pero no destruida.",
+      "options": ["liberum arbitrium", "peccatum originale", "libertas"],
+      "answer": "liberum arbitrium",
+      "explanation": "Según Agustín, esta facultad permanece en el hombre después de la caída, aunque debilitada y sujeta a la concupiscencia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la definición agustiniana de la gracia frente al cumplimiento de la ley?",
+      "options": ["Un don gratuito interno del Espíritu que infunde el amor para cumplir la ley de corazón", "El simple conocimiento racional de los mandamientos", "La recompensa merecida por los méritos previos"],
+      "correct": 0,
+      "hint": "No es mera instrucción externa.",
+      "explanation": "Agustín insiste en que la gracia es una infusión espiritual íntima que capacita y deleita al alma para obrar en consonancia con la ley."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ describe la condición desamparada de la humanidad caída bajo el pecado original.",
+      "options": ["massa damnata", "gratia gratis data", "concupiscencia"],
+      "answer": "massa damnata",
+      "explanation": "Esta condición, incapaz de salvarse sin la intervención electiva divina, es un concepto central de la teología agustiniana."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La massa damnata",
+      "tiles": ["Toda", "la", "humanidad", "pecó", "en", "Adán", "nadie", "Cristo"],
+      "answer": "Toda la humanidad pecó en Adán",
+      "explanation": "Agustín interpretaba que toda la humanidad pecó colectivamente en la persona de Adán, como si estuviera contenida seminalmente en él."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién sistematizó radicalmente las tesis de Pelagio en Cartago hacia el año 411 d.C.?",
+      "options": ["Celestio", "Julián de Eclana", "Juan Casiano"],
+      "correct": 0,
+      "hint": "Era un abogado romano.",
+      "explanation": "Celestio afirmaba que la muerte física de Adán no fue consecuencia del pecado, sino una necesidad biológica natural."
+    },
+    {
+      "type": "gap",
+      "text": "___, monje britano, defendía que el hombre puede cumplir los mandamientos por sus propios medios.",
+      "options": ["Pelagio", "Celestio", "Julián"],
+      "answer": "Pelagio",
+      "explanation": "Para este asceta, la creación del hombre implicaba una dotación de facultades morales intactas e inmunes a la corrupción."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada persona con su papel en la controversia",
+      "pairs": [
+        { "en": "Pelagio", "es": "Monje britano que defendía la capacidad natural del hombre para no pecar" },
+        { "en": "Celestio", "es": "Abogado romano, sistematizador radical de las tesis pelagianas" },
+        { "en": "Agustín de Hipona", "es": "Desarrolló la doctrina del pecado original y la gracia preveniente" },
+        { "en": "Julián de Eclana", "es": "Obispo pelagiano que acusó a Agustín de maniqueísmo" },
+        { "en": "Juan Casiano", "es": "Abad de Marsella, líder del semipelagianismo" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La condena de Celestio en Cartago",
+      "tiles": ["Los", "niños", "nacen", "con", "pecado", "original", "sin", "puro"],
+      "answer": "Los niños nacen con pecado original",
+      "explanation": "Los obispos africanos argumentaron que si el hombre pudiera salvarse por sus fuerzas naturales, el bautismo carecería de sentido salvífico."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué carta del papa Zósimo condenó definitivamente a Pelagio y Celestio en el año 418 d.C.?",
+      "options": ["La Epistola Tractoria", "El Tomus ad Flavianum", "El Henotikon"],
+      "correct": 0,
+      "hint": "Fue enviada a todos los obispos del orbe cristiano.",
+      "explanation": "Esta carta circular exigía la firma obligatoria de todos los obispos, consolidando la condena definitiva del pelagianismo."
+    },
+    {
+      "type": "gap",
+      "text": "___, abogado romano, sistematizó las tesis de Pelagio en Cartago hacia el año 411 d.C.",
+      "options": ["Celestio", "Pelagio", "Casiano"],
+      "answer": "Celestio",
+      "explanation": "Su doctrina negaba que el pecado original fuera un concepto teológicamente sostenible."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La Epistola Tractoria de Zósimo",
+      "tiles": ["Pelagio", "y", "Celestio", "quedan", "condenados", "absueltos", "perdonados"],
+      "answer": "Pelagio y Celestio quedan condenados",
+      "explanation": "El papa Zósimo promulgó esta carta encíclica asumiendo las definiciones dogmáticas de los sínodos africanos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obispo pelagiano acusó a Agustín de revivir el dualismo maniqueo con su doctrina de la concupiscencia?",
+      "options": ["Julián de Eclana", "Celestio", "Juan Casiano"],
+      "correct": 0,
+      "hint": "Mantuvo una contienda con Agustín durante más de una década.",
+      "explanation": "Sostenía que la concupiscencia descrita por Agustín era en realidad un insulto al Creador del cuerpo humano."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Hipona desarrolló la doctrina del pecado original y la gracia preveniente.",
+      "options": ["Agustín", "Ambrosio", "Jerónimo"],
+      "answer": "Agustín",
+      "explanation": "Su insistencia sistemática en la soberanía salvífica de Dios configuró la espiritualidad de la Iglesia latina."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Sínodo de Cartago (411 d.C.)", "es": "Condenó a Celestio por primera vez" },
+        { "en": "Concilio de Cartago (418 d.C.)", "es": "Promulgó nueve cánones contra el pelagianismo" },
+        { "en": "Epistola Tractoria", "es": "Carta del papa Zósimo que condenó definitivamente a Pelagio y Celestio" },
+        { "en": "Concilio de Éfeso (431 d.C.)", "es": "Ratificó la condena del pelagianismo junto con la de Nestorio" },
+        { "en": "Segundo Concilio de Orange (529 d.C.)", "es": "Condenó el semipelagianismo y afirmó la gracia preveniente" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El semipelagianismo de Casiano",
+      "tiles": ["La", "voluntad", "busca", "a", "Dios", "primero", "después", "nunca"],
+      "answer": "La voluntad busca a Dios primero",
+      "explanation": "Para Casiano, el primer movimiento de la fe surge del libre deseo de la voluntad del hombre antes de recibir la gracia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué corriente galorromana sostenía que el inicio de la fe procede de la voluntad humana, condenada en el año 529 d.C.?",
+      "options": ["El semipelagianismo", "El donatismo", "El nestorianismo"],
+      "correct": 0,
+      "hint": "Fue liderada por Juan Casiano de Marsella.",
+      "explanation": "Esta corriente fue condenada en el Segundo Concilio de Orange, que afirmó que el inicio de la fe es obra del Espíritu Santo."
+    },
+    {
+      "type": "gap",
+      "text": "El Concilio de ___ (418 d.C.) promulgó nueve cánones contra el pelagianismo.",
+      "options": ["Cartago", "Éfeso", "Orange"],
+      "answer": "Cartago",
+      "explanation": "Los cánones anatematizaron a quienes negaran que los niños contraen el pecado de origen que debe ser lavado por el bautismo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La condena de Orange al semipelagianismo",
+      "tiles": ["El", "Espíritu", "Santo", "inicia", "la", "fe", "hombre", "voluntad"],
+      "answer": "El Espíritu Santo inicia la fe",
+      "explanation": "El concilio decretó que el inicio del deseo de la fe es fruto directo de la acción previa e inspiradora del Espíritu Santo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué concilio celebrado en la Provenza en el año 529 d.C. cerró definitivamente la controversia pelagiana?",
+      "options": ["El Segundo Concilio de Orange", "El Concilio de Arlés", "El Concilio de Cartago"],
+      "correct": 0,
+      "hint": "Fue presidido por el arzobispo Cesáreo de Arlés.",
+      "explanation": "Este concilio afirmó que tanto el inicio de la fe como la conversión de la voluntad son fruto de la acción del Espíritu Santo."
+    },
+    {
+      "type": "gap",
+      "text": "El Segundo Concilio de ___ (529 d.C.) condenó el semipelagianismo.",
+      "options": ["Orange", "Arlés", "Nicea"],
+      "answer": "Orange",
+      "explanation": "Este sínodo, confirmado por el papa Bonifacio II, adquirió vigencia dogmática permanente en toda la Iglesia occidental."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La analogía del enfermo (Agustín)",
+      "tiles": ["El", "hombre", "es", "un", "enfermo", "que", "necesita", "cirujano", "sano", "mapa"],
+      "answer": "El hombre es un enfermo que necesita cirujano",
+      "explanation": "Frente al caminante sano de Pelagio, Agustín compara al hombre caído con un enfermo que necesita un cirujano y un medicamento."
+    }
+  ]
+}
