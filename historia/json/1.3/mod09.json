@@ -1,0 +1,243 @@
+{
+  "id": "1.3-mod09",
+  "module": 9,
+  "title": "El Surgimiento de las Órdenes Mendicantes",
+  "subtitle": "Francisco de Asís, Domingo de Guzmán y la pobreza evangélica",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Mendicante", "es": "Orden religiosa que renunció a toda propiedad, sosteniéndose del trabajo manual y la limosna" },
+        { "en": "Vita Apostolica", "es": "Ideal de vida religiosa que reproduce la existencia de la comunidad primitiva de Jerusalén" },
+        { "en": "Regula Bullata", "es": "Regla franciscana definitiva de 1223, confirmada por la bula Solet annuere" },
+        { "en": "Studium Generale", "es": "Casa de estudios mendicante en las principales ciudades universitarias" },
+        { "en": "Fuga Mundi", "es": "Ideal monástico benedictino-cisterciense de retiro rural, alejado de las ciudades" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué factor histórico explica principalmente la necesidad pastoral que dio origen a las órdenes mendicantes?",
+      "options": ["El crecimiento urbano y el atractivo de los movimientos de pobreza evangélica, algunos heterodoxos, ante la desatención pastoral del clero tradicional", "La decisión personal de Inocencio III de reducir el número de monasterios rurales", "La prohibición explícita del monacato benedictino decretada en el IV Concilio de Letrán"],
+      "correct": 0,
+      "hint": "El clero secular urbano no lograba atender a la nueva población monetizada.",
+      "explanation": "El crecimiento de las ciudades generó necesidades espirituales que ni la parroquia secular ni el monacato rural podían atender."
+    },
+    {
+      "type": "gap",
+      "text": "El término ___ describe a las órdenes religiosas que renunciaron a toda propiedad, sosteniéndose de la limosna.",
+      "options": ["Mendicante", "Fuga Mundi", "Studium Generale"],
+      "answer": "Mendicante",
+      "explanation": "Proviene del latín mendicare, 'pedir limosna'."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La renuncia de Francisco",
+      "tiles": ["Francisco", "renunció", "a", "la", "herencia", "paterna", "aceptó", "reclamó"],
+      "answer": "Francisco renunció a la herencia paterna",
+      "explanation": "En 1206, ante el obispo Guido de Asís, devolvió a su padre las ropas y el dinero reclamados."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo debe valorarse históricamente el episodio de los estigmas de Francisco de Asís en La Verna (1224)?",
+      "options": ["Como un hecho de fe atestiguado tempranamente por fuentes cercanas, cuya naturaleza sobrenatural escapa a la verificación histórica positiva", "Como un suceso sin ningún tipo de respaldo documental cercano a la vida del santo", "Como una leyenda tardía inventada íntegramente por las Florecillas del siglo XIV"],
+      "correct": 0,
+      "hint": "El hermano Elías redactó una carta encíclica poco después.",
+      "explanation": "El rigor historiográfico distingue entre la creencia contemporánea bien atestiguada y la imposibilidad de verificar históricamente su carácter sobrenatural."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es el ideal de vida religiosa que aspira a reproducir la existencia de la comunidad primitiva de Jerusalén.",
+      "options": ["Vita Apostolica", "Regula Bullata", "Fuga Mundi"],
+      "answer": "Vita Apostolica",
+      "explanation": "Estaba marcada por la pobreza voluntaria, la predicación itinerante y la vida común, según Hechos de los Apóstoles."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada aspecto con la orden mendicante correspondiente",
+      "pairs": [
+        { "en": "Fundador de los Franciscanos", "es": "Francisco de Asís (c. 1181/82–1226)" },
+        { "en": "Fundador de los Dominicos", "es": "Domingo de Guzmán (c. 1170–1221)" },
+        { "en": "Origen del carisma franciscano", "es": "Conversión personal e imitación literal de la pobreza de Cristo" },
+        { "en": "Origen del carisma dominico", "es": "Respuesta pastoral organizada frente al catarismo en el Languedoc" },
+        { "en": "Aprobación pontificia dominica", "es": "Bulas de Honorio III (diciembre de 1216)" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La aprobación de Inocencio III",
+      "tiles": ["Inocencio", "III", "aprobó", "oralmente", "la", "fraternidad", "rechazó", "prohibió"],
+      "answer": "Inocencio III aprobó oralmente la fraternidad",
+      "explanation": "Hacia 1209/1210 aprobó de forma oral el propositum vitae de Francisco, sin bula formal todavía."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál fue el detonante inmediato que orientó a Domingo de Guzmán hacia la fundación de la Orden de Predicadores?",
+      "options": ["El contacto con el catarismo en el Languedoc y la constatación de que la predicación pomposa de los legados cistercienses resultaba ineficaz frente al testimonio ascético de los 'perfectos'", "Su participación directa como combatiente en la cruzada albigense de 1209", "Un encargo directo del rey Alfonso VIII de Castilla para fundar una orden militar"],
+      "correct": 0,
+      "hint": "El encuentro clave fue en Montpellier en 1206.",
+      "explanation": "Domingo y el obispo Diego de Acevedo propusieron adoptar la pobreza itinerante como estrategia más eficaz frente al catarismo."
+    },
+    {
+      "type": "gap",
+      "text": "___ distribuyó sus bienes entre los pobres hacia 1173 y organizó predicadores laicos itinerantes.",
+      "options": ["Valdo", "Domingo de Guzmán", "Francisco de Asís"],
+      "answer": "Valdo",
+      "explanation": "Su movimiento, conocido como valdense o 'pobres de Lyon', fue condenado en el Sínodo de Verona de 1184."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Francisco de Asís", "es": "Fundó la Orden de Hermanos Menores, recibió los estigmas en La Verna" },
+        { "en": "Domingo de Guzmán", "es": "Fundó la Orden de Predicadores, formado en el cabildo catedralicio de Osma" },
+        { "en": "Valdo (Pedro Valdo)", "es": "Mercader lionés que fundó el movimiento de los valdenses hacia 1173" },
+        { "en": "Inocencio III", "es": "Papa que aprobó oralmente a Francisco y convocó la cruzada albigense" },
+        { "en": "Diego de Acevedo", "es": "Obispo de Osma que propuso la predicación pobre e itinerante en Montpellier" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La fundación dominica",
+      "tiles": ["Domingo", "fundó", "la", "Orden", "de", "Predicadores", "disolvió", "ignoró"],
+      "answer": "Domingo fundó la Orden de Predicadores",
+      "explanation": "Recibió confirmación pontificia definitiva mediante bulas de Honorio III en diciembre de 1216."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la diferencia de carisma fundamental entre franciscanos y dominicos según el consenso historiográfico?",
+      "options": ["El carisma franciscano se centró en la pobreza y la fraternidad como imitación de Cristo, mientras que el dominico se orientó desde el origen hacia la predicación doctrinal y el estudio", "Los franciscanos rechazaron siempre cualquier forma de pobreza, mientras que los dominicos la impusieron con rigor", "Los dominicos evitaron sistemáticamente el estudio teológico, mientras que los franciscanos lo convirtieron en su prioridad fundacional"],
+      "correct": 0,
+      "hint": "Ambas comparten la pobreza corporativa como mendicantes.",
+      "explanation": "El acento fundacional franciscano recae en la fraternidad, mientras que el dominico nace orientado hacia la predicación argumentada."
+    },
+    {
+      "type": "gap",
+      "text": "El Sínodo de ___ (1184 d.C.) condenó formalmente el movimiento valdense como herético.",
+      "options": ["Verona", "Toulouse", "Letrán"],
+      "answer": "Verona",
+      "explanation": "Se celebró bajo el pontificado de Lucio III, tras la cautela inicial del Tercer Concilio de Letrán de 1179."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El testimonio de los perfectos",
+      "tiles": ["Los", "perfectos", "vivían", "en", "pobreza", "radical", "riqueza", "lujo"],
+      "answer": "Los perfectos vivían en pobreza radical",
+      "explanation": "Su testimonio ascético contrastaba favorablemente con el clero católico regional percibido como mundano."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué mercader lionés distribuyó sus bienes hacia 1173 y fundó el movimiento valdense?",
+      "options": ["Valdo (Pedro Valdo)", "Domingo de Guzmán", "Francisco de Asís"],
+      "correct": 0,
+      "hint": "También se le conoce como Pedro Valdo.",
+      "explanation": "Su insistencia en predicar sin licencia episcopal generó un conflicto jurisdiccional con la jerarquía eclesiástica."
+    },
+    {
+      "type": "gap",
+      "text": "Francisco de Asís rompió públicamente con su padre en el año ___ ante el obispo Guido de Asís.",
+      "options": ["1206", "1202", "1209"],
+      "answer": "1206",
+      "explanation": "Se despojó incluso de sus vestiduras en la plaza pública como gesto simbólico de renuncia total."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Sínodo de Verona (1184 d.C.)", "es": "Condenó formalmente el movimiento valdense como herético" },
+        { "en": "Aprobación oral de Inocencio III (1209/1210)", "es": "Insertó a la fraternidad franciscana en la obediencia jerárquica" },
+        { "en": "Regla de 1221 (Regula non bullata)", "es": "Regla franciscana provisional, de carácter extenso" },
+        { "en": "Bula Solet annuere (1223 d.C.)", "es": "Confirmó la Regla franciscana definitiva" },
+        { "en": "Bulas Religiosam vitam (diciembre de 1216)", "es": "Confirmaron canónicamente la Orden de Predicadores" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La propuesta de Montpellier",
+      "tiles": ["Diego", "de", "Acevedo", "propuso", "la", "predicación", "pobre", "rechazó"],
+      "answer": "Diego de Acevedo propuso la predicación pobre",
+      "explanation": "En 1206, en Montpellier, propuso a los legados cistercienses abandonar el aparato de comitiva y predicar itinerantes."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué año murió Francisco de Asís en Asís?",
+      "options": ["1226 d.C.", "1221 d.C.", "1228 d.C."],
+      "correct": 0,
+      "hint": "Fue canonizado apenas dos años después.",
+      "explanation": "Murió el 3 de octubre de 1226 y fue canonizado el 16 de julio de 1228 por Gregorio IX."
+    },
+    {
+      "type": "gap",
+      "text": "En septiembre de 1224 d.C., Francisco recibió los estigmas durante un retiro en el monte de ___.",
+      "options": ["La Verna", "Osma", "Prouille"],
+      "answer": "La Verna",
+      "explanation": "El hermano Elías redactó una carta encíclica sobre el fenómeno poco después de la muerte de Francisco."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El envío a las universidades",
+      "tiles": ["Domingo", "envió", "frailes", "a", "las", "universidades", "monasterios", "aldeas"],
+      "answer": "Domingo envió frailes a las universidades",
+      "explanation": "Ya en 1217 dispersó a sus primeros compañeros hacia París y Bolonia para formarse académicamente."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué papa canonizó a Francisco de Asís apenas dos años después de su muerte, en 1228 d.C.?",
+      "options": ["Gregorio IX", "Honorio III", "Inocencio III"],
+      "correct": 0,
+      "hint": "Antes había sido el cardenal Ugolino di Conti, protector jurídico de la Orden.",
+      "explanation": "También canonizaría a Domingo de Guzmán en 1234 d.C."
+    },
+    {
+      "type": "gap",
+      "text": "La Regla franciscana definitiva de 1223, la ___, fue confirmada por la bula Solet annuere.",
+      "options": ["Regula Bullata", "Regula non bullata", "Vita Apostolica"],
+      "answer": "Regula Bullata",
+      "explanation": "Fijó de manera estable los votos, la estructura de gobierno y el ideal de pobreza absoluta de la Orden."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La canonización franciscana",
+      "tiles": ["Gregorio", "IX", "canonizó", "a", "Francisco", "excomulgó", "rechazó"],
+      "answer": "Gregorio IX canonizó a Francisco",
+      "explanation": "Este acto reflejó tanto la fama de santidad de Francisco como el interés de la Santa Sede en consolidar el prestigio de la Orden."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A qué ciudades dispersó Domingo a sus primeros compañeros en 1217 d.C. para formarse académicamente?",
+      "options": ["París y Bolonia", "Oxford y Cambridge", "Toledo y Salamanca"],
+      "correct": 0,
+      "hint": "Fueron los grandes centros universitarios de la época.",
+      "explanation": "Esto anticipó la vocación académica que distinguiría a la Orden, con figuras como Alberto Magno y Tomás de Aquino."
+    },
+    {
+      "type": "gap",
+      "text": "___ fue el obispo de Osma que propuso en Montpellier la predicación pobre e itinerante contra el catarismo.",
+      "options": ["Diego de Acevedo", "Pierre de Castelnau", "Fulco de Toulouse"],
+      "answer": "Diego de Acevedo",
+      "explanation": "Falleció en diciembre de 1207, dejando a Domingo al frente del pequeño núcleo de predicadores."
+    },
+    {
+      "type": "gap",
+      "text": "La Orden de Predicadores fue confirmada canónicamente mediante bulas de Honorio III en diciembre de ___.",
+      "options": ["1216", "1210", "1223"],
+      "answer": "1216",
+      "explanation": "Inocencio III había fallecido en julio de ese mismo año sin formalizar la aprobación que había prometido verbalmente."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué año murió Domingo de Guzmán en Bolonia?",
+      "options": ["1221 d.C.", "1226 d.C.", "1216 d.C."],
+      "correct": 0,
+      "hint": "Fue canonizado en 1234 d.C.",
+      "explanation": "Murió el 6 de agosto de 1221, también canonizado posteriormente por Gregorio IX."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El movimiento valdense",
+      "tiles": ["Valdo", "predicó", "la", "pobreza", "voluntaria", "acumuló", "riquezas"],
+      "answer": "Valdo predicó la pobreza voluntaria",
+      "explanation": "Su movimiento conectó con una sensibilidad religiosa popular que buscaba una experiencia de fe más directa."
+    }
+  ]
+}

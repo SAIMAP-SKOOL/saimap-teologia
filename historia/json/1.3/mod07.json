@@ -1,0 +1,243 @@
+{
+  "id": "1.3-mod07",
+  "module": 7,
+  "title": "Las Cruzadas y la Mentalidad de Cristiandad Militar",
+  "subtitle": "De Clermont a la Cuarta Cruzada: la guerra santa y las órdenes militares",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Indulgencia Plenaria", "es": "Remisión total de la pena temporal debida por el pecado, concedida a los cruzados devotos" },
+        { "en": "Bellum Iustum", "es": "Doctrina agustiniana: la guerra solo es lícita con autoridad legítima, causa justa y recta intención" },
+        { "en": "Milites Christi", "es": "'Soldados de Cristo', miembros de las órdenes militares que combinaban votos monásticos con función bélica" },
+        { "en": "Imperio Latino de Constantinopla", "es": "Estado feudal de rito latino instaurado tras el saqueo de Constantinopla en 1204 d.C." },
+        { "en": "Crucesignatus", "es": "'Signado con la cruz', término que dio origen a la palabra 'cruzado'" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué elemento teológico distingue de forma decisiva la 'guerra santa' cruzada respecto de la doctrina clásica de la 'guerra justa' agustiniana?",
+      "options": ["La concesión de la indulgencia plenaria como remisión meritoria de la pena por el pecado ligada a la participación armada", "La exigencia de que la guerra sea declarada por una autoridad legítima", "La prohibición absoluta de derramar sangre humana en cualquier circunstancia"],
+      "correct": 0,
+      "hint": "Este elemento soteriológico estaba ausente en la doctrina de San Agustín.",
+      "explanation": "La gran novedad teológica de la cruzada vinculó la propia participación armada con la remisión total de la pena temporal debida por el pecado."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la remisión total de la pena temporal debida por el pecado, concedida a los cruzados.",
+      "options": ["Indulgencia Plenaria", "Bellum Iustum", "Milites Christi"],
+      "answer": "Indulgencia Plenaria",
+      "explanation": "Se concedía a quienes participaran en la cruzada con espíritu de devoción y no por afán de gloria o lucro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El llamamiento de Clermont",
+      "tiles": ["Urbano", "II", "predicó", "la", "cruzada", "rechazó", "prohibió"],
+      "answer": "Urbano II predicó la cruzada",
+      "explanation": "Lo hizo en el Concilio de Clermont en noviembre de 1095 d.C., ofreciendo la indulgencia plenaria a los participantes."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál fue el argumento central que San Bernardo de Claraval desarrolló en 'De Laude Novae Militiae' para justificar el homicidio en combate cometido por los templarios?",
+      "options": ["La distinción entre 'homicidium' (matar a un hombre por odio) y 'malicidium' (eliminar el mal encarnado en el enemigo)", "La afirmación de que los templarios estaban exentos de toda norma moral por su condición monástica", "La idea de que el combate cruzado no implicaba derramamiento real de sangre"],
+      "correct": 0,
+      "hint": "El templario que moría en combate alcanzaba la corona del martirio.",
+      "explanation": "Bernardo argumentó que el templario desprovisto de odio personal no incurría en homicidio propiamente dicho, sino en la eliminación del mal."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es la doctrina agustiniana según la cual la guerra solo es lícita con autoridad legítima y causa justa.",
+      "options": ["Bellum Iustum", "Milites Christi", "Crucesignatus"],
+      "answer": "Bellum Iustum",
+      "explanation": "Para Agustín, la guerra jamás constituía un medio de mérito espiritual, sino un recurso disciplinar correctivo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cruzada con su desenlace",
+      "pairs": [
+        { "en": "Primera Cruzada (1095-1099)", "es": "Godofredo de Bouillon conquista Jerusalén el 15 de julio de 1099" },
+        { "en": "Segunda Cruzada (1147-1149)", "es": "Predicada por Bernardo; fracaso ante los muros de Damasco en 1148" },
+        { "en": "Tercera Cruzada (1189-1192)", "es": "Ricardo Corazón de León negocia el Tratado de Jafa de 1192" },
+        { "en": "Cuarta Cruzada (1202-1204)", "es": "Saqueo de Constantinopla e instauración del Imperio Latino" },
+        { "en": "Cruzada de Federico II (1229)", "es": "Restitución diplomática de Jerusalén sin librar batalla" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La conquista de Jerusalén",
+      "tiles": ["Los", "cruzados", "conquistaron", "Jerusalén", "perdieron", "defendieron"],
+      "answer": "Los cruzados conquistaron Jerusalén",
+      "explanation": "La conquista de la ciudad el 15 de julio de 1099 d.C. permitió la fundación de los Estados cruzados u Outremer."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué acontecimiento de la Cuarta Cruzada (1202-1204 d.C.) agravó de forma prácticamente irreparable la ruptura entre la cristiandad latina y la bizantina?",
+      "options": ["El saqueo de Constantinopla y la instauración del Imperio Latino en 1204 d.C.", "La firma de un tratado comercial exclusivo entre Venecia y Constantinopla", "La conversión masiva del clero bizantino al rito romano por voluntad propia"],
+      "correct": 0,
+      "hint": "Incluyó la destrucción sistemática de reliquias y tesoros litúrgicos.",
+      "explanation": "Transformó la percepción bizantina de los latinos, de cismáticos doctrinales a agresores armados, agravando la fractura de 1054."
+    },
+    {
+      "type": "gap",
+      "text": "La derrota bizantina de ___ (1071 d.C.) abrió Asia Menor a la penetración turca selyúcida.",
+      "options": ["Manzikert", "Hattín", "Damasco"],
+      "answer": "Manzikert",
+      "explanation": "Privó a Bizancio de su principal reserva de reclutamiento y motivó la petición de auxilio de Alejo I Comneno."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada orden militar o institución con su descripción",
+      "pairs": [
+        { "en": "Templarios", "es": "Fundados hacia 1119 d.C. por Hugues de Payns para proteger a los peregrinos" },
+        { "en": "Hospitalarios", "es": "Origen anterior a 1099 d.C. como hospital de acogida en Jerusalén" },
+        { "en": "Teutónicos", "es": "Cofradía hospitalaria alemana durante el asedio de Acre, hacia 1190 d.C." },
+        { "en": "Concilio de Troyes (1129 d.C.)", "es": "Otorgó a los templarios su regla propia, influida por el Císter" },
+        { "en": "Raimundo du Puy", "es": "Maestre hospitalario bajo el cual la orden asumió funciones militares" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La reconquista de Saladino",
+      "tiles": ["Saladino", "reconquistó", "la", "ciudad", "santa", "abandonó", "destruyó"],
+      "answer": "Saladino reconquistó la ciudad santa",
+      "explanation": "Tras la batalla de los Cuernos de Hattín en 1187 d.C., Saladino desencadenó la convocatoria de la Tercera Cruzada."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál de las tres grandes órdenes militares medievales tuvo su origen institucional en un hospital de acogida para peregrinos, anterior a su posterior militarización?",
+      "options": ["Los Hospitalarios de San Juan", "Los Templarios", "Los Teutónicos"],
+      "correct": 0,
+      "hint": "Su militarización fue bajo el maestre Raimundo du Puy.",
+      "explanation": "Conservaron siempre la atención a los enfermos y peregrinos como parte nuclear de su identidad institucional."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ predicó la Primera Cruzada en el Concilio de Clermont en 1095 d.C.",
+      "options": ["Urbano II", "Gregorio VII", "Calixto II"],
+      "answer": "Urbano II",
+      "explanation": "Transformó la petición de auxilio de Alejo I Comneno en un proyecto de alcance continental."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El saqueo de la capital bizantina",
+      "tiles": ["Los", "cruzados", "saquearon", "Constantinopla", "defendieron", "protegieron"],
+      "answer": "Los cruzados saquearon Constantinopla",
+      "explanation": "El saqueo de abril de 1204 d.C. instauró un Imperio Latino que fragmentó el espacio político bizantino."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué concilio pronunció Urbano II el llamamiento a la Primera Cruzada en 1095 d.C.?",
+      "options": ["El Concilio de Clermont", "El Concilio de Piacenza", "El Concilio de Troyes"],
+      "correct": 0,
+      "hint": "Se celebró en la región francesa de Auvernia.",
+      "explanation": "Ofreció la indulgencia plenaria a quienes emprendieran la expedición armada movidos por devoción religiosa."
+    },
+    {
+      "type": "gap",
+      "text": "___ lideró la fracasada Cruzada Popular, aniquilada en Civetot en 1096 d.C.",
+      "options": ["Pedro el Ermitaño", "Godofredo de Bouillon", "Hugues de Payns"],
+      "answer": "Pedro el Ermitaño",
+      "explanation": "Su columna, compuesta mayoritariamente por campesinos, carecía de preparación militar y recursos logísticos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La defensa teológica de Bernardo",
+      "tiles": ["Bernardo", "justificó", "a", "los", "templarios", "condenó", "ignoró"],
+      "answer": "Bernardo justificó a los templarios",
+      "explanation": "Lo hizo en su tratado De Laude Novae Militiae, compuesto a petición de Hugues de Payns entre 1128 y 1136 d.C."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué noble encabezó la conquista cristiana de Jerusalén en 1099 d.C.?",
+      "options": ["Godofredo de Bouillon", "Ricardo Corazón de León", "Federico Barbarroja"],
+      "correct": 0,
+      "hint": "Formaba parte de la Cruzada de los Príncipes.",
+      "explanation": "Tras arduos asedios en Nicea y Antioquía, el ejército alcanzó Jerusalén, tomándola por asalto el 15 de julio de 1099."
+    },
+    {
+      "type": "gap",
+      "text": "Los cruzados conquistaron Jerusalén el 15 de julio del año ___ d.C.",
+      "options": ["1099", "1095", "1187"],
+      "answer": "1099",
+      "explanation": "Esto permitió la fundación de los Estados cruzados u Outremer en el Levante mediterráneo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Urbano II", "es": "Papa que predicó la Primera Cruzada en el Concilio de Clermont (1095 d.C.)" },
+        { "en": "Alejo I Comneno", "es": "Emperador bizantino que solicitó auxilio militar tras la derrota de Manzikert" },
+        { "en": "Pedro el Ermitaño", "es": "Predicador itinerante que lideró la fracasada Cruzada Popular" },
+        { "en": "Saladino", "es": "Sultán que reconquistó Jerusalén tras la batalla de Hattín (1187 d.C.)" },
+        { "en": "San Bernardo de Claraval", "es": "Autor de De Laude Novae Militiae, justificó teológicamente a los templarios" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La protección de los peregrinos",
+      "tiles": ["Los", "templarios", "protegían", "a", "los", "peregrinos", "atacaban", "ignoraban"],
+      "answer": "Los templarios protegían a los peregrinos",
+      "explanation": "Nacieron con el objetivo original de proteger la peligrosa ruta entre el puerto de Jaffa y Jerusalén."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué sultán derrotó a los cruzados en la batalla de los Cuernos de Hattín en 1187 d.C.?",
+      "options": ["Saladino", "Zengi", "Alejo I Comneno"],
+      "correct": 0,
+      "hint": "Tras su victoria, reconquistó Jerusalén.",
+      "explanation": "Su victoria desencadenó la convocatoria de la Tercera Cruzada, protagonizada por Ricardo Corazón de León."
+    },
+    {
+      "type": "gap",
+      "text": "El sultán ___ reconquistó Jerusalén tras la batalla de los Cuernos de Hattín en 1187 d.C.",
+      "options": ["Saladino", "Zengi", "Alejo I Comneno"],
+      "answer": "Saladino",
+      "explanation": "Esta reconquista islámica motivó la Tercera Cruzada, que concluyó con el Tratado de Jafa de 1192 d.C."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El cuidado hospitalario",
+      "tiles": ["Los", "hospitalarios", "cuidaban", "a", "los", "enfermos", "combatían", "ignoraban"],
+      "answer": "Los hospitalarios cuidaban a los enfermos",
+      "explanation": "Conservaron siempre la asistencia hospitalaria como parte nuclear de su identidad, incluso tras militarizarse."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué caballero champañés fundó la Orden del Temple hacia el año 1119 d.C.?",
+      "options": ["Hugues de Payns", "Raimundo du Puy", "Conrado de Mazovia"],
+      "correct": 0,
+      "hint": "Recibió el reconocimiento canónico en el Concilio de Troyes.",
+      "explanation": "Solicitó a San Bernardo de Claraval la redacción de De Laude Novae Militiae para justificar teológicamente la nueva orden."
+    },
+    {
+      "type": "gap",
+      "text": "___ fundó la Orden del Temple hacia el año 1119 d.C. para proteger a los peregrinos.",
+      "options": ["Hugues de Payns", "Raimundo du Puy", "Conrado de Mazovia"],
+      "answer": "Hugues de Payns",
+      "explanation": "La orden recibió su regla propia, influida por el Císter, en el Concilio de Troyes de 1129 d.C."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El fin de los Estados cruzados",
+      "tiles": ["Acre", "cayó", "ante", "los", "mamelucos", "resistió", "venció"],
+      "answer": "Acre cayó ante los mamelucos",
+      "explanation": "La caída de Acre en 1291 d.C. puso fin definitivo a la presencia continental de los Estados cruzados en Oriente Próximo."
+    },
+    {
+      "type": "gap",
+      "text": "San Bernardo de Claraval justificó a los templarios en su tratado ___.",
+      "options": ["De Laude Novae Militiae", "Dictatus Papae", "Carta Caritatis"],
+      "answer": "De Laude Novae Militiae",
+      "explanation": "Distinguió entre el homicidio por odio personal y el 'malicidio', la eliminación del mal encarnado en el enemigo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué derrota bizantina de 1071 d.C. abrió Asia Menor a la penetración turca selyúcida?",
+      "options": ["La derrota de Manzikert", "La derrota de Hattín", "El fracaso de Damasco"],
+      "correct": 0,
+      "hint": "El emperador Romano IV Diógenes fue aplastado en esta batalla.",
+      "explanation": "La catástrofe llevó a Alejo I Comneno a solicitar auxilio militar al Concilio de Piacenza en 1095 d.C."
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "id": "1.3-mod02",
+  "module": 2,
+  "title": "El Nacimiento de los Estados Pontificios y la Teología del Imperio Carolingio",
+  "subtitle": "De la Donación de Pipino a la coronación imperial de Carlomagno",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Patrimonium Sancti Petri", "es": "Territorios itálicos cedidos a la Santa Sede por Pipino el Breve" },
+        { "en": "Christianitas", "es": "Comunidad cristiana de Occidente como un único cuerpo político-religioso" },
+        { "en": "Renovatio Imperii", "es": "Programa ideológico carolingio de restauración del Imperio romano en clave cristiana" },
+        { "en": "Capitular", "es": "Disposición legislativa de los reyes francos organizada en capítulos" },
+        { "en": "Minúscula Carolina", "es": "Escritura clara y estandarizada que facilitó la copia de manuscritos en el Imperio" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué acontecimiento histórico documentado dio origen jurídico a los Estados Pontificios?",
+      "options": ["La Donación de Pipino el Breve tras sus campañas militares contra los lombardos (754-756 d.C.)", "La Donación de Constantino a favor del papa Silvestre I", "El Concilio de Nicea II sobre el culto a las imágenes"],
+      "correct": 0,
+      "hint": "Es un hecho verificable, no una leyenda.",
+      "explanation": "La Donación de Pipino, documentada por crónicas francas y el Liber Pontificalis, entregó al papado el Exarcado de Rávena y la Pentápolis tras la derrota de Aistulfo."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ fue el rey lombardo que conquistó el Exarcado de Rávena en el año 751 d.C.",
+      "options": ["Aistulfo", "Pipino", "Carlomagno"],
+      "answer": "Aistulfo",
+      "explanation": "Su conquista dejó al papado sin cobertura militar bizantina efectiva, precipitando el acercamiento de Roma a la dinastía franca."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La unción de Pipino",
+      "tiles": ["El", "papa", "ungió", "a", "Pipino", "el", "Breve", "rechazó", "Carlomagno"],
+      "answer": "El papa ungió a Pipino el Breve",
+      "explanation": "El papa Esteban II ungió a Pipino y a sus hijos, confiriéndoles el título de Patricius Romanorum."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué reparto de funciones definió Carlomagno en su carta al papa León III de 796 d.C.?",
+      "options": ["El rey defiende armadamente y fortalece internamente la fe de la Iglesia, y el papa sostiene con su oración el gobierno del rey", "El papa gobierna el reino y el rey se limita a la administración de justicia local", "El papa y el rey comparten idénticas funciones sacramentales y militares"],
+      "correct": 0,
+      "hint": "Se apoya en la imagen de Moisés orando durante la batalla contra Amalec.",
+      "explanation": "Esta formulación clásica de la teocracia carolingia otorgaba al rey la defensa armada y la disciplina interna, y al papa la intercesión y el magisterio doctrinal."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la denominación jurídica de los territorios itálicos cedidos a la Santa Sede por Pipino el Breve.",
+      "options": ["Patrimonium Sancti Petri", "Christianitas", "Renovatio Imperii"],
+      "answer": "Patrimonium Sancti Petri",
+      "explanation": "Comprendía el antiguo Exarcado de Rávena y la Pentápolis, germen de los futuros Estados Pontificios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada actor histórico con su rol en el proceso",
+      "pairs": [
+        { "en": "Pipino el Breve", "es": "Rey franco, protector armado de Roma; Donación de Pipino (754-756 d.C.)" },
+        { "en": "Papa Esteban II", "es": "Solicita protección militar franca; viaje a Ponthion y unción de Pipino" },
+        { "en": "Papa León III", "es": "Coronador, protegido por Carlomagno; coronación imperial (800 d.C.)" },
+        { "en": "Carlomagno", "es": "Emperador, garante armado y reformador; Admonitio Generalis y Concilio de Fráncfort" },
+        { "en": "Alcuino de York", "es": "Dirigió la Escuela Palatina, la revisión de la Vulgata y la minúscula carolina" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La coronación imperial",
+      "tiles": ["León", "III", "coronó", "a", "Carlomagno", "depuso", "Aistulfo"],
+      "answer": "León III coronó a Carlomagno",
+      "explanation": "El 25 de diciembre del año 800 d.C., en la basílica de San Pedro, León III coronó emperador a Carlomagno durante la misa de Navidad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál fue el propósito principal de la Admonitio Generalis de 789 d.C.?",
+      "options": ["Corregir los textos litúrgicos y bíblicos, exigir la formación doctrinal del clero y fundar escuelas episcopales y monásticas", "Establecer el dogma de la consustancialidad del Hijo con el Padre", "Regular exclusivamente los tributos territoriales debidos a la Santa Sede"],
+      "correct": 0,
+      "hint": "Se basó en la colección canónica Dionysio-Hadriana.",
+      "explanation": "Este capitular articuló un programa integral de reforma religiosa y educativa, vinculando la reforma de la fe con la estabilidad del reino."
+    },
+    {
+      "type": "gap",
+      "text": "Papa ___ viajó a través de los Alpes en el año 753 d.C. para entrevistarse con Pipino el Breve.",
+      "options": ["Esteban II", "León III", "Adriano I"],
+      "answer": "Esteban II",
+      "explanation": "Se entrevistó con el monarca franco en el palacio de Ponthion, solicitando protección militar frente a los lombardos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La conquista lombarda",
+      "tiles": ["Aistulfo", "conquistó", "el", "Exarcado", "perdió", "defendió"],
+      "answer": "Aistulfo conquistó el Exarcado",
+      "explanation": "El Exarcado de Rávena cayó en manos del rey lombardo Aistulfo en el año 751 d.C."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo interpreta la historiografía académica el testimonio de Eginardo sobre el desagrado de Carlomagno tras su coronación de 800 d.C.?",
+      "options": ["Como un pasaje cuya sinceridad se debate, ya sea como disgusto genuino o como un tópico literario de modestia cortesana", "Como una prueba indiscutible de que el papa actuó completamente al margen de la voluntad del emperador", "Como una leyenda tardía sin ningún respaldo en las fuentes narrativas carolingias"],
+      "correct": 0,
+      "hint": "El pasaje procede de la Vita Karoli Magni.",
+      "explanation": "Manuales como los de Jedin y Knowles-Obolensky señalan que no hay consenso sobre si el pasaje refleja una reacción auténtica o una convención retórica."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ (754 d.C.) fue la promesa escrita de Pipino de restituir a la Iglesia los territorios lombardos.",
+      "options": ["Promissio Carisiaca", "Admonitio Generalis", "Donación de Constantino"],
+      "answer": "Promissio Carisiaca",
+      "explanation": "También conocida como Promesa de Quierzy, precedió a las campañas militares francas de 754 y 756 d.C."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento con su descripción",
+      "pairs": [
+        { "en": "Caída del Exarcado de Rávena (751 d.C.)", "es": "Conquistado por el rey lombardo Aistulfo" },
+        { "en": "Promissio Carisiaca (754 d.C.)", "es": "Promesa de Pipino de restituir a la Iglesia los territorios lombardos" },
+        { "en": "Coronación imperial de Carlomagno (800 d.C.)", "es": "León III corona emperador a Carlomagno en San Pedro" },
+        { "en": "Concilio de Nicea II (787 d.C.)", "es": "Restauró el culto a las imágenes en Oriente" },
+        { "en": "Concilio de Fráncfort (794 d.C.)", "es": "Ratificó la postura carolingia intermedia sobre las imágenes" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El maestro de Aquisgrán",
+      "tiles": ["Alcuino", "dirigió", "la", "Escuela", "Palatina", "abandonó", "romana"],
+      "answer": "Alcuino dirigió la Escuela Palatina",
+      "explanation": "El monje anglosajón Alcuino de York dirigió la Escuela Palatina y asesoró a Carlomagno en exégesis bíblica y organización litúrgica."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué rey lombardo conquistó el Exarcado de Rávena en el año 751 d.C.?",
+      "options": ["Aistulfo", "Desiderio", "Liutprando"],
+      "correct": 0,
+      "hint": "Su conquista precipitó el viaje de Esteban II a la corte franca.",
+      "explanation": "Aistulfo dejó al papado sin cobertura militar bizantina, abriendo el camino a la intervención de Pipino el Breve."
+    },
+    {
+      "type": "gap",
+      "text": "El 25 de diciembre del año ___ d.C., León III coronó emperador a Carlomagno en la basílica de San Pedro.",
+      "options": ["800", "754", "789"],
+      "answer": "800",
+      "explanation": "El pueblo romano congregado aclamó a Carlomagno con la fórmula ritual: 'Carolo Augusto, a Deo coronato... vita et victoria'."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La crítica filológica",
+      "tiles": ["Lorenzo", "Valla", "desenmascaró", "la", "falsificación", "ocultó", "verdad"],
+      "answer": "Lorenzo Valla desenmascaró la falsificación",
+      "explanation": "En el siglo XV, el humanista Lorenzo Valla demostró que la Donación de Constantino era un documento apócrifo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué papa ungió a Pipino el Breve y a sus hijos, otorgándoles el título de Patricius Romanorum?",
+      "options": ["Esteban II", "Zacarías", "León III"],
+      "correct": 0,
+      "hint": "Fue el mismo papa que viajó a Ponthion en 753 d.C.",
+      "explanation": "Esteban II confirió a Pipino y a sus hijos, Carlos y Carlomán, el título de protectores de Roma."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es el ideal medieval de la comunidad cristiana de Occidente como un único cuerpo político-religioso.",
+      "options": ["Christianitas", "Renovatio Imperii", "Patrimonium Sancti Petri"],
+      "answer": "Christianitas",
+      "explanation": "Su cohesión dependía de la cooperación armónica entre el trono y el altar, según el ideal de la teocracia carolingia."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada documento o concepto con su descripción",
+      "pairs": [
+        { "en": "Liber Pontificalis", "es": "Fuente cronística romana que documenta la Donación de Pipino" },
+        { "en": "Constitutum Constantini", "es": "Documento apócrifo atribuido falsamente a Constantino" },
+        { "en": "Admonitio Generalis (789 d.C.)", "es": "Capitular de reforma litúrgica, doctrinal y educativa" },
+        { "en": "Libri Carolini", "es": "Tratado teológico carolingio sobre la controversia de las imágenes" },
+        { "en": "Hadrianum", "es": "Sacramentario romano adoptado como modelo litúrgico unificador" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La victoria lombarda de Carlomagno",
+      "tiles": ["Carlomagno", "derrotó", "a", "los", "lombardos", "protegió", "bizantinos"],
+      "answer": "Carlomagno derrotó a los lombardos",
+      "explanation": "En el año 774 d.C. Carlomagno derrotó al reino lombardo, asumiendo su corona y confirmando las donaciones de su padre."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién demostró filológicamente en el siglo XV que la Donación de Constantino era una falsificación?",
+      "options": ["Lorenzo Valla", "Eginardo", "Alcuino de York"],
+      "correct": 0,
+      "hint": "Fue un humanista renacentista.",
+      "explanation": "Su crítica filológica demostró que el documento fue redactado probablemente en la curia romana del siglo VIII."
+    },
+    {
+      "type": "gap",
+      "text": "___ dirigió la Escuela Palatina de Aquisgrán y asesoró a Carlomagno en materias de exégesis bíblica.",
+      "options": ["Alcuino de York", "Eginardo", "Lorenzo Valla"],
+      "answer": "Alcuino de York",
+      "explanation": "Este monje anglosajón supervisó la revisión de la Vulgata y promovió la minúscula carolina."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El deber del rey",
+      "tiles": ["El", "rey", "defiende", "con", "armas", "la", "Iglesia", "abandona", "ataca"],
+      "answer": "El rey defiende con armas la Iglesia",
+      "explanation": "Carlomagno definió que correspondía al rey defender externamente a la Iglesia mediante las armas contra paganos e infieles."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué monje anglosajón dirigió la Escuela Palatina de Aquisgrán?",
+      "options": ["Alcuino de York", "Beda el Venerable", "Bonifacio"],
+      "correct": 0,
+      "hint": "Fue llamado a la corte franca hacia el año 782 d.C.",
+      "explanation": "Alcuino asesoró a Carlomagno en exégesis bíblica, gramática latina y organización litúrgica."
+    },
+    {
+      "type": "gap",
+      "text": "El Concilio de ___ (794 d.C.) ratificó la postura carolingia intermedia frente a la controversia de las imágenes.",
+      "options": ["Fráncfort", "Nicea II", "Toledo"],
+      "answer": "Fráncfort",
+      "explanation": "Presidido por Carlomagno, evidenció que la teología carolingia actuaba ya como un centro doctrinal autónomo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El deber del papa",
+      "tiles": ["El", "papa", "sostiene", "con", "oración", "al", "rey", "ataca", "abandona"],
+      "answer": "El papa sostiene con oración al rey",
+      "explanation": "A semejanza de Moisés orando durante la batalla contra Amalec, el papa sostenía con sus súplicas el gobierno del rey."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué malentendido filológico originó la redacción de los Libri Carolini?",
+      "options": ["Una traducción latina deficiente de las actas de Nicea II que sugería que los griegos exigían adoración (latria) de los iconos", "Un error en la traducción de la Regula Monachorum de Benito de Nursia", "Una confusión sobre la fecha de celebración de la Pascua"],
+      "correct": 0,
+      "hint": "Confundió veneración (dulia) con adoración (latria).",
+      "explanation": "Esta confusión filológica llevó a la corte carolingia a rechazar tanto el iconoclasmo bizantino como lo que consideraba una idolatría de las imágenes."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la escritura clara y estandarizada que facilitó la copia de manuscritos en todo el Imperio carolingio.",
+      "options": ["minúscula carolina", "Vulgata", "Dionysio-Hadriana"],
+      "answer": "minúscula carolina",
+      "explanation": "Su adopción sentó las bases paleográficas de buena parte de la tipografía occidental posterior."
+    }
+  ]
+}

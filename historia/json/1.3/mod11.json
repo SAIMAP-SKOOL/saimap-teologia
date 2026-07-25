@@ -1,0 +1,243 @@
+{
+  "id": "1.3-mod11",
+  "module": 11,
+  "title": "Herejías Populares y los Procesos de la Inquisición Medieval",
+  "subtitle": "Cátaros, valdenses y la Cruzada Albigense",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Vita Apostolica", "es": "Ideal de vida religiosa basado en la imitación literal de la pobreza apostólica" },
+        { "en": "Consolamentum", "es": "Rito cátaro de imposición de manos que funcionaba como bautismo espiritual y ordenación" },
+        { "en": "Perfecti / Credentes", "es": "Jerarquía interna del catarismo: ministros ascéticos y fieles ordinarios" },
+        { "en": "Relaxatio ad Brachium Saeculare", "es": "Entrega del hereje impenitente al poder civil para su ejecución" },
+        { "en": "Ad Abolendam", "es": "Decreto de Lucio III de 1184 que condenó formalmente a los valdenses como herejes" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál era la diferencia doctrinal fundamental entre el catarismo y el valdesismo?",
+      "options": ["El catarismo era dualista y negaba la Encarnación y la resurrección corporal, mientras que el valdesismo era doctrinalmente ortodoxo, y su condena obedeció a la desobediencia jerárquica", "Ambos movimientos compartían el mismo dualismo metafísico entre el bien y el mal", "El valdesismo negaba la resurrección corporal, mientras que el catarismo aceptaba plenamente la Encarnación"],
+      "correct": 0,
+      "hint": "Solo uno de los dos era ajeno al credo trinitario y cristológico.",
+      "explanation": "El valdesismo aceptaba íntegramente el credo católico y fue condenado en 1184 principalmente por predicar sin licencia episcopal."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el rito cátaro de imposición de manos que funcionaba como bautismo espiritual y ordenación.",
+      "options": ["Consolamentum", "Relaxatio ad Brachium Saeculare", "Ad Abolendam"],
+      "answer": "Consolamentum",
+      "explanation": "Confería el estatuto de 'perfecto' o autorizaba la salvación final del creyente moribundo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La conversión de Valdo",
+      "tiles": ["Valdo", "distribuyó", "sus", "bienes", "entre", "los", "pobres", "acumuló", "riqueza"],
+      "answer": "Valdo distribuyó sus bienes entre los pobres",
+      "explanation": "Hacia 1173, este mercader de Lyon encargó también la traducción de los evangelios a la lengua vernácula."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué papa instituyó formalmente la Inquisición pontificia como tribunal especializado, mediante bulas promulgadas entre 1231 y 1233?",
+      "options": ["Gregorio IX", "Inocencio III", "Inocencio IV"],
+      "correct": 0,
+      "hint": "Delegó la función inquisitorial en jueces itinerantes, principalmente dominicos.",
+      "explanation": "Sustituyó el sistema previo de tribunales episcopales dispersos y desiguales por un procedimiento más uniforme."
+    },
+    {
+      "type": "gap",
+      "text": "Los ___ eran los ministros ascéticos cátaros que habían recibido el consolamentum.",
+      "options": ["perfecti", "credentes", "humillados"],
+      "answer": "perfecti",
+      "explanation": "Llevaban una vida ascética de celibato, ayuno y abstención de carne y productos derivados de la generación animal."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada aspecto con el movimiento correspondiente",
+      "pairs": [
+        { "en": "Origen del catarismo", "es": "Difusión del dualismo bogomilo balcánico, sin fundador único identificable" },
+        { "en": "Origen de los valdenses", "es": "Pedro Valdo, mercader de Lyon (conversión c. 1173)" },
+        { "en": "Motivo de condena del catarismo", "es": "Herejía de contenido dogmático: dualismo y docetismo" },
+        { "en": "Motivo de condena de los valdenses", "es": "Desobediencia jerárquica, predicación laica sin licencia episcopal" },
+        { "en": "Desenlace de los valdenses", "es": "Sobrevivió clandestinamente e integrado en la Reforma protestante (Chanforán, 1532)" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El rito de los perfectos",
+      "tiles": ["Los", "perfectos", "recibieron", "el", "consolamentum", "rechazaron", "ignoraron"],
+      "answer": "Los perfectos recibieron el consolamentum",
+      "explanation": "Este rito los distinguía de los 'creyentes', fieles ordinarios que continuaban su vida secular habitual."
+    },
+    {
+      "type": "quiz",
+      "q": "Según el consenso historiográfico actual, ¿qué caracterizaba mayoritariamente las sentencias de los tribunales inquisitoriales medievales documentados?",
+      "options": ["Las penas más frecuentes eran de carácter penitencial, reservándose la entrega al brazo secular para los casos de herejía obstinada o reincidente", "La ejecución en la hoguera era el desenlace habitual y mayoritario de casi todos los procesos", "Los tribunales inquisitoriales no dejaron ningún registro documental de sus procedimientos"],
+      "correct": 0,
+      "hint": "Los registros de Bernardo Gui y Jacques Fournier documentan este patrón.",
+      "explanation": "La mayoría documentada de las sentencias fueron penitenciales: peregrinaciones, cruces de infamia, multas y prisión."
+    },
+    {
+      "type": "gap",
+      "text": "___, mercader de Lyon, experimentó una conversión hacia 1173 y fundó el movimiento valdense.",
+      "options": ["Pedro Valdo", "Arnaldo de Brescia", "Simón de Montfort"],
+      "answer": "Pedro Valdo",
+      "explanation": "Sus seguidores fueron conocidos como los 'pobres de Lyon'."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Pedro Valdo", "es": "Mercader de Lyon que experimentó una conversión hacia 1173 y fundó el movimiento valdense" },
+        { "en": "Arnaldo de Brescia", "es": "Canónigo agustino ejecutado en Roma en 1155 por instigar una revuelta comunal" },
+        { "en": "Simón de Montfort", "es": "Comandó militarmente la Cruzada Albigense desde 1210, murió en Toulouse en 1218" },
+        { "en": "Raimundo VI de Toulouse", "es": "Conde excomulgado por tolerar la herejía cátara en sus dominios" },
+        { "en": "Gregorio IX", "es": "Papa que instituyó la Inquisición pontificia mediante bulas de 1231-1233" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El saqueo de Béziers",
+      "tiles": ["Los", "cruzados", "saquearon", "Béziers", "defendieron", "protegieron"],
+      "answer": "Los cruzados saquearon Béziers",
+      "explanation": "El saqueo de julio de 1209 incluyó una matanza indiscriminada de la población, sin distinguir su filiación religiosa."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué disposición del IV Concilio de Letrán (1215) sentó una base jurídica previa a la institución de la Inquisición pontificia?",
+      "options": ["El canon Excommunicamus, que obligaba a los señores temporales a extirpar la herejía de sus territorios bajo pena de perder sus feudos", "La creación directa de la Orden de Predicadores dominica", "La aprobación oficial del dualismo cátaro como doctrina tolerada"],
+      "correct": 0,
+      "hint": "Se combinó con la constitución Omnis utriusque sexus.",
+      "explanation": "Anticipó, sin instituirlo todavía como órgano especializado, el aparato represivo que Gregorio IX centralizaría en 1231-1233."
+    },
+    {
+      "type": "gap",
+      "text": "El decreto ___ (1184) del papa Lucio III condenó formalmente a los valdenses como herejes.",
+      "options": ["Ad Abolendam", "Excommunicamus", "Omnis utriusque sexus"],
+      "answer": "Ad Abolendam",
+      "explanation": "Fue promulgado conjuntamente con el emperador Federico Barbarroja en el sínodo de Verona."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La muerte del comandante cruzado",
+      "tiles": ["Simón", "de", "Montfort", "murió", "en", "Toulouse", "nació", "vivió"],
+      "answer": "Simón de Montfort murió en Toulouse",
+      "explanation": "Falleció durante el segundo asedio de la ciudad en el año 1218."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué canónigo agustino fue ejecutado en Roma en 1155 por instigar una revuelta comunal contra el poder temporal del papado?",
+      "options": ["Arnaldo de Brescia", "Pedro Valdo", "Pedro de Castelnau"],
+      "correct": 0,
+      "hint": "Su discurso apelaba a la pobreza apostólica.",
+      "explanation": "Su caso ilustra que la frontera entre reforma tolerada y disidencia perseguida dependía en buena medida del contexto político."
+    },
+    {
+      "type": "gap",
+      "text": "El legado pontificio Pedro de Castelnau fue asesinado en enero de ___, detonando la Cruzada Albigense.",
+      "options": ["1208", "1209", "1213"],
+      "answer": "1208",
+      "explanation": "Su muerte fue atribuida a agentes vinculados a la corte del conde Raimundo VI de Toulouse, ya excomulgado."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento con su descripción",
+      "pairs": [
+        { "en": "Saqueo de Béziers (julio de 1209)", "es": "Matanza indiscriminada de la población al inicio de la Cruzada Albigense" },
+        { "en": "Batalla de Muret (1213)", "es": "Simón de Montfort derrotó a la coalición del rey Pedro II de Aragón" },
+        { "en": "Tratado de París-Meaux (1229)", "es": "Puso fin a la Cruzada Albigense, anexando el Languedoc a la corona francesa" },
+        { "en": "Canon Excommunicamus (Letrán IV, 1215)", "es": "Obligó a los señores a extirpar la herejía bajo pena de perder sus feudos" },
+        { "en": "Caída de Montségur (1244)", "es": "Quema colectiva de más de doscientos perfectos cátaros" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El nuevo tribunal pontificio",
+      "tiles": ["Gregorio", "IX", "instituyó", "la", "Inquisición", "abolió", "rechazó"],
+      "answer": "Gregorio IX instituyó la Inquisición",
+      "explanation": "Delegó la función inquisitorial en jueces itinerantes, mayoritariamente dominicos, que respondían directamente a Roma."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué sínodo de 1184 fue condenado formalmente el movimiento valdense como herético?",
+      "options": ["El Sínodo de Verona", "El Sínodo de Chanforán", "El III Concilio de Letrán"],
+      "correct": 0,
+      "hint": "Se promulgó el decreto Ad Abolendam.",
+      "explanation": "El motivo formal no fue un desacuerdo dogmático, sino la desobediencia jerárquica y la predicación no autorizada."
+    },
+    {
+      "type": "gap",
+      "text": "___ comandó militarmente la Cruzada Albigense desde 1210 hasta su muerte en el asedio de Toulouse en 1218.",
+      "options": ["Simón de Montfort", "Pedro II de Aragón", "Raimundo VI de Toulouse"],
+      "answer": "Simón de Montfort",
+      "explanation": "Derrotó en la batalla de Muret (1213) a una coalición encabezada por el rey Pedro II de Aragón, muerto en el combate."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Las garantías del proceso",
+      "tiles": ["El", "tribunal", "exigía", "varios", "testigos", "rechazaba", "ignoraba"],
+      "answer": "El tribunal exigía varios testigos",
+      "explanation": "Esta era la norma general para sustentar una condena en el procedimiento inquisitorial documentado."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué tratado de 1229 puso fin a la Cruzada Albigense?",
+      "options": ["El Tratado de París-Meaux", "El Concordato de Worms", "El Tratado de Jafa"],
+      "correct": 0,
+      "hint": "Anexó buena parte de los dominios occitanos a la corona francesa.",
+      "explanation": "La corona capeta había intervenido directamente en el conflicto desde mediados de la década de 1220."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ instituyó la Inquisición pontificia mediante bulas promulgadas entre 1231 y 1233.",
+      "options": ["Gregorio IX", "Inocencio III", "Inocencio IV"],
+      "answer": "Gregorio IX",
+      "explanation": "El objetivo declarado era un procedimiento más uniforme y documentado que el disperso sistema episcopal previo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El principio canónico",
+      "tiles": ["La", "Iglesia", "evitaba", "derramar", "sangre", "buscaba", "exigía"],
+      "answer": "La Iglesia evitaba derramar sangre",
+      "explanation": "Por eso entregaba a los herejes impenitentes al brazo secular para su ejecución (relaxatio ad brachium saeculare)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué fortaleza del Languedoc se produjo la quema colectiva de más de doscientos perfectos cátaros en 1244?",
+      "options": ["Montségur", "Béziers", "Carcasona"],
+      "correct": 0,
+      "hint": "Este episodio se vincula más al desenlace militar de la cruzada que a un proceso inquisitorial ordinario.",
+      "explanation": "Se produjo tras la capitulación de la fortaleza que había ofrecido refugio a los perfectos perseguidos."
+    },
+    {
+      "type": "gap",
+      "text": "La bula ___ (1252) de Inocencio IV autorizó el uso regulado de la tortura en los procesos inquisitoriales.",
+      "options": ["Ad Extirpanda", "Ad Abolendam", "Solet annuere"],
+      "answer": "Ad Extirpanda",
+      "explanation": "No debía causar la muerte ni mutilación permanente y, en teoría, solo podía aplicarse una vez."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La caída de la fortaleza",
+      "tiles": ["Montségur", "cayó", "ante", "los", "cruzados", "resistió", "venció"],
+      "answer": "Montségur cayó ante los cruzados",
+      "explanation": "Tras su capitulación en 1244, más de doscientos perfectos cátaros fueron quemados colectivamente."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué conde fue excomulgado por tolerar la herejía cátara en sus dominios, precipitando la Cruzada Albigense?",
+      "options": ["Raimundo VI de Toulouse", "Pedro II de Aragón", "Simón de Montfort"],
+      "correct": 0,
+      "hint": "Sus dominios incluían Toulouse y buena parte del Languedoc.",
+      "explanation": "El asesinato del legado Pedro de Castelnau fue atribuido a agentes vinculados a su corte."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ (1229) puso fin a la Cruzada Albigense, anexando el Languedoc a la corona francesa.",
+      "options": ["Tratado de París-Meaux", "Concordato de Worms", "Tratado de Jafa"],
+      "answer": "Tratado de París-Meaux",
+      "explanation": "La corona capeta había intervenido directamente en el conflicto desde mediados de la década de 1220."
+    }
+  ]
+}

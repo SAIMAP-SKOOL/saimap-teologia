@@ -1,0 +1,243 @@
+{
+  "id": "1.3-mod08",
+  "module": 8,
+  "title": "El Renacimiento Urbano y el Nacimiento de las Universidades",
+  "subtitle": "De las escuelas catedralicias a Bolonia, París y Oxford",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Universitas", "es": "Corporación gremial de maestros y/o estudiantes dotada de personalidad jurídica propia" },
+        { "en": "Studium Generale", "es": "Institución de enseñanza superior de reconocimiento universal, abierta a cualquier procedencia" },
+        { "en": "Disputatio", "es": "Método escolástico de plantear una cuestión, exponer argumentos y resolverla razonadamente" },
+        { "en": "Averroísmo Latino", "es": "Corriente filosófica parisina inspirada en Averroes, con tesis como la unicidad del intelecto" },
+        { "en": "Ius Ubique Docendi", "es": "Derecho a enseñar en cualquier lugar de la cristiandad sin necesidad de examen adicional" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál fue el rasgo distintivo del modelo de gobierno corporativo de la Universidad de Bolonia?",
+      "options": ["La organización de los propios estudiantes en una universitas que contrataba y remuneraba a los maestros", "El control absoluto de la corporación por parte del obispo local", "La dependencia jurídica directa y exclusiva de la Santa Sede desde su fundación"],
+      "correct": 0,
+      "hint": "A diferencia de París, donde los maestros formaban la corporación rectora.",
+      "explanation": "Los estudiantes extranjeros, necesitados de protección jurídica, se organizaron en universitates, contrataron a sus profesores y eligieron rector."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la corporación gremial de maestros y/o estudiantes dotada de personalidad jurídica propia.",
+      "options": ["Universitas", "Disputatio", "Lectio"],
+      "answer": "Universitas",
+      "explanation": "Estaba calcada del modelo de los gremios de artesanos y mercaderes urbanos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La reconstrucción gótica",
+      "tiles": ["Suger", "reconstruyó", "el", "coro", "gótico", "destruyó", "románico"],
+      "answer": "Suger reconstruyó el coro gótico",
+      "explanation": "El abad Suger dirigió la reconstrucción del coro de Saint-Denis entre 1140 y 1144 d.C."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué papel desempeñó la llamada Escuela de Toledo en la recuperación del corpus aristotélico?",
+      "options": ["Organizó la traducción al latín, a partir del árabe, de obras aristotélicas y de sus comentaristas islámicos y judíos", "Tradujo directamente del griego original la totalidad de la obra de Aristóteles", "Prohibió la difusión de los textos aristotélicos por considerarlos heréticos"],
+      "correct": 0,
+      "hint": "Actuó bajo el patrocinio del arzobispo Raimundo de Toledo.",
+      "explanation": "Traductores como Gerardo de Cremona y Domingo Gundisalvo vertieron al latín obras de Aristóteles y Avicena."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es la institución de enseñanza superior de reconocimiento universal abierta a estudiantes de cualquier procedencia.",
+      "options": ["Studium Generale", "Averroísmo Latino", "Ius Ubique Docendi"],
+      "answer": "Studium Generale",
+      "explanation": "No toda universitas era un studium generale, ni todo studium generale se organizaba como universitas."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada universidad o privilegio con su descripción",
+      "pairs": [
+        { "en": "Bolonia", "es": "Universitas de estudiantes organizados en 'naciones', dedicada al derecho civil y canónico" },
+        { "en": "París", "es": "Universitas de maestros que controlaba la licentia docendi, dedicada a teología y artes" },
+        { "en": "Oxford", "es": "Universitas de maestros bajo la autoridad de su canciller" },
+        { "en": "Authentica Habita (h. 1158 d.C.)", "es": "Privilegio de Federico Barbarroja que protegió a los escolares de Bolonia" },
+        { "en": "Parens Scientiarum (1231 d.C.)", "es": "Bula de Gregorio IX que restauró la autonomía de la universidad de París" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El maestro itinerante",
+      "tiles": ["Abelardo", "enseñó", "de", "forma", "itinerante", "prohibió", "evitó"],
+      "answer": "Abelardo enseñó de forma itinerante",
+      "explanation": "Atrajo a centenares de estudiantes mediante el método dialéctico sistematizado en su obra Sic et Non."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué motivó específicamente la condena parisina de 1210 contra los libros naturales de Aristóteles?",
+      "options": ["Su asociación circunstancial con las tesis panteístas de Amalarico de Bena y David de Dinant", "Una orden directa e inicial del papa Gregorio IX", "El rechazo generalizado de toda la facultad de teología a estudiar lógica"],
+      "correct": 0,
+      "hint": "Fue un concilio provincial bajo el arzobispo Pedro de Corbeil.",
+      "explanation": "El mismo sínodo que condenó a Amalarico de Bena y David de Dinant prohibió los libros naturales y sus comentarios."
+    },
+    {
+      "type": "gap",
+      "text": "El abad ___ dirigió la reconstrucción del coro de Saint-Denis entre 1140 y 1144 d.C.",
+      "options": ["Suger", "Pedro Lombardo", "Pedro Abelardo"],
+      "answer": "Suger",
+      "explanation": "Justificó estas innovaciones con una teología de la luz de raíz pseudo-dionisiana."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Pedro Abelardo", "es": "Maestro itinerante autor del Sic et Non, condenado en Soissons y Sens" },
+        { "en": "Gerardo de Cremona", "es": "Traductor toledano de más de setenta obras, incluida la Física de Aristóteles" },
+        { "en": "Averroes", "es": "Filósofo cordobés conocido como 'el Comentador', autor de glosas a Aristóteles" },
+        { "en": "Pedro Lombardo", "es": "Autor del Libro de las Sentencias, texto de referencia teológico" },
+        { "en": "Esteban Tempier", "es": "Obispo de París que condenó 219 proposiciones filosóficas en 1277 d.C." }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El autogobierno boloñés",
+      "tiles": ["Los", "estudiantes", "de", "Bolonia", "eligieron", "rector", "rechazaron", "ignoraron"],
+      "answer": "Los estudiantes de Bolonia eligieron rector",
+      "explanation": "Se organizaron en universitates agrupadas por 'naciones' según su origen geográfico."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué distingue conceptualmente al término studium generale de universitas en la Edad Media?",
+      "options": ["Studium generale designa la institución docente de alcance supralocal; universitas designa la corporación jurídica de personas", "Son sinónimos exactos sin ninguna diferencia técnica", "Universitas se refiere exclusivamente a la enseñanza de la teología"],
+      "correct": 0,
+      "hint": "Esta distinción filológica es hoy bien establecida por Rashdall y Verger.",
+      "explanation": "No toda institución que era studium generale se organizaba necesariamente como universitas, y viceversa."
+    },
+    {
+      "type": "gap",
+      "text": "___ atrajo a centenares de estudiantes en París mediante su método dialéctico del Sic et Non.",
+      "options": ["Pedro Abelardo", "Gerardo de Cremona", "Averroes"],
+      "answer": "Pedro Abelardo",
+      "explanation": "Fue condenado en los concilios de Soissons (1121) y Sens (1141) por la autoridad eclesiástica."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La traducción de Gerardo",
+      "tiles": ["Gerardo", "tradujo", "la", "Física", "de", "Aristóteles", "quemó", "ignoró"],
+      "answer": "Gerardo tradujo la Física de Aristóteles",
+      "explanation": "A Gerardo de Cremona se le atribuyen más de setenta traducciones del árabe al latín."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué abad dirigió la reconstrucción del coro de Saint-Denis, inaugurando el lenguaje arquitectónico gótico?",
+      "options": ["El abad Suger", "Pedro Lombardo", "Roberto de Courçon"],
+      "correct": 0,
+      "hint": "Lo hizo entre 1140 y 1144 d.C.",
+      "explanation": "Basó su arquitectura en el arco ojival, la bóveda de crucería y el arbotante, con una teología de la luz pseudo-dionisiana."
+    },
+    {
+      "type": "gap",
+      "text": "El emperador ___ concedió la Authentica Habita, protegiendo a los escolares itinerantes de Bolonia.",
+      "options": ["Federico I Barbarroja", "Enrique II de Inglaterra", "Felipe Augusto"],
+      "answer": "Federico I Barbarroja",
+      "explanation": "El privilegio, de hacia 1158 d.C., otorgó a los escolares el derecho a ser juzgados por sus propios maestros."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Concilio provincial de París (1210 d.C.)", "es": "Prohibió la enseñanza de los libros naturales de Aristóteles" },
+        { "en": "Estatutos de Roberto de Courçon (1215 d.C.)", "es": "Reiteraron la prohibición mientras permitían la lógica aristotélica" },
+        { "en": "Bula Parens Scientiarum (1231 d.C.)", "es": "Encomendó a una comisión expurgar los textos aristotélicos" },
+        { "en": "Condena de 1277 d.C.", "es": "Esteban Tempier condenó 219 proposiciones de la facultad de artes" },
+        { "en": "Reconstrucción de Saint-Denis (1140-1144 d.C.)", "es": "El abad Suger inauguró el lenguaje arquitectónico gótico" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El comentarista cordobés",
+      "tiles": ["Averroes", "comentó", "la", "obra", "aristotélica", "rechazó", "quemó"],
+      "answer": "Averroes comentó la obra aristotélica",
+      "explanation": "Sus glosas, traducidas por Miguel Escoto, transmitieron a Occidente un Aristóteles ya interpretado exegéticamente."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué filósofo cordobés fue conocido en la escolástica latina como 'el Comentador' de Aristóteles?",
+      "options": ["Averroes", "Avicena", "Al-Farabi"],
+      "correct": 0,
+      "hint": "Sus tesis incluían la unicidad del intelecto agente.",
+      "explanation": "Sus glosas fueron traducidas principalmente por Miguel Escoto en las primeras décadas del siglo XIII."
+    },
+    {
+      "type": "gap",
+      "text": "El traductor toledano ___ vertió al latín más de setenta obras, incluida la Física de Aristóteles.",
+      "options": ["Gerardo de Cremona", "Domingo Gundisalvo", "Miguel Escoto"],
+      "answer": "Gerardo de Cremona",
+      "explanation": "Trabajó bajo el patrocinio del arzobispo Raimundo de Toledo, junto a un círculo de traductores colaborativos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La condena de Tempier",
+      "tiles": ["Tempier", "condenó", "la", "filosofía", "averroísta", "aprobó", "defendió"],
+      "answer": "Tempier condenó la filosofía averroísta",
+      "explanation": "En 1277 d.C. condenó 219 proposiciones atribuidas a Sigerio de Brabante y Boecio de Dacia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obispo de París condenó 219 proposiciones filosóficas en el año 1277 d.C.?",
+      "options": ["Esteban Tempier", "Pedro de Corbeil", "Roberto de Courçon"],
+      "correct": 0,
+      "hint": "Actuó a instancias del papa Juan XXI.",
+      "explanation": "Entre las tesis condenadas figuraban la eternidad del mundo y la unicidad del intelecto posible."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ restauró la autonomía de la universidad de París mediante la bula Parens Scientiarum de 1231 d.C.",
+      "options": ["Gregorio IX", "Honorio III", "Juan XXI"],
+      "answer": "Gregorio IX",
+      "explanation": "Reconoció a la universidad el derecho a redactar sus propios estatutos y a suspender la docencia como medida de presión."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La restauración de la autonomía",
+      "tiles": ["Gregorio", "IX", "restauró", "la", "autonomía", "parisina", "eliminó", "redujo"],
+      "answer": "Gregorio IX restauró la autonomía parisina",
+      "explanation": "Lo hizo tras la 'Gran Dispersión' de maestros y estudiantes provocada por la revuelta de 1229-1231 d.C."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué texto se convirtió en el manual teológico de referencia cuyo comentario era requisito para el bachillerato?",
+      "options": ["El Libro de las Sentencias de Pedro Lombardo", "El Decretum de Graciano", "El Sic et Non de Abelardo"],
+      "correct": 0,
+      "hint": "Fue redactado hacia el año 1150 d.C.",
+      "explanation": "Su comentario obligatorio se convirtió, desde las primeras décadas del siglo XIII, en requisito formal para el grado de bachiller."
+    },
+    {
+      "type": "gap",
+      "text": "El concilio provincial de ___ (1210 d.C.) prohibió la enseñanza de los libros naturales de Aristóteles.",
+      "options": ["París", "Toledo", "Bolonia"],
+      "answer": "París",
+      "explanation": "Se celebró bajo el arzobispo Pedro de Corbeil, en el mismo sínodo que condenó a Amalarico de Bena y David de Dinant."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El canciller de Oxford",
+      "tiles": ["Oxford", "obtuvo", "su", "propio", "canciller", "perdió", "rechazó"],
+      "answer": "Oxford obtuvo su propio canciller",
+      "explanation": "En 1214 d.C., una ordenanza del legado papal Nicolás de Tusculum reconoció la autoridad del canciller sobre la comunidad escolar."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obra de Pedro Abelardo yuxtaponía citas patrísticas aparentemente contradictorias para enseñar el análisis lógico?",
+      "options": ["Sic et Non", "El Libro de las Sentencias", "El Decretum"],
+      "correct": 0,
+      "hint": "Su título significa 'Sí y No'.",
+      "explanation": "Este método, sistematizado embrionariamente por Abelardo, sería la base de la disputatio escolástica posterior."
+    },
+    {
+      "type": "gap",
+      "text": "El obispo ___ condenó 219 proposiciones filosóficas en la universidad de París en el año 1277 d.C.",
+      "options": ["Esteban Tempier", "Pedro de Corbeil", "Roberto de Courçon"],
+      "answer": "Esteban Tempier",
+      "explanation": "Actuó a instancias del papa Juan XXI contra la corriente averroísta radical de la facultad de artes."
+    }
+  ]
+}

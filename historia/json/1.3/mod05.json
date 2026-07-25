@@ -1,0 +1,243 @@
+{
+  "id": "1.3-mod05",
+  "module": 5,
+  "title": "El Gran Cisma de Oriente (1054 d.C.)",
+  "subtitle": "Del Filioque a la excomunión mutua entre Roma y Constantinopla",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Pentarquía", "es": "Eclesiología oriental de gobierno por sínodos coordinados por cinco sedes patriarcales" },
+        { "en": "Filioque", "es": "Cláusula añadida al Credo para afirmar que el Espíritu Santo procede del Padre y del Hijo" },
+        { "en": "Cisma", "es": "Ruptura formal de la comunión visible entre Iglesias particulares, sin implicar necesariamente herejía" },
+        { "en": "Dípticos", "es": "Tablas litúrgicas donde se registraban los nombres de los patriarcas en plena comunión" },
+        { "en": "Cesaropapismo", "es": "Sistema bizantino en que el emperador ejercía una función protectora y sacra sobre la Iglesia" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué modelo eclesiológico oriental concebía el gobierno de la Iglesia mediante sínodos coordinados por cinco sedes patriarcales?",
+      "options": ["La Pentarquía", "El Cesaropapismo", "La Reforma Gregoriana"],
+      "correct": 0,
+      "hint": "Incluía a Roma, Constantinopla, Alejandría, Antioquía y Jerusalén.",
+      "explanation": "En esta visión, el obispo de Roma gozaba de primacía de honor, un 'primus inter pares', pero no de jurisdicción directa sobre los demás patriarcas."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la eclesiología oriental que concibe el gobierno de la Iglesia mediante cinco sedes patriarcales.",
+      "options": ["Pentarquía", "Cisma", "Dípticos"],
+      "answer": "Pentarquía",
+      "explanation": "Las decisiones dogmáticas debían tomarse mediante concilios ecuménicos solemnes que representaran a toda la Iglesia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El gesto de Humberto",
+      "tiles": ["Humberto", "colocó", "la", "bula", "de", "excomunión", "retiró", "bendición"],
+      "answer": "Humberto colocó la bula de excomunión",
+      "explanation": "El 16 de julio de 1054, Humberto de Silva Candida colocó la bula sobre el altar mayor de Santa Sofía."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué concilio hispano del año 589 d.C. se introdujo la cláusula Filioque en el Credo?",
+      "options": ["El Tercer Concilio de Toledo", "El Concilio de Calcedonia", "El Concilio de Éfeso"],
+      "correct": 0,
+      "hint": "Se hizo para combatir la herejía arriana.",
+      "explanation": "La añadidura se difundió rápidamente por el Reino visigodo y el Imperio carolingio como parte de la liturgia latina."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es la cláusula añadida por Occidente al Credo para afirmar que el Espíritu Santo procede también del Hijo.",
+      "options": ["Filioque", "cisma", "Cesaropapismo"],
+      "answer": "Filioque",
+      "explanation": "Para los bizantinos, esta adición unilateral socavaba los cimientos de la eclesiología sinodal tradicional."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada aspecto con la tradición correspondiente",
+      "pairs": [
+        { "en": "Lengua Oficial de Occidente", "es": "Latín litúrgico y de cancillería" },
+        { "en": "Modelo de Gobierno en Oriente", "es": "Pentarquía sinodal colegiada bajo arbitrio imperial" },
+        { "en": "Disputa del Credo en Occidente", "es": "Inclusión dogmática de la cláusula Filioque" },
+        { "en": "Pan Eucarístico en Oriente", "es": "Pan fermentado de valor teológico sacramental" },
+        { "en": "Rito Litúrgico de Occidente", "es": "Rito Romano romano-franco estandarizado" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La denuncia de Focio",
+      "tiles": ["Focio", "denunció", "la", "cláusula", "Filioque", "aceptó", "ignoró"],
+      "answer": "Focio denunció la cláusula Filioque",
+      "explanation": "En el año 867 d.C., el patriarca Focio la calificó de blasfemia teológica que corrompía la fe apostólica Nicena."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué patriarca de Constantinopla denunció formalmente el Filioque en una encíclica del año 867 d.C.?",
+      "options": ["Focio", "Miguel Cerulario", "Atenágoras I"],
+      "correct": 0,
+      "hint": "Su sínodo llegó a excomulgar al papa Nicolás I.",
+      "explanation": "El sínodo de Constantinopla de 867 d.C. agravó la crisis diplomática entre Roma y Constantinopla."
+    },
+    {
+      "type": "gap",
+      "text": "Los ___ eran las tablas litúrgicas donde se registraban los nombres de los patriarcas en plena comunión.",
+      "options": ["dípticos", "sínodos", "concilios"],
+      "answer": "dípticos",
+      "explanation": "Borrar un nombre de estas tablas visualizaba de forma inmediata la fractura de la comunión eucarística."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Miguel Cerulario", "es": "Patriarca de Constantinopla, antiguo funcionario imperial, decididamente anti-latino" },
+        { "en": "Humberto de Silva Candida", "es": "Cardenal legado papal que colocó la bula de excomunión en Santa Sofía" },
+        { "en": "León IX", "es": "Papa reformador que envió la legación a Constantinopla; murió en abril de 1054" },
+        { "en": "Constantino IX Monómaco", "es": "Emperador bizantino que buscaba una alianza militar con Roma" },
+        { "en": "Focio", "es": "Patriarca que denunció el Filioque en una encíclica del año 867 d.C." }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El cierre de las iglesias latinas",
+      "tiles": ["Miguel", "Cerulario", "cerró", "las", "iglesias", "latinas", "abrió", "griegas"],
+      "answer": "Miguel Cerulario cerró las iglesias latinas",
+      "explanation": "Ordenó el cierre de iglesias y monasterios de rito latino en Constantinopla, exigiendo la erradicación del pan ácimo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué cardenal colocó la bula de excomunión sobre el altar de Santa Sofía el 16 de julio de 1054?",
+      "options": ["Humberto de Silva Candida", "Focio", "Atenágoras I"],
+      "correct": 0,
+      "hint": "Al salir pronunció: '¡Que Dios vea y juzgue!'.",
+      "explanation": "Actuaba a pesar de que la muerte de León IX en abril de 1054 había extinguido formalmente su jurisdicción como legado."
+    },
+    {
+      "type": "gap",
+      "text": "El emperador Constantino trasladó el centro del imperio a ___ en el año 330 d.C.",
+      "options": ["Constantinopla", "Roma", "Antioquía"],
+      "answer": "Constantinopla",
+      "explanation": "Este traslado consolidó un entorno de habla griega frente al latín predominante en Occidente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La muerte del papa reformador",
+      "tiles": ["León", "IX", "murió", "en", "abril", "de", "1054", "nació", "vivió"],
+      "answer": "León IX murió en abril de 1054",
+      "explanation": "Su muerte extinguía canónicamente la potestad de sus legados, que sin embargo continuaron actuando en Constantinopla."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién era el patriarca de Constantinopla en el momento de la excomunión mutua de 1054?",
+      "options": ["Miguel Cerulario", "Focio", "Atenágoras I"],
+      "correct": 0,
+      "hint": "Fue elevado a la sede patriarcal en 1043 d.C.",
+      "explanation": "Convocó un sínodo que excomulgó formalmente a Humberto de Silva Candida y sus colaboradores, sin excomulgar al papa de Roma."
+    },
+    {
+      "type": "gap",
+      "text": "El III Concilio de ___ (589 d.C.) introdujo la cláusula Filioque para combatir el arrianismo.",
+      "options": ["Toledo", "Nicea", "Calcedonia"],
+      "answer": "Toledo",
+      "explanation": "Los obispos de Hispania la introdujeron para afirmar la plena deidad del Verbo encarnado."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento con su descripción",
+      "pairs": [
+        { "en": "III Concilio de Toledo (589 d.C.)", "es": "Introdujo el Filioque para combatir el arrianismo" },
+        { "en": "Sínodo de Constantinopla (867 d.C.)", "es": "Excomulgó al papa Nicolás I bajo el patriarca Focio" },
+        { "en": "16 de julio de 1054", "es": "Humberto colocó la bula de excomunión sobre el altar de Santa Sofía" },
+        { "en": "Cuarta Cruzada (1204 d.C.)", "es": "Saqueo de Constantinopla que consolidó el cisma en la mentalidad popular" },
+        { "en": "Declaración Conjunta (7-XII-1965)", "es": "Pablo VI y Atenágoras I anularon las excomuniones mutuas de 1054" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El saqueo cruzado",
+      "tiles": ["Los", "cruzados", "saquearon", "Constantinopla", "defendieron", "protegieron"],
+      "answer": "Los cruzados saquearon Constantinopla",
+      "explanation": "El saqueo de 1204 d.C. durante la Cuarta Cruzada grabó de forma indeleble el cisma en la mentalidad popular bizantina."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué acontecimiento de 1204 d.C. consolidó el cisma en la mentalidad popular bizantina?",
+      "options": ["El saqueo de Constantinopla durante la Cuarta Cruzada", "La caída de Constantinopla ante los otomanos", "El Concilio de Basilea-Ferrara-Florencia"],
+      "correct": 0,
+      "hint": "Los cruzados se desviaron de su ruta hacia Tierra Santa.",
+      "explanation": "A partir de este episodio, el pueblo bizantino vio a los latinos como invasores bárbaros, no solo como cismáticos doctrinales."
+    },
+    {
+      "type": "gap",
+      "text": "El patriarca ___ excomulgó al papa Nicolás I en el sínodo de Constantinopla del año 867 d.C.",
+      "options": ["Focio", "Miguel Cerulario", "Atenágoras I"],
+      "answer": "Focio",
+      "explanation": "El sínodo de 867 d.C. consolidó los argumentos doctrinales que los orientales usarían siglos después contra Occidente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La caída del imperio",
+      "tiles": ["Los", "otomanos", "conquistaron", "Constantinopla", "perdieron", "abandonaron"],
+      "answer": "Los otomanos conquistaron Constantinopla",
+      "explanation": "La caída de Constantinopla en 1453 d.C. imposibilitó cualquier nuevo intento de acercamiento dogmático por siglos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué año cayó Constantinopla en manos del Imperio otomano, sellando la imposibilidad de reunión con Occidente?",
+      "options": ["1453 d.C.", "1204 d.C.", "1054 d.C."],
+      "correct": 0,
+      "hint": "Los sínodos de unión de Lyon II y Florencia habían fracasado antes.",
+      "explanation": "Los patriarcados orientales quedaron sometidos a gobernantes musulmanes tras la caída del imperio bizantino."
+    },
+    {
+      "type": "gap",
+      "text": "El cardenal ___ colocó la bula de excomunión sobre el altar de Santa Sofía el 16 de julio de 1054.",
+      "options": ["Humberto de Silva Candida", "León IX", "Constantino IX Monómaco"],
+      "answer": "Humberto de Silva Candida",
+      "explanation": "Acusó al patriarca y a su clero de incurrir en herejías como el arrianismo, el donatismo y el nicolaísmo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El abrazo de la reconciliación",
+      "tiles": ["Pablo", "VI", "abrazó", "a", "Atenágoras", "rechazó", "excomulgó"],
+      "answer": "Pablo VI abrazó a Atenágoras",
+      "explanation": "Su encuentro en Jerusalén en 1964 d.C. fue el primero entre las cabezas de ambas Iglesias en más de cinco siglos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué papa y qué patriarca anularon conjuntamente las excomuniones de 1054 en la Declaración Conjunta de 1965?",
+      "options": ["Pablo VI y Atenágoras I", "León IX y Miguel Cerulario", "León IX y Focio"],
+      "correct": 0,
+      "hint": "El acto se leyó simultáneamente en Roma y en Constantinopla.",
+      "explanation": "El documento no restauró de inmediato la intercomunión plena, pero eliminó el obstáculo jurídico central de la división."
+    },
+    {
+      "type": "gap",
+      "text": "El saqueo de Constantinopla durante la ___ (1204 d.C.) consolidó el cisma en la mentalidad popular.",
+      "options": ["Cuarta Cruzada", "Primera Cruzada", "Segunda Cruzada"],
+      "answer": "Cuarta Cruzada",
+      "explanation": "La profanación de Santa Sofía y la imposición de un imperio latino destruyeron cualquier atisbo de caridad eclesial."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El rechazo eucarístico oriental",
+      "tiles": ["Oriente", "rechaza", "el", "pan", "ácimo", "acepta", "fermentado"],
+      "answer": "Oriente rechaza el pan ácimo",
+      "explanation": "Los teólogos orientales consideraban su uso una judaización inaceptable de la liturgia cristiana."
+    },
+    {
+      "type": "gap",
+      "text": "En el año ___ d.C., Constantinopla cayó en manos del Imperio otomano.",
+      "options": ["1453", "1204", "1054"],
+      "answer": "1453",
+      "explanation": "Precedida por el fracaso de las uniones de Lyon II y Florencia, esta caída selló la fractura eclesial por siglos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué papa había fallecido en abril de 1054, antes de que sus legados colocaran la bula de excomunión?",
+      "options": ["León IX", "Nicolás I", "Benito VIII"],
+      "correct": 0,
+      "hint": "Su muerte extinguía canónicamente la jurisdicción de sus legados.",
+      "explanation": "Humberto de Silva Candida y sus compañeros ignoraron este hecho y continuaron actuando como si poseyeran plena autoridad papal."
+    }
+  ]
+}

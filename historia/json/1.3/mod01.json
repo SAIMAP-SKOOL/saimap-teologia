@@ -1,0 +1,243 @@
+{
+  "id": "1.3-mod01",
+  "module": 1,
+  "title": "La Evangelización de los Pueblos Germánicos y el Monacato Misionero",
+  "subtitle": "Del bautismo de Clodoveo a la misión de San Bonifacio",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Arrianismo Gótico", "es": "Cristianismo subordinacionista adoptado por los godos, marcador de identidad étnica" },
+        { "en": "Conversio Gentis", "es": "Conversión colectiva de un pueblo mediante el bautismo de su rey o caudillo" },
+        { "en": "Peregrinatio pro Christo", "es": "Exilio voluntario y perpetuo del monje celta como forma de renuncia misionera" },
+        { "en": "Hagiografía", "es": "Género literario que narra la vida de los santos con fines edificantes" },
+        { "en": "Interpretatio Romana", "es": "Mecanismo de traducir las divinidades germánicas a sus equivalentes grecorromanos" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál fue la principal diferencia religiosa entre la conversión de los francos bajo Clodoveo y la de visigodos u ostrogodos?",
+      "options": ["Los francos pasaron directamente del paganismo al catolicismo niceno, sin el arrianismo previo de visigodos y ostrogodos", "Los francos se convirtieron primero al arrianismo germánico", "Los visigodos permanecieron politeístas hasta la Alta Edad Media"],
+      "correct": 0,
+      "hint": "Ningún otro gran reino bárbaro lo había logrado.",
+      "explanation": "El bautismo de Clodoveo en 496 d.C. supuso un salto directo del politeísmo germánico al catolicismo niceno, sin el obstáculo intermedio del arrianismo."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ era la forma de cristianismo subordinacionista adoptada por los godos a través de Ulfilas.",
+      "options": ["arrianismo gótico", "conversio gentis", "hagiografía"],
+      "answer": "arrianismo gótico",
+      "explanation": "Este arrianismo funcionó como frontera étnica y política entre la minoría guerrera germánica y la mayoría de la población romana católica."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El bautismo de Clodoveo",
+      "tiles": ["El", "rey", "franco", "fue", "bautizado", "en", "Reims", "nunca", "Roma"],
+      "answer": "El rey franco fue bautizado en Reims",
+      "explanation": "El bautismo del rey, junto con varios miles de sus guerreros, tuvo lugar en Reims de manos del obispo Remigio."
+    },
+    {
+      "type": "quiz",
+      "q": "Sobre el bautismo de Clodoveo (496 d.C.), ¿qué elemento es tradición hagiográfica tardía y no historia certificada?",
+      "options": ["El relato de la Santa Ampolla traída por una paloma, añadido en el siglo IX por Hincmar de Reims", "El matrimonio de Clodoveo con la princesa católica Clotilde", "El bautismo del rey de manos del obispo Remigio de Reims"],
+      "correct": 0,
+      "hint": "No aparece en la Historia Francorum de Gregorio de Tours.",
+      "explanation": "Este episodio fue añadido siglos después por el arzobispo Hincmar de Reims con una finalidad política y litúrgica de legitimación."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la conversión colectiva de un pueblo mediante el bautismo de su rey o caudillo.",
+      "options": ["conversio gentis", "peregrinatio pro Christo", "interpretatio romana"],
+      "answer": "conversio gentis",
+      "explanation": "Este mecanismo determinaba la adhesión formal de un pueblo a la nueva fe, mientras la catequesis efectiva se prolongaba generaciones."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada pueblo con su vía de conversión",
+      "pairs": [
+        { "en": "Francos", "es": "Paganismo germánico a catolicismo niceno directo, bautismo de Clodoveo (496 d.C.)" },
+        { "en": "Visigodos", "es": "Paganismo a arrianismo gótico a catolicismo, III Concilio de Toledo (589 d.C.)" },
+        { "en": "Anglosajones", "es": "Paganismo germánico a catolicismo romano, misión gregoriana (597 d.C.)" },
+        { "en": "Pueblos transrenanos", "es": "Paganismo tribal a catolicismo romano organizado, misión de Bonifacio" },
+        { "en": "Irlanda", "es": "Evangelizada pacíficamente por San Patricio, organización monástica sin sede romana previa" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La regla benedictina",
+      "tiles": ["Ora", "et", "labora", "es", "el", "principio", "benedictino", "nunca", "celta"],
+      "answer": "Ora et labora es el principio benedictino",
+      "explanation": "Este código combinaba la oración litúrgica, el trabajo manual y agrícola y la obediencia a un abad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué papel desempeñó el monacato celta y benedictino en la evangelización rural altomedieval?",
+      "options": ["Constituyó una red de monasterios itinerantes que evangelizó zonas rurales fuera del alcance episcopal", "Se limitó a la copia de manuscritos sin función misionera", "Rechazó desde su origen toda comunión con Roma"],
+      "correct": 0,
+      "hint": "Seguía el ideal de la peregrinatio pro Christo.",
+      "explanation": "Monjes como Columba y Columbano fundaron monasterios que actuaron como polos de estabilidad y catequesis en el campo europeo."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es el exilio voluntario del monje celta como forma radical de renuncia misionera.",
+      "options": ["peregrinatio pro Christo", "hagiografía", "conversio gentis"],
+      "answer": "peregrinatio pro Christo",
+      "explanation": "Este ideal ascético impulsó a monjes irlandeses y escoceses a fundar centros monásticos fuera de sus territorios de origen."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué representó la misión de San Bonifacio entre los pueblos germánicos del siglo VIII?",
+      "options": ["La organización de una jerarquía diocesana romana en cooperación con el poder franco", "La primera evangelización sin ningún precedente previo", "Una misión centrada en la conversión de los visigodos hispanos"],
+      "correct": 0,
+      "hint": "Cooperó con Carlos Martel y Pipino el Breve.",
+      "explanation": "Bonifacio fusionó la estructura tribal germánica con el modelo eclesiástico romano, sentando las bases institucionales de la cristiandad carolingia."
+    },
+    {
+      "type": "gap",
+      "text": "___ fue bautizado en Reims por el obispo Remigio en el año 496 d.C.",
+      "options": ["Clodoveo", "Carlos Martel", "Pipino"],
+      "answer": "Clodoveo",
+      "explanation": "Al convertirse directamente al catolicismo niceno, el rey franco se aseguró el respaldo del episcopado galo-romano."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La victoria de Vouillé",
+      "tiles": ["Clodoveo", "derrotó", "a", "los", "visigodos", "arrianos", "perdió", "católicos"],
+      "answer": "Clodoveo derrotó a los visigodos arrianos",
+      "explanation": "Esta victoria en el año 507 d.C. expulsó a los visigodos de la práctica totalidad de la Galia hacia Hispania."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obispo tradujo las Escrituras a la lengua gótica y evangelizó a los godos en clave arriana?",
+      "options": ["Ulfilas", "Remigio", "Willibald"],
+      "correct": 0,
+      "hint": "Vivió en el siglo IV, en tiempos del Danubio.",
+      "explanation": "Esta adhesión al arrianismo gótico funcionó como frontera étnica entre la minoría guerrera germánica y la mayoría romana católica."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Nursia redactó la Regula Monachorum a mediados del siglo VI.",
+      "options": ["Benito", "Columbano", "Bonifacio"],
+      "answer": "Benito",
+      "explanation": "Los monasterios que adoptaron esta regla se convirtieron en polos de estabilidad económica y cultural en la fragmentación política."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Clodoveo", "es": "Rey de los francos bautizado en Reims en el año 496 d.C." },
+        { "en": "Gregorio de Tours", "es": "Obispo historiador, autor de la Historia Francorum" },
+        { "en": "Benito de Nursia", "es": "Redactó la Regula Monachorum, principio del ora et labora" },
+        { "en": "Columbano", "es": "Monje irlandés que fundó monasterios en la Galia y en Bobbio" },
+        { "en": "Bonifacio", "es": "Apóstol de Alemania, taló el roble de Donar en Geismar" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La misión de Bonifacio",
+      "tiles": ["Bonifacio", "taló", "el", "roble", "sagrado", "plantó", "profano"],
+      "answer": "Bonifacio taló el roble sagrado",
+      "explanation": "Bonifacio derribó el árbol consagrado al dios Donar ante la expectación de la población pagana de Geismar."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué batalla consolidó a los francos como potencia hegemónica de la Galia frente a los visigodos arrianos?",
+      "options": ["La batalla de Vouillé (507 d.C.)", "La batalla de Tolbiac", "La batalla de Soissons"],
+      "correct": 0,
+      "hint": "Enfrentó a Clodoveo con Alarico II.",
+      "explanation": "Clodoveo derrotó al rey visigodo arriano Alarico II, expulsando a los visigodos hacia Hispania."
+    },
+    {
+      "type": "gap",
+      "text": "___ fundó monasterios en la Galia merovingia y en Bobbio, en el norte de Italia.",
+      "options": ["Columbano", "Columba", "Patricio"],
+      "answer": "Columbano",
+      "explanation": "Introdujo en el continente prácticas litúrgicas y penitenciales de origen celta, incluida una datación distinta de la Pascua."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El Sínodo de Whitby",
+      "tiles": ["Inglaterra", "adoptó", "la", "Pascua", "romana", "rechazó", "celta"],
+      "answer": "Inglaterra adoptó la Pascua romana",
+      "explanation": "Esta decisión del año 664 d.C. significó la integración plena de la Iglesia de las islas británicas en la disciplina de Roma."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué regla monástica organizó la vida comunitaria en torno al principio del ora et labora?",
+      "options": ["La Regula Monachorum de Benito de Nursia", "La Vita Bonifatii de Willibald", "La Historia Francorum de Gregorio de Tours"],
+      "correct": 0,
+      "hint": "Se redactó hacia mediados del siglo VI.",
+      "explanation": "Este código combinaba la oración litúrgica, el trabajo manual y agrícola, y la obediencia a un abad."
+    },
+    {
+      "type": "gap",
+      "text": "___ taló el roble sagrado de Donar en Geismar hacia el año 723 d.C.",
+      "options": ["Bonifacio", "Agustín de Canterbury", "Willibald"],
+      "answer": "Bonifacio",
+      "explanation": "Empleó la madera del árbol sagrado para construir una capilla dedicada a San Pedro."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o concepto con su descripción",
+      "pairs": [
+        { "en": "Batalla de Vouillé (507 d.C.)", "es": "Clodoveo derrotó a los visigodos arrianos, expulsándolos de la Galia" },
+        { "en": "Sínodo de Whitby (664 d.C.)", "es": "Adoptó el cómputo romano de la Pascua en Inglaterra" },
+        { "en": "Misión de Agustín de Canterbury (597 d.C.)", "es": "Enviada por Gregorio Magno para evangelizar a los anglosajones" },
+        { "en": "Concilium Germanicum (742-743 d.C.)", "es": "Sínodo de reforma disciplinar convocado por Bonifacio" },
+        { "en": "Abadía de Fulda (744 d.C.)", "es": "Fundada por Sturmio, discípulo de Bonifacio, gran centro cultural carolingio" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La misión gregoriana a Inglaterra",
+      "tiles": ["Gregorio", "Magno", "envió", "a", "Agustín", "retuvo", "Bonifacio"],
+      "answer": "Gregorio Magno envió a Agustín",
+      "explanation": "El papa envió al monje benedictino Agustín de Canterbury en el año 597 d.C. para convertir a los anglosajones paganos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué sínodo resolvió la divergencia sobre la fecha de la Pascua entre la tradición romana y la celta en Inglaterra?",
+      "options": ["El Sínodo de Whitby (664 d.C.)", "El Concilium Germanicum", "El III Concilio de Toledo"],
+      "correct": 0,
+      "hint": "Fue convocado por el rey Oswiu de Northumbria.",
+      "explanation": "La adopción del cómputo romano significó la integración plena de la Iglesia de las islas británicas en la disciplina de Roma."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ (664 d.C.) adoptó el cómputo romano de la Pascua en Inglaterra.",
+      "options": ["Sínodo de Whitby", "Concilium Germanicum", "Concilio de Toledo"],
+      "answer": "Sínodo de Whitby",
+      "explanation": "Esta alineación resultó decisiva para que misioneros ingleses pudieran presentarse ante el papado como agentes fiables de la ortodoxia romana."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La peregrinación celta",
+      "tiles": ["El", "monje", "celta", "se", "exilia", "por", "Cristo", "permanece", "rechaza"],
+      "answer": "El monje celta se exilia por Cristo",
+      "explanation": "Este ideal ascético designaba el exilio voluntario y perpetuo del monje lejos de su tierra natal como forma radical de renuncia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué papa envió a Agustín de Canterbury a evangelizar a los anglosajones en el año 597 d.C.?",
+      "options": ["Gregorio Magno", "Gregorio II", "Dámaso I"],
+      "correct": 0,
+      "hint": "Escribió la Regula Pastoralis.",
+      "explanation": "Este papa acompañó la misión con un manual de gobierno espiritual destinado a orientar a los nuevos obispos."
+    },
+    {
+      "type": "gap",
+      "text": "La abadía de ___, fundada en el año 744 d.C., se convirtió en gran centro cultural carolingio.",
+      "options": ["Fulda", "Bobbio", "Iona"],
+      "answer": "Fulda",
+      "explanation": "Fue fundada por Sturmio, discípulo de Bonifacio, y llegaría a ser uno de los grandes centros culturales de la Europa carolingia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El martirio de Bonifacio",
+      "tiles": ["Bonifacio", "murió", "en", "Dokkum", "en", "Frisia", "vivió", "Roma"],
+      "answer": "Bonifacio murió en Dokkum en Frisia",
+      "explanation": "Fue asesinado el 5 de junio del año 754 d.C. junto con su séquito mientras esperaba a un grupo de neófitos."
+    }
+  ]
+}

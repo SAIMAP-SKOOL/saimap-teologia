@@ -1,0 +1,243 @@
+{
+  "id": "1.3-mod04",
+  "module": 4,
+  "title": "Las Reformas Monásticas Cluniacense y Cisterciense",
+  "subtitle": "El retorno a la Regla de San Benito, de Cluny a Cîteaux",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Exención Monástica", "es": "Privilegio que sustrae a un monasterio de la jurisdicción del obispo y del señor laico" },
+        { "en": "Simonía", "es": "Compraventa de cargos, sacramentos o beneficios eclesiásticos" },
+        { "en": "Nicolaísmo", "es": "Práctica del concubinato o matrimonio del clero ordenado" },
+        { "en": "Carta Caritatis", "es": "Documento cisterciense que estableció el gobierno federativo de la orden" },
+        { "en": "Conversi", "es": "Hermanos legos cistercienses dedicados al trabajo manual y agrícola" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué disposición jurídica distinguió a la carta fundacional de Cluny (909-910 d.C.) respecto del modelo habitual de la iglesia feudal?",
+      "options": ["La exención de la autoridad laica y episcopal, con dependencia directa e inmediata de la Sede Romana", "La sujeción del monasterio a la autoridad hereditaria del duque fundador y sus descendientes", "La obligación de pagar un tributo anual al obispo de Mâcon a cambio de protección militar"],
+      "correct": 0,
+      "hint": "Rompía radicalmente con la lógica del Eigenkirchenwesen.",
+      "explanation": "La carta de Guillermo de Aquitania sustrajo a Cluny de cualquier jurisdicción laica o episcopal local, colocándolo bajo la tutela directa de Roma."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es el privilegio jurídico que sustrae a un monasterio de la jurisdicción del obispo y del señor laico.",
+      "options": ["Exención Monástica", "Simonía", "Carta Caritatis"],
+      "answer": "Exención Monástica",
+      "explanation": "Este privilegio somete al monasterio de forma directa e inmediata a la autoridad de la Santa Sede."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La fundación de Cluny",
+      "tiles": ["Guillermo", "fundó", "el", "monasterio", "de", "Cluny", "destruyó", "Cîteaux"],
+      "answer": "Guillermo fundó el monasterio de Cluny",
+      "explanation": "El duque Guillermo I de Aquitania, Guillermo el Piadoso, otorgó en 909-910 d.C. la carta fundacional de Cluny."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué documento estableció el modelo de gobierno federativo de la orden cisterciense?",
+      "options": ["La Carta Caritatis de Esteban Harding", "El Dictatus Papae de Gregorio VII", "La Regula Pastoralis de San Gregorio Magno"],
+      "correct": 0,
+      "hint": "Fue aprobada hacia el año 1119 d.C.",
+      "explanation": "Organizó a las abadías cistercienses en un régimen federativo de autonomía jurídica compartida y uniformidad litúrgica."
+    },
+    {
+      "type": "gap",
+      "text": "El duque ___ otorgó en 909-910 d.C. la carta fundacional de Cluny.",
+      "options": ["Guillermo I de Aquitania", "Odón de Cluny", "Roberto de Molesme"],
+      "answer": "Guillermo I de Aquitania",
+      "explanation": "Conocido como Guillermo el Piadoso, situó el monasterio bajo la protección directa de los apóstoles Pedro y Pablo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada aspecto con su modelo institucional",
+      "pairs": [
+        { "en": "Gobierno cluniacense", "es": "Congregación centralizada: priorías dependientes de un único abad" },
+        { "en": "Gobierno cisterciense", "es": "Federación autónoma: Carta Caritatis, Capítulo General y visita mutua" },
+        { "en": "Liturgia cluniacense", "es": "Oficio coral extenso, solemnidad ritual, intercesión por difuntos" },
+        { "en": "Liturgia cisterciense", "es": "Oficio coral reducido, prioridad del trabajo manual (opus manuum)" },
+        { "en": "Arquitectura cisterciense", "es": "Sobriedad constructiva, ausencia de imágenes esculpidas, líneas simples" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El vínculo con Roma",
+      "tiles": ["Cluny", "depende", "directamente", "de", "Roma", "del", "obispo"],
+      "answer": "Cluny depende directamente de Roma",
+      "explanation": "El privilegio de exención colocó a Cluny bajo la tutela inmediata de la Sede Apostólica, sin intermediación episcopal."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál fue el principal argumento de la crítica de Bernardo de Claraval, en su Apologia ad Guillelmum, hacia la práctica cluniacense?",
+      "options": ["La excesiva ornamentación arquitectónica y litúrgica, considerada una distracción de la contemplación", "La negativa de Cluny a aceptar la autoridad directa del papa de Roma", "La supuesta herejía trinitaria de los monjes cluniacenses"],
+      "correct": 0,
+      "hint": "El tratado está dirigido a Guillermo de Saint-Thierry.",
+      "explanation": "Bernardo censuró la profusión de esculturas y suntuosidad en las iglesias cluniacenses por distraer del recogimiento interior."
+    },
+    {
+      "type": "gap",
+      "text": "El primer abad de Cluny fue ___, procedente de la abadía de Baume.",
+      "options": ["Bernón", "Odilón", "Alberico"],
+      "answer": "Bernón",
+      "explanation": "Llegó a la nueva fundación con una docena de monjes y adoptó la Regla de San Benito en la versión de Benito de Aniano."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Odón de Cluny", "es": "Segundo abad, obtuvo del papa Juan XI el privilegio de integrar otros monasterios" },
+        { "en": "Odilón de Cluny", "es": "Instituyó en 998 d.C. la conmemoración litúrgica de los fieles difuntos" },
+        { "en": "Roberto de Molesme", "es": "Fundó el Novum Monasterium de Cîteaux en 1098 d.C." },
+        { "en": "Esteban Harding", "es": "Redactó la Carta Caritatis, tercer abad de Cîteaux" },
+        { "en": "Pedro el Venerable", "es": "Abad de Cluny que defendió por escrito el culto solemne y ornamentado" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La conmemoración de los difuntos",
+      "tiles": ["Odilón", "instituyó", "la", "conmemoración", "de", "difuntos", "vivos", "rechazó"],
+      "answer": "Odilón instituyó la conmemoración de difuntos",
+      "explanation": "Odilón de Cluny instituyó en el año 998 d.C. la conmemoración litúrgica de todos los fieles difuntos, el 2 de noviembre."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién fundó la abadía de Cîteaux en 1098 d.C. buscando un retorno más riguroso a la Regla de San Benito?",
+      "options": ["Roberto de Molesme", "Bernardo de Claraval", "Odón de Cluny"],
+      "correct": 0,
+      "hint": "Partió de la abadía de Molesme con veintiún monjes.",
+      "explanation": "Roberto de Molesme fundó el Novum Monasterium de Cîteaux, germen de la futura orden cisterciense."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ ratificó por primera vez el privilegio de exención de Cluny en el año 931 d.C.",
+      "options": ["Juan XI", "Gregorio V", "Pascual II"],
+      "answer": "Juan XI",
+      "explanation": "Confirmaciones posteriores, como la de Gregorio V hacia 998 d.C., reforzaron acumulativamente este vínculo con Roma."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El abandono de Molesme",
+      "tiles": ["Roberto", "abandonó", "Molesme", "por", "Cîteaux", "permaneció", "Cluny"],
+      "answer": "Roberto abandonó Molesme por Cîteaux",
+      "explanation": "En marzo de 1098 d.C., Roberto de Molesme abandonó su abadía junto a veintiún monjes para fundar Cîteaux."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué apelativo recibieron los monjes cistercienses por el color de su hábito de lana sin teñir?",
+      "options": ["Monjes blancos", "Monjes negros", "Monjes grises"],
+      "correct": 0,
+      "hint": "Contrastaba con el hábito oscuro de los cluniacenses.",
+      "explanation": "La sencillez del vestido cisterciense simbolizaba la pobreza voluntaria y el rechazo del ornato superfluo."
+    },
+    {
+      "type": "gap",
+      "text": "___ instituyó en el año 998 d.C. la conmemoración litúrgica de todos los fieles difuntos.",
+      "options": ["Odilón", "Odón", "Hugo el Grande"],
+      "answer": "Odilón",
+      "explanation": "Esta práctica, celebrada el 2 de noviembre, se extendería posteriormente a toda la Iglesia latina."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Cistercii Ecclesia (1100 d.C.)", "es": "Privilegio de Pascual II que protegió a Cîteaux de la jurisdicción episcopal" },
+        { "en": "Concilio de Sens (1140 d.C.)", "es": "Condenó proposiciones de Pedro Abelardo por intervención de Bernardo" },
+        { "en": "Apologia ad Guillelmum (1125 d.C.)", "es": "Tratado de Bernardo que censuró la ornamentación cluniacense" },
+        { "en": "Segunda Cruzada (1146 d.C.)", "es": "Predicada por Bernardo en Vézelay por encargo de Eugenio III" },
+        { "en": "Cisma papal (1130 d.C.)", "es": "Bernardo inclinó el apoyo europeo a favor de Inocencio II frente a Anacleto II" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El hábito cisterciense",
+      "tiles": ["Los", "monjes", "blancos", "visten", "lana", "sin", "teñir", "negra", "oscura"],
+      "answer": "Los monjes blancos visten lana sin teñir",
+      "explanation": "Esta sencillez contrastaba con el hábito oscuro de los benedictinos cluniacenses."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién predicó la Segunda Cruzada en Vézelay en 1146 d.C. por encargo del papa Eugenio III?",
+      "options": ["Bernardo de Claraval", "Pedro el Venerable", "Pedro Abelardo"],
+      "correct": 0,
+      "hint": "Eugenio III había sido discípulo directo suyo.",
+      "explanation": "El fracaso militar de la campaña, sellado en el sitio de Damasco de 1148 d.C., desgastó el prestigio de Bernardo en sus últimos años."
+    },
+    {
+      "type": "gap",
+      "text": "En marzo de 1098 d.C., ___ abandonó Molesme junto a veintiún monjes para fundar Cîteaux.",
+      "options": ["Roberto de Molesme", "Alberico", "Esteban Harding"],
+      "answer": "Roberto de Molesme",
+      "explanation": "Estaba insatisfecho con el nivel de observancia alcanzado en su propia abadía de Molesme."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La crítica bernardina",
+      "tiles": ["Bernardo", "censuró", "la", "ornamentación", "cluniacense", "alabó", "cisterciense"],
+      "answer": "Bernardo censuró la ornamentación cluniacense",
+      "explanation": "En su Apologia ad Guillelmum, Bernardo consideró la suntuosidad cluniacense incompatible con el recogimiento contemplativo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se denominaba a los hermanos legos cistercienses dedicados al trabajo manual y agrícola?",
+      "options": ["Conversi", "Capitulares", "Canónigos"],
+      "correct": 0,
+      "hint": "No estaban ordenados ni obligados al oficio coral completo.",
+      "explanation": "Trabajaban las granjas dependientes del monasterio, permitiendo colonizar extensas zonas marginales, boscosas o pantanosas."
+    },
+    {
+      "type": "gap",
+      "text": "La ___, redactada por Esteban Harding, estableció el gobierno federativo de la orden cisterciense.",
+      "options": ["Carta Caritatis", "Admonitio Generalis", "Regula Pastoralis"],
+      "answer": "Carta Caritatis",
+      "explanation": "Aprobada hacia 1119 d.C. por el papa Calixto II, sujetó a las abadías a la visita mutua y al Capítulo General anual."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La predicación de la cruzada",
+      "tiles": ["Bernardo", "predicó", "la", "Segunda", "Cruzada", "evitó", "Primera"],
+      "answer": "Bernardo predicó la Segunda Cruzada",
+      "explanation": "Movilizó un extraordinario entusiasmo popular y aristocrático en favor de la expedición de 1146 d.C."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué papa ratificó por primera vez el privilegio de exención de Cluny en el año 931 d.C.?",
+      "options": ["Juan XI", "Gregorio V", "Calixto II"],
+      "correct": 0,
+      "hint": "Confirmaciones posteriores reforzaron acumulativamente el vínculo con Roma.",
+      "explanation": "Bajo Odón de Cluny, el mismo papa concedió el privilegio de integrar otros monasterios bajo la autoridad abacial de Cluny."
+    },
+    {
+      "type": "gap",
+      "text": "Los ___ eran hermanos legos cistercienses dedicados al trabajo manual en las granjas del monasterio.",
+      "options": ["conversi", "canónigos", "capitulares"],
+      "answer": "conversi",
+      "explanation": "No estaban ordenados ni obligados al oficio coral completo, y permitieron la explotación directa de bloques de tierra compactos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué apelativo recibía el duque Guillermo I de Aquitania, fundador de Cluny?",
+      "options": ["Guillermo el Piadoso", "Guillermo el Conquistador", "Guillermo el Breve"],
+      "correct": 0,
+      "hint": "Su devoción motivó la carta fundacional de 909-910 d.C.",
+      "explanation": "Guillermo el Piadoso otorgó la carta que puso a Cluny bajo la protección directa de la Sede Romana."
+    },
+    {
+      "type": "gap",
+      "text": "___ predicó la Segunda Cruzada en Vézelay en el año 1146 d.C.",
+      "options": ["Bernardo de Claraval", "Pedro el Venerable", "Pedro Abelardo"],
+      "answer": "Bernardo de Claraval",
+      "explanation": "Lo hizo por encargo del papa Eugenio III, antiguo monje cisterciense y discípulo suyo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El trabajo de los conversi",
+      "tiles": ["Los", "conversi", "trabajan", "las", "granjas", "abandonan", "queman"],
+      "answer": "Los conversi trabajan las granjas",
+      "explanation": "A diferencia de las priorías cluniacenses, el Cister prefería la explotación directa de la tierra mediante hermanos legos."
+    }
+  ]
+}

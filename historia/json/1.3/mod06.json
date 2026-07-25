@@ -1,0 +1,243 @@
+{
+  "id": "1.3-mod06",
+  "module": 6,
+  "title": "La Reforma Gregoriana y la Querella de las Investiduras",
+  "subtitle": "Gregorio VII, el Dictatus Papae y la penitencia de Canossa",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Libertas Ecclesiae", "es": "Principio de la reforma gregoriana que reivindicaba la independencia de la Iglesia frente al poder civil" },
+        { "en": "Investidura Laica", "es": "Entrega del báculo y el anillo por un rey o emperador a un obispo o abad electo" },
+        { "en": "Dictatus Papae", "es": "Colección de veintisiete proposiciones registradas por Gregorio VII en 1075 d.C." },
+        { "en": "Regalia", "es": "Derechos, rentas y prerrogativas feudales vinculados a las sedes episcopales y abaciales" },
+        { "en": "Simonía", "es": "Delito canónico de compraventa de cargos, sacramentos o beneficios eclesiásticos" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál era el objetivo programático central que Gregorio VII resumió bajo el concepto de libertas Ecclesiae?",
+      "options": ["La liberación de la Iglesia del control laico sobre la elección e investidura de obispos y abades", "La independencia económica de los monasterios cluniacenses respecto de Roma", "La autonomía política de los Estados Pontificios frente al Sacro Imperio"],
+      "correct": 0,
+      "hint": "Se oponía a que reyes y emperadores nombraran obispos.",
+      "explanation": "Para Gregorio VII, resultaba canónicamente insostenible que laicos controlaran el nombramiento de obispos mediante la investidura del báculo y el anillo."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ era el principio programático que reivindicaba la independencia de la Iglesia frente al poder civil.",
+      "options": ["Libertas Ecclesiae", "Investidura Laica", "Regalia"],
+      "answer": "Libertas Ecclesiae",
+      "explanation": "Este concepto articuló todo el edificio reformista gregoriano frente al control feudal del clero."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La excomunión de Enrique IV",
+      "tiles": ["Gregorio", "VII", "excomulgó", "a", "Enrique", "IV", "coronó", "absolvió"],
+      "answer": "Gregorio VII excomulgó a Enrique IV",
+      "explanation": "En el sínodo romano de febrero de 1076 d.C., Gregorio VII lo declaró depuesto de su dignidad real."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué naturaleza documental atribuye el consenso historiográfico moderno al Dictatus Papae de 1075 d.C.?",
+      "options": ["Un memorándum o esquema de trabajo personal registrado por Gregorio VII en su correspondencia", "Una bula solemne promulgada públicamente ante toda la cristiandad", "Una carta de excomunión dirigida directamente a Enrique IV"],
+      "correct": 0,
+      "hint": "El término latino dictatus significa 'dictado' o 'apunte'.",
+      "explanation": "Los historiadores coinciden en que nunca fue promulgado ni difundido como norma pública vinculante."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es la colección de veintisiete proposiciones registradas por Gregorio VII en 1075 d.C.",
+      "options": ["Dictatus Papae", "Concordato de Worms", "Registrum Gregorii VII"],
+      "answer": "Dictatus Papae",
+      "explanation": "Resumía los principios canónicos de la supremacía jurisdiccional del obispo de Roma."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada año con el hito principal del conflicto",
+      "pairs": [
+        { "en": "1075 d.C.", "es": "Redacción del Dictatus Papae y prohibición sinodal de la investidura laica" },
+        { "en": "1076 d.C.", "es": "Dieta de Worms y excomunión/deposición de Enrique IV" },
+        { "en": "1077 d.C.", "es": "Penitencia de Canossa" },
+        { "en": "1111 d.C.", "es": "Fracaso del Convenio de Sutri" },
+        { "en": "1122 d.C.", "es": "Concordato de Worms" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La espera de Canossa",
+      "tiles": ["Enrique", "IV", "esperó", "ante", "Canossa", "huyó", "de"],
+      "answer": "Enrique IV esperó ante Canossa",
+      "explanation": "Permaneció tres días vestido con hábito de penitente antes de ser recibido y absuelto por Gregorio VII."
+    },
+    {
+      "type": "quiz",
+      "q": "Según las crónicas contemporáneas y la propia correspondencia de Gregorio VII, ¿qué ocurrió durante el episodio de Canossa en enero de 1077 d.C.?",
+      "options": ["Enrique IV realizó una penitencia pública de tres días ante el castillo, tras lo cual Gregorio VII le concedió la absolución sacramental", "Enrique IV fue depuesto definitivamente como rey de Germania por decisión de la condesa Matilde", "Gregorio VII viajó a Worms para coronar personalmente a Enrique IV como emperador"],
+      "correct": 0,
+      "hint": "Los Annales de Lampert de Hersfeld confirman el episodio.",
+      "explanation": "Canossa fue una victoria canónica y personal de Enrique IV, pero no resolvió el problema jurisdiccional de la investidura."
+    },
+    {
+      "type": "gap",
+      "text": "Hildebrando de Soana fue elegido papa el 22 de abril de ___ d.C., adoptando el nombre de Gregorio VII.",
+      "options": ["1073", "1075", "1077"],
+      "answer": "1073",
+      "explanation": "Su elección se produjo por aclamación popular y clerical durante los funerales de su predecesor."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Gregorio VII (Hildebrando)", "es": "Papa reformador elegido en 1073 d.C., autor del Dictatus Papae" },
+        { "en": "Enrique IV", "es": "Rey de Germania excomulgado y depuesto, protagonista de Canossa" },
+        { "en": "Matilde de Toscana", "es": "Condesa aliada de Gregorio VII, propietaria del castillo de Canossa" },
+        { "en": "Calixto II", "es": "Papa que firmó el Concordato de Worms en 1122 d.C." },
+        { "en": "Guiberto de Rávena", "es": "Antipapa elegido por el sínodo de Brixen con el nombre de Clemente III" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La mediación de Matilde",
+      "tiles": ["Matilde", "intercedió", "por", "Enrique", "rechazó", "ignoró"],
+      "answer": "Matilde intercedió por Enrique",
+      "explanation": "Matilde de Toscana y el abad de Cluny actuaron como intercesores ante Gregorio VII en Canossa."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué distinción jurídica estableció el Concordato de Worms (1122 d.C.) para resolver la querella de las investiduras?",
+      "options": ["La separación entre la investidura espiritual (báculo y anillo) reservada a la Iglesia y la investidura temporal (cetro) otorgada por el emperador tras la elección canónica", "La abolición total de cualquier investidura, espiritual o temporal, por parte del emperador", "La transferencia completa del derecho de investidura episcopal al papa, sin ninguna intervención imperial"],
+      "correct": 0,
+      "hint": "Fue firmado entre Calixto II y Enrique V.",
+      "explanation": "El acuerdo fue ratificado poco después por el Concilio de Letrán I en 1123 d.C., el primer concilio ecuménico celebrado en Occidente."
+    },
+    {
+      "type": "gap",
+      "text": "En enero de 1076 d.C., Enrique IV convocó en ___ una asamblea de obispos que renunció a la obediencia a Gregorio VII.",
+      "options": ["Worms", "Canossa", "Brixen"],
+      "answer": "Worms",
+      "explanation": "El documento se dirigía al papa como 'Hildebrando, ya no papa sino falso monje'."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La elección del rey rival",
+      "tiles": ["Los", "príncipes", "eligieron", "a", "Rodolfo", "coronaron", "depusieron"],
+      "answer": "Los príncipes eligieron a Rodolfo",
+      "explanation": "En marzo de 1077 d.C., los príncipes alemanes descontentos eligieron a Rodolfo de Suabia como rey rival."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué año fue elegido Hildebrando de Soana como papa con el nombre de Gregorio VII?",
+      "options": ["1073 d.C.", "1075 d.C.", "1077 d.C."],
+      "correct": 0,
+      "hint": "Culminó una carrera de más de dos décadas en la curia romana.",
+      "explanation": "Su elección técnicamente contravino el decreto In Nomine Domini de 1059 d.C., aunque fue subsanada por ratificación cardenalicia."
+    },
+    {
+      "type": "gap",
+      "text": "En 1077 d.C., Enrique IV realizó una penitencia de tres días ante el castillo de ___.",
+      "options": ["Canossa", "Worms", "Salerno"],
+      "answer": "Canossa",
+      "explanation": "El castillo pertenecía a la condesa Matilde de Toscana, aliada fiel de Gregorio VII."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "In Nomine Domini (1059 d.C.)", "es": "Reservó la elección papal al colegio de cardenales" },
+        { "en": "Dieta de Tribur (octubre 1076 d.C.)", "es": "Exigió la absolución papal de Enrique IV en un año y un día" },
+        { "en": "Sínodo de Brixen (1080 d.C.)", "es": "Declaró depuesto a Gregorio VII y eligió al antipapa Clemente III" },
+        { "en": "Convenio de Sutri (1111 d.C.)", "es": "Intentó que los obispos renunciaran a sus regalías a cambio del fin de la investidura" },
+        { "en": "Concilio de Letrán I (1123 d.C.)", "es": "Ratificó el Concordato de Worms, primer concilio ecuménico en Occidente" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El rescate de Roberto Guiscardo",
+      "tiles": ["Roberto", "Guiscardo", "rescató", "a", "Gregorio", "abandonó", "atacó"],
+      "answer": "Roberto Guiscardo rescató a Gregorio",
+      "explanation": "Sus tropas normandas rescataron a Gregorio VII del Castel Sant'Angelo, aunque después saquearon Roma en 1084 d.C."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuántas proposiciones componen el Dictatus Papae de 1075 d.C.?",
+      "options": ["Veintisiete", "Diez", "Cincuenta"],
+      "correct": 0,
+      "hint": "Incluye la potestad de deponer emperadores.",
+      "explanation": "Entre ellas destaca que solo el papa puede ser llamado universal y que puede absolver a los súbditos de su fidelidad a gobernantes injustos."
+    },
+    {
+      "type": "gap",
+      "text": "En marzo de 1077 d.C., los príncipes alemanes eligieron a ___ como rey rival de Enrique IV.",
+      "options": ["Rodolfo de Suabia", "Guiberto de Rávena", "Roberto Guiscardo"],
+      "answer": "Rodolfo de Suabia",
+      "explanation": "Consideraban que la absolución papal de Canossa no restituía automáticamente a Enrique IV en su trono."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La muerte del papa reformador",
+      "tiles": ["Gregorio", "VII", "murió", "en", "Salerno", "nació", "vivió"],
+      "answer": "Gregorio VII murió en Salerno",
+      "explanation": "Murió el 25 de mayo de 1085 d.C., sin haber visto resuelto el conflicto que había desencadenado."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué antipapa coronó emperador a Enrique IV tras la conquista de Roma en 1084 d.C.?",
+      "options": ["Clemente III", "Silvestre III", "Benedicto IX"],
+      "correct": 0,
+      "hint": "Antes era conocido como el arzobispo Guiberto de Rávena.",
+      "explanation": "Había sido elegido antipapa por el sínodo de obispos afines a Enrique IV reunido en Brixen en 1080 d.C."
+    },
+    {
+      "type": "gap",
+      "text": "El sínodo de ___ (1080 d.C.) declaró depuesto a Gregorio VII y eligió al antipapa Clemente III.",
+      "options": ["Brixen", "Sutri", "Letrán"],
+      "answer": "Brixen",
+      "explanation": "Fue convocado por Enrique IV tras fortalecerse con la muerte de Rodolfo de Suabia en combate."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La firma del Concordato",
+      "tiles": ["Calixto", "II", "firmó", "el", "Concordato", "rechazó", "rompió"],
+      "answer": "Calixto II firmó el Concordato",
+      "explanation": "El Concordato de Worms, firmado el 23 de septiembre de 1122 d.C. con Enrique V, resolvió la querella de las investiduras."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Dónde murió Gregorio VII en 1085 d.C., tras ser rescatado por Roberto Guiscardo?",
+      "options": ["Salerno", "Canossa", "Worms"],
+      "correct": 0,
+      "hint": "Se retiró allí junto con los normandos.",
+      "explanation": "Una biografía hagiográfica posterior le atribuye la frase 'he amado la justicia y odiado la iniquidad, por eso muero en el exilio'."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ (1111 d.C.) intentó, sin éxito, que los obispos renunciaran a sus regalías a cambio del fin de la investidura.",
+      "options": ["Convenio de Sutri", "Concordato de Worms", "Dictatus Papae"],
+      "answer": "Convenio de Sutri",
+      "explanation": "Fracasó ante la feroz oposición del episcopado alemán, que no estaba dispuesto a despojarse de su poder feudal."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La entrega del cetro",
+      "tiles": ["El", "emperador", "entrega", "el", "cetro", "recibe", "rechaza"],
+      "answer": "El emperador entrega el cetro",
+      "explanation": "El Concordato de Worms reservó el cetro, símbolo de las regalías feudales, a la investidura imperial."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué fecha exacta se firmó el Concordato de Worms entre Calixto II y Enrique V?",
+      "options": ["El 23 de septiembre de 1122 d.C.", "El 25 de mayo de 1085 d.C.", "El 22 de abril de 1073 d.C."],
+      "correct": 0,
+      "hint": "Fue ratificado poco después por el Concilio de Letrán I.",
+      "explanation": "El acuerdo puso fin a casi medio siglo de disputa entre el papado y el Imperio germánico."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ intentó infructuosamente el Convenio de Sutri con Enrique V en 1111 d.C.",
+      "options": ["Pascual II", "Calixto II", "Urbano II"],
+      "answer": "Pascual II",
+      "explanation": "El fracaso del convenio llevó a Enrique V a hacerlo arrestar temporalmente para arrancarle concesiones bajo coacción."
+    }
+  ]
+}

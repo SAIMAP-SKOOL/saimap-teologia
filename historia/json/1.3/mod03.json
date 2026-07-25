@@ -1,0 +1,243 @@
+{
+  "id": "1.3-mod03",
+  "module": 3,
+  "title": "La Iglesia Feudal y el \"Siglo de Hierro\" del Papado",
+  "subtitle": "Simonía, nicolaísmo e investidura laica en los siglos X-XI",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Simonía", "es": "Compraventa de bienes espirituales, sacramentos o cargos eclesiásticos" },
+        { "en": "Nicolaísmo", "es": "Denominación polémica medieval para el matrimonio o concubinato de los clérigos" },
+        { "en": "Investidura Laica", "es": "Entrega del báculo y el anillo a un obispo o abad electo por un señor laico" },
+        { "en": "Saeculum Obscurum", "es": "Periodo, entre 904 y 963 d.C., en que el papado quedó bajo control de la aristocracia romana" },
+        { "en": "Eigenkirchenwesen", "es": "Régimen jurídico germánico que consideraba la iglesia patrimonio privado de su fundador" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué designa la expresión historiográfica \"saeculum obscurum\" aplicada al papado del siglo X?",
+      "options": ["El periodo, aproximadamente entre 904 y 963 d.C., en que la aristocracia romana controló de facto las elecciones pontificias", "Un periodo de vacante formal de la sede apostólica sin pontífices reconocidos", "La etapa de persecución del papado por parte del Imperio bizantino"],
+      "correct": 0,
+      "hint": "El término fue acuñado por el cardenal Baronio en el siglo XVI.",
+      "explanation": "Familias como la de Teofilacto y Marozia determinaron de manera directa la ocupación de la sede pontificia durante este periodo."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ (843 d.C.) selló jurídicamente la fragmentación del Imperio carolingio.",
+      "options": ["Tratado de Verdún", "Privilegium Ottonianum", "Sínodo de Sutri"],
+      "answer": "Tratado de Verdún",
+      "explanation": "Privó a la cristiandad occidental del marco de autoridad central que Carlomagno había articulado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La victoria del Garellano",
+      "tiles": ["Juan", "X", "derrotó", "a", "los", "sarracenos", "perdió", "normandos"],
+      "answer": "Juan X derrotó a los sarracenos",
+      "explanation": "El papa Juan X encabezó personalmente la coalición cristiana que derrotó a las fuerzas sarracenas en el Garellano en el año 915 d.C."
+    },
+    {
+      "type": "quiz",
+      "q": "¿De qué episodio bíblico deriva el término \"simonía\"?",
+      "options": ["Del intento de Simón el mago de comprar el poder de conferir el Espíritu Santo (Hechos 8)", "De la parábola de los talentos narrada en el Evangelio de Mateo", "De la expulsión de los mercaderes del Templo por Jesús"],
+      "correct": 0,
+      "hint": "Simón ofreció dinero a Pedro y Juan.",
+      "explanation": "La dura reprensión de Pedro fijó en la tradición cristiana el paradigma de todo intento de comerciar con los bienes espirituales."
+    },
+    {
+      "type": "gap",
+      "text": "El régimen jurídico del ___ consideraba la iglesia un bien patrimonial privado de su fundador.",
+      "options": ["Eigenkirchenwesen", "Reichskirchensystem", "Saeculum Obscurum"],
+      "answer": "Eigenkirchenwesen",
+      "explanation": "El fundador o poseedor de la iglesia tenía derecho a disponer de sus rentas y a designar a su titular."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada fenómeno con su reforma o condena asociada",
+      "pairs": [
+        { "en": "Simonía", "es": "Sínodos de León IX (desde 1049 d.C.) y Dictatus Papae (1075 d.C.)" },
+        { "en": "Nicolaísmo", "es": "Liber Gomorrhianus de Pedro Damián (1049 d.C.)" },
+        { "en": "Investidura Laica", "es": "Cuestionada desde mediados del siglo XI, formalizada como conflicto en 1075 d.C." },
+        { "en": "Eigenkirchenwesen", "es": "Precursor estructural del Reichskirchensystem otoniano" },
+        { "en": "Reichskirchensystem", "es": "Sistema de la Iglesia imperial desarrollado por Otón I y sus sucesores" }
+      ]
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Familia de Teofilacto", "es": "Aristocracia romana que controló el papado durante el 'siglo de hierro'" },
+        { "en": "Liutprando de Cremona", "es": "Cronista autor de la Antapodosis, fuente principal aunque hostil" },
+        { "en": "Juan X", "es": "Papa que derrotó a los sarracenos en el Garellano (915 d.C.)" },
+        { "en": "Juan XII", "es": "Coronó emperador a Otón I y fue depuesto en el año 963 d.C." },
+        { "en": "Pedro Damián", "es": "Autor del Liber Gomorrhianus y del Liber Gratissimus" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La deposición de Juan XII",
+      "tiles": ["Otón", "I", "depuso", "a", "Juan", "XII", "coronó", "Pipino"],
+      "answer": "Otón I depuso a Juan XII",
+      "explanation": "El sínodo convocado por Otón I en Roma depuso a Juan XII en el año 963 d.C. por acusaciones de conducta impropia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué relación histórica existe entre el \"nicolaísmo\" medieval y los \"nicolaítas\" del Apocalipsis?",
+      "options": ["El término medieval es una apropiación retórica y polémica del nombre bíblico, sin vínculo histórico o doctrinal real entre ambos fenómenos", "Los nicolaítas del Apocalipsis fundaron directamente la práctica del matrimonio clerical medieval", "Existe continuidad doctrinal documentada entre ambos grupos a través de una sucesión herética ininterrumpida"],
+      "correct": 0,
+      "hint": "No hay documentación histórica de una filiación real.",
+      "explanation": "Los reformadores medievales tomaron prestado el nombre bíblico por su fuerte connotación de condena moral."
+    },
+    {
+      "type": "gap",
+      "text": "La familia de ___ dominó la política romana y el papado durante el 'siglo de hierro'.",
+      "options": ["Teofilacto", "Otón I", "Enrique III"],
+      "answer": "Teofilacto",
+      "explanation": "Su esposa Teodora y su hija Marozia extendieron su influencia sobre la política romana a lo largo de varias décadas del siglo X."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El control de Marozia",
+      "tiles": ["Marozia", "controló", "la", "sede", "romana", "abandonó", "defendió"],
+      "answer": "Marozia controló la sede romana",
+      "explanation": "Hacia el año 928 d.C. Marozia había consolidado su control efectivo sobre la ciudad de Roma y su sede episcopal."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dos símbolos entregaba el señor laico al obispo o abad electo en el acto de investidura?",
+      "options": ["El báculo y el anillo", "La mitra y el palio", "La cruz pectoral y el cíngulo"],
+      "correct": 0,
+      "hint": "Uno simboliza el gobierno pastoral y el otro el vínculo espiritual.",
+      "explanation": "La ceremonia se completaba con el homenaje personal del electo y el juramento de fidelidad al señor otorgante."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ derrotó a los sarracenos en el Garellano en el año 915 d.C.",
+      "options": ["Juan X", "Juan XII", "Sergio III"],
+      "answer": "Juan X",
+      "explanation": "Su posterior caída y muerte en prisión se atribuyen tradicionalmente a una maniobra de Marozia."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Tratado de Verdún (843 d.C.)", "es": "Fragmentó jurídicamente el Imperio carolingio" },
+        { "en": "Privilegium Ottonianum (962 d.C.)", "es": "Sometió la consagración papal a la aprobación imperial" },
+        { "en": "Sínodo de Sutri (1046 d.C.)", "es": "Depuso a tres papas rivales que reclamaban la cátedra romana" },
+        { "en": "Concilio de Calcedonia (canon 2, 451 d.C.)", "es": "Prohibió expresamente la ordenación a cambio de pago" },
+        { "en": "Libri tres adversus simoniacos (1057-1058)", "es": "Tesis rigorista de Humberto de Silva Cándida sobre la simonía" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La entrega de los símbolos",
+      "tiles": ["El", "señor", "entrega", "el", "báculo", "recibe", "rechaza"],
+      "answer": "El señor entrega el báculo",
+      "explanation": "El señor feudal entregaba el báculo, signo de autoridad de gobierno pastoral, al obispo o abad electo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué tratado selló jurídicamente la fragmentación del Imperio carolingio en el año 843 d.C.?",
+      "options": ["El Tratado de Verdún", "El Privilegium Ottonianum", "El Sínodo de Sutri"],
+      "correct": 0,
+      "hint": "Se agravó luego con las particiones de Meerssen y Ribemont.",
+      "explanation": "Privó a la cristiandad occidental del marco de autoridad central articulado por Carlomagno."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ (962 d.C.) sometió la consagración de todo pontífice electo a la aprobación imperial.",
+      "options": ["Privilegium Ottonianum", "Dictatus Papae", "Liber Gratissimus"],
+      "answer": "Privilegium Ottonianum",
+      "explanation": "Otón I confirmó las donaciones territoriales carolingias a la sede romana a cambio de este mecanismo de control."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La oferta de Simón",
+      "tiles": ["Simón", "ofreció", "dinero", "a", "Pedro", "rechazó", "Juan"],
+      "answer": "Simón ofreció dinero a Pedro",
+      "explanation": "Simón el mago ofreció dinero a los apóstoles a cambio de recibir el poder de conferir el Espíritu Santo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué emperador coronó Juan XII en el año 962 d.C. antes de conspirar contra él?",
+      "options": ["Otón I de Sajonia", "Enrique III", "Carlos el Gordo"],
+      "correct": 0,
+      "hint": "El emperador convocó luego un sínodo que depuso al papa.",
+      "explanation": "Juan XII buscó la protección de Otón I frente a rivales locales, pero pronto conspiró contra él."
+    },
+    {
+      "type": "gap",
+      "text": "El emperador ___ convocó el Sínodo de Sutri en el año 1046 d.C.",
+      "options": ["Enrique III", "Otón I", "Carlos el Gordo"],
+      "answer": "Enrique III",
+      "explanation": "El sínodo depuso a tres pontífices rivales: Benedicto IX, Silvestre III y Gregorio VI."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El tratado de Pedro Damián",
+      "tiles": ["Pedro", "Damián", "escribió", "el", "Liber", "Gomorrhianus", "quemó", "ignoró"],
+      "answer": "Pedro Damián escribió el Liber Gomorrhianus",
+      "explanation": "Este tratado de 1049 d.C., dirigido al papa León IX, abordó el concubinato clerical entre otras conductas reprobadas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué sínodo depuso a tres pontífices rivales en el año 1046 d.C.?",
+      "options": ["El Sínodo de Sutri", "El Sínodo de Fráncfort", "El Sínodo de Roma de 963"],
+      "correct": 0,
+      "hint": "Fue convocado por el emperador Enrique III.",
+      "explanation": "Depuso a Benedicto IX, Silvestre III y Gregorio VI, abriendo paso a una sucesión de papas de origen germánico."
+    },
+    {
+      "type": "gap",
+      "text": "___ defendió en su Liber Gratissimus la validez de las ordenaciones conferidas por obispos simoníacos.",
+      "options": ["Pedro Damián", "Humberto de Silva Cándida", "Liutprando de Cremona"],
+      "answer": "Pedro Damián",
+      "explanation": "Defendió esta posición moderada por razones pastorales, para no desestabilizar la jerarquía clerical vigente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La tesis de Humberto",
+      "tiles": ["Humberto", "negó", "la", "validez", "simoníaca", "afirmó", "celebró"],
+      "answer": "Humberto negó la validez simoníaca",
+      "explanation": "Humberto de Silva Cándida sostuvo que la ordenación simoníaca carecía de validez sacramental efectiva."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién sostuvo en sus Libri tres adversus simoniacos que la ordenación simoníaca carecía de validez sacramental?",
+      "options": ["Humberto de Silva Cándida", "Pedro Damián", "Cesare Baronio"],
+      "correct": 0,
+      "hint": "Su tesis recordaba, sin identificarse con ella, la controversia donatista.",
+      "explanation": "La Iglesia no adoptó finalmente esta posición extrema, pero contribuyó a intensificar el clima reformista."
+    },
+    {
+      "type": "gap",
+      "text": "La investidura laica consistía en la entrega del báculo y el ___ al obispo o abad electo.",
+      "options": ["anillo", "palio", "cíngulo"],
+      "answer": "anillo",
+      "explanation": "El anillo era signo del vínculo espiritual del prelado con su diócesis o comunidad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La deposición triple de Sutri",
+      "tiles": ["Enrique", "III", "depuso", "a", "tres", "papas", "coronó", "dos"],
+      "answer": "Enrique III depuso a tres papas",
+      "explanation": "El Sínodo de Sutri de 1046 d.C. depuso a Benedicto IX, Silvestre III y Gregorio VI."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obra de Pedro Damián (1049 d.C.) abordó el concubinato clerical dirigida al papa León IX?",
+      "options": ["El Liber Gomorrhianus", "El Liber Gratissimus", "El Dictatus Papae"],
+      "correct": 0,
+      "hint": "No es el mismo tratado en que defendió a los obispos simoníacos.",
+      "explanation": "Enmarcó el celibato no solo como ideal ascético, sino como exigencia de orden institucional frente a la herencia patrimonial de los cargos."
+    },
+    {
+      "type": "gap",
+      "text": "El cronista ___ es autor de la Antapodosis, fuente principal aunque hostil sobre este periodo.",
+      "options": ["Liutprando de Cremona", "Cesare Baronio", "Pedro Damián"],
+      "answer": "Liutprando de Cremona",
+      "explanation": "Su tono marcadamente hostil y moralizante obliga a los historiadores a valorar sus relatos con prudencia crítica."
+    }
+  ]
+}

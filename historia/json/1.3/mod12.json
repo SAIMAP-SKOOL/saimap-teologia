@@ -1,0 +1,243 @@
+{
+  "id": "1.3-mod12",
+  "module": 12,
+  "title": "La Crisis de la Cristiandad Bajomedieval",
+  "subtitle": "Aviñón, el Cisma de Occidente y el Conciliarismo",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Plenitudo Potestatis", "es": "Doctrina que atribuye al papa la plenitud del poder espiritual y temporal" },
+        { "en": "Cautividad de Aviñón", "es": "Periodo (1309-1377) en que la sede papal residió en Aviñón bajo influencia francesa" },
+        { "en": "Obediencia", "es": "Bloque de reinos que reconocía a una de las líneas papales rivales durante el Cisma" },
+        { "en": "Conciliarismo", "es": "Teoría que sostiene que el concilio ecuménico posee autoridad superior a la del papa" },
+        { "en": "Vía de Cesión / Vía de Concilio", "es": "Las dos estrategias ensayadas para resolver el Cisma de Occidente" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la afirmación doctrinal central de la bula Unam Sanctam de Bonifacio VIII (1302)?",
+      "options": ["Que la sumisión de toda criatura humana al Romano Pontífice es de necesidad absoluta para la salvación", "Que el poder temporal de los reyes es completamente independiente del poder espiritual de la Iglesia", "Que el concilio ecuménico posee una autoridad superior a la del papa en materia de fe"],
+      "correct": 0,
+      "hint": "Culmina con la fórmula omnino esse de necessitate salutis.",
+      "explanation": "Es la formulación más absoluta de la doctrina de la plenitudo potestatis papal en toda la Edad Media."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la doctrina que atribuye al papa la plenitud del poder espiritual y temporal sobre la cristiandad.",
+      "options": ["Plenitudo Potestatis", "Obediencia", "Conciliarismo"],
+      "answer": "Plenitudo Potestatis",
+      "explanation": "Alcanzó su formulación más sistemática en la bula Unam Sanctam de 1302."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La bula de Bonifacio VIII",
+      "tiles": ["Bonifacio", "VIII", "promulgó", "Unam", "Sanctam", "rechazó", "revocó"],
+      "answer": "Bonifacio VIII promulgó Unam Sanctam",
+      "explanation": "La promulgó en noviembre de 1302, en el punto álgido de su conflicto con Felipe IV de Francia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué caracterizó el periodo conocido historiográficamente como la 'cautividad de Aviñón' (1309-1377)?",
+      "options": ["La residencia de siete pontífices sucesivos, todos franceses, bajo fuerte influencia de la monarquía francesa", "La coexistencia simultánea de tres líneas papales rivales reconocidas por distintos reinos europeos", "La celebración de un concilio ecuménico que depuso al papa romano y eligió a un pontífice conciliar"],
+      "correct": 0,
+      "hint": "Desde Clemente V hasta Gregorio XI.",
+      "explanation": "Desarrollaron una sofisticada burocracia fiscal bajo la sombra de la influencia política de la corona francesa."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ (1309-1377) es la denominación historiográfica del periodo en que la sede papal residió en Aviñón.",
+      "options": ["Cautividad de Aviñón", "Vía de Cesión", "Obediencia"],
+      "answer": "Cautividad de Aviñón",
+      "explanation": "El término, de origen petrarquista, evoca el exilio babilónico bíblico."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada línea papal con su descripción",
+      "pairs": [
+        { "en": "Línea Romana", "es": "Urbano VI y Gregorio XII, con apoyo de Inglaterra, el Imperio y Portugal" },
+        { "en": "Línea Aviñonesa", "es": "Clemente VII y Benedicto XIII, con apoyo de Francia, Castilla y Aragón" },
+        { "en": "Línea Pisana", "es": "Alejandro V y Juan XXIII, elegidos por cardenales de ambas obediencias" },
+        { "en": "Resolución de la línea romana", "es": "Renuncia voluntaria de Gregorio XII en Constanza (1415)" },
+        { "en": "Resolución de la línea aviñonesa", "es": "Deposición conciliar de Benedicto XIII (1417)" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El asalto de Anagni",
+      "tiles": ["Nogaret", "capturó", "al", "papa", "en", "Anagni", "liberó", "coronó"],
+      "answer": "Nogaret capturó al papa en Anagni",
+      "explanation": "El 7 de septiembre de 1303, Guillaume de Nogaret asaltó el palacio pontificio y capturó a Bonifacio VIII."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué consistió esencialmente la teoría conciliarista defendida por Jean Gerson y otros teólogos de la crisis del Cisma?",
+      "options": ["En que el concilio ecuménico, representando a toda la comunidad de los fieles, posee autoridad para juzgar y deponer a un papa en caso de cisma o herejía", "En que el emperador del Sacro Imperio debía asumir directamente el gobierno espiritual de la Iglesia", "En que cada obediencia nacional debía elegir a su propio papa de forma permanente e independiente"],
+      "correct": 0,
+      "hint": "Se apoyaba en el principio de la congregatio fidelium.",
+      "explanation": "Esta tesis quedó plasmada en el decreto Haec Sancta de 1415."
+    },
+    {
+      "type": "gap",
+      "text": "El 7 de septiembre de 1303, un grupo armado asaltó el palacio pontificio de ___ y capturó a Bonifacio VIII.",
+      "options": ["Anagni", "Aviñón", "Pisa"],
+      "answer": "Anagni",
+      "explanation": "El anciano pontífice, traumatizado por la humillación, falleció en Roma apenas un mes después."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Bonifacio VIII", "es": "Papa que promulgó la bula Unam Sanctam en 1302, humillado en Anagni" },
+        { "en": "Felipe IV de Francia", "es": "Rey que enfrentó a Bonifacio VIII y propició el atentado de Anagni" },
+        { "en": "Clemente V", "es": "Papa francés que estableció la curia en Aviñón en 1309" },
+        { "en": "Jean Gerson", "es": "Canciller de la Universidad de París, principal teórico del conciliarismo" },
+        { "en": "Martín V", "es": "Papa elegido en Constanza en 1417, puso fin al Cisma de Occidente" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El traslado a Aviñón",
+      "tiles": ["Clemente", "V", "trasladó", "la", "curia", "a", "Aviñón", "Roma", "Pisa"],
+      "answer": "Clemente V trasladó la curia a Aviñón",
+      "explanation": "Estableció definitivamente la curia pontificia allí en el año 1309, dentro del Comtat Venaissin."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se resolvió finalmente el Gran Cisma de Occidente en el Concilio de Constanza (1414-1418)?",
+      "options": ["Mediante la renuncia de Gregorio XII, la deposición de Juan XXIII y de Benedicto XIII, y la elección de Martín V", "Mediante la victoria militar de la obediencia romana sobre la aviñonesa y la pisana", "Mediante el reconocimiento simultáneo y permanente de las tres líneas papales como igualmente legítimas"],
+      "correct": 0,
+      "hint": "Combinó renuncia voluntaria y deposiciones conciliares.",
+      "explanation": "Fue seguido de la elección unánime del cardenal Oddone Colonna como Martín V en 1417."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ estableció definitivamente la curia pontificia en Aviñón en el año 1309.",
+      "options": ["Clemente V", "Bonifacio VIII", "Gregorio XI"],
+      "answer": "Clemente V",
+      "explanation": "Francés de nacimiento, nunca llegó a residir en Roma tras su elección como pontífice."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La denuncia de Petrarca",
+      "tiles": ["Petrarca", "denunció", "la", "cautividad", "de", "Babilonia", "celebró", "ignoró"],
+      "answer": "Petrarca denunció la cautividad de Babilonia",
+      "explanation": "Acuñó esta expresión en sus epístolas para describir el destierro de la curia en Aviñón."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué guardián de los sellos reales franceses organizó el atentado de Anagni contra Bonifacio VIII?",
+      "options": ["Guillaume de Nogaret", "Pierre Flote", "Bernard Saisset"],
+      "correct": 0,
+      "hint": "Se alió con el cardenal Sciarra Colonna.",
+      "explanation": "El 7 de septiembre de 1303 asaltó el palacio pontificio de Anagni, exigiendo la abdicación del papa."
+    },
+    {
+      "type": "gap",
+      "text": "El Concilio de ___ (1312) decretó la supresión de la Orden del Temple bajo presión de Felipe IV.",
+      "options": ["Vienne", "Pisa", "Constanza"],
+      "answer": "Vienne",
+      "explanation": "Este episodio evidenció hasta qué punto la agenda de la curia aviñonesa quedaba condicionada por la corona francesa."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Atentado de Anagni (7-IX-1303)", "es": "Guillaume de Nogaret capturó a Bonifacio VIII" },
+        { "en": "Concilio de Vienne (1312)", "es": "Decretó la supresión de la Orden del Temple" },
+        { "en": "Concilio de Pisa (1409)", "es": "Depuso a dos papas y eligió un tercero, agravando el cisma" },
+        { "en": "Decreto Haec Sancta (abril de 1415)", "es": "Afirmó que el concilio recibe su potestad inmediatamente de Cristo" },
+        { "en": "Decreto Frequens (octubre de 1417)", "es": "Instituyó la celebración periódica de concilios ecuménicos" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La elección discutida",
+      "tiles": ["El", "cónclave", "eligió", "a", "Urbano", "VI", "rechazó", "depuso"],
+      "answer": "El cónclave eligió a Urbano VI",
+      "explanation": "Su talante autoritario provocó que los mismos cardenales que lo eligieron declararan nula la elección poco después."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué humanista acuñó la expresión 'cautividad de Babilonia' para describir el destierro de Aviñón?",
+      "options": ["Francesco Petrarca", "Jean Gerson", "Jan Hus"],
+      "correct": 0,
+      "hint": "Residía él mismo en la corte pontificia.",
+      "explanation": "Aludía al destierro del pueblo de Israel narrado en el Antiguo Testamento."
+    },
+    {
+      "type": "gap",
+      "text": "El decreto ___ (1415) declaró que el concilio ecuménico recibe su potestad inmediatamente de Cristo.",
+      "options": ["Haec Sancta", "Frequens", "Unam Sanctam"],
+      "answer": "Haec Sancta",
+      "explanation": "Amparándose en esta autoridad, el concilio depuso al papa pisano Juan XXIII."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La deposición conciliar",
+      "tiles": ["Constanza", "depuso", "a", "los", "papas", "rivales", "coronó", "defendió"],
+      "answer": "Constanza depuso a los papas rivales",
+      "explanation": "Combinó renuncia, deposiciones y una nueva elección para poner fin a casi cuarenta años de cisma."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué papa trasladó definitivamente la curia de regreso a Roma en enero de 1377?",
+      "options": ["Gregorio XI", "Clemente V", "Urbano VI"],
+      "correct": 0,
+      "hint": "Falleció apenas catorce meses después de su regreso.",
+      "explanation": "Su muerte en marzo de 1378 abrió la crisis institucional más grave de la Iglesia occidental medieval."
+    },
+    {
+      "type": "gap",
+      "text": "En 1417, el cónclave de Constanza eligió al cardenal Oddone Colonna, quien tomó el nombre de ___.",
+      "options": ["Martín V", "Juan XXIII", "Alejandro V"],
+      "answer": "Martín V",
+      "explanation": "Su elección puso fin de manera efectiva a casi cuarenta años de Cisma de Occidente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El fin del cisma",
+      "tiles": ["Martín", "V", "puso", "fin", "al", "cisma", "inició", "prolongó"],
+      "answer": "Martín V puso fin al cisma",
+      "explanation": "Su elección en noviembre de 1417 cerró casi cuarenta años de fractura institucional."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué teólogo bohemio fue juzgado y condenado a la hoguera en el Concilio de Constanza en 1415?",
+      "options": ["Jan Hus", "Jean Gerson", "John Wyclif"],
+      "correct": 0,
+      "hint": "Sus críticas a la jerarquía eclesiástica tuvieron eco en Bohemia.",
+      "explanation": "Estaba influido por las tesis del inglés John Wyclif, anticipando tensiones que estallarían con más fuerza en el siglo siguiente."
+    },
+    {
+      "type": "gap",
+      "text": "El teólogo bohemio ___ fue condenado a la hoguera en el Concilio de Constanza en 1415.",
+      "options": ["Jan Hus", "Jean Gerson", "John Wyclif"],
+      "answer": "Jan Hus",
+      "explanation": "Este episodio disciplinar anticipó las tensiones doctrinales que volverían a estallar en el siglo siguiente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El martirio de Hus",
+      "tiles": ["Jan", "Hus", "murió", "en", "la", "hoguera", "vivió", "huyó"],
+      "answer": "Jan Hus murió en la hoguera",
+      "explanation": "Fue juzgado y condenado en el mismo Concilio de Constanza que puso fin al Cisma de Occidente."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué emperador impulsó decisivamente la convocatoria del Concilio de Constanza?",
+      "options": ["Segismundo de Luxemburgo", "Federico Barbarroja", "Enrique V"],
+      "correct": 0,
+      "hint": "Presionó al papa pisano Juan XXIII para que lo convocara formalmente.",
+      "explanation": "Fue la asamblea eclesiástica más numerosa y mejor organizada de toda la Edad Media."
+    },
+    {
+      "type": "gap",
+      "text": "El decreto ___ (1417) instituyó la celebración periódica y regular de concilios ecuménicos.",
+      "options": ["Frequens", "Haec Sancta", "Ausculta Fili"],
+      "answer": "Frequens",
+      "explanation": "Constituyó la expresión jurídica más ambiciosa que alcanzó jamás la teoría conciliarista."
+    }
+  ]
+}

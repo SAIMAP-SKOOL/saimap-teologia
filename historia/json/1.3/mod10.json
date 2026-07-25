@@ -1,0 +1,243 @@
+{
+  "id": "1.3-mod10",
+  "module": 10,
+  "title": "La Escolástica y la Síntesis Fe-Razón",
+  "subtitle": "Santo Tomás de Aquino, San Buenaventura y el averroísmo latino",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Quaestio Disputata", "es": "Método escolástico de plantear una pregunta y resolverla mediante determinación razonada" },
+        { "en": "Praeambula Fidei", "es": "Verdades demostrables por la sola razón natural que preparan el asentimiento de fe" },
+        { "en": "Illuminatio", "es": "Doctrina agustiniana: el entendimiento requiere el concurso de una luz divina increada" },
+        { "en": "Averroísmo Latino", "es": "Corriente de la Facultad de Artes que desarrolló tesis aristotélicas en tensión con la fe" },
+        { "en": "Quinque Viae", "es": "Las cinco vías de Santo Tomás para demostrar racionalmente la existencia de Dios" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el núcleo del proyecto epistemológico de Santo Tomás de Aquino respecto a la relación entre fe y razón?",
+      "options": ["Una distinción entre dos órdenes de conocimiento, sin subordinación ni oposición, donde la gracia perfecciona la naturaleza sin destruirla", "Una separación radical entre dos verdades independientes que pueden contradecirse sin conflicto real", "La subordinación completa de la razón natural a la iluminación mística, negando valor propio a la filosofía"],
+      "correct": 0,
+      "hint": "Se resume en la fórmula gratia non tollit naturam, sed perficit.",
+      "explanation": "Tomás funda la autonomía relativa de la razón filosófica sin que esta entre en competencia con la fe, sino que la culmina."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es el método escolástico de plantear una pregunta y resolverla mediante determinación razonada.",
+      "options": ["Quaestio Disputata", "Illuminatio", "Quinque Viae"],
+      "answer": "Quaestio Disputata",
+      "explanation": "Hunde sus raíces en el Sic et Non de Pedro Abelardo, del que heredó la distinción conceptual precisa."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La distinción tomista",
+      "tiles": ["Tomás", "distinguió", "la", "razón", "y", "la", "fe", "confundió", "negó"],
+      "answer": "Tomás distinguió la razón y la fe",
+      "explanation": "Sostuvo que ambos órdenes de conocimiento son legítimos sin entrar en competencia mutua."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué caracteriza la propuesta epistemológica de San Buenaventura en su Itinerarium Mentis in Deum frente a la de Santo Tomás?",
+      "options": ["La primacía de la iluminación divina como condición del juicio cierto, culminando el itinerario del alma en la unión mística más allá del concepto intelectual", "Un rechazo total de la filosofía aristotélica y de toda forma de razonamiento lógico-natural", "Una posición idéntica al averroísmo latino en cuanto a la autonomía de la filosofía respecto de la teología"],
+      "correct": 0,
+      "hint": "El itinerario se estructura en seis etapas simbólicas.",
+      "explanation": "Buenaventura sostiene que la certeza del conocimiento requiere el concurso de la luz divina increada sobre las rationes aeternae."
+    },
+    {
+      "type": "gap",
+      "text": "Los ___ son verdades demostrables por la sola razón natural que preparan el asentimiento de fe.",
+      "options": ["Praeambula Fidei", "Vestigia", "Rationes Aeternae"],
+      "answer": "Praeambula Fidei",
+      "explanation": "Como la existencia de Dios, actúan como preámbulos racionales sin sustituir jamás el asentimiento de fe."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada corriente escolástica con su obra o rasgo característico",
+      "pairs": [
+        { "en": "Síntesis Tomista", "es": "Distinción sin subordinación; la gracia perfecciona la naturaleza" },
+        { "en": "Vía Agustiniano-Franciscana", "es": "Primacía de la iluminación divina sobre la abstracción natural" },
+        { "en": "Averroísmo Latino (estatus)", "es": "Condenado formalmente en París y Oxford en 1277 d.C." },
+        { "en": "Summa Theologiae", "es": "Obra de referencia inacabada de Santo Tomás de Aquino" },
+        { "en": "Itinerarium Mentis in Deum", "es": "Obra de referencia de San Buenaventura, redactada en La Verna en 1259 d.C." }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La defensa de la iluminación",
+      "tiles": ["Buenaventura", "defendió", "la", "iluminación", "divina", "rechazó", "ignoró"],
+      "answer": "Buenaventura defendió la iluminación divina",
+      "explanation": "Sostenía que la sola abstracción sensible no basta para explicar la certeza de los juicios racionales."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué sostenían con mayor precisión filosófica Sigerio de Brabante y el llamado averroísmo latino en la Facultad de Artes de París?",
+      "options": ["Conclusiones derivadas de los principios de la filosofía aristotélica y de los comentarios de Averroes que generaron tensión con la fe revelada, sin afirmar necesariamente dos verdades contradictorias", "Una doctrina formal y consciente de la 'doble verdad', afirmando explícitamente que una misma proposición era simultáneamente verdadera en filosofía y falsa en teología", "Una reproducción literal e idéntica de la síntesis tomista sin matices ni diferencias relevantes"],
+      "correct": 0,
+      "hint": "La historiografía reciente (Gilson, Van Steenberghen) matiza la caricatura de la 'doble verdad'.",
+      "explanation": "Sigerio exponía lo que se sigue 'según los principios de la filosofía', sin afirmar que fuera absolutamente verdadero frente a la fe."
+    },
+    {
+      "type": "gap",
+      "text": "Santo Tomás de Aquino nació hacia 1225 en el castillo familiar de ___.",
+      "options": ["Roccasecca", "Bagnoregio", "Fossanova"],
+      "answer": "Roccasecca",
+      "explanation": "Pertenecía a la nobleza feudal de los condes de Aquino, que llegó a retenerlo cautivo para disuadirlo de su vocación."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Santo Tomás de Aquino", "es": "Dominico, autor de la Summa Theologiae, murió en 1274 camino de Lyon II" },
+        { "en": "San Buenaventura", "es": "Franciscano, autor del Itinerarium Mentis in Deum, murió también en 1274" },
+        { "en": "San Alberto Magno", "es": "Doctor Universalis, maestro de Tomás en Colonia y París" },
+        { "en": "Sigerio de Brabante", "es": "Maestro de artes vinculado al averroísmo latino radical" },
+        { "en": "Étienne Tempier", "es": "Obispo de París que condenó 219 proposiciones en 1277 d.C." }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El comentarista de Aristóteles",
+      "tiles": ["Alberto", "Magno", "comentó", "a", "Aristóteles", "quemó", "prohibió"],
+      "answer": "Alberto Magno comentó a Aristóteles",
+      "explanation": "Emprendió la tarea sistemática de parafrasear y comentar la totalidad del corpus aristotélico disponible."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué revelan las condenas de París y Oxford de 1277 respecto a la recepción histórica de la síntesis tomista?",
+      "options": ["Que algunas tesis propiamente tomistas, como la unicidad de la forma sustancial, fueron también objeto de sospecha y condena", "Que la Iglesia condenó exclusivamente al averroísmo radical, respaldando de forma inmediata toda la doctrina de Santo Tomás", "Que las condenas se limitaron a cuestiones litúrgicas y disciplinares ajenas al debate filosófico-teológico"],
+      "correct": 0,
+      "hint": "Roberto Kilwardby condenó en Oxford la unicidad de la forma sustancial.",
+      "explanation": "Esto muestra que la síntesis tomista no fue aceptada de forma pacífica ni inmediata en su propio siglo."
+    },
+    {
+      "type": "gap",
+      "text": "Tomás de Aquino murió en 1274 d.C. en el monasterio de ___, camino del Concilio de Lyon II.",
+      "options": ["Fossanova", "La Verna", "Cluny"],
+      "answer": "Fossanova",
+      "explanation": "Coincidió en el año de su muerte con la de su contemporáneo San Buenaventura."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La radicalidad de Sigerio",
+      "tiles": ["Sigerio", "defendió", "tesis", "averroístas", "rechazó", "condenó"],
+      "answer": "Sigerio defendió tesis averroístas",
+      "explanation": "Junto a Boecio de Dacia, desarrolló tesis como la eternidad del mundo a partir de los comentarios de Averroes."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué monasterio murió Santo Tomás de Aquino en 1274 d.C., camino del Concilio de Lyon II?",
+      "options": ["Fossanova", "La Verna", "Cluny"],
+      "correct": 0,
+      "hint": "Es el mismo año en que murió San Buenaventura.",
+      "explanation": "Sus obras capitales fueron la inacabada Summa Theologiae y la Summa contra Gentiles."
+    },
+    {
+      "type": "gap",
+      "text": "San ___ formó a Tomás de Aquino en Colonia y París y era conocido como Doctor Universalis.",
+      "options": ["Alberto Magno", "Buenaventura", "Alejandro de Hales"],
+      "answer": "Alberto Magno",
+      "explanation": "Estaba convencido de que un teólogo no podía manejar con rigor las herramientas filosóficas sin conocerlas a fondo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento con su descripción",
+      "pairs": [
+        { "en": "Sínodo de 1210 y constituciones de 1215", "es": "Prohibieron la lectura pública de los libros naturales de Aristóteles" },
+        { "en": "Estatutos de la Facultad de Artes (1255 d.C.)", "es": "Convirtieron las obras aristotélicas en lectura obligatoria" },
+        { "en": "Condena de Étienne Tempier (marzo de 1277)", "es": "Condenó 219 proposiciones en la Facultad de Artes de París" },
+        { "en": "Condena de Roberto Kilwardby (18-III-1277)", "es": "Condenó en Oxford la unicidad de la forma sustancial" },
+        { "en": "Canonización de Tomás de Aquino (1323 d.C.)", "es": "Realizada por el papa Juan XXII" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La condena parisina",
+      "tiles": ["Tempier", "condenó", "a", "los", "averroístas", "defendió", "ignoró"],
+      "answer": "Tempier condenó a los averroístas",
+      "explanation": "En marzo de 1277 promulgó la condena de 219 proposiciones que circulaban en la Facultad de Artes."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué año redactó San Buenaventura su Itinerarium Mentis in Deum en el monasterio de La Verna?",
+      "options": ["1259 d.C.", "1221 d.C.", "1274 d.C."],
+      "correct": 0,
+      "hint": "Fue en el mismo lugar donde Francisco recibió los estigmas.",
+      "explanation": "Estructura el ascenso del alma hacia Dios en seis etapas simbólicas correspondientes a las alas del serafín."
+    },
+    {
+      "type": "gap",
+      "text": "San Buenaventura nació hacia 1221 en ___.",
+      "options": ["Bagnoregio", "Roccasecca", "Asís"],
+      "answer": "Bagnoregio",
+      "explanation": "Se formó en París bajo Alejandro de Hales, el primer gran maestro franciscano de la cátedra parisina."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La condena de Oxford",
+      "tiles": ["Kilwardby", "condenó", "en", "Oxford", "aprobó", "celebró"],
+      "answer": "Kilwardby condenó en Oxford",
+      "explanation": "Su condena del 18 de marzo de 1277 afectó explícitamente a una tesis nuclear de la antropología tomista."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué papa canonizó a Santo Tomás de Aquino en el año 1323 d.C.?",
+      "options": ["Juan XXII", "Juan XXI", "Gregorio IX"],
+      "correct": 0,
+      "hint": "En 1325 se revocaron los artículos de la condena de 1277 que le afectaban.",
+      "explanation": "Tomás se consolidaría con el tiempo como Doctor Communis o Doctor Angelicus de la teología escolástica posterior."
+    },
+    {
+      "type": "gap",
+      "text": "El obispo de París ___ condenó 219 proposiciones filosóficas en marzo de 1277 d.C.",
+      "options": ["Étienne Tempier", "Roberto Kilwardby", "Roberto de Courçon"],
+      "answer": "Étienne Tempier",
+      "explanation": "Actuó a instancias del papa Juan XXI contra tesis relativas a la cosmología, la psicología racional y el determinismo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La canonización de Tomás",
+      "tiles": ["Juan", "XXII", "canonizó", "a", "Tomás", "excomulgó", "rechazó"],
+      "answer": "Juan XXII canonizó a Tomás",
+      "explanation": "Este reconocimiento sería reafirmado siglos después por la encíclica Aeterni Patris de León XIII en 1879."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué arzobispo dominico condenó en Oxford, en marzo de 1277, la unicidad de la forma sustancial?",
+      "options": ["Roberto Kilwardby", "Étienne Tempier", "Alberto Magno"],
+      "correct": 0,
+      "hint": "Actuó de forma independiente a la condena parisina.",
+      "explanation": "Esta tesis era central en la antropología tomista, lo que muestra que la síntesis de Tomás no fue aceptada sin controversia."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ canonizó a Santo Tomás de Aquino en el año 1323 d.C.",
+      "options": ["Juan XXII", "Juan XXI", "Gregorio IX"],
+      "answer": "Juan XXII",
+      "explanation": "Dos años después, en 1325, se revocaron formalmente los artículos de la condena de 1277 que afectaban a su doctrina."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El ascenso místico",
+      "tiles": ["El", "alma", "asciende", "hacia", "Dios", "desciende", "huye"],
+      "answer": "El alma asciende hacia Dios",
+      "explanation": "El itinerario bonaventuriano culmina en un éxtasis místico que trasciende todo concepto intelectual."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién fue el maestro dominico conocido como 'Doctor Universalis' que formó a Tomás de Aquino?",
+      "options": ["San Alberto Magno", "San Buenaventura", "Alejandro de Hales"],
+      "correct": 0,
+      "hint": "Enseñó en Colonia y en París.",
+      "explanation": "De él heredó Tomás tanto el respeto filológico por el texto aristotélico como la convicción de integrar la filosofía pagana en la teología."
+    },
+    {
+      "type": "gap",
+      "text": "En 1325 d.C., el obispo parisino ___ revocó los artículos de la condena de 1277 que afectaban a la doctrina tomista.",
+      "options": ["Stephen Bourret", "Étienne Tempier", "Roberto Kilwardby"],
+      "answer": "Stephen Bourret",
+      "explanation": "Actuó a instancias del maestro general dominico, consolidando el reconocimiento del legado tomista."
+    }
+  ]
+}
