@@ -1,0 +1,243 @@
+{
+  "id": "1.2-mod04",
+  "module": 4,
+  "title": "El Concilio de Constantinopla I (381 d.C.) y el Espíritu Santo",
+  "subtitle": "Los Padres Capadocios y la divinidad del Paráclito",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Hypostasis", "es": "Persona o subsistencia individual en la Trinidad, distinta de la sustancia común" },
+        { "en": "Pneumatomacos", "es": "«Combatientes contra el Espíritu»: negaban la divinidad del Espíritu Santo" },
+        { "en": "Filioque", "es": "Cláusula latina que afirma que el Espíritu procede del Padre «y del Hijo»" },
+        { "en": "Ousia", "es": "Sustancia o esencia divina común compartida por las tres personas" },
+        { "en": "Homotimia", "es": "«Igual honor»: principio de que el Espíritu recibe la misma adoración que el Padre y el Hijo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué corriente herética negaba la divinidad del Espíritu Santo, condenada en Constantinopla I?",
+      "options": ["Macedonianismo o neumatómacos", "Arrianismo anomeo", "Apolinarismo"],
+      "correct": 0,
+      "hint": "Su nombre deriva de un obispo depuesto de Constantinopla.",
+      "explanation": "Los neumatómacos o macedonianos sostenían que el Espíritu Santo era una criatura subordinada, negando su consustancialidad y divinidad."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la persona o subsistencia individual en la Trinidad, distinta de la sustancia común.",
+      "options": ["hypostasis", "ousia", "homotimia"],
+      "answer": "hypostasis",
+      "explanation": "Este término griego fue adoptado en teología para designar a la «persona» dentro de la Trinidad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El Credo ampliado sobre el Espíritu",
+      "tiles": ["Que", "procede", "del", "Padre", "y", "es", "adorado", "creado", "rechazado"],
+      "answer": "Que procede del Padre y es adorado",
+      "explanation": "Cada palabra del Credo ampliado fue cuidadosamente seleccionada para refutar las tesis de los neumatómacos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué fórmula trinitaria acuñaron los Padres Capadocios para conciliar unidad y distinción divina?",
+      "options": ["Mia ousia, treis hypostaseis", "Homoousios to patri", "Mia physis, mia hypostasis"],
+      "correct": 0,
+      "hint": "Significa «una sustancia, tres personas».",
+      "explanation": "Esta fórmula permitió confesar la unidad ontológica de la divinidad al tiempo que se salvaguardaba la distinción real de las tres personas."
+    },
+    {
+      "type": "gap",
+      "text": "Los ___ eran los «combatientes contra el Espíritu» que negaban su divinidad.",
+      "options": ["pneumatomacos", "sabelianos", "donatistas"],
+      "answer": "pneumatomacos",
+      "explanation": "Atanasio de Alejandría acuñó este término despectivo para catalogar a quienes defendían la subordinación del Espíritu Santo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada herejía neumatológica con su refutador",
+      "pairs": [
+        { "en": "Macedonianismo", "es": "Refutado por Basilio de Cesarea con la adoración conjunta" },
+        { "en": "Sabelianismo", "es": "Refutado por Gregorio de Nisa con la distinción de tres personas subsistentes" },
+        { "en": "Arrianismo neumatológico", "es": "Refutado por Gregorio Nacianceno con la consustancialidad trinitaria" },
+        { "en": "Eunomio de Cízico", "es": "Defensor del anomeísmo: cada persona divina posee una sustancia distinta" },
+        { "en": "Macedonio de Constantinopla", "es": "Líder de la corriente que subordinaba solo al Espíritu Santo" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La homotimia de Basilio",
+      "tiles": ["Con", "el", "Hijo", "y", "con", "el", "Espíritu", "sin", "contra"],
+      "answer": "Con el Hijo y con el Espíritu",
+      "explanation": "Basilio señaló que la comunidad cristiana siempre había glorificado al Padre «con el Hijo y con el Espíritu Santo»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué frase del Credo de Constantinopla I definió dogmáticamente la deidad del Espíritu Santo?",
+      "options": ["Que es Señor y dador de vida, que procede del Padre y recibe una misma adoración y gloria", "Que es una criatura del Hijo", "Que es consustancial al Hijo únicamente"],
+      "correct": 0,
+      "hint": "Incluye el título griego «Kyrios».",
+      "explanation": "Al definir al Espíritu como Señor y vivificante, la asamblea afirmaba su soberanía y divinidad absoluta, equiparándolo al Padre y al Hijo."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la sustancia o esencia divina común compartida por las tres personas trinitarias.",
+      "options": ["ousia", "hypostasis", "procesión"],
+      "answer": "ousia",
+      "explanation": "Este término filosófico griego expresa la naturaleza divina común, distinta de la hypostasis o persona particular."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué disposición canónica de Constantinopla I alteró las relaciones geopolíticas eclesiales?",
+      "options": ["El canon 3, que otorgó a Constantinopla primacía de honor tras Roma por ser la «Nueva Roma»", "El canon que prohibía elegir obispos a los patriarcas orientales", "La exclusión absoluta de Alejandría del orden metropolitano"],
+      "correct": 0,
+      "hint": "Provocó fricciones con Alejandría.",
+      "explanation": "Este canon elevó geopolíticamente a Constantinopla por encima de las sedes apostólicas antiguas basándose en su estatus civil como nueva capital."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Constantinopla, obispo depuesto, dio nombre a la herejía macedonianista.",
+      "options": ["Macedonio", "Nectario", "Melecio"],
+      "answer": "Macedonio",
+      "explanation": "Esta facción aceptaba la divinidad del Hijo, pero se negaba a otorgar la misma condición divina al Espíritu Santo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El Edicto de Tesalónica",
+      "tiles": ["Todos", "deben", "seguir", "la", "fe", "de", "Roma", "ninguno", "rechazar"],
+      "answer": "Todos deben seguir la fe de Roma",
+      "explanation": "Este decreto de Teodosio I estableció el cristianismo niceno como la religión oficial de todo el Estado romano."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué emperador promulgó el Edicto de Tesalónica en el año 380 d.C.?",
+      "options": ["Teodosio I", "Constantino", "Constancio II"],
+      "correct": 0,
+      "hint": "Era de origen hispano.",
+      "explanation": "Este edicto estableció el cristianismo niceno como religión oficial del Estado tras su victoria contra el arrianismo de Valente."
+    },
+    {
+      "type": "gap",
+      "text": "El emperador ___ promulgó el Edicto de Tesalónica en el año 380 d.C.",
+      "options": ["Teodosio", "Constantino", "Juliano"],
+      "answer": "Teodosio",
+      "explanation": "El nuevo soberano identificó en las disputas pneumatológicas y arrianas el principal foco de fragmentación civil del Imperio."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada persona con su papel en el concilio",
+      "pairs": [
+        { "en": "Macedonio de Constantinopla", "es": "Obispo depuesto, dio nombre a la herejía macedonianista" },
+        { "en": "Teodosio I", "es": "Promulgó el Edicto de Tesalónica y convocó el Concilio de Constantinopla I" },
+        { "en": "Gregorio Nacianceno", "es": "Presidió brevemente el concilio, autor de los Discursos Teológicos" },
+        { "en": "Basilio de Cesarea", "es": "Autor de De Spiritu Sancto, defendió la homotimia litúrgica" },
+        { "en": "Gregorio de Nisa", "es": "Autor de Ad Ablabium, defendió la unidad de operación trinitaria" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La fórmula capadocia",
+      "tiles": ["Una", "sustancia", "y", "tres", "personas", "dos", "cuatro"],
+      "answer": "Una sustancia y tres personas",
+      "explanation": "Esta distinción entre ousia e hypostasis permitió resolver la ambigüedad terminológica de Nicea."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obra escribió Basilio de Cesarea hacia el año 375 d.C. para defender la divinidad del Espíritu?",
+      "options": ["De Spiritu Sancto", "Adversus Haereses", "De Civitate Dei"],
+      "correct": 0,
+      "hint": "Argumentaba desde la práctica litúrgica de la doxología.",
+      "explanation": "Basilio argumentó que la doxología litúrgica, que glorifica al Padre «con el Hijo y con el Espíritu Santo», implica una total igualdad de honor."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Cesarea escribió «De Spiritu Sancto» defendiendo la homotimia del Espíritu.",
+      "options": ["Basilio", "Gregorio", "Atanasio"],
+      "answer": "Basilio",
+      "explanation": "Basilio Magno fue el gran pionero de la renovación pneumatológica que culminó en el concilio del año 381."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La divinización según Gregorio de Nisa",
+      "tiles": ["El", "Espíritu", "Santo", "diviniza", "al", "creyente", "ignora", "abandona"],
+      "answer": "El Espíritu Santo diviniza al creyente",
+      "explanation": "Si el Espíritu Santo fuera una criatura, carecería del poder de divinizar al hombre, pues una criatura no puede dar lo que no posee."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién presidió brevemente el Concilio de Constantinopla I tras la muerte de Melecio de Antioquía?",
+      "options": ["Gregorio Nacianceno", "Basilio de Cesarea", "Nectario"],
+      "correct": 0,
+      "hint": "Renunció ante las intrigas de los obispos egipcios y macedonios.",
+      "explanation": "Gregorio asumió el cargo con el beneplácito imperial, pero renunció poco después para evitar mayores cismas."
+    },
+    {
+      "type": "gap",
+      "text": "___ Nacianceno presidió brevemente el concilio y pronunció los Discursos Teológicos.",
+      "options": ["Gregorio", "Basilio", "Nectario"],
+      "answer": "Gregorio",
+      "explanation": "En sus Discursos Teológicos, pronunciados en Constantinopla, defendió con elocuencia la plena divinidad del Espíritu Santo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La revelación progresiva de Gregorio Nacianceno",
+      "tiles": ["El", "Espíritu", "se", "revela", "en", "la", "Iglesia", "oculta", "sinagoga"],
+      "answer": "El Espíritu se revela en la Iglesia",
+      "explanation": "Según Gregorio, el Antiguo Testamento manifestó al Padre, el Nuevo reveló al Hijo, y en la época de la Iglesia se manifiesta el Espíritu."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada concepto o evento con su descripción",
+      "pairs": [
+        { "en": "Edicto de Tesalónica (380 d.C.)", "es": "Estableció el cristianismo niceno como religión oficial del Estado" },
+        { "en": "Concilio de Constantinopla I (381 d.C.)", "es": "Definió la divinidad del Espíritu Santo y amplió el Credo" },
+        { "en": "Canon 3", "es": "Otorgó a Constantinopla primacía de honor tras Roma, por ser la «Nueva Roma»" },
+        { "en": "Mia ousia, treis hypostaseis", "es": "Fórmula capadocia: una sustancia, tres personas" },
+        { "en": "Nectario de Constantinopla", "es": "Senador laico designado obispo tras la renuncia de Gregorio Nacianceno" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué término griego describe el modo de origen del Espíritu Santo a partir del Padre, distinto de la generación del Hijo?",
+      "options": ["Procesión", "Engendramiento", "Creación"],
+      "correct": 0,
+      "hint": "Evita que el Espíritu sea considerado un «segundo Hijo».",
+      "explanation": "Gregorio Nacianceno insistió en que el Espíritu no es engendrado como el Hijo, sino que procede del Padre de una manera inefable."
+    },
+    {
+      "type": "gap",
+      "text": "El Canon ___ otorgó a Constantinopla la primacía de honor tras Roma.",
+      "options": ["3", "6", "12"],
+      "answer": "3",
+      "explanation": "Este canon disciplinar elevó a Constantinopla por encima de los patriarcados tradicionales de Alejandría y Antioquía."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El Canon 3 sobre Constantinopla",
+      "tiles": ["Constantinopla", "es", "la", "nueva", "Roma", "antigua", "vieja"],
+      "answer": "Constantinopla es la nueva Roma",
+      "explanation": "Este canon de carácter político elevaba la sede de la capital por encima de los patriarcados tradicionales."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué sede eclesiástica se sintió humillada por el Canon 3 del Concilio de Constantinopla I?",
+      "options": ["Alejandría", "Antioquía", "Cartago"],
+      "correct": 0,
+      "hint": "Había ejercido tradicionalmente gran influencia en Oriente.",
+      "explanation": "Los patriarcas alejandrinos consideraron el canon una humillación intolerable de sus antiguos derechos de precedencia establecidos en Nicea."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Nisa escribió «Ad Ablabium» defendiendo la unidad de operación trinitaria.",
+      "options": ["Gregorio", "Basilio", "Nectario"],
+      "answer": "Gregorio",
+      "explanation": "Gregorio de Nisa explicó que toda operación divina se origina en el Padre, se realiza a través del Hijo y se perfecciona en el Espíritu."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La procesión del Espíritu",
+      "tiles": ["El", "Espíritu", "procede", "del", "Padre", "engendra", "crea"],
+      "answer": "El Espíritu procede del Padre",
+      "explanation": "Esta afirmación consagró el origen inefable del Paráclito a partir de la única fuente del ser divino, la monarquía del Padre."
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "id": "1.2-mod06",
+  "module": 6,
+  "title": "El Cristianismo como Religión Oficial del Imperio (380 d.C.)",
+  "subtitle": "Del Edicto de Tesalónica a la destrucción del Serapeum",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Cunctos populos", "es": "Expresión inicial del Edicto de Tesalónica del 380 d.C." },
+        { "en": "Paganismo", "es": "Término peyorativo derivado de «pagus» para las religiones politeístas clásicas" },
+        { "en": "Decretos teodosianos", "es": "Leyes de Teodosio I que prohibieron progresivamente el culto no cristiano" },
+        { "en": "Serapeum", "es": "Templo de Alejandría dedicado a Serapis, baluarte de la intelectualidad pagana" },
+        { "en": "Compelle intrare", "es": "«Obliga a entrar»: doctrina agustiniana que justificó la coacción civil contra herejes" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué edicto imperial convirtió al cristianismo católico-niceno en la religión del Imperio Romano?",
+      "options": ["El Edicto de Tesalónica o Cunctos Populos del 380 d.C.", "El Edicto de Milán del 313 d.C.", "El Edicto de Tolerancia de Galerio del 311 d.C."],
+      "correct": 0,
+      "hint": "Fue promulgado por Teodosio I, Graciano y Valentiniano II.",
+      "explanation": "Este edicto ordenó que todos los súbditos imperiales profesaran la fe trinitaria transmitida por Pedro a Roma, convirtiéndola en religión estatal oficial."
+    },
+    {
+      "type": "gap",
+      "text": "La expresión ___ inicia el Edicto de Tesalónica del 380 d.C.",
+      "options": ["cunctos populos", "compelle intrare", "haeresis"],
+      "answer": "cunctos populos",
+      "explanation": "Esta expresión latina ordenaba a «todos los pueblos» del Imperio someterse a la fe de Nicea."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El Edicto de Tesalónica",
+      "tiles": ["Todos", "los", "pueblos", "deben", "seguir", "la", "fe", "ninguno", "rechazar"],
+      "answer": "Todos los pueblos deben seguir la fe",
+      "explanation": "El edicto decretaba que todos los pueblos sometidos al imperio debían abrazar la fe trinitaria transmitida por el apóstol Pedro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué implicación jurídica tuvo la definición legal de «haeresis» en la legislación de Teodosio I?",
+      "options": ["La tipificación de la desviación dogmática como delito de orden público", "El derecho del clero disidente a liturgiar libremente en sus domicilios", "La exclusión definitiva de la tortura en los procesos de fe"],
+      "correct": 0,
+      "hint": "Se sancionaba con confiscación de bienes y penas civiles.",
+      "explanation": "Con el Edicto de Tesalónica, la herejía dejó de ser un simple debate doctrinal para convertirse en un crimen civil castigado por la ley pública."
+    },
+    {
+      "type": "gap",
+      "text": "El término ___ deriva de «pagus» (aldea) y calificaba peyorativamente a las religiones politeístas.",
+      "options": ["paganismo", "arrianismo", "donatismo"],
+      "answer": "paganismo",
+      "explanation": "Este apelativo despectivo se acuñó a medida que las antiguas prácticas quedaron marginadas a las zonas rurales."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada edicto o decreto con su contenido",
+      "pairs": [
+        { "en": "Edicto de Tesalónica (380 d.C.)", "es": "Cristianismo niceno como fe del Estado" },
+        { "en": "Cierre de Templos (391 d.C.)", "es": "Prohibición de sacrificios y culto público" },
+        { "en": "Prohibición del Culto Privado (392 d.C.)", "es": "Prohibición del culto doméstico a los Lares" },
+        { "en": "Supresión de los Juegos Olímpicos (393 d.C.)", "es": "Fin del último gran ritual público del politeísmo helénico" },
+        { "en": "Batalla del río Frígido (394 d.C.)", "es": "Derrota militar definitiva del paganismo occidental" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La coacción de Agustín contra los donatistas",
+      "tiles": ["Obliga", "a", "entrar", "en", "la", "Iglesia", "prohíbe", "salir"],
+      "answer": "Obliga a entrar en la Iglesia",
+      "explanation": "Agustín formuló esta doctrina a partir del versículo evangélico del banquete nupcial, justificando el castigo estatal como acto de caridad pastoral."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué famoso templo pagano fue destruido en Alejandría en el año 391 d.C.?",
+      "options": ["El Serapeum de Alejandría", "El Partenón de Atenas", "El templo de Vesta en Roma"],
+      "correct": 0,
+      "hint": "Custodiaba una biblioteca satélite de gran valor.",
+      "explanation": "El Serapeum fue demolido por la plebe y los monjes cristianos liderados por el patriarca Teófilo tras los edictos de Teodosio I."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ era el templo de Alejandría dedicado al culto sincrético de Serapis.",
+      "options": ["Serapeum", "Partenón", "Letrán"],
+      "answer": "Serapeum",
+      "explanation": "Este templo funcionaba como el principal baluarte de la intelectualidad pagana tardía, custodiando una valiosa biblioteca satélite."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál fue la postura definitiva de los emperadores ante la polémica del Altar de la Victoria en el Senado?",
+      "options": ["Mantener su retirada definitiva, desvinculando la ley civil de los ritos paganos", "Ordenar su restauración y costear los sacrificios con dinero público", "Trasladar el altar a la basílica de Letrán"],
+      "correct": 0,
+      "hint": "Ambrosio de Milán presionó decisivamente en contra.",
+      "explanation": "A pesar de las súplicas del senador pagano Símaco, la influencia de Ambrosio de Milán impidió el retorno del altar al Senado romano."
+    },
+    {
+      "type": "gap",
+      "text": "La doctrina del ___ justificó el uso de la coacción civil para forzar la conversión de herejes.",
+      "options": ["compelle intrare", "cunctos populos", "homoousios"],
+      "answer": "compelle intrare",
+      "explanation": "Agustín de Hipona formuló esta doctrina ante el prolongado cisma donatista que fracturaba las comunidades del norte de África."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La caída de Serapis",
+      "tiles": ["La", "estatua", "de", "Serapis", "fue", "derribada", "coronada", "alzada"],
+      "answer": "La estatua de Serapis fue derribada",
+      "explanation": "La gigantesca estatua fue derribada con hachas, arrastrada por las avenidas de la ciudad y finalmente incinerada en el anfiteatro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué emperador derrotó al usurpador pagano Eugenio en la batalla del río Frígido en el año 394 d.C.?",
+      "options": ["Teodosio I", "Graciano", "Valentiniano II"],
+      "correct": 0,
+      "hint": "Su victoria fue vista como un juicio divino.",
+      "explanation": "Esta victoria fue interpretada por los escritores cristianos como un juicio divino que validaba la legitimidad de las leyes represivas contra el paganismo."
+    },
+    {
+      "type": "gap",
+      "text": "El emperador ___ promulgó el Edicto de Tesalónica en el año 380 d.C.",
+      "options": ["Teodosio", "Graciano", "Constantino"],
+      "answer": "Teodosio",
+      "explanation": "El nuevo gobernante comprendió que la cohesión del Estado dependía de una férrea unificación dogmática de sus súbditos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Teodosio I", "es": "Promulgó el Edicto de Tesalónica y los decretos que proscribieron el paganismo" },
+        { "en": "Ambrosio de Milán", "es": "Defendió la superioridad eclesial frente al senador pagano Símaco" },
+        { "en": "Teófilo de Alejandría", "es": "Obispo que ordenó la destrucción del Serapeum en el año 391 d.C." },
+        { "en": "Símaco", "es": "Senador pagano que defendió la restauración del Altar de la Victoria" },
+        { "en": "Agustín de Hipona", "es": "Formuló la doctrina del «compelle intrare» contra los donatistas" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El altar retirado del Senado",
+      "tiles": ["El", "altar", "de", "la", "Victoria", "fue", "retirado", "restaurado", "dorado"],
+      "answer": "El altar de la Victoria fue retirado",
+      "explanation": "Este símbolo pagano del Senado fue retirado definitivamente pese a las súplicas de la aristocracia senatorial romana."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué doctrina formuló Agustín de Hipona para justificar el uso de la coacción civil contra los donatistas?",
+      "options": ["El «compelle intrare» (obliga a entrar)", "La apocatástasis universal", "La recapitulación de toda la creación"],
+      "correct": 0,
+      "hint": "Se basa en la parábola del banquete nupcial.",
+      "explanation": "Agustín argumentaba que el castigo estatal constituía un acto de caridad pastoral para forzar la conversión sincera de los descarriados."
+    },
+    {
+      "type": "gap",
+      "text": "El obispo ___ ordenó la destrucción del Serapeum de Alejandría en el año 391 d.C.",
+      "options": ["Teófilo", "Ambrosio", "Cirilo"],
+      "answer": "Teófilo",
+      "explanation": "Este combativo patriarca consideraba la erradicación material del paganismo monumental un deber pastoral imperativo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La súplica de Símaco",
+      "tiles": ["Dejadnos", "venerar", "los", "ritos", "antiguos", "olvidar", "nuevos"],
+      "answer": "Dejadnos venerar los ritos antiguos",
+      "explanation": "El senador Símaco defendió la vigencia de los antiguos ritos republicanos como parte inalienable de la identidad de Roma."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué filósofa neoplatónica fue linchada en Alejandría en el año 415 d.C.?",
+      "options": ["Hipatía", "Amma Sinclética", "Perpetua"],
+      "correct": 0,
+      "hint": "Fue asesinada por los parabolanos del patriarca Cirilo.",
+      "explanation": "Su asesinato consolidó el declive definitivo de la intelectualidad pagana en la metrópolis egipcia."
+    },
+    {
+      "type": "gap",
+      "text": "El senador pagano ___ defendió la restauración del Altar de la Victoria en el Senado.",
+      "options": ["Símaco", "Eugenio", "Prisciliano"],
+      "answer": "Símaco",
+      "explanation": "Esta élite culta defendió con firmeza la vigencia de los antiguos ritos republicanos frente a la postura de Ambrosio."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o concepto con su descripción",
+      "pairs": [
+        { "en": "Destrucción del Serapeum (391 d.C.)", "es": "Fin del principal santuario y biblioteca pagana de Alejandría" },
+        { "en": "Hipatía de Alejandría", "es": "Filósofa neoplatónica linchada en el año 415 d.C." },
+        { "en": "Prisciliano de Ávila", "es": "Heresiarca ejecutado en el 385 d.C., primera ejecución civil por herejía" },
+        { "en": "Altar de la Victoria", "es": "Símbolo pagano del Senado retirado definitivamente por presión de Ambrosio" },
+        { "en": "Juegos Olímpicos", "es": "Suprimidos en el 393 d.C. por estar consagrados a Zeus" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La prohibición del culto doméstico",
+      "tiles": ["Los", "lares", "fueron", "declarados", "ilegales", "legales", "sagrados"],
+      "answer": "Los lares fueron declarados ilegales",
+      "explanation": "La veneración de los genios protectores domésticos quedó catalogada por la ley como un acto de superstición ilegal."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué senador pagano defendió elocuentemente la restauración del Altar de la Victoria ante Valentiniano II?",
+      "options": ["Símaco", "Eugenio", "Arbogasto"],
+      "correct": 0,
+      "hint": "Su súplica fue rebatida por Ambrosio de Milán.",
+      "explanation": "A pesar de sus súplicas, la influencia de Ambrosio de Milán impidió el retorno del altar al Senado romano."
+    },
+    {
+      "type": "gap",
+      "text": "La filósofa ___ fue linchada en Alejandría en el año 415 d.C.",
+      "options": ["Hipatía", "Sinclética", "Sarra"],
+      "answer": "Hipatía",
+      "explanation": "Fue asesinada por una turba liderada por los parabolanos del patriarca Cirilo de Alejandría."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La victoria de Teodosio en el Frígido",
+      "tiles": ["Teodosio", "venció", "al", "usurpador", "Eugenio", "perdió", "César"],
+      "answer": "Teodosio venció al usurpador Eugenio",
+      "explanation": "Esta victoria supuso la derrota militar definitiva del paganismo occidental y el colapso de las pretensiones de restauración religiosa."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué gran evento deportivo de la antigüedad clásica fue suprimido en el año 393 d.C. por estar consagrado a Zeus?",
+      "options": ["Los Juegos Olímpicos", "Los Juegos Ístmicos", "Las carreras del Circo Máximo"],
+      "correct": 0,
+      "hint": "Se celebraban desde hacía casi doce siglos.",
+      "explanation": "Estos juegos constituían el último gran ritual público paneuropeo y mediterráneo del politeísmo helénico clásico."
+    },
+    {
+      "type": "gap",
+      "text": "Teodosio derrotó al usurpador Eugenio en la batalla del río ___ en el año 394 d.C.",
+      "options": ["Frígido", "Nilo", "Tíber"],
+      "answer": "Frígido",
+      "explanation": "Esta victoria fue interpretada por los escritores cristianos como un juicio divino que validaba las leyes represivas de la dinastía reinante."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El fin de los Juegos Olímpicos",
+      "tiles": ["Los", "juegos", "de", "Zeus", "fueron", "suprimidos", "continuaron", "ampliados"],
+      "answer": "Los juegos de Zeus fueron suprimidos",
+      "explanation": "Este hito simbólico eliminó el último gran ritual público que recordaba la primacía del politeísmo helénico clásico."
+    }
+  ]
+}

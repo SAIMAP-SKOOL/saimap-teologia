@@ -1,0 +1,243 @@
+{
+  "id": "1.2-mod05",
+  "module": 5,
+  "title": "El Surgimiento del Monacato Primitivo",
+  "subtitle": "De Antonio Abad a Pacomio y los Padres del Desierto",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Anacoreta", "es": "Monje solitario que se retira del contacto social para dedicarse a la contemplación" },
+        { "en": "Cenobita", "es": "Monje que vive en comunidad organizada bajo una regla y la obediencia a un abad" },
+        { "en": "Askesis", "es": "Entrenamiento físico y atlético, adoptado para la disciplina espiritual del monje" },
+        { "en": "Logismoi", "es": "Pensamientos o sugerencias intrusivas que incitan al pecado" },
+        { "en": "Anachoresis", "es": "Huida al desierto: ruptura deliberada con el orden cívico del Imperio" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el modelo de vida ascética fundado por San Antonio Abad?",
+      "options": ["Anacoretismo eremítico, retiro en absoluta soledad", "Cenobitismo comunitario rígido en monasterios urbanos", "Episcopado monástico rural itinerante"],
+      "correct": 0,
+      "hint": "Vivió casi veinte años en el fuerte abandonado de Pispir.",
+      "explanation": "Antonio Abad representa el ideal anacorético, donde el monje vive en aislamiento dedicándose a la oración continua y el ascetismo solitario."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el monje solitario que se retira del contacto social para dedicarse a la contemplación.",
+      "options": ["anacoreta", "cenobita", "abad"],
+      "answer": "anacoreta",
+      "explanation": "Este monje habita en el desierto para dedicarse por completo a la contemplación y el ascetismo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La llamada de Antonio Abad",
+      "tiles": ["Vende", "tus", "bienes", "y", "sígueme", "guarda", "huye"],
+      "answer": "Vende tus bienes y sígueme",
+      "explanation": "Antonio escuchó en la liturgia esta llamada evangélica que lo impulsó a abandonar su vida acomodada."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién estructuró las primeras comunidades monásticas cenobíticas en el Alto Egipto?",
+      "options": ["San Pacomio", "San Basilio el Grande", "San Antonio Abad"],
+      "correct": 0,
+      "hint": "Fue antiguo recluta del ejército imperial.",
+      "explanation": "Pacomio fundó los primeros cenobios dotados de una regla monástica organizada, oración común y trabajo manual fraterno."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el monje que vive en comunidad organizada bajo una regla y la obediencia a un abad.",
+      "options": ["cenobita", "anacoreta", "eremita"],
+      "answer": "cenobita",
+      "explanation": "Este monje vive en fraternidad compartida, superando el aislamiento radical del eremitismo clásico."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada modalidad monástica con su fundador y espacio",
+      "pairs": [
+        { "en": "Eremitismo anacorético", "es": "Antonio Abad, en el desierto de la Tebaida" },
+        { "en": "Cenobitismo comunitario", "es": "Pacomio, en Tabennisi, Alto Egipto" },
+        { "en": "Semieremitismo", "es": "Macario el Grande, en el desierto de Nitria y Escete" },
+        { "en": "Amma Sinclética y Amma Sarra", "es": "Madres del desierto que dirigieron comunidades femeninas" },
+        { "en": "Federación pacomiana", "es": "Miles de monjes agrupados en varios cenobios del Alto Egipto" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El martirio incruento",
+      "tiles": ["El", "monje", "sustituye", "al", "mártir", "de", "sangre", "imita", "rechaza"],
+      "answer": "El monje sustituye al mártir de sangre",
+      "explanation": "Al no existir ya los perseguidores imperiales, el monje convertía su propia existencia en el nuevo altar del sacrificio espiritual continuo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se denominaban los pensamientos que perturbaban al asceta en la literatura del desierto?",
+      "options": ["Logismoi", "Askesis", "Xeniteia"],
+      "correct": 0,
+      "hint": "Se clasificaban en ocho pasiones principales.",
+      "explanation": "Estos pensamientos o impulsos desordenados fueron teorizados por los Padres del Desierto como los enemigos espirituales del combate interior."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es el entrenamiento físico adoptado por los monjes para definir la disciplina espiritual.",
+      "options": ["askesis", "anachoresis", "koinonia"],
+      "answer": "askesis",
+      "explanation": "Este término griego originalmente significaba entrenamiento físico y atlético, resignificado por los monjes."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué el monacato fue calificado históricamente como un «martirio incruento»?",
+      "options": ["Porque representaba un testimonio de muerte radical al mundo tras el fin de las persecuciones sangrientas", "Porque los monjes sufrían martirios físicos en las ciudades", "Porque implicaba la lucha militar contra los reinos bárbaros"],
+      "correct": 0,
+      "hint": "Sustituía al martirio físico tras la paz constantiniana.",
+      "explanation": "Una vez finalizada la persecución sangrienta, el ascetismo del desierto emergió como la forma radical de entrega ante la mundanización de la Iglesia imperial."
+    },
+    {
+      "type": "gap",
+      "text": "Los ___ son los pensamientos o sugerencias intrusivas que incitan al pecado.",
+      "options": ["logismoi", "apotegmas", "hypostasis"],
+      "answer": "logismoi",
+      "explanation": "Este concepto de la psicología ascética monástica designa las sugestiones mentales que incitan al desequilibrio espiritual."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La koinonía pacomiana",
+      "tiles": ["Los", "monjes", "comparten", "todos", "los", "bienes", "guardan", "venden"],
+      "answer": "Los monjes comparten todos los bienes",
+      "explanation": "La puesta en común de los bienes materiales eliminaba cualquier distinción de clase entre los hermanos de Tabennisi."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué obra biográfica difundió Atanasio de Alejandría el ideal del monacato por todo el Imperio?",
+      "options": ["La Vida de Antonio", "La Historia Eclesiástica", "Las Cartas a Serapión"],
+      "correct": 0,
+      "hint": "Fue escrita poco después de la muerte del ermitaño en el año 356 d.C.",
+      "explanation": "Esta biografía presentaba al monje como el verdadero sucesor del mártir, inspirando a miles de cristianos en Italia, las Galias y Asia Menor."
+    },
+    {
+      "type": "gap",
+      "text": "___ Abad se retiró al desierto de la Tebaida hacia el año 270 d.C.",
+      "options": ["Antonio", "Pacomio", "Macario"],
+      "answer": "Antonio",
+      "explanation": "Antonio, nacido en una familia de agricultores coptos, inició un proceso gradual de aprendizaje ascético junto a ancianos de su aldea."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada persona con su aportación al monacato",
+      "pairs": [
+        { "en": "Antonio Abad", "es": "Se retiró al desierto hacia el año 270 d.C., padre del anacoretismo" },
+        { "en": "Atanasio de Alejandría", "es": "Escribió la Vida de Antonio, difundiendo el ideal monástico" },
+        { "en": "Pacomio", "es": "Fundó el primer cenobio en Tabennisi y redactó la primera regla escrita" },
+        { "en": "Amma Sinclética", "es": "Renunció a su matrimonio y riquezas, referente del ascetismo femenino" },
+        { "en": "Amma Sarra", "es": "Vivió sesenta años en una celda junto al Nilo, resistió el prejuicio de género" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El consejo del Abba sobre la lengua",
+      "tiles": ["Calla", "y", "vigila", "tu", "lengua", "grita", "habla"],
+      "answer": "Calla y vigila tu lengua",
+      "explanation": "Un apotegma célebre narra esta respuesta de un abba a un monje que pedía una palabra para salvarse."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué año fundó Pacomio el primer cenobio en Tabennisi?",
+      "options": ["320 d.C.", "270 d.C.", "381 d.C."],
+      "correct": 0,
+      "hint": "Fue antiguo recluta del ejército imperial.",
+      "explanation": "Pacomio comprendió que la extrema soledad del anacoreta no era apta para todos los temperamentos espirituales."
+    },
+    {
+      "type": "gap",
+      "text": "___ fundó el primer cenobio en Tabennisi hacia el año 320 d.C.",
+      "options": ["Pacomio", "Antonio", "Atanasio"],
+      "answer": "Pacomio",
+      "explanation": "A través de la creación de una comunidad de hermanos, ofreció un marco de estabilidad y apoyo mutuo para la ascesis."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La regla pacomiana",
+      "tiles": ["La", "obediencia", "al", "abad", "es", "primera", "última", "opcional"],
+      "answer": "La obediencia al abad es primera",
+      "explanation": "La sumisión al abad era vista como el ejercicio ascético supremo para extirpar el orgullo personal."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué colección literaria recoge los dichos breves de los Padres y Madres del Desierto?",
+      "options": ["Los Apophthegmata Patrum", "El De Principiis", "La Didascalia Apostolorum"],
+      "correct": 0,
+      "hint": "Se transmitieron primero oralmente en copto y griego.",
+      "explanation": "Estas sentencias reflejan la experiencia mística viva de los anacoretas de Nitria y Escete."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Alejandría escribió la Vida de Antonio, difundiendo el ideal monástico.",
+      "options": ["Atanasio", "Basilio", "Jerónimo"],
+      "answer": "Atanasio",
+      "explanation": "Esta biografía se convirtió rápidamente en un éxito espiritual que recorrió todo el Imperio romano."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El desierto como escenario espiritual",
+      "tiles": ["El", "desierto", "es", "el", "nuevo", "campo", "de", "batalla", "antiguo", "jardín"],
+      "answer": "El desierto es el nuevo campo de batalla",
+      "explanation": "Los enemigos ya no eran las autoridades romanas, sino las fuerzas demoníacas invisibles que acechaban en el interior de la mente."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada concepto o texto con su descripción",
+      "pairs": [
+        { "en": "Apophthegmata Patrum", "es": "Colección de dichos de los Padres del Desierto" },
+        { "en": "Katholikon", "es": "Iglesia central del monasterio, corazón litúrgico de la comunidad" },
+        { "en": "Regla pacomiana", "es": "Primera regla monástica escrita de la historia cristiana" },
+        { "en": "Martirio incruento", "es": "El monacato como sustituto del martirio de sangre tras las persecuciones" },
+        { "en": "Ocho pasiones principales", "es": "Clasificación de los logismoi, origen de los siete pecados capitales" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué virtud consideraban los Padres del Desierto como la suprema en la vida ascética?",
+      "options": ["El discernimiento y la discreción carismática", "El ayuno absoluto sin descanso", "La erudición retórica y filosófica"],
+      "correct": 0,
+      "hint": "Permitía distinguir inspiraciones divinas de ilusiones demoníacas.",
+      "explanation": "El rigor ascético extremo carecía de valor espiritual si no iba guiado por la moderación y el conocimiento propio."
+    },
+    {
+      "type": "gap",
+      "text": "La colección de dichos de los Padres del Desierto se llama Apophthegmata ___.",
+      "options": ["Patrum", "Apostolorum", "Ecclesiae"],
+      "answer": "Patrum",
+      "explanation": "Estas sentencias son respuestas concisas y directas a las consultas de los discípulos que buscaban consejo espiritual."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La firmeza de Amma Sarra",
+      "tiles": ["Importa", "la", "pureza", "del", "corazón", "cuerpo", "sexo"],
+      "answer": "Importa la pureza del corazón",
+      "explanation": "Sarra rechazaba con energía las críticas de quienes la menospreciaban por su condición de mujer."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué Madre del Desierto vivió sesenta años en una celda junto al Nilo resistiendo el prejuicio de género?",
+      "options": ["Amma Sarra", "Amma Sinclética", "Santa Elena"],
+      "correct": 0,
+      "hint": "Sostenía combates espirituales contra el demonio de la soberbia.",
+      "explanation": "Sarra afirmaba que ante Dios lo que importa es la firmeza del intelecto y la pureza del corazón, no la condición biológica."
+    },
+    {
+      "type": "gap",
+      "text": "Amma ___ renunció a su matrimonio y riquezas de Alejandría para vivir en una tumba familiar.",
+      "options": ["Sinclética", "Sarra", "Elena"],
+      "answer": "Sinclética",
+      "explanation": "Sus enseñanzas insistían en que la verdadera ascesis consiste en la purificación continua de la mente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El respaldo de los monjes a Nicea",
+      "tiles": ["Los", "monjes", "defendieron", "la", "fe", "nicena", "abandonaron", "arriana"],
+      "answer": "Los monjes defendieron la fe nicena",
+      "explanation": "Durante la crisis arriana, los eremitas encabezados por Antonio Abad acudieron a Alejandría a testificar a favor de la divinidad de Jesucristo."
+    }
+  ]
+}
