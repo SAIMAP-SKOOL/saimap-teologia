@@ -1,0 +1,243 @@
+{
+  "id": "1.2-mod02",
+  "module": 2,
+  "title": "El Giro Constantiniano e Instrumentalización Política",
+  "subtitle": "Del Puente Milvio a la teología imperial de Eusebio",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Labarum", "es": "Estandarte militar de Constantino con el crismón, monograma de Cristo" },
+        { "en": "Cesaropapismo", "es": "Modelo donde el gobernante secular interviene en la doctrina y disciplina eclesiástica" },
+        { "en": "Episcopalis audientia", "es": "Jurisdicción civil otorgada a los obispos para arbitrar litigios con sentencias inapelables" },
+        { "en": "Munera", "es": "Cargas fiscales y públicas obligatorias de los ciudadanos romanos, especialmente los decuriones" },
+        { "en": "Episkopos ton ektos", "es": "«Obispo de los de fuera»: título que Constantino se autoatribuyó como supervisor externo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué implica el concepto eusebiano de «episkopos ton ektos» aplicado a Constantino?",
+      "options": ["El papel del emperador como supervisor externo del orden de la Iglesia, sin atribuciones sacramentales", "El sacerdocio jerárquico absoluto del emperador para consagrar obispos", "El rechazo de la corte a intervenir en los concilios teológicos"],
+      "correct": 0,
+      "hint": "Distinguía al emperador de los obispos sacramentales.",
+      "explanation": "Eusebio acuñó este término para describir el rol de Constantino como garante del orden civil y administrador de las asambleas, sin atribuciones sacramentales."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ era el estandarte militar de Constantino que incorporaba el crismón, monograma de Cristo.",
+      "options": ["labarum", "crismón", "munera"],
+      "answer": "labarum",
+      "explanation": "Este estandarte, formado por las letras griegas Ji (X) y Ro (P), se convirtió en el emblema de la victoria de Constantino."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La visión del Puente Milvio",
+      "tiles": ["Vencerás", "con", "este", "signo", "perderás", "espada"],
+      "answer": "Vencerás con este signo",
+      "explanation": "Según la tradición cristiana, Constantino vio una cruz luminosa sobre el sol con esta leyenda antes de su decisiva batalla."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué eran los privilegios clericales de los munera bajo el giro constantiniano?",
+      "options": ["La exención de cargas civiles obligatorias para que el clero se centrara en su ministerio", "Impuestos directos aplicados al clero por el derecho penal romano", "Cargos militares obligatorios otorgados a los presbíteros"],
+      "correct": 0,
+      "hint": "Liberaba al clero de las cargas municipales de los decuriones.",
+      "explanation": "Constantino decretó que el clero católico quedaba exento de los cargos curiales, con el fin de evitar que fuesen distraídos de su culto a la divinidad."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el modelo donde el gobernante secular interviene activamente en la doctrina eclesiástica.",
+      "options": ["cesaropapismo", "providencialismo", "donatismo"],
+      "answer": "cesaropapismo",
+      "explanation": "En este modelo, el gobernante secular ejerce una autoridad suprema e interviene en la doctrina y disciplina de la Iglesia."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada privilegio con su definición jurídica",
+      "pairs": [
+        { "en": "Exención de Munera (313 d.C.)", "es": "Liberación de impuestos y cargos municipales para el clero" },
+        { "en": "Episcopalis Audientia (318 d.C.)", "es": "Jurisdicción civil de los obispos sobre litigios privados" },
+        { "en": "Legados y Testamentos (321 d.C.)", "es": "Capacidad legal de la Iglesia para recibir herencias" },
+        { "en": "Cursus publicus", "es": "Privilegio de usar el transporte oficial del Estado, concedido a los obispos" },
+        { "en": "Manumissio in ecclesia", "es": "Liberación de esclavos con validez legal, declarada ante el obispo" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El título de Constantino según Eusebio",
+      "tiles": ["El", "emperador", "es", "obispo", "de", "los", "de", "fuera", "dentro", "sacerdote"],
+      "answer": "El emperador es obispo de los de fuera",
+      "explanation": "Esta designación delimitaba una jurisdicción de supervisión externa de la Iglesia, reservando los sacramentos al orden presbiteral."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál fue el primer gran centro monumental basílico donado por Constantino a la sede de Roma?",
+      "options": ["La basílica del Salvador o San Juan de Letrán", "La basílica de San Pedro en el Vaticano", "La basílica de Santa María la Mayor"],
+      "correct": 0,
+      "hint": "Fue consagrada por el papa Silvestre I.",
+      "explanation": "Letrán fue la primera gran basílica monumental donada por Constantino, consagrada como catedral oficial de Roma."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ otorgaba a los obispos jurisdicción civil para arbitrar litigios con sentencias inapelables.",
+      "options": ["episcopalis audientia", "episkopos ton ektos", "manumissio in ecclesia"],
+      "answer": "episcopalis audientia",
+      "explanation": "Esta institución, establecida en el año 318 d.C., otorgaba a los obispos la potestad jurisdiccional civil sobre litigios privados."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué tesis fundamental defiende Eusebio de Cesarea en la «Vida de Constantino»?",
+      "options": ["La consonancia providencial entre la unificación del Imperio y la expansión universal del Evangelio", "El dualismo absoluto entre la Iglesia y el Imperio de Occidente", "La superioridad moral del monacato del desierto sobre el episcopado"],
+      "correct": 0,
+      "hint": "El emperador refleja el señorío del único Dios verdadero.",
+      "explanation": "Eusebio plantea que la historia de la salvación converge en el Imperio cristiano unificado, que sirve de vehículo providencial para la evangelización universal."
+    },
+    {
+      "type": "gap",
+      "text": "Los ___ eran las cargas fiscales y públicas obligatorias que debían prestar los ciudadanos romanos.",
+      "options": ["munera", "labarum", "spolia"],
+      "answer": "munera",
+      "explanation": "Estas cargas y deberes fiscales, especialmente pesados para los decuriones, quedaron exentas para el clero católico."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La exención de los munera",
+      "tiles": ["El", "clero", "queda", "libre", "de", "impuestos", "preso", "pagando"],
+      "answer": "El clero queda libre de impuestos",
+      "explanation": "Esta exención tributaria liberaba a los eclesiásticos de los gravámenes que arruinaban a la clase de los decuriones provinciales."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué visión celeste, según la tradición cristiana, precedió a la victoria de Constantino en el Puente Milvio?",
+      "options": ["Una cruz luminosa sobre el sol con la leyenda de vencer bajo ese signo", "Un águila imperial descendiendo sobre las legiones", "Una estrella guiando hacia Jerusalén"],
+      "correct": 0,
+      "hint": "Ocurrió a pleno día, según Lactancio y Eusebio.",
+      "explanation": "Según la tradición, Constantino experimentó esta visión antes de fabricar el labarum como su estandarte militar."
+    },
+    {
+      "type": "gap",
+      "text": "Constantino venció a ___ en la batalla del Puente Milvio el 28 de octubre del año 312 d.C.",
+      "options": ["Majencio", "Licinio", "Galerio"],
+      "answer": "Majencio",
+      "explanation": "El usurpador murió ahogado en las aguas del río Tíber tras esta decisiva batalla."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Constantino", "es": "Venció a Majencio en el Puente Milvio y promovió el crismón como emblema militar" },
+        { "en": "Eusebio de Cesarea", "es": "Autor de De Vita Constantini, arquitecto de la teología imperial" },
+        { "en": "Majencio", "es": "Usurpador derrotado y ahogado en el Tíber tras la batalla del Puente Milvio" },
+        { "en": "Santa Elena", "es": "Madre de Constantino, patrocinó la Basílica del Santo Sepulcro en Jerusalén" },
+        { "en": "Licinio", "es": "Coemperador de Oriente, corresponsable del Edicto de Milán" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La fundación de Constantinopla",
+      "tiles": ["Constantino", "funda", "la", "nueva", "Roma", "destruye", "antigua"],
+      "answer": "Constantino funda la nueva Roma",
+      "explanation": "Esta ciudad se erigió en el año 330 d.C. libre de los antiguos templos paganos del Capitolio romano."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué letras griegas componen el crismón grabado en el labarum de Constantino?",
+      "options": ["Ji (X) y Ro (P)", "Alfa (A) y Omega (Ω)", "Iota (I) y Sigma (Σ)"],
+      "correct": 0,
+      "hint": "Son las dos primeras letras de «Cristo» en griego.",
+      "explanation": "Este monograma fue adoptado como insignia oficial del ejército constantiniano, grabado en los escudos de las legiones."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Cesarea escribió «De Vita Constantini», arquitecto de la teología imperial.",
+      "options": ["Eusebio", "Lactancio", "Orígenes"],
+      "answer": "Eusebio",
+      "explanation": "Eusebio construyó una sofisticada justificación teológica del papel del emperador en la economía de la salvación cristiana."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El reflejo del Logos (Eusebio)",
+      "tiles": ["El", "emperador", "imita", "al", "Logos", "divino", "ignora", "rechaza"],
+      "answer": "El emperador imita al Logos divino",
+      "explanation": "Para Eusebio, el emperador terrenal es la viva imagen o mimesis del Logos divino que gobierna soberanamente el cosmos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué institución permitió a la Iglesia recibir legados y testamentos a partir del año 321 d.C.?",
+      "options": ["Una ley de Constantino sobre la capacidad jurídica de la Iglesia para heredar bienes", "El Edicto de Milán del 313 d.C.", "El Concilio de Nicea del 325 d.C."],
+      "correct": 0,
+      "hint": "Permitió el rápido enriquecimiento de las sedes episcopales.",
+      "explanation": "Esta disposición permitió el rápido enriquecimiento patrimonial de las sedes episcopales metropolitanas de las grandes urbes."
+    },
+    {
+      "type": "gap",
+      "text": "La emperatriz ___ patrocinó la Basílica del Santo Sepulcro en Jerusalén a partir del año 326 d.C.",
+      "options": ["Elena", "Fausta", "Prisca"],
+      "answer": "Elena",
+      "explanation": "Santa Elena, madre de Constantino, patrocinó la demolición de los templos paganos de Adriano sobre el Gólgota."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La basílica de San Pedro",
+      "tiles": ["San", "Pedro", "descansa", "bajo", "el", "altar", "camina", "templo"],
+      "answer": "San Pedro descansa bajo el altar",
+      "explanation": "La basílica se erigió exactamente sobre la tumba histórica del apóstol Pedro en la colina del Vaticano."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada basílica o evento con su descripción",
+      "pairs": [
+        { "en": "San Juan de Letrán", "es": "Primera basílica oficial de Roma, catedral primada" },
+        { "en": "San Pedro del Vaticano", "es": "Basílica erigida sobre la tumba del apóstol Pedro (319-322 d.C.)" },
+        { "en": "Basílica del Santo Sepulcro", "es": "Erigida en Jerusalén sobre el Gólgota a partir del 326 d.C." },
+        { "en": "Concilio de Nicea (325 d.C.)", "es": "Convocado por Constantino, quien presidió sentado en silla dorada" },
+        { "en": "Constantinopla (330 d.C.)", "es": "Nueva Roma fundada como capital cristiana libre de templos paganos" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ciudad fundó Constantino en el año 330 d.C. como nueva capital cristiana del Imperio?",
+      "options": ["Constantinopla", "Antioquía", "Alejandría"],
+      "correct": 0,
+      "hint": "Fue llamada la «nueva Roma».",
+      "explanation": "Esta ciudad se erigió libre de los antiguos templos paganos del Capitolio, simbolizando el pacto entre el trono imperial y el altar."
+    },
+    {
+      "type": "gap",
+      "text": "El Concilio de ___ (325 d.C.) fue convocado por Constantino para resolver la crisis arriana.",
+      "options": ["Nicea", "Éfeso", "Calcedonia"],
+      "answer": "Nicea",
+      "explanation": "Eusebio describe cómo el emperador presidió las sesiones teológicas sentado en una silla dorada, actuando como árbitro de paz."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El privilegio de las herencias (321 d.C.)",
+      "tiles": ["La", "Iglesia", "puede", "recibir", "testamentos", "prohibida", "rechazar"],
+      "answer": "La Iglesia puede recibir testamentos",
+      "explanation": "Esta ley permitió el enriquecimiento patrimonial extremadamente rápido de las sedes episcopales metropolitanas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué práctica arquitectónica consistió en reutilizar columnas y materiales de templos paganos en las nuevas basílicas cristianas?",
+      "options": ["El spolia", "El labarum", "El cursus publicus"],
+      "correct": 0,
+      "hint": "Es un término latino que significa «despojos».",
+      "explanation": "Esta reutilización material evidenciaba ante la población que los antiguos cultos romanos habían sido vencidos por el triunfo de la Iglesia."
+    },
+    {
+      "type": "gap",
+      "text": "La primera basílica oficial de Roma, catedral primada, fue San Juan de ___.",
+      "options": ["Letrán", "Vaticano", "Trastévere"],
+      "answer": "Letrán",
+      "explanation": "Fue erigida sobre los terrenos del palacio de la familia patricia de los Laterani, donados por Constantino."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La reutilización de materiales paganos",
+      "tiles": ["Las", "columnas", "paganas", "sostienen", "la", "basílica", "destruyen", "templo"],
+      "answer": "Las columnas paganas sostienen la basílica",
+      "explanation": "Columnas y arquitrabes expoliados de templos paganos fueron reutilizados para sostener los techos de las nuevas basílicas cristianas."
+    }
+  ]
+}

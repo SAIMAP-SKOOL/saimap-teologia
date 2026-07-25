@@ -1,0 +1,243 @@
+{
+  "id": "1.2-mod01",
+  "module": 1,
+  "title": "El Fin de la Clandestinidad y la Paz de la Iglesia (311-313 d.C.)",
+  "subtitle": "Del Edicto de Galerio al Edicto de Milán",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Edictum", "es": "Decreto de un magistrado romano con directrices jurídicas obligatorias en todo el Imperio" },
+        { "en": "Licet", "es": "Término jurídico de permisión legal, usado en «religio licita»" },
+        { "en": "Providencialismo", "es": "Doctrina que sostiene que la historia humana está dirigida por la voluntad divina" },
+        { "en": "Corpus Christianorum", "es": "Expresión jurídica que reconoce a la comunidad cristiana como cuerpo legal con bienes propios" },
+        { "en": "Episcopalis Audientia", "es": "Institución judicial que permitía someter pleitos civiles a la jurisdicción del obispo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué supuso jurídicamente el Edicto de Tolerancia de Galerio en el 311 d.C.?",
+      "options": ["El cese de persecuciones activas, reconociendo la inutilidad de la coacción y solicitando oraciones por el emperador", "El reconocimiento del cristianismo como única religión oficial", "La ilegalización definitiva de los templos paganos"],
+      "correct": 0,
+      "hint": "Galerio estaba gravemente enfermo cuando lo promulgó.",
+      "explanation": "El Edicto de Galerio representó la abdicación pragmática del Estado romano en su política de erradicación violenta del cristianismo, exigiendo a los fieles orar por la salud imperial."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es un decreto de un magistrado romano con directrices jurídicas obligatorias en todo el Imperio.",
+      "options": ["edictum", "licet", "corpus"],
+      "answer": "edictum",
+      "explanation": "Este decreto establecía directrices jurídicas y administrativas obligatorias en todo el territorio del Imperio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El Edicto de Galerio (311 d.C.)",
+      "tiles": ["Que", "oren", "a", "su", "Dios", "por", "nosotros", "ídolos", "césar"],
+      "answer": "Que oren a su Dios por nosotros",
+      "explanation": "Galerio prescribió que los fieles cristianos debían rogar a su Dios por el bienestar del soberano y de la república."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál era el estatus legal de la restitución de bienes dispuesta en el Edicto de Milán?",
+      "options": ["Devolución inmediata y gratuita al corpus Christianorum, con compensación estatal a los compradores de buena fe", "La venta de basílicas paganas para financiar a las iglesias", "El mantenimiento del estatus clandestino de los cementerios"],
+      "correct": 0,
+      "hint": "Los compradores debían apelar a los magistrados locales.",
+      "explanation": "El acuerdo de Milán dispuso que la devolución se realizara sin tasas ni dilaciones, delegando la compensación de los compradores privados a la clemencia de los magistrados."
+    },
+    {
+      "type": "gap",
+      "text": "El término ___ expresa permisión legal, usado en la expresión «religio licita».",
+      "options": ["licet", "edictum", "indulgentia"],
+      "answer": "licet",
+      "explanation": "Este término denota un culto oficialmente autorizado por el Estado romano."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada hito con su promulgador y consecuencia",
+      "pairs": [
+        { "en": "Edicto de Tolerancia (311 d.C.)", "es": "Promulgado por Galerio, cese de las persecuciones activas" },
+        { "en": "Edicto de Milán (313 d.C.)", "es": "Promulgado por Constantino y Licinio, libertad absoluta de culto" },
+        { "en": "Restitución de propiedades", "es": "Devolución de los bienes raíces confiscados a las diócesis" },
+        { "en": "De mortibus persecutorum", "es": "Obra de Lactancio sobre las muertes providenciales de los perseguidores" },
+        { "en": "Episcopalis audientia", "es": "Reforma de Constantino que permitía a los obispos juzgar pleitos civiles" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El Edicto de Milán",
+      "tiles": ["Libertad", "de", "seguir", "la", "religión", "que", "prefiera", "prohibición", "imponer"],
+      "answer": "Libertad de seguir la religión que prefiera",
+      "explanation": "El texto legal otorgaba a todos los súbditos la libre facultad de seguir la religión que cada uno prefiriese individualmente."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué término latino denotaba el reconocimiento corporativo de la Iglesia en el 313 d.C.?",
+      "options": ["Corpus Christianorum", "Munera publica", "Indulgentia principis"],
+      "correct": 0,
+      "hint": "Significa literalmente «cuerpo de los cristianos».",
+      "explanation": "La circular de Milán se refiere a las propiedades del «cuerpo de los cristianos», dotando a la Iglesia de personalidad jurídica corporativa."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ sostiene que la historia humana está dirigida por la voluntad divina.",
+      "options": ["providencialismo", "fideísmo", "donatismo"],
+      "answer": "providencialismo",
+      "explanation": "Esta doctrina filosófica y teológica sostiene que todos los acontecimientos de la historia humana están ordenados por Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo interpreta Lactancio la muerte de los perseguidores en «De mortibus persecutorum»?",
+      "options": ["Como castigos providenciales de Dios contra los tiranos del paganismo", "Como sucesos aleatorios de la inestabilidad de las fronteras", "Como conspiraciones de la corte constantiniana"],
+      "correct": 0,
+      "hint": "Detalla la agonía de Galerio y el suicidio de Maximino Daza.",
+      "explanation": "Lactancio sostiene que la historia humana está guiada por la providencia divina, presentando las muertes de los tiranos como prueba de la ira divina."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es la expresión jurídica que reconoce a la comunidad cristiana como cuerpo legal con bienes propios.",
+      "options": ["corpus Christianorum", "collegium licitum", "munera publica"],
+      "answer": "corpus Christianorum",
+      "explanation": "Esta expresión jurídica se empleó a partir del siglo IV para reconocer a la comunidad cristiana como un cuerpo legal con capacidad de poseer bienes."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lactancio sobre la providencia",
+      "tiles": ["Dios", "gobierna", "la", "historia", "de", "los", "hombres", "azar", "astros"],
+      "answer": "Dios gobierna la historia de los hombres",
+      "explanation": "Para Lactancio, el poder terrenal de los césares está estrictamente subordinado a la justicia divina, que opera de manera ineludible en la historia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué sistema de gobierno colegiado instauró Diocleciano en el año 293 d.C.?",
+      "options": ["La Tetrarquía", "El Principado", "El Cesaropapismo"],
+      "correct": 0,
+      "hint": "Dividía el poder entre dos augustos y dos césares.",
+      "explanation": "Este sistema dividía el poder entre dos augustos y dos césares para descentralizar el control de las vastas fronteras imperiales."
+    },
+    {
+      "type": "gap",
+      "text": "El Edicto de Tolerancia fue promulgado por ___ el 30 de abril del año 311 d.C.",
+      "options": ["Galerio", "Constantino", "Licinio"],
+      "answer": "Galerio",
+      "explanation": "Desde su residencia en Nicomedia, el augusto de Oriente dictó esta disposición jurídica sin precedentes."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada personaje con su papel histórico",
+      "pairs": [
+        { "en": "Galerio", "es": "Augusto de Oriente que promulgó el Edicto de Tolerancia en el 311 d.C." },
+        { "en": "Constantino y Licinio", "es": "Coemperadores que acordaron el Edicto de Milán en el 313 d.C." },
+        { "en": "Lactancio", "es": "Retórico africano, autor de De mortibus persecutorum" },
+        { "en": "Maximino Daza", "es": "Intentó reactivar la persecución en Oriente tras la muerte de Galerio" },
+        { "en": "Diocleciano", "es": "Instauró la Tetrarquía e inició la Gran Persecución en el 303 d.C." }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La victoria del Puente Milvio",
+      "tiles": ["Constantino", "venció", "bajo", "el", "signo", "de", "la", "cruz", "perdió", "águila"],
+      "answer": "Constantino venció bajo el signo de la cruz",
+      "explanation": "Esta victoria sobre Majencio confirió una dimensión providencial a Constantino, vinculando su triunfo militar a la protección del Dios cristiano."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué batalla venció Constantino a Majencio en octubre del 312 d.C.?",
+      "options": ["La batalla del Puente Milvio", "La batalla de Nicomedia", "La batalla de Andrinópolis"],
+      "correct": 0,
+      "hint": "Ocurrió cerca de Roma.",
+      "explanation": "Esta victoria consolidó el dominio de Constantino sobre Occidente y confirió una dimensión providencial a su figura."
+    },
+    {
+      "type": "gap",
+      "text": "El Edicto de ___ fue acordado por Constantino y Licinio en febrero del año 313 d.C.",
+      "options": ["Milán", "Nicomedia", "Tesalónica"],
+      "answer": "Milán",
+      "explanation": "Este conjunto de decretos unificó y amplió las concesiones del edicto anterior de Galerio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La restitución de bienes",
+      "tiles": ["Los", "bienes", "vuelven", "al", "corpus", "Christianorum", "quedan", "estado"],
+      "answer": "Los bienes vuelven al corpus Christianorum",
+      "explanation": "El texto legal estipulaba que todos los bienes raíces confiscados debían ser devueltos de manera inmediata a la corporación cristiana."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué emperador intentó reactivar de manera encubierta la persecución en Oriente tras la muerte de Galerio?",
+      "options": ["Maximino Daza", "Licinio", "Constancio Cloro"],
+      "correct": 0,
+      "hint": "Promovió una intensa propaganda pagana.",
+      "explanation": "A pesar de sus reticencias, el proceso de pacificación religiosa ya resultaba jurídicamente irreversible en la mayor parte del territorio romano."
+    },
+    {
+      "type": "gap",
+      "text": "___ escribió «De mortibus persecutorum», narrando las muertes providenciales de los perseguidores.",
+      "options": ["Lactancio", "Eusebio", "Orígenes"],
+      "answer": "Lactancio",
+      "explanation": "Este retórico africano, apodado el «Cicerón cristiano», redactó su obra probablemente entre los años 314 y 315 d.C."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El fin de la clandestinidad",
+      "tiles": ["Las", "basílicas", "se", "construyen", "a", "la", "luz", "del", "día", "sombras", "noche"],
+      "answer": "Las basílicas se construyen a la luz del día",
+      "explanation": "La devolución de los cementerios favoreció la edificación de basílicas martiriales, marcando el fin del culto clandestino doméstico."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada concepto o evento con su descripción",
+      "pairs": [
+        { "en": "Batalla del Puente Milvio (312 d.C.)", "es": "Victoria de Constantino sobre Majencio, atribuida a la protección divina" },
+        { "en": "Tetrarquía (293 d.C.)", "es": "Sistema de gobierno colegiado ideado por Diocleciano" },
+        { "en": "Gran Persecución (303-304 d.C.)", "es": "Último intento sistemático de erradicar el cristianismo" },
+        { "en": "Collegium licitum", "es": "Corporación plenamente lícita con derechos económicos y civiles" },
+        { "en": "Domus ecclesiae de Dura Europos", "es": "Ejemplo de iglesia doméstica adaptada para la liturgia clandestina" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué institución judicial permitía a los obispos actuar como jueces en pleitos civiles bajo Constantino?",
+      "options": ["La episcopalis audientia", "El collegium licitum", "La indulgentia principis"],
+      "correct": 0,
+      "hint": "Su nombre significa «audiencia episcopal».",
+      "explanation": "Esta reforma procesal permitía a las partes de un pleito civil someter su disputa a la jurisdicción del obispo local."
+    },
+    {
+      "type": "gap",
+      "text": "Constantino venció a Majencio en la batalla del ___ en octubre del año 312 d.C.",
+      "options": ["Puente Milvio", "Adrianópolis", "Vía Appia"],
+      "answer": "Puente Milvio",
+      "explanation": "Esta batalla consolidó el dominio absoluto de Constantino sobre la mitad occidental del territorio imperial."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La agonía de Galerio (Lactancio)",
+      "tiles": ["Galerio", "murió", "de", "una", "enfermedad", "terrible", "vivió", "feliz"],
+      "answer": "Galerio murió de una enfermedad terrible",
+      "explanation": "Lactancio detalla la agonía física de Galerio, consumido por una penosa enfermedad, como retribución divina."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál era la profesión de Lactancio antes de su exilio por la Gran Persecución?",
+      "options": ["Profesor de retórica en la corte imperial de Nicomedia", "Gobernador de la provincia de Cartago", "Comandante militar de las legiones orientales"],
+      "correct": 0,
+      "hint": "Diocleciano lo llamó a su corte.",
+      "explanation": "Esta posición le permitió presenciar directamente las intrigas palaciegas que precedieron a la Gran Persecución."
+    },
+    {
+      "type": "gap",
+      "text": "___ instauró la Tetrarquía en el año 293 d.C. para descentralizar el gobierno del Imperio.",
+      "options": ["Diocleciano", "Galerio", "Constancio Cloro"],
+      "answer": "Diocleciano",
+      "explanation": "Este sistema administrativo colegiado dividía el poder entre dos augustos y dos césares."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La episcopalis audientia",
+      "tiles": ["El", "obispo", "juzga", "los", "pleitos", "civiles", "ignora", "rechaza"],
+      "answer": "El obispo juzga los pleitos civiles",
+      "explanation": "Constantino introdujo reformas procesales innovadoras que permitían a las partes en un pleito civil someter su disputa al obispo local."
+    }
+  ]
+}

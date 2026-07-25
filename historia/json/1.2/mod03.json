@@ -1,0 +1,243 @@
+{
+  "id": "1.2-mod03",
+  "module": 3,
+  "title": "La Crisis Arriana y el Concilio de Nicea (325 d.C.)",
+  "subtitle": "De la disputa de Alejandría al Credo consustancial",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Homoousios", "es": "Consustancial: igualdad ontológica perfecta entre el Padre y el Hijo" },
+        { "en": "Subordinacionismo", "es": "Corriente que considera al Hijo y al Espíritu Santo inferiores al Padre" },
+        { "en": "Anathema", "es": "Sentencia de exclusión dogmática contra doctrinas o personas heréticas" },
+        { "en": "Credo", "es": "Declaración formal de los artículos de la fe, para delimitar la ortodoxia" },
+        { "en": "Homoiousios", "es": "«De sustancia semejante»: término semiarriano de compromiso" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el postulado doctrinal central de Arrio de Alejandría?",
+      "options": ["Que el Logos es una criatura excelsa con un inicio en el tiempo, no coeterno con el Padre", "Que el Logos es coeterno y consustancial con el Padre", "Que el Espíritu Santo es superior al Padre y al Hijo"],
+      "correct": 0,
+      "hint": "Su lema era «erat quando non erat».",
+      "explanation": "La teología de Arrio afirmaba que el Hijo o Logos era una criatura excelsa creada de la nada, por lo que hubo un tiempo en que el Hijo no existía."
+    },
+    {
+      "type": "gap",
+      "text": "El término ___ significa «consustancial», la igualdad ontológica perfecta entre el Padre y el Hijo.",
+      "options": ["homoousios", "homoiousios", "anomoios"],
+      "answer": "homoousios",
+      "explanation": "Este término, empleado para definir la perfecta igualdad ontológica entre el Padre y el Hijo, no figuraba en las Sagradas Escrituras."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La tesis de Arrio",
+      "tiles": ["Hubo", "un", "tiempo", "en", "que", "no", "era", "siempre", "eterno"],
+      "answer": "Hubo un tiempo en que no era",
+      "explanation": "Esta fórmula, «erat quando non erat», sintetizaba la negación arriana de la coeternidad del Hijo con el Padre."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué término filológico griego triunfó en el Concilio de Nicea para definir la divinidad del Hijo?",
+      "options": ["Homoousios", "Homoiousios", "Anomoios"],
+      "correct": 0,
+      "hint": "Significa «de la misma sustancia».",
+      "explanation": "Este término fue introducido en el Credo niceno para blindar la divinidad del Hijo, excluyendo el subordinacionismo."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ considera al Hijo y al Espíritu Santo como seres ontológicamente inferiores al Padre.",
+      "options": ["subordinacionismo", "providencialismo", "donatismo"],
+      "answer": "subordinacionismo",
+      "explanation": "Esta corriente teológica herética radicalizada por Arrio negaba la plena igualdad divina entre las personas de la Trinidad."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada postura teológica con su término clave",
+      "pairs": [
+        { "en": "Ortodoxia Nicena", "es": "Homoousios: coeterno y de la misma sustancia" },
+        { "en": "Arrianismo radical", "es": "Anomoios: creado de la nada y diferente" },
+        { "en": "Semiarrianismo", "es": "Homoiousios: de sustancia semejante pero no igual" },
+        { "en": "Sabelianismo", "es": "Modalismo condenado antes de Nicea, confundía las personas divinas" },
+        { "en": "Atanasio", "es": "Defensor de la deificación (theopoiesis) ligada al homoousios" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La respuesta de Alejandro",
+      "tiles": ["El", "Padre", "siempre", "ha", "sido", "Padre", "nunca", "hijo"],
+      "answer": "El Padre siempre ha sido Padre",
+      "explanation": "Alejandro argumentaba que resulta inconcebible postular la paternidad divina sin admitir la existencia eterna de la filiación."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién fue el principal defensor de la ortodoxia nicena en Oriente, sufriendo múltiples destierros?",
+      "options": ["San Atanasio de Alejandría", "Eusebio de Cesarea", "Eusebio de Nicomedia"],
+      "correct": 0,
+      "hint": "Sufrió cinco exilios a lo largo de su pontificado.",
+      "explanation": "Atanasio consagró su episcopado a la defensa del homoousios, enfrentándose a la hostilidad de los emperadores filoarrianos."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es la sentencia de exclusión dogmática pronunciada contra doctrinas heréticas.",
+      "options": ["anathema", "credo", "edictum"],
+      "answer": "anathema",
+      "explanation": "Los padres conciliares añadieron una serie de estas sentencias al Credo de Nicea, dirigidas contra las afirmaciones arrianas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué decisión disciplinar y litúrgica se unificó en el Concilio de Nicea?",
+      "options": ["La fijación de la fecha de la Pascua el domingo tras la primera luna llena de primavera", "La prohibición del monacato eremítico en Occidente", "La obligación del bautismo exclusivamente por infusión triple"],
+      "correct": 0,
+      "hint": "Superaba la práctica cuartodecimana.",
+      "explanation": "Nicea unificó la fecha de Pascua, desvinculándola de los cálculos de la Pascua judía y garantizando la uniformidad litúrgica."
+    },
+    {
+      "type": "gap",
+      "text": "___, presbítero de Alejandría, negó la coeternidad del Hijo con el Padre.",
+      "options": ["Arrio", "Atanasio", "Alejandro"],
+      "answer": "Arrio",
+      "explanation": "Formado en la escuela exegética de Antioquía, radicalizó las tendencias subordinacionistas latentes en la teología de Orígenes."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El Credo de Nicea",
+      "tiles": ["Engendrado", "no", "creado", "de", "la", "misma", "sustancia", "diferente", "hecho"],
+      "answer": "Engendrado no creado de la misma sustancia",
+      "explanation": "Esta fórmula lapidaria fue diseñada específicamente para demoler la teología arriana en su propio terreno terminológico."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué escuela teológica formó a Arrio, influyendo en su cristología subordinacionista?",
+      "options": ["La escuela de Antioquía, bajo Luciano de Antioquía", "La Escuela de Alejandría, bajo Clemente", "La escuela de Cartago, bajo Tertuliano"],
+      "correct": 0,
+      "hint": "Sus seguidores eran llamados «colucianistas».",
+      "explanation": "Arrio radicalizó las tendencias subordinacionistas latentes en la teología de Orígenes, tras su formación con Luciano de Antioquía."
+    },
+    {
+      "type": "gap",
+      "text": "El obispo ___ de Alejandría excomulgó a Arrio en el sínodo del año 321 d.C.",
+      "options": ["Alejandro", "Atanasio", "Osio"],
+      "answer": "Alejandro",
+      "explanation": "Este sínodo reunió a cerca de cien obispos que decretaron la excomunión de Arrio por sus tesis subordinacionistas."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada persona con su papel en la crisis arriana",
+      "pairs": [
+        { "en": "Arrio", "es": "Presbítero de Alejandría que negó la coeternidad del Hijo" },
+        { "en": "Alejandro de Alejandría", "es": "Obispo que excomulgó a Arrio y defendió la generación eterna del Hijo" },
+        { "en": "Osio de Córdoba", "es": "Consejero teológico de Constantino, propuso el término homoousios" },
+        { "en": "Eusebio de Nicomedia", "es": "Líder del partido arriano en la corte imperial" },
+        { "en": "Atanasio de Alejandría", "es": "Sucesor de Alejandro, sufrió cinco exilios defendiendo Nicea" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La sumisión de Constantino ante los obispos",
+      "tiles": ["El", "emperador", "espera", "sentarse", "con", "permiso", "ordena", "exige"],
+      "answer": "El emperador espera sentarse con permiso",
+      "explanation": "Constantino rehusó tomar asiento hasta que los padres conciliares le indicaron que lo hiciera, escenificando la deferencia religiosa del poder civil."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuántos padres conciliares se reunieron tradicionalmente en el Concilio de Nicea (325 d.C.)?",
+      "options": ["318", "150", "500"],
+      "correct": 0,
+      "hint": "La tradición lo asocia a los siervos de Abraham.",
+      "explanation": "Muchos de estos obispos portaban en sus cuerpos las marcas de la Gran Persecución, presentándose como venerados confesores de la fe."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Córdoba, consejero teológico de Constantino, propuso el término homoousios.",
+      "options": ["Osio", "Eusebio", "Atanasio"],
+      "answer": "Osio",
+      "explanation": "Para calmar los temores de los obispos moderados, ofreció una explicación exegética del vocablo en sentido espiritual, no material."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La deificación según Atanasio",
+      "tiles": ["Dios", "se", "hizo", "hombre", "para", "salvarnos", "abandonarnos", "juzgarnos"],
+      "answer": "Dios se hizo hombre para salvarnos",
+      "explanation": "Atanasio formuló la tesis de la deificación: Dios se hizo hombre para que el hombre se hiciera Dios por participación de la gracia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obra escribió Arrio para difundir sus tesis mediante cánticos populares?",
+      "options": ["La Thalia (Banquete)", "El De Principiis", "La Didaché"],
+      "correct": 0,
+      "hint": "Se cantaba entre marineros y molineros.",
+      "explanation": "Mediante cánticos adaptados para gente sencilla, las fórmulas subordinacionistas se popularizaron rápidamente en las calles de Alejandría."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Nicomedia fue el líder del partido arriano en la corte imperial.",
+      "options": ["Eusebio", "Osio", "Alejandro"],
+      "answer": "Eusebio",
+      "explanation": "Este obispo, junto a otros colucianistas, propagó la doctrina arriana en Asia Menor y Siria."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El rechazo a la fórmula arriana",
+      "tiles": ["Los", "obispos", "rompieron", "el", "papel", "arriano", "firmaron", "aceptaron"],
+      "answer": "Los obispos rompieron el papel arriano",
+      "explanation": "Cuando Eusebio de Nicomedia presentó una fórmula abiertamente arriana, la mayoría de los obispos la rechazó rompiéndola en público."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada concilio o sínodo con su descripción",
+      "pairs": [
+        { "en": "Sínodo de Alejandría (321 d.C.)", "es": "Excomulgó a Arrio por sus tesis subordinacionistas" },
+        { "en": "Concilio de Nicea (325 d.C.)", "es": "Reunió a 318 obispos, muchos con marcas del martirio" },
+        { "en": "Sínodo de Tiro (335 d.C.)", "es": "Condenó a Atanasio con acusaciones falsas, exiliado a Tréveris" },
+        { "en": "Concilio de Sárdica (343 d.C.)", "es": "Confirmó el derecho de Roma como tribunal de apelación" },
+        { "en": "Concilio de Constantinopla (381 d.C.)", "es": "Ratificó el homoousios y definió la divinidad del Espíritu Santo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué tesis soteriológica formuló Atanasio para vincular la divinidad de Cristo con la salvación humana?",
+      "options": ["La deificación (theopoiesis): Dios se hizo hombre para que el hombre se hiciera Dios", "La apocatástasis, la restauración final de todas las criaturas", "La recapitulación de toda la creación en Cristo"],
+      "correct": 0,
+      "hint": "Es un término griego que significa «divinización».",
+      "explanation": "Si el Hijo no fuera consustancial con el Padre, su muerte en la cruz carecería del valor redentor necesario para salvar a la humanidad."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Alejandría sufrió cinco exilios defendiendo la ortodoxia nicena.",
+      "options": ["Atanasio", "Arrio", "Eusebio"],
+      "answer": "Atanasio",
+      "explanation": "Asumió la sede episcopal en el año 328 d.C., convirtiéndose en el principal custodio de la fe nicena."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El exilio de Atanasio",
+      "tiles": ["Atanasio", "fue", "desterrado", "cinco", "veces", "nunca", "una"],
+      "answer": "Atanasio fue desterrado cinco veces",
+      "explanation": "Este destierro demostró la vulnerabilidad de las decisiones conciliares frente al arbitrio absoluto del soberano en los asuntos eclesiásticos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dos obispos egipcios se negaron a firmar el Credo de Nicea y fueron desterrados?",
+      "options": ["Secundo de Ptolemaida y Teonas de Marmárica", "Eusebio de Nicomedia y Maris de Calcedonia", "Alejandro de Alejandría y Osio de Córdoba"],
+      "correct": 0,
+      "hint": "A diferencia de Eusebio de Nicomedia, que sí firmó con reservas.",
+      "explanation": "Estos dos obispos se negaron firmemente a firmar el documento por fidelidad a las tesis arrianas, siendo inmediatamente excomulgados."
+    },
+    {
+      "type": "gap",
+      "text": "El Concilio de ___ (381 d.C.) ratificó el homoousios y definió la divinidad del Espíritu Santo.",
+      "options": ["Constantinopla", "Éfeso", "Calcedonia"],
+      "answer": "Constantinopla",
+      "explanation": "Este concilio configuró el símbolo Niceno-Constantinopolitano como el canon universal de la fe trinitaria ortodoxa."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La fecha de la Pascua en Nicea",
+      "tiles": ["La", "Pascua", "se", "celebra", "en", "domingo", "sábado", "jueves"],
+      "answer": "La Pascua se celebra en domingo",
+      "explanation": "Nicea decretó que la Pascua debía celebrarse en domingo, de forma independiente al calendario lunar judío."
+    }
+  ]
+}
