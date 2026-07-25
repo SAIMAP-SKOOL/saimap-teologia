@@ -1,0 +1,243 @@
+{
+  "id": "1.4-mod05",
+  "module": 5,
+  "title": "La Reforma Radical: Anabautistas, Menonitas y Antitrinitarios",
+  "subtitle": "De los Hermanos Suizos al trauma de Münster y el pacifismo menonita",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Anabautismo", "es": "Término, de origen peyorativo, para quienes practicaban un 'segundo bautismo' en la edad adulta" },
+        { "en": "Pedobautismo", "es": "Práctica del bautismo administrado a los niños recién nacidos" },
+        { "en": "Reforma Magisterial", "es": "Corrientes reformadas que mantuvieron una alianza entre la autoridad civil y la reforma eclesial" },
+        { "en": "Espiritualismo y Antitrinitarismo", "es": "Corrientes que cuestionaron la doctrina trinitaria de Nicea y Calcedonia" },
+        { "en": "Ban (excomunión menonita)", "es": "Disciplina de exclusión comunitaria sin recurrir jamás a la coerción del brazo civil" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué evento historiográfico se considera el acto fundacional del anabautismo organizado en Zúrich?",
+      "options": ["El bautismo de Jorge Blaurock a manos de Conrado Grebel en enero de 1525", "La publicación de los Artículos de Schleitheim en 1527", "La proclamación de Juan de Leiden como rey de Münster en 1534"],
+      "correct": 0,
+      "hint": "Ocurrió la noche del 21 de enero de 1525.",
+      "explanation": "Fue el primer bautismo de creyente adulto administrado al margen de cualquier sanción del Concejo civil."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el término, de origen peyorativo, para quienes practicaban un segundo bautismo en la edad adulta.",
+      "options": ["Anabautismo", "Pedobautismo", "Ban"],
+      "answer": "Anabautismo",
+      "explanation": "Los propios afectados preferían llamarse simplemente 'hermanos' o 'bautizados sobre la fe'."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El primer bautismo de creyente",
+      "tiles": ["Blaurock", "recibió", "el", "verdadero", "bautismo", "rechazó", "ignoró"],
+      "answer": "Blaurock recibió el verdadero bautismo",
+      "explanation": "Lo pidió a Conrado Grebel 'sobre su fe y conocimiento' la noche del 21 de enero de 1525."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué actitud mantuvieron Martín Lutero y las autoridades protestantes magisteriales ante el anabautismo pacífico de los Hermanos Suizos?",
+      "options": ["Lo persiguieron y respaldaron su castigo con la pena capital, de forma equiparable a las autoridades católicas", "Lo toleraron activamente por compartir el principio de sola Scriptura", "Se mantuvieron neutrales, dejando la represión exclusivamente en manos católicas"],
+      "correct": 0,
+      "hint": "La Dieta de Espira de 1529 formalizó este consenso.",
+      "explanation": "Lutero respaldó la criminalización del rebautismo, igualando la represión protestante y católica."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es la práctica del bautismo administrado a los niños recién nacidos.",
+      "options": ["Pedobautismo", "Anabautismo", "Ban"],
+      "answer": "Pedobautismo",
+      "explanation": "Era defendido tanto por la Iglesia católica como por los reformadores magisteriales."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada corriente con su postura sobre la violencia y su rasgo distintivo",
+      "pairs": [
+        { "en": "Hermanos Suizos (1525)", "es": "Pacifismo (Schleitheim, 1527); bautismo de creyentes y separación Iglesia-Estado" },
+        { "en": "Melchoritas de Münster (1534-1535)", "es": "Milenarismo violento y teocracia armada; comunidad de bienes y poligamia decretada" },
+        { "en": "Menonitas", "es": "Pacifismo absoluto y no resistencia; disciplina del ban" },
+        { "en": "Antitrinitarios", "es": "Pacifismo intelectual; rechazo de la Trinidad clásica" },
+        { "en": "Legado de los Hermanos Suizos", "es": "Origen del anabautismo organizado" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El primer mártir anabautista",
+      "tiles": ["Zúrich", "ahogó", "a", "Félix", "Mantz", "liberó", "coronó"],
+      "answer": "Zúrich ahogó a Félix Mantz",
+      "explanation": "Fue ejecutado el 5 de enero de 1527, en lo que las autoridades presentaron sarcásticamente como el 'tercer bautismo'."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál de las siguientes afirmaciones describe con precisión historiográfica el episodio del Reino Anabautista de Münster (1534-1535)?",
+      "options": ["Fue un episodio milenarista y violento protagonizado por una corriente melchiorita minoritaria, distinto del anabautismo pacífico mayoritario", "Fue la expresión típica y representativa de la práctica de todas las comunidades anabautistas del siglo XVI", "Fue organizado y liderado directamente por Menno Simons antes de su conversión al pacifismo"],
+      "correct": 0,
+      "hint": "Sus dirigentes procedían de la corriente de Melchor Hoffman.",
+      "explanation": "El consenso historiográfico distingue con claridad este episodio excepcional del anabautismo pacífico mayoritario de origen suizo."
+    },
+    {
+      "type": "gap",
+      "text": "La noche del 21 de enero de 1525, ___ bautizó a Jorge Blaurock en Zúrich.",
+      "options": ["Conrado Grebel", "Félix Mantz", "Miguel Sattler"],
+      "answer": "Conrado Grebel",
+      "explanation": "Este acto fundacional se produjo horas después de que el Concejo prohibiera formalmente el rebautismo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Conrado Grebel", "es": "Bautizó a Jorge Blaurock la noche del 21 de enero de 1525 en Zúrich" },
+        { "en": "Miguel Sattler", "es": "Antiguo prior benedictino, redactor de los Artículos de Schleitheim" },
+        { "en": "Jan Matthys", "es": "Panadero holandés que se proclamó profeta en Münster" },
+        { "en": "Juan de Leiden", "es": "Se proclamó 'Rey de la Nueva Jerusalén' en Münster" },
+        { "en": "Menno Simons", "es": "Antiguo sacerdote frisón que fundó la tradición pacifista menonita" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La redacción de Schleitheim",
+      "tiles": ["Sattler", "redactó", "los", "artículos", "de", "Schleitheim", "quemó", "ignoró"],
+      "answer": "Sattler redactó los artículos de Schleitheim",
+      "explanation": "Fue el primer documento confesional sistemático de la Reforma Radical, de febrero de 1527."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué legado histórico se atribuye de manera más directa a la confluencia entre el anabautismo menonita y el antitrinitarismo de Servet y Sozzini?",
+      "options": ["La defensa de la libertad de conciencia y la separación entre Iglesia y Estado como principios irrenunciables", "La consolidación definitiva de la unión entre Iglesia y Estado en Europa", "La restauración plena de la autoridad conciliar sobre la interpretación bíblica"],
+      "correct": 0,
+      "hint": "Ambas corrientes rechazaban la coacción civil en materia religiosa.",
+      "explanation": "Este principio es uno de los legados más influyentes de la Reforma Radical en la sensibilidad jurídica moderna."
+    },
+    {
+      "type": "gap",
+      "text": "___ redactó los Artículos de Schleitheim en febrero de 1527.",
+      "options": ["Miguel Sattler", "Conrado Grebel", "Menno Simons"],
+      "answer": "Miguel Sattler",
+      "explanation": "Era un antiguo prior benedictino convertido al movimiento anabautista."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El reinado teocrático",
+      "tiles": ["Juan", "de", "Leiden", "gobernó", "Münster", "abandonó", "defendió"],
+      "answer": "Juan de Leiden gobernó Münster",
+      "explanation": "Se proclamó 'Rey de la Nueva Jerusalén' en septiembre de 1534, tras la muerte de Jan Matthys."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo fue ejecutado Félix Mantz en Zúrich en 1527, apodado sarcásticamente el 'tercer bautismo'?",
+      "options": ["Ahogado en el río Limmat", "Quemado en la hoguera", "Decapitado en la plaza pública"],
+      "correct": 0,
+      "hint": "Zuinglio había escrito un tratado contra el rebautismo.",
+      "explanation": "Este patrón de ejecución por ahogamiento se repitió en numerosos territorios protestantes y católicos."
+    },
+    {
+      "type": "gap",
+      "text": "___ fue ejecutado por ahogamiento en el río Limmat el 5 de enero de 1527, primera víctima mortal de la represión.",
+      "options": ["Félix Mantz", "Jorge Blaurock", "Conrado Grebel"],
+      "answer": "Félix Mantz",
+      "explanation": "Su ejecución contó con la aquiescencia teológica de Zuinglio."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Bautismo de Jorge Blaurock (21-I-1525)", "es": "Acto fundacional del anabautismo organizado" },
+        { "en": "Artículos de Schleitheim (febrero de 1527)", "es": "Primer documento confesional de la Reforma Radical" },
+        { "en": "Ejecución de Félix Mantz (5-I-1527)", "es": "Primera víctima mortal de la represión antianabautista" },
+        { "en": "Mandato de Espira (abril de 1529)", "es": "Declaró el rebautismo delito capital en todo el Imperio" },
+        { "en": "Caída de Münster (25-VI-1535)", "es": "Fin del reino teocrático de Juan de Leiden" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El asalto final",
+      "tiles": ["Las", "tropas", "del", "obispo", "tomaron", "la", "ciudad", "perdieron", "defendieron"],
+      "answer": "Las tropas del obispo tomaron la ciudad",
+      "explanation": "Lo hicieron el 25 de junio de 1535, tras la traición de dos desertores que revelaron un punto débil en las murallas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién se proclamó 'Rey de la Nueva Jerusalén' en Münster en septiembre de 1534?",
+      "options": ["Juan de Leiden", "Jan Matthys", "Bernardo Rothmann"],
+      "correct": 0,
+      "hint": "Era un sastre de origen humilde y notable capacidad oratoria.",
+      "explanation": "Asumió el poder absoluto tras la muerte de Jan Matthys en un ataque contra las tropas sitiadoras."
+    },
+    {
+      "type": "gap",
+      "text": "El Mandato de ___ (1529) declaró el rebautismo delito capital en todo el Sacro Imperio.",
+      "options": ["Espira", "Worms", "Augsburgo"],
+      "answer": "Espira",
+      "explanation": "Se aplicaba con independencia de que el príncipe local fuera católico o luterano."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El origen del pacifismo menonita",
+      "tiles": ["Menno", "Simons", "fundó", "el", "pacifismo", "menonita", "rechazó", "ignoró"],
+      "answer": "Menno Simons fundó el pacifismo menonita",
+      "explanation": "Lo hizo tras abandonar el sacerdocio católico en 1536, reconstruyendo el anabautismo sobre bases pacifistas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué antiguo sacerdote católico frisón fundó la tradición pacifista que dio origen a los menonitas?",
+      "options": ["Menno Simons", "Miguel Sattler", "Bernardo Rothmann"],
+      "correct": 0,
+      "hint": "Perdió a un hermano vinculado a un grupo melchiorita armado.",
+      "explanation": "Su Fundamentbuch de 1539 circuló extensamente entre las comunidades anabautistas dispersas."
+    },
+    {
+      "type": "gap",
+      "text": "El panadero holandés ___ se proclamó profeta del fin de los tiempos en Münster.",
+      "options": ["Jan Matthys", "Juan de Leiden", "Bernardo Rothmann"],
+      "answer": "Jan Matthys",
+      "explanation": "Murió en un ataque desesperado contra las tropas sitiadoras en abril de 1534."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La negación trinitaria de Servet",
+      "tiles": ["Servet", "negó", "la", "doctrina", "trinitaria", "afirmó", "defendió"],
+      "answer": "Servet negó la doctrina trinitaria",
+      "explanation": "Fue ejecutado en Ginebra el 27 de octubre de 1553 por instigación de Juan Calvino."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué teólogo italiano desarrolló en Polonia el socinianismo, sistematizado en el Catecismo Racoviano de 1605?",
+      "options": ["Fausto Sozzini", "Miguel Servet", "Menno Simons"],
+      "correct": 0,
+      "hint": "Continuó las ideas antitrinitarias de su tío Lelio Sozzini.",
+      "explanation": "El socinianismo defendía explícitamente la libertad de conciencia y la tolerancia religiosa."
+    },
+    {
+      "type": "gap",
+      "text": "El príncipe-obispo católico ___ puso Münster bajo asedio militar en 1534.",
+      "options": ["Francisco de Waldeck", "Fernando de Habsburgo", "Felipe I de Hesse"],
+      "answer": "Francisco de Waldeck",
+      "explanation": "Su asedio se prolongó hasta la toma de la ciudad en junio de 1535."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La defensa de la tolerancia",
+      "tiles": ["Sozzini", "defendió", "la", "libertad", "de", "conciencia", "rechazó", "prohibió"],
+      "answer": "Sozzini defendió la libertad de conciencia",
+      "explanation": "El socinianismo polaco representa el punto de llegada más coherente de la lógica interna de la Reforma Radical."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué ciudad fue ejecutado Miguel Servet el 27 de octubre de 1553 por negar la doctrina trinitaria?",
+      "options": ["Ginebra", "Zúrich", "Münster"],
+      "correct": 0,
+      "hint": "Fue arrestado por instigación directa de Juan Calvino.",
+      "explanation": "Este episodio ilustra que la intolerancia doctrinal del siglo XVI no fue patrimonio exclusivo de Roma."
+    },
+    {
+      "type": "gap",
+      "text": "El médico aragonés ___ fue ejecutado en Ginebra en 1553 por negar la doctrina trinitaria.",
+      "options": ["Miguel Servet", "Fausto Sozzini", "Menno Simons"],
+      "answer": "Miguel Servet",
+      "explanation": "Era autor de obras como De Trinitatis Erroribus (1531) y la Christianismi Restitutio (1553)."
+    }
+  ]
+}

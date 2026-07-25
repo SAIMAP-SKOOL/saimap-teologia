@@ -1,0 +1,243 @@
+{
+  "id": "1.4-mod09",
+  "module": 9,
+  "title": "La Expansión de la Fe en el Nuevo Mundo",
+  "subtitle": "Misiones, encomienda y el debate sobre los derechos indígenas",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Encomienda", "es": "Institución colonial que otorgaba indígenas a un colono a cambio de instrucción cristiana y protección" },
+        { "en": "Requerimiento (1513)", "es": "Documento leído a los indígenas antes de una acción militar, instándolos a someterse" },
+        { "en": "Ius Gentium", "es": "Cuerpo de principios jurídicos aplicable a todos los pueblos por su condición racional común" },
+        { "en": "Dominium", "es": "Concepto de señorío o propiedad legítima sobre tierras y bienes" },
+        { "en": "Esclavo por Naturaleza", "es": "Categoría aristotélica retomada para argumentar la sumisión de pueblos considerados irracionales" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué caracteriza específicamente al sermón de Antonio de Montesinos (1511) frente a otras críticas posteriores al sistema colonial?",
+      "options": ["Fue la primera denuncia pública sistemática de la legitimidad jurídica de la dominación colonial, aprobada colectivamente por su comunidad dominica", "Fue una iniciativa personal e individual, no respaldada por su comunidad religiosa", "Condenaba la misión evangelizadora como un proyecto ilegítimo en sí mismo"],
+      "correct": 0,
+      "hint": "Planteó la pregunta '¿con qué derecho...?'",
+      "explanation": "Toda la comunidad dominica de Pedro de Córdoba deliberó y aprobó el contenido antes de que se pronunciara."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la institución jurídica colonial que otorgaba indígenas a un colono a cambio de instrucción cristiana.",
+      "options": ["Encomienda", "Requerimiento", "Dominium"],
+      "answer": "Encomienda",
+      "explanation": "En su diseño legal presuponía la libertad personal del indígena, aunque en la práctica degeneró con frecuencia en trabajo forzado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El sermón de Adviento",
+      "tiles": ["Montesinos", "predicó", "contra", "la", "encomienda", "defendió", "ignoró"],
+      "answer": "Montesinos predicó contra la encomienda",
+      "explanation": "Lo hizo el domingo cuarto de Adviento de 1511 en la pequeña iglesia de Santo Domingo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué llevó a Bartolomé de las Casas a renunciar a su encomienda hacia 1514?",
+      "options": ["Su propia reflexión sobre un pasaje del libro del Eclesiástico durante la preparación de un sermón, unida a su experiencia como encomendero", "La lectura directa del sermón de Montesinos de 1511, que le convenció de inmediato", "Una orden directa del rey Fernando el Católico"],
+      "correct": 0,
+      "hint": "Fue durante la preparación de un sermón de Pentecostés en Cuba.",
+      "explanation": "Las Casas asistió al sermón de Montesinos en 1511 pero no modificó su conducta hasta 1514."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ (1513) era el documento leído a los indígenas antes de una acción militar, instándolos a someterse.",
+      "options": ["Requerimiento", "Ius Gentium", "Dominium"],
+      "answer": "Requerimiento",
+      "explanation": "Advertía sobre la guerra justa si los indígenas se negaban a someterse a la Corona y a la fe cristiana."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada autor con su tesis en el debate colonial",
+      "pairs": [
+        { "en": "Bartolomé de las Casas", "es": "Los indígenas poseen razón y organización política compleja; solo es legítima la evangelización pacífica" },
+        { "en": "Juan Ginés de Sepúlveda", "es": "Aplicable la esclavitud natural aristotélica; la guerra previa a la evangelización es lícita" },
+        { "en": "Francisco de Vitoria", "es": "Los indígenas poseen dominium natural legítimo; rechaza los títulos tradicionales de conquista" },
+        { "en": "Tesis lascasiana sobre la conquista", "es": "Rechaza por completo la guerra de conquista" },
+        { "en": "Tesis vitoriana sobre intervención", "es": "Admite títulos alternativos limitados (ius communicationis)" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La renuncia de Las Casas",
+      "tiles": ["Las", "Casas", "renunció", "a", "su", "encomienda", "aceptó", "amplió"],
+      "answer": "Las Casas renunció a su encomienda",
+      "explanation": "Devolvió los indígenas asignados y dedicó el resto de su vida a la defensa de los derechos americanos."
+    },
+    {
+      "type": "quiz",
+      "q": "En la Controversia de Valladolid (1550-1551), ¿qué tesis defendía Juan Ginés de Sepúlveda basándose en la filosofía aristotélica?",
+      "options": ["Que ciertos pueblos, por su presunta inferioridad racional y prácticas religiosas, eran 'esclavos por naturaleza' y podían someterse mediante guerra justa", "Que los indígenas poseían dominium legítimo sobre sus tierras por derecho natural", "Que la única evangelización legítima era la pacífica y racional, sin guerra previa"],
+      "correct": 0,
+      "hint": "Lo hizo en su tratado Democrates alter.",
+      "explanation": "Su obra no llegó a obtener la licencia de impresión de los censores reales."
+    },
+    {
+      "type": "gap",
+      "text": "El fraile dominico ___ pronunció el sermón de 1511 que cuestionó la legitimidad de la dominación colonial.",
+      "options": ["Antonio de Montesinos", "Bartolomé de las Casas", "Domingo de Soto"],
+      "answer": "Antonio de Montesinos",
+      "explanation": "Los encomenderos elevaron quejas ante el gobernador Diego Colón exigiendo su retractación o expulsión."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Antonio de Montesinos", "es": "Pronunció el sermón de 1511 que cuestionó la legitimidad de la dominación colonial" },
+        { "en": "Pedro de Córdoba", "es": "Dirigió la comunidad dominica de La Española que aprobó el sermón de Montesinos" },
+        { "en": "Bartolomé de las Casas", "es": "De encomendero a defensor jurídico y teológico de los indígenas" },
+        { "en": "Juan Ginés de Sepúlveda", "es": "Autor del Democrates alter, defensor de la esclavitud natural aplicada a los indígenas" },
+        { "en": "Francisco de Vitoria", "es": "Catedrático de Salamanca, autor de la relección De Indis (1539)" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La denuncia lascasiana",
+      "tiles": ["Las", "Casas", "denunció", "la", "violencia", "colonial", "ocultó", "celebró"],
+      "answer": "Las Casas denunció la violencia colonial",
+      "explanation": "Lo hizo en la Brevísima relación de la destrucción de las Indias, redactada en 1542."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál fue la consecuencia política más grave de la aplicación de las Leyes Nuevas de 1542 en el virreinato del Perú?",
+      "options": ["Una rebelión armada de encomenderos liderada por Gonzalo Pizarro, que culminó en el asesinato del virrey Blasco Núñez Vela", "La conversión pacífica generalizada de la población indígena sin resistencia alguna", "La abolición inmediata y sin resistencia de toda forma de encomienda en el virreinato"],
+      "correct": 0,
+      "hint": "Ocurrió en 1546.",
+      "explanation": "La Corona se vio obligada a suspender y modificar en 1545 la disposición sobre extinción hereditaria de las encomiendas."
+    },
+    {
+      "type": "gap",
+      "text": "Bartolomé de las Casas ingresó en la Orden de Predicadores en el año ___.",
+      "options": ["1522", "1511", "1514"],
+      "answer": "1522",
+      "explanation": "Era la misma comunidad de la que había salido el sermón de Montesinos años atrás."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La rebelión peruana",
+      "tiles": ["Pizarro", "se", "rebeló", "contra", "el", "virrey", "obedeció", "protegió"],
+      "answer": "Pizarro se rebeló contra el virrey",
+      "explanation": "La rebelión de Gonzalo Pizarro culminó en el asesinato del virrey Blasco Núñez Vela en 1546."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué año llegaron los primeros dominicos a la isla de La Española bajo la dirección de Pedro de Córdoba?",
+      "options": ["1510", "1502", "1524"],
+      "correct": 0,
+      "hint": "Apenas dieciocho años después del primer viaje colombino.",
+      "explanation": "Su proyecto misionero se basaba en la instrucción libre y razonada, no en la imposición por la fuerza."
+    },
+    {
+      "type": "gap",
+      "text": "Las ___ (1512) fueron el primer cuerpo legal dedicado a regular el trato a la población indígena americana.",
+      "options": ["Leyes de Burgos", "Leyes Nuevas", "Leyes de Indias"],
+      "answer": "Leyes de Burgos",
+      "explanation": "Reconocían la racionalidad y la libertad de los indígenas, pero mantenían el marco general de la encomienda."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Leyes de Burgos (1512)", "es": "Primer cuerpo legal dedicado a regular el trato a los indígenas" },
+        { "en": "Leyes Nuevas (1542)", "es": "Prohibieron la esclavización de indígenas y ordenaron la extinción de las encomiendas" },
+        { "en": "Rebelión de Gonzalo Pizarro (1546)", "es": "Culminó en el asesinato del virrey Blasco Núñez Vela" },
+        { "en": "Controversia de Valladolid (1550-1551)", "es": "Enfrentó a Las Casas y Sepúlveda en el Colegio de San Gregorio" },
+        { "en": "Relección De Indis (1539)", "es": "Francisco de Vitoria rechazó la donación pontificia como título legítimo" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La defensa aristotélica de Sepúlveda",
+      "tiles": ["Sepúlveda", "defendió", "la", "guerra", "justa", "rechazó", "condenó"],
+      "answer": "Sepúlveda defendió la guerra justa",
+      "explanation": "Argumentaba que era lícita para frenar prácticas como el sacrificio humano."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién presidió la junta de teólogos y juristas reunida en Valladolid en 1550?",
+      "options": ["Domingo de Soto", "Francisco de Vitoria", "Pedro de Córdoba"],
+      "correct": 0,
+      "hint": "Era discípulo de Francisco de Vitoria.",
+      "explanation": "Reconoció públicamente que los jueces no habían logrado un acuerdo unánime."
+    },
+    {
+      "type": "gap",
+      "text": "Las ___ (1542) prohibieron la esclavización de indígenas y ordenaron la extinción de las encomiendas heredables.",
+      "options": ["Leyes Nuevas", "Leyes de Burgos", "Bulas alejandrinas"],
+      "answer": "Leyes Nuevas",
+      "explanation": "Fueron impulsadas por el emperador Carlos V tras la presión sostenida de Las Casas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El reconocimiento del dominium",
+      "tiles": ["Vitoria", "reconoció", "el", "dominium", "indígena", "negó", "ignoró"],
+      "answer": "Vitoria reconoció el dominium indígena",
+      "explanation": "Lo hizo en su relección De Indis de 1539, con independencia de la condición de infieles de los pueblos americanos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obra de Bartolomé de las Casas, redactada en 1542, denunciaba la violencia colonial ante la Corona?",
+      "options": ["La Brevísima relación de la destrucción de las Indias", "El Democrates alter", "La relección De Indis"],
+      "correct": 0,
+      "hint": "No se publicó hasta 1552.",
+      "explanation": "Es un memorial de denuncia con fines políticos, no una crónica historiográfica neutral."
+    },
+    {
+      "type": "gap",
+      "text": "___ defendió, apoyándose en Aristóteles, que ciertos pueblos eran esclavos por naturaleza.",
+      "options": ["Juan Ginés de Sepúlveda", "Bartolomé de las Casas", "Francisco de Vitoria"],
+      "answer": "Juan Ginés de Sepúlveda",
+      "explanation": "Su obra Democrates alter no obtuvo licencia de impresión de los censores reales."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El debate consultivo",
+      "tiles": ["La", "junta", "debatió", "en", "Valladolid", "evitó", "canceló"],
+      "answer": "La junta debatió en Valladolid",
+      "explanation": "No fue un juicio con veredicto vinculante, sino una deliberación consultiva sin acuerdo unánime."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué concepto jurídico defendía Francisco de Vitoria que los pueblos indígenas poseían legítimamente sobre sus tierras?",
+      "options": ["El dominium", "El requerimiento", "La encomienda"],
+      "correct": 0,
+      "hint": "Deriva del derecho romano clásico.",
+      "explanation": "Vitoria lo trasladó al derecho natural, independiente de la gracia santificante o la pertenencia a la fe verdadera."
+    },
+    {
+      "type": "gap",
+      "text": "___ rechazó la donación pontificia y la infidelidad como títulos legítimos de conquista en su relección De Indis.",
+      "options": ["Francisco de Vitoria", "Domingo de Soto", "Juan Ginés de Sepúlveda"],
+      "answer": "Francisco de Vitoria",
+      "explanation": "Sostenía en cambio que existían otros títulos alternativos, como el ius communicationis."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La censura real",
+      "tiles": ["Sepúlveda", "no", "obtuvo", "licencia", "de", "impresión", "publicó", "vendió"],
+      "answer": "Sepúlveda no obtuvo licencia de impresión",
+      "explanation": "Este dato se interpreta como un indicio indirecto de la recepción oficial desfavorable de sus tesis."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Dónde lideró Bartolomé de las Casas un experimento de conversión sin conquista armada entre 1537 y 1550?",
+      "options": ["La Verapaz (Guatemala)", "Cumaná (Venezuela)", "La Española"],
+      "correct": 0,
+      "hint": "Se sustentaba en los principios de su tratado De unico vocationis modo.",
+      "explanation": "Defendía que la única vía legítima de evangelización era la persuasión racional y pacífica."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el cuerpo de principios jurídicos aplicable a todos los pueblos por su condición racional común.",
+      "options": ["ius gentium", "dominium", "requerimiento"],
+      "answer": "ius gentium",
+      "explanation": "Es un precedente reconocido del derecho internacional moderno, desarrollado por la Escuela de Salamanca."
+    }
+  ]
+}

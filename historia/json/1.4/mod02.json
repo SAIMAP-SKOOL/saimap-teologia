@@ -1,0 +1,243 @@
+{
+  "id": "1.4-mod02",
+  "module": 2,
+  "title": "Martín Lutero, las 95 Tesis y la Ruptura con la Eclesiología Romana",
+  "subtitle": "De Wittenberg a la Dieta de Worms (1517-1521)",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Sola Fide", "es": "El pecador es declarado justo ante Dios únicamente por la fe en Cristo, no por las obras" },
+        { "en": "Sola Scriptura", "es": "La Escritura es la única autoridad normativa final en materia de fe" },
+        { "en": "Sacerdocio Universal de los Creyentes", "es": "Todo cristiano bautizado participa por igual de una dignidad sacerdotal ante Dios" },
+        { "en": "Dieta Imperial", "es": "Asamblea deliberativa de los estamentos del Sacro Imperio convocada por el emperador" },
+        { "en": "Bula Pontificia", "es": "Documento solemne de máxima autoridad emitido por el papa" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál fue el propósito original con el que Martín Lutero redactó y difundió las 95 Tesis en octubre de 1517?",
+      "options": ["Invitar a un debate académico universitario en latín sobre los abusos en la predicación de las indulgencias", "Proponer una ruptura institucional inmediata con la autoridad papal", "Presentar ante el Papa León X una nueva confesión de fe alternativa a la católica"],
+      "correct": 0,
+      "hint": "El título era Disputatio pro declaratione virtutis indulgentiarum.",
+      "explanation": "No cuestionaban de raíz la doctrina de las indulgencias ni buscaban inicialmente la ruptura con Roma."
+    },
+    {
+      "type": "gap",
+      "text": "El principio de ___ sostiene que el pecador es declarado justo ante Dios únicamente por la fe en Cristo.",
+      "options": ["Sola Fide", "Sola Scriptura", "Sacerdocio Universal"],
+      "answer": "Sola Fide",
+      "explanation": "Lutero lo desarrolló en sus lecciones sobre los Salmos y la Carta a los Romanos entre 1513 y 1516."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El descubrimiento exegético",
+      "tiles": ["Lutero", "descubrió", "la", "justicia", "pasiva", "de", "Dios", "activa", "humana"],
+      "answer": "Lutero descubrió la justicia pasiva de Dios",
+      "explanation": "Reinterpretó Romanos 1:17 como la justicia con que Dios reviste gratuitamente al pecador que cree."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué significa el principio teológico luterano de la 'sola fide' y en qué texto bíblico se apoya principalmente?",
+      "options": ["Que el creyente es justificado únicamente por la fe en Cristo, y no por el mérito de sus obras, apoyándose en Romanos 1:17", "Que las obras de caridad son innecesarias para la vida cristiana, apoyándose en la Carta de Santiago", "Que la fe debe complementarse necesariamente con la compra de indulgencias para alcanzar la justificación"],
+      "correct": 0,
+      "hint": "Cita la fórmula de Habacuc: 'el justo vivirá por la fe'.",
+      "explanation": "Lutero no niega el valor de las obras, sino que las entiende como fruto necesario de la fe, no como su causa."
+    },
+    {
+      "type": "gap",
+      "text": "El principio de ___ sostiene que la Escritura es la única autoridad normativa final en materia de fe.",
+      "options": ["Sola Scriptura", "Sola Fide", "Bula Pontificia"],
+      "answer": "Sola Scriptura",
+      "explanation": "Negaba a los concilios y al papado la potestad de erigirse en norma última por encima de la Escritura."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada postura teológica con su autoridad última",
+      "pairs": [
+        { "en": "Doctrina Luterana (1517-1521)", "es": "Sola Scriptura, por encima de concilios y papado" },
+        { "en": "Escolástica Católica Romana (via moderna)", "es": "Escritura, tradición y magisterio papal-conciliar conjuntamente" },
+        { "en": "Humanismo Erasmista", "es": "Escritura leída con filología crítica, sin ruptura de la comunión romana" },
+        { "en": "Autores de la doctrina luterana", "es": "Martín Lutero, Felipe Melanchthon" },
+        { "en": "Autores de la escolástica romana", "es": "Gabriel Biel, Johann Eck, Cayetano" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La campaña comercial de Tetzel",
+      "tiles": ["Tetzel", "predicó", "la", "indulgencia", "comercial", "rechazó", "ignoró"],
+      "answer": "Tetzel predicó la indulgencia comercial",
+      "explanation": "Su campaña financiaba a la vez San Pedro y la deuda de Alberto de Brandeburgo con los Fugger."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurrió en la Disputa de Leipzig (1519) que radicalizó decisivamente la posición de Lutero frente a Roma?",
+      "options": ["Johann Eck condujo a Lutero a admitir que ciertas proposiciones de Jan Hus, condenado en Constanza, eran conformes a la Escritura", "Lutero se retractó formalmente de sus tesis ante el legado papal Cayetano", "El Papa León X asistió personalmente al debate y excomulgó a Lutero en el acto"],
+      "correct": 0,
+      "hint": "Obligó a Lutero a admitir que los concilios pueden errar.",
+      "explanation": "Este reconocimiento fue el embrión de la doctrina de la sola scriptura."
+    },
+    {
+      "type": "gap",
+      "text": "Lutero nació en ___ el 10 de noviembre de 1483.",
+      "options": ["Eisleben", "Wittenberg", "Worms"],
+      "answer": "Eisleben",
+      "explanation": "Provenía de una familia de extracción minera que ascendía socialmente en la región de Mansfeld."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Johann von Staupitz", "es": "Vicario general agustino, director espiritual de Lutero" },
+        { "en": "Johann Tetzel", "es": "Predicó la indulgencia cuya campaña detonó el conflicto de 1517" },
+        { "en": "Johann Eck", "es": "Condujo a Lutero a admitir errores conciliares en la Disputa de Leipzig (1519)" },
+        { "en": "Federico el Sabio", "es": "Elector de Sajonia que organizó el secuestro protector de Lutero tras Worms" },
+        { "en": "Carlos V", "es": "Emperador que convocó la Dieta de Worms de 1521" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La victoria dialéctica de Eck",
+      "tiles": ["Eck", "venció", "a", "Lutero", "en", "Leipzig", "perdió", "evitó"],
+      "answer": "Eck venció a Lutero en Leipzig",
+      "explanation": "Lo condujo mediante un encadenamiento lógico de preguntas hasta admitir que los concilios pueden errar."
+    },
+    {
+      "type": "quiz",
+      "q": "Respecto a la comparecencia de Lutero ante la Dieta de Worms en 1521, ¿qué precisión exige el consenso historiográfico actual sobre la célebre frase 'Aquí estoy, no puedo hacer otra cosa'?",
+      "options": ["La sustancia de la negativa de Lutero a retractarse está firmemente documentada, pero la fórmula exacta en alemán aparece en los panfletos impresos posteriores, no en el acta oficial", "La frase completa en alemán figura literalmente en el acta oficial latina de la sesión del 18 de abril de 1521", "Toda la escena de Worms, incluida la negativa de Lutero, es una invención propagandística sin ningún respaldo documental"],
+      "correct": 0,
+      "hint": "El acta oficial está redactada en latín.",
+      "explanation": "La fórmula probablemente fue añadida por editores cercanos a modo de remate dramático."
+    },
+    {
+      "type": "gap",
+      "text": "___ fue el director espiritual agustino que orientó la introspección de Lutero hacia la misericordia divina.",
+      "options": ["Johann von Staupitz", "Johann Tetzel", "Johann Eck"],
+      "answer": "Johann von Staupitz",
+      "explanation": "Su pastoral de corte agustiniano-místico preparó el terreno de la crisis teológica de fondo de Lutero."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La excomunión papal",
+      "tiles": ["León", "X", "excomulgó", "a", "Lutero", "coronó", "absolvió"],
+      "answer": "León X excomulgó a Lutero",
+      "explanation": "Lo hizo mediante la bula Decet Romanum Pontificem, del 3 de enero de 1521."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué universidad obtuvo Lutero el doctorado en 1512 y asumió la cátedra de exégesis bíblica?",
+      "options": ["La Universidad de Wittenberg", "La Universidad de Erfurt", "La Universidad de Leipzig"],
+      "correct": 0,
+      "hint": "Era una universidad de fundación reciente en aquel momento.",
+      "explanation": "Ocupó esta cátedra durante el resto de su vida académica."
+    },
+    {
+      "type": "gap",
+      "text": "El teólogo ___ condujo a Lutero a admitir en Leipzig (1519) que los concilios pueden errar.",
+      "options": ["Johann Eck", "Cayetano", "Karl von Miltitz"],
+      "answer": "Johann Eck",
+      "explanation": "Era teólogo de Ingolstadt y un hábil polemista."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "95 Tesis (31 de octubre de 1517)", "es": "Invitación académica al debate sobre el abuso de las indulgencias" },
+        { "en": "Disputa de Leipzig (1519)", "es": "Lutero admite que los concilios pueden errar" },
+        { "en": "Bula Exsurge Domine (15-VI-1520)", "es": "León X condenó cuarenta y una proposiciones de Lutero" },
+        { "en": "Bula Decet Romanum Pontificem (3-I-1521)", "es": "Decretó la excomunión formal de Lutero" },
+        { "en": "Dieta de Worms (17-18 abril 1521)", "es": "Lutero se negó a retractarse ante el emperador" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El desafío ante Wittenberg",
+      "tiles": ["Lutero", "quemó", "la", "bula", "papal", "firmó", "aceptó"],
+      "answer": "Lutero quemó la bula papal",
+      "explanation": "Lo hizo ante las puertas de Wittenberg el 10 de diciembre de 1520, junto con volúmenes de derecho canónico."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué cardenal interrogó a Lutero en Augsburgo en 1518 exigiéndole una retractación incondicional?",
+      "options": ["Tomás de Vío, Cayetano", "Johann Eck", "Karl von Miltitz"],
+      "correct": 0,
+      "hint": "Era el legado pontificio en aquel momento.",
+      "explanation": "Lutero se negó a retractarse sin que se le demostrara previamente su error mediante argumentos escriturísticos."
+    },
+    {
+      "type": "gap",
+      "text": "La bula ___ (1520) condenó cuarenta y una proposiciones de los escritos de Lutero.",
+      "options": ["Exsurge Domine", "Decet Romanum Pontificem", "Unigenitus Dei Filius"],
+      "answer": "Exsurge Domine",
+      "explanation": "Concedía a Lutero un plazo de sesenta días para retractarse bajo amenaza de excomunión."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La negativa ante el emperador",
+      "tiles": ["Lutero", "se", "negó", "a", "retractarse", "aceptó", "decidió"],
+      "answer": "Lutero se negó a retractarse",
+      "explanation": "Lo hizo salvo que se le convenciera mediante el testimonio de la Escritura o razones evidentes."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué tres muros atacó Lutero en su tratado A la nobleza cristiana de la nación alemana (1520)?",
+      "options": ["La superioridad del poder espiritual sobre el civil, el monopolio clerical de la Escritura y la exclusividad papal para convocar concilios", "La existencia del purgatorio, la veneración de los santos y el culto a las reliquias", "El celibato clerical, el ayuno cuaresmal y la confesión auricular"],
+      "correct": 0,
+      "hint": "Apelaba al sacerdocio universal de los creyentes.",
+      "explanation": "Legitimaba así la intervención de las autoridades seculares en la reforma eclesiástica."
+    },
+    {
+      "type": "gap",
+      "text": "El elector ___ organizó el secuestro protector de Lutero tras la Dieta de Worms.",
+      "options": ["Federico el Sabio", "Carlos V", "Alberto de Brandeburgo"],
+      "answer": "Federico el Sabio",
+      "explanation": "Lo condujo hasta el castillo de Wartburg, donde permaneció oculto bajo identidad ficticia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La protección del elector",
+      "tiles": ["Federico", "protegió", "a", "Lutero", "entregó", "abandonó"],
+      "answer": "Federico protegió a Lutero",
+      "explanation": "Sin esta protección, el Edicto de Worms habría autorizado a cualquier súbdito a detenerlo o darle muerte."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué castillo se refugió Lutero bajo la identidad de 'Junker Jörg' entre 1521 y 1522?",
+      "options": ["El castillo de Wartburg", "El castillo de Wittenberg", "El castillo de Worms"],
+      "correct": 0,
+      "hint": "Se encuentra cerca de Eisenach.",
+      "explanation": "Fue allí donde tradujo el Nuevo Testamento del griego al alemán en unas once semanas."
+    },
+    {
+      "type": "gap",
+      "text": "Lutero permaneció oculto en el castillo de Wartburg bajo la identidad de '___'.",
+      "options": ["Junker Jörg", "Doctor Lutero", "Fray Martín"],
+      "answer": "Junker Jörg",
+      "explanation": "Este periodo estuvo marcado por episodios de angustia espiritual pero también por una intensa producción literaria."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La traducción de Wartburg",
+      "tiles": ["Lutero", "tradujo", "el", "Nuevo", "Testamento", "quemó", "ignoró"],
+      "answer": "Lutero tradujo el Nuevo Testamento",
+      "explanation": "Se publicó en septiembre de 1522, conocida como el 'Testamento de Septiembre'."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué idioma tradujo Lutero el Nuevo Testamento durante su refugio en Wartburg, publicado en 1522?",
+      "options": ["Alemán", "Latín", "Francés"],
+      "correct": 0,
+      "hint": "Usó como base el texto griego editado por Erasmo de Rotterdam.",
+      "explanation": "El impacto de esta obra sobre la estandarización de la lengua alemana escrita fue extraordinario."
+    },
+    {
+      "type": "gap",
+      "text": "El emperador ___ convocó la Dieta de Worms de 1521, garantizando a Lutero un salvoconducto.",
+      "options": ["Carlos V", "Federico el Sabio", "Maximiliano I"],
+      "answer": "Carlos V",
+      "explanation": "Lo hizo en memoria del precedente fatal de Jan Hus en Constanza, que ambas partes tenían muy presente."
+    }
+  ]
+}

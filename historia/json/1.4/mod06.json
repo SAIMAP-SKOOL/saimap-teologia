@@ -1,0 +1,243 @@
+{
+  "id": "1.4-mod06",
+  "module": 6,
+  "title": "El Concilio de Trento (1545-1563)",
+  "subtitle": "La justificación, los sacramentos y la Reforma Católica",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Sola Fide", "es": "Principio luterano: el pecador es justificado únicamente por la fe, sin las obras" },
+        { "en": "Fides Caritate Formata", "es": "Fe informada por la caridad, la fe viva que se manifiesta en obras" },
+        { "en": "Ex Opere Operato", "es": "Los sacramentos confieren la gracia en virtud del acto ritual válidamente realizado" },
+        { "en": "Transubstanciación", "es": "Cambio sustancial del pan y el vino en el Cuerpo y la Sangre de Cristo" },
+        { "en": "Residencia Episcopal", "es": "Obligación del obispo de habitar y gobernar personalmente su diócesis" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál fue la principal razón estructural del aplazamiento de casi tres décadas en la convocatoria efectiva del Concilio de Trento?",
+      "options": ["La rivalidad política entre el Papado, el Imperio de Carlos V y la monarquía francesa, junto al temor pontificio a un resurgir del conciliarismo", "La ausencia total de interés de los papas del siglo XVI por reformar la Iglesia", "La negativa unánime de todos los obispos alemanes a asistir a cualquier concilio"],
+      "correct": 0,
+      "hint": "Clemente VII temía que un concilio reactivara el conciliarismo del siglo XV.",
+      "explanation": "Los sucesivos fracasos de convocatoria en Mantua y Vicenza precedieron a la reunión final en Trento en 1545."
+    },
+    {
+      "type": "gap",
+      "text": "El principio de ___ es la doctrina luterana según la cual el pecador es justificado únicamente por la fe.",
+      "options": ["Sola Fide", "Fides Caritate Formata", "Ex Opere Operato"],
+      "answer": "Sola Fide",
+      "explanation": "Trento la interpretó como una reducción de la justificación a la mera imputación externa de la justicia de Cristo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La convocatoria del concilio",
+      "tiles": ["Pablo", "III", "convocó", "el", "concilio", "disolvió", "prohibió"],
+      "answer": "Pablo III convocó el concilio",
+      "explanation": "Fue elegido papa en 1534 e impulsó decididamente el proyecto conciliar tras fracasos previos en Mantua y Vicenza."
+    },
+    {
+      "type": "quiz",
+      "q": "Según el decreto de la Sesión VI (1547), ¿cuál es la causa formal de la justificación del pecador?",
+      "options": ["La justicia de Dios infundida realmente en el alma, que transforma interiormente al justificado", "La mera imputación externa y forense de los méritos de Cristo, sin cambio interior real", "El esfuerzo moral autónomo del individuo, previo a cualquier auxilio de la gracia"],
+      "correct": 0,
+      "hint": "Se infunde junto con la fe, la esperanza y la caridad.",
+      "explanation": "Trento definió esto como una transformación ontológica real, no una simple declaración jurídica externa."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la fe informada por la caridad, única que Trento reconoce como justificante.",
+      "options": ["Fides Caritate Formata", "Sola Fide", "Transubstanciación"],
+      "answer": "Fides Caritate Formata",
+      "explanation": "Una fe sin caridad (fides informis) permanece existencialmente incompleta, aunque doctrinalmente verdadera."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada postura teológica con su tesis sobre la voluntad y la justicia",
+      "pairs": [
+        { "en": "Pelagianismo", "es": "Capacidad natural de merecer la gracia sin ayuda sobrenatural previa" },
+        { "en": "Sola Fide Luterana", "es": "Voluntad esclava, incapaz de cooperar; justicia imputada externamente" },
+        { "en": "Decreto Tridentino (Sesión VI, 1547)", "es": "Cooperación libre con la gracia preveniente; justicia infundida realmente" },
+        { "en": "Defensor del pelagianismo", "es": "Pelagio, condenado en Cartago y Éfeso" },
+        { "en": "Defensor de la sola fide", "es": "Martín Lutero" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El número de sacramentos",
+      "tiles": ["Trento", "definió", "siete", "sacramentos", "dos", "cinco"],
+      "answer": "Trento definió siete sacramentos",
+      "explanation": "Bautismo, confirmación, eucaristía, penitencia, unción de enfermos, orden y matrimonio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué decreto de la Sesión XXIII (1563) se considera el origen del sistema moderno de formación sacerdotal?",
+      "options": ["El decreto Cum adolescentium aetas, que ordenó la creación de seminarios diocesanos", "El decreto Tametsi sobre la forma canónica del matrimonio", "El decreto sobre la veneración de las reliquias e imágenes sagradas"],
+      "correct": 0,
+      "hint": "Ordenó formar a los futuros clérigos desde la adolescencia.",
+      "explanation": "Sentó las bases estructurales de la formación sacerdotal moderna bajo supervisión episcopal directa."
+    },
+    {
+      "type": "gap",
+      "text": "Los sacramentos confieren la gracia ___, en virtud del acto ritual válidamente realizado.",
+      "options": ["ex opere operato", "ex opere operantis", "sola fide"],
+      "answer": "ex opere operato",
+      "explanation": "Esta definición no equivale a un automatismo mágico: exige también la recta disposición del receptor."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Pablo III", "es": "Papa que impulsó la convocatoria del concilio, abierto en 1545" },
+        { "en": "Carlos V", "es": "Emperador que promovió los coloquios de Worms y Ratisbona" },
+        { "en": "Pío IV", "es": "Papa que reabrió el concilio en 1562, confiando su dirección a Morone y Borromeo" },
+        { "en": "Carlos Borromeo", "es": "Sobrino de Pío IV, decisivo para superar las resistencias nacionales" },
+        { "en": "Hubert Jedin", "es": "Historiador que distinguió Reforma Católica y Contrarreforma" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La obligación de residir",
+      "tiles": ["El", "decreto", "exige", "la", "residencia", "episcopal", "prohíbe", "ignora"],
+      "answer": "El decreto exige la residencia episcopal",
+      "explanation": "Restringió severamente la práctica de la pluralidad de beneficios, fuente notoria de corrupción."
+    },
+    {
+      "type": "quiz",
+      "q": "Según la tesis historiográfica de Hubert Jedin, ¿cómo debe caracterizarse correctamente el Concilio de Trento?",
+      "options": ["Como la síntesis institucional entre los movimientos autónomos de Reforma Católica anteriores a Lutero y los instrumentos específicos de la Contrarreforma", "Como un episodio exclusivamente reactivo y polémico frente al protestantismo, sin aportación renovadora propia", "Como un concilio meramente ceremonial sin efectos disciplinares duraderos en la vida de la Iglesia"],
+      "correct": 0,
+      "hint": "Jedin escribió su ensayo distintivo en 1946.",
+      "explanation": "Trento constituye la síntesis histórica en la que ambas corrientes confluyeron y se reforzaron mutuamente."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ impulsó decididamente la convocatoria del concilio tras ser elegido en 1534.",
+      "options": ["Pablo III", "Julio III", "Pío IV"],
+      "answer": "Pablo III",
+      "explanation": "Sus primeros intentos en Mantua (1537) y Vicenza (1538) fracasaron por falta de garantías de seguridad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La formación clerical",
+      "tiles": ["Los", "seminarios", "forman", "a", "los", "clérigos", "ignoran", "rechazan"],
+      "answer": "Los seminarios forman a los clérigos",
+      "explanation": "El modelo tridentino de seminario diocesano tardó generaciones en implantarse en toda la geografía católica."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué ciudad se abrió solemnemente el Concilio de Trento el 13 de diciembre de 1545?",
+      "options": ["Trento", "Bolonia", "Roma"],
+      "correct": 0,
+      "hint": "Era ciudad episcopal en territorio del Imperio, gobernada por un príncipe-obispo de confianza papal.",
+      "explanation": "Esta elección satisfacía la exigencia alemana de un concilio 'en suelo germánico'."
+    },
+    {
+      "type": "gap",
+      "text": "El emperador ___ promovió los coloquios doctrinales de Worms y Ratisbona (1540-1541).",
+      "options": ["Carlos V", "Francisco I", "Mauricio de Sajonia"],
+      "answer": "Carlos V",
+      "explanation": "Estaba más interesado en la pacificación religiosa del Imperio que en la pureza doctrinal abstracta."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada sesión del concilio con su decreto principal",
+      "pairs": [
+        { "en": "Sesión VI (13-I-1547)", "es": "Decreto sobre la justificación" },
+        { "en": "Sesión VII (marzo de 1547)", "es": "Definió los siete sacramentos" },
+        { "en": "Sesión XIII (octubre de 1551)", "es": "Adoptó el término transubstanciación" },
+        { "en": "Sesión XXIII (1563)", "es": "Decreto Cum adolescentium aetas, creación de seminarios" },
+        { "en": "Sesión XXIV (noviembre de 1563)", "es": "Decreto Tametsi sobre la forma canónica del matrimonio" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La labor diplomática de Borromeo",
+      "tiles": ["Borromeo", "superó", "las", "resistencias", "nacionales", "provocó", "ignoró"],
+      "answer": "Borromeo superó las resistencias nacionales",
+      "explanation": "Su intervención resultó decisiva para superar las reivindicaciones galicanas de la corona francesa."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué término escolástico adoptó Trento en la Sesión XIII (1551) para describir el cambio eucarístico?",
+      "options": ["Transubstanciación", "Consubstanciación", "Memorialismo"],
+      "correct": 0,
+      "hint": "Se conservan los accidentes sensibles de color, sabor y textura.",
+      "explanation": "Esta definición se situaba en las antípodas de la posición zwingliana del memorial puramente simbólico."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ reabrió el concilio en 1562, confiando su dirección a Morone y a su sobrino Carlos Borromeo.",
+      "options": ["Pío IV", "Pablo IV", "Julio III"],
+      "answer": "Pío IV",
+      "explanation": "Su predecesor, Pablo IV, había preferido combatir la heterodoxia mediante la Inquisición y el Índice de Libros Prohibidos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La distinción historiográfica de Jedin",
+      "tiles": ["Jedin", "distinguió", "Reforma", "y", "Contrarreforma", "confundió", "igualó"],
+      "answer": "Jedin distinguió Reforma y Contrarreforma",
+      "explanation": "Sostuvo que Trento constituye la síntesis institucional en la que ambas corrientes confluyeron."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuántos sacramentos definió Trento que había instituido Cristo, frente al reduccionismo protestante?",
+      "options": ["Siete", "Dos", "Cinco"],
+      "correct": 0,
+      "hint": "Lutero conservó plenamente solo el bautismo y la eucaristía.",
+      "explanation": "El concilio afirmó que los otros cinco poseen igualmente una institución divina verificable en la Escritura y la Tradición."
+    },
+    {
+      "type": "gap",
+      "text": "El decreto ___ (Sesión XXIII, 1563) ordenó la creación de seminarios diocesanos.",
+      "options": ["Cum adolescentium aetas", "Tametsi", "Excommunicamus"],
+      "answer": "Cum adolescentium aetas",
+      "explanation": "Ordenó a cada diócesis erigir un seminario bajo la supervisión directa del obispo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La forma canónica del matrimonio",
+      "tiles": ["El", "Tametsi", "exige", "testigos", "del", "matrimonio", "prohíbe", "elimina"],
+      "answer": "El Tametsi exige testigos del matrimonio",
+      "explanation": "Combatía así la extendida práctica de los matrimonios clandestinos que generaban abusos y litigios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué decreto de la Sesión XXIV exigió la presencia del párroco y testigos para la validez del matrimonio?",
+      "options": ["El decreto Tametsi", "El decreto Cum adolescentium aetas", "El decreto Excommunicamus"],
+      "correct": 0,
+      "hint": "Se promulgó en noviembre de 1563.",
+      "explanation": "Reafirmó también la naturaleza sacramental e indisoluble del matrimonio."
+    },
+    {
+      "type": "gap",
+      "text": "El historiador ___ distinguió entre Reforma Católica y Contrarreforma como categorías complementarias.",
+      "options": ["Hubert Jedin", "Jean Delumeau", "Diarmaid MacCulloch"],
+      "answer": "Hubert Jedin",
+      "explanation": "Propuso esta distinción, hoy consenso académico, en un célebre ensayo de 1946."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El cierre del concilio",
+      "tiles": ["El", "concilio", "clausuró", "en", "diciembre", "de", "1563", "abrió", "1545"],
+      "answer": "El concilio clausuró en diciembre de 1563",
+      "explanation": "La sesión de clausura del 4 de diciembre de 1563 puso fin a casi dieciocho años de trabajo discontinuo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué sobrino de Pío IV resultó decisivo para superar las últimas resistencias nacionales y llevar el concilio a su conclusión?",
+      "options": ["Carlos Borromeo", "Giovanni Morone", "Reginald Pole"],
+      "correct": 0,
+      "hint": "Era un joven y reformista cardenal.",
+      "explanation": "Su intervención ayudó a superar especialmente las reivindicaciones galicanas de la corona francesa."
+    },
+    {
+      "type": "gap",
+      "text": "El decreto ___ exigió la presencia del párroco y de testigos para la validez del matrimonio.",
+      "options": ["Tametsi", "Cum adolescentium aetas", "Excommunicamus"],
+      "answer": "Tametsi",
+      "explanation": "Se promulgó en la Sesión XXIV, de noviembre de 1563."
+    }
+  ]
+}

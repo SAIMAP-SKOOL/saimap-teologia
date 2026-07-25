@@ -1,0 +1,243 @@
+{
+  "id": "1.4-mod07",
+  "module": 7,
+  "title": "San Ignacio de Loyola y la Compañía de Jesús",
+  "subtitle": "Los Ejercicios Espirituales, el cuarto voto y el brazo intelectual de la Contrarreforma",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Discernimiento de Espíritus", "es": "Método para distinguir mociones de consolación y desolación en la experiencia espiritual" },
+        { "en": "Formula Instituti", "es": "Documento fundacional presentado a Paulo III en 1539, base de la bula de aprobación de 1540" },
+        { "en": "Cuarto Voto (circa missiones)", "es": "Voto solemne de obediencia al Papa en materia de envío misionero" },
+        { "en": "Ratio Studiorum", "es": "Plan de estudios codificado en 1599 para la red de colegios jesuitas" },
+        { "en": "Examen Particular y General", "es": "Ejercicio breve de revisión de conciencia realizado varias veces al día" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué acontecimiento biográfico dio origen al proceso de conversión de Íñigo de Loyola?",
+      "options": ["La herida de un cañonazo en el sitio de Pamplona (1521) y la convalecencia posterior", "La lectura de los Ejercicios Espirituales de un maestro previo", "La visión mística de La Storta camino de Roma"],
+      "correct": 0,
+      "hint": "Durante la convalecencia solo tuvo acceso a dos libros religiosos.",
+      "explanation": "Le permitió observar por primera vez la diferencia entre consolación y desolación."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el método de examen interior para distinguir mociones de consolación y desolación.",
+      "options": ["Discernimiento de Espíritus", "Examen Particular", "Ratio Studiorum"],
+      "answer": "Discernimiento de Espíritus",
+      "explanation": "Fue sistematizado por Ignacio a partir de su propia experiencia durante la convalecencia en Loyola."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El gesto en Montserrat",
+      "tiles": ["Íñigo", "depositó", "su", "espada", "en", "Montserrat", "recuperó", "vendió"],
+      "answer": "Íñigo depositó su espada en Montserrat",
+      "explanation": "Este gesto evocaba deliberadamente los rituales de investidura caballeresca reconvertidos hacia una nueva milicia espiritual."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué consiste específicamente el cuarto voto propio de los profesos de la Compañía de Jesús?",
+      "options": ["Un voto especial de obediencia al Papa en materia de destino misionero (circa missiones)", "Un voto de silencio perpetuo dentro de las casas de la orden", "Un voto de pobreza mendicante más estricto que el de otras órdenes"],
+      "correct": 0,
+      "hint": "Comprometía a partir sin condiciones hacia cualquier misión que el Papa determinara.",
+      "explanation": "Reforzaba la disponibilidad apostólica de la orden ante la sede romana en el contexto de la fractura religiosa europea."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es el documento fundacional presentado a Paulo III en 1539, base de la bula de aprobación.",
+      "options": ["Formula Instituti", "Ratio Studiorum", "Constituciones"],
+      "answer": "Formula Instituti",
+      "explanation": "Resumía el fin apostólico, los votos y el modo de proceder de la futura orden."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada dimensión con su rasgo en la Compañía de Jesús",
+      "pairs": [
+        { "en": "Gobierno interno", "es": "Superior General vitalicio, fuerte centralización" },
+        { "en": "Gobierno de las órdenes mendicantes", "es": "Ministro/Maestro General con capítulos periódicos" },
+        { "en": "Gobierno de las órdenes monásticas", "es": "Abad local, autonomía de cada monasterio" },
+        { "en": "Voto distintivo", "es": "Cuarto voto de obediencia al Papa circa missiones" },
+        { "en": "Orientación apostólica principal", "es": "Educación, predicación y misión global móvil" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La redacción de los Ejercicios",
+      "tiles": ["Ignacio", "redactó", "los", "Ejercicios", "en", "Manresa", "quemó", "ocultó"],
+      "answer": "Ignacio redactó los Ejercicios en Manresa",
+      "explanation": "Fue en Manresa, junto al río Cardoner, donde experimentó la iluminación que sentó las bases del texto."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué documento pontificio aprobó formalmente la fundación de la Compañía de Jesús en 1540?",
+      "options": ["Regimini militantis Ecclesiae", "Exsurge Domine", "Cum ex apostolatus officio"],
+      "correct": 0,
+      "hint": "Fue promulgada por Paulo III el 27 de septiembre de 1540.",
+      "explanation": "Aprobó la Formula Instituti presentada por Ignacio y sus compañeros, con un límite inicial de sesenta miembros."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ compromete a los profesos a partir a cualquier destino que el Papa determine sin condiciones.",
+      "options": ["Cuarto Voto", "voto de pobreza", "voto de castidad"],
+      "answer": "Cuarto Voto",
+      "explanation": "Este vínculo específico se refiere a la disponibilidad misionera incondicional, no a la sumisión doctrinal general."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Íñigo (Ignacio) de Loyola", "es": "Hidalgo vasco convertido tras la herida de Pamplona en 1521" },
+        { "en": "Francisco Javier", "es": "Compañero navarro, partió a las Indias portuguesas en 1541" },
+        { "en": "Paulo III", "es": "Papa que aprobó la Formula Instituti mediante la bula de 1540" },
+        { "en": "Pedro Canisio", "es": "Jesuita activo en la reevangelización católica de los territorios de lengua alemana" },
+        { "en": "Roberto Belarmino", "es": "Autor de las Controversias que sistematizaron la respuesta doctrinal católica" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El voto de Montmartre",
+      "tiles": ["Los", "compañeros", "juraron", "en", "Montmartre", "rechazaron", "ignoraron"],
+      "answer": "Los compañeros juraron en Montmartre",
+      "explanation": "Pronunciaron votos privados de pobreza y castidad el 15 de agosto de 1534 en la cripta de la capilla."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué instrumento estratégico convirtió a la Compañía de Jesús en un motor intelectual de la Contrarreforma?",
+      "options": ["La red de colegios impulsada tras la experiencia de Mesina (1548) y organizada mediante el Ratio Studiorum (1599)", "La renuncia expresa de sus miembros a cualquier forma de estudio universitario", "La adopción de un hábito monástico distintivo y de la vida coral común"],
+      "correct": 0,
+      "hint": "Mesina abrió su colegio también a alumnos externos.",
+      "explanation": "Esto convirtió a sus colegios en el principal instrumento de formación de las élites católicas."
+    },
+    {
+      "type": "gap",
+      "text": "Íñigo fue herido por una bala de cañón en el sitio de ___ el 20 de mayo de 1521.",
+      "options": ["Pamplona", "Manresa", "Montserrat"],
+      "answer": "Pamplona",
+      "explanation": "Su convalecencia posterior en el castillo familiar de Loyola desencadenó su proceso de conversión."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La aprobación pontificia",
+      "tiles": ["Paulo", "III", "aprobó", "la", "Compañía", "disolvió", "rechazó"],
+      "answer": "Paulo III aprobó la Compañía",
+      "explanation": "Lo hizo mediante la bula Regimini militantis Ecclesiae del 27 de septiembre de 1540."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué santuario benedictino depositó Íñigo su espada y su daga en un gesto de investidura espiritual?",
+      "options": ["Montserrat", "Manresa", "Loyola"],
+      "correct": 0,
+      "hint": "Allí hizo también una confesión general de tres días.",
+      "explanation": "El gesto evocaba los rituales de investidura caballeresca reconvertidos hacia una nueva milicia espiritual."
+    },
+    {
+      "type": "gap",
+      "text": "En 1534, Ignacio y sus compañeros pronunciaron votos privados en la cripta de la capilla de ___ en París.",
+      "options": ["Montmartre", "Manresa", "La Storta"],
+      "answer": "Montmartre",
+      "explanation": "El propósito era peregrinar a Jerusalén o, si esto resultaba imposible, ofrecerse al Papa."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Voto de Montmartre (15-VIII-1534)", "es": "Ignacio y sus compañeros pronunciaron votos privados de pobreza y castidad" },
+        { "en": "Visión de La Storta", "es": "Confirmó la elección del nombre Societas Iesu" },
+        { "en": "Bula Regimini militantis Ecclesiae (1540)", "es": "Aprobó la fundación de la Compañía de Jesús" },
+        { "en": "Fundación del colegio de Mesina (1548)", "es": "Marcó el inicio de la red educativa jesuita" },
+        { "en": "Breve Pastoralis officii (1548)", "es": "Aprobación pontificia de los Ejercicios Espirituales" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El primer Superior General",
+      "tiles": ["Ignacio", "gobernó", "como", "Superior", "General", "rechazó", "evitó"],
+      "answer": "Ignacio gobernó como Superior General",
+      "explanation": "Fue elegido en 1541, tras resistirse por humildad, y ejerció el cargo hasta su muerte en 1556."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué ciudad experimentó Íñigo la iluminación junto al río Cardoner entre 1522 y 1523?",
+      "options": ["Manresa", "Pamplona", "Montserrat"],
+      "correct": 0,
+      "hint": "Allí combinó penitencias corporales con largas horas de oración.",
+      "explanation": "La describiría después como el momento de mayor claridad intelectual y espiritual de toda su vida."
+    },
+    {
+      "type": "gap",
+      "text": "La bula ___ (27 de septiembre de 1540) aprobó la fundación de la Compañía de Jesús.",
+      "options": ["Regimini militantis Ecclesiae", "Pastoralis officii", "Injunctum nobis"],
+      "answer": "Regimini militantis Ecclesiae",
+      "explanation": "El límite inicial de sesenta miembros fue suprimido tres años después por la bula Injunctum nobis."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La partida misionera de Javier",
+      "tiles": ["Javier", "partió", "hacia", "las", "Indias", "permaneció", "regresó"],
+      "answer": "Javier partió hacia las Indias",
+      "explanation": "Lo hizo en 1541 a petición directa del rey Juan III de Portugal, canalizada a través del propio Papa."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién fue elegido primer Superior General de la Compañía de Jesús en 1541?",
+      "options": ["Ignacio de Loyola", "Francisco Javier", "Pedro Fabro"],
+      "correct": 0,
+      "hint": "Redactó después las Constituciones con la colaboración de su secretario Juan Alfonso de Polanco.",
+      "explanation": "Las Constituciones solo recibirían su aprobación definitiva en la primera Congregación General de 1558."
+    },
+    {
+      "type": "gap",
+      "text": "El colegio de ___ (1548) marcó el inicio de la expansión de la red educativa jesuita.",
+      "options": ["Mesina", "Roma", "Salamanca"],
+      "answer": "Mesina",
+      "explanation": "Se abrió, a petición de las autoridades locales, no solo a jesuitas en formación sino también a alumnos externos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El centro de formación romano",
+      "tiles": ["El", "Colegio", "Romano", "formó", "teólogos", "ignoró", "rechazó"],
+      "answer": "El Colegio Romano formó teólogos",
+      "explanation": "Fue fundado en Roma en 1551 y llamado a convertirse en centro de referencia para la formación teológica de la orden."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A qué territorio partió Francisco Javier en 1541 a petición del rey Juan III de Portugal?",
+      "options": ["Las Indias portuguesas (Goa)", "El Japón", "El Nuevo Mundo"],
+      "correct": 0,
+      "hint": "Esta presencia se extendería después a Japón en 1549.",
+      "explanation": "Esta primera oleada misionera asiática confirmó la vocación misionera inscrita en el cuarto voto."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ (1599) codificó el método pedagógico común de los colegios jesuitas.",
+      "options": ["Ratio Studiorum", "Formula Instituti", "Examen Particular"],
+      "answer": "Ratio Studiorum",
+      "explanation": "Organizaba un currículo humanista-clásico seguido de estudios de filosofía y teología."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La respuesta doctrinal de Belarmino",
+      "tiles": ["Belarmino", "escribió", "las", "Controversias", "quemó", "ignoró"],
+      "answer": "Belarmino escribió las Controversias",
+      "explanation": "Sistematizaron la respuesta doctrinal católica frente a las tesis protestantes."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué jesuita sistematizó en sus Controversias la respuesta doctrinal católica frente al protestantismo?",
+      "options": ["Roberto Belarmino", "Pedro Canisio", "Francisco Javier"],
+      "correct": 0,
+      "hint": "Situó a los jesuitas en el centro del combate teológico postridentino.",
+      "explanation": "Su obra acompañó la aplicación de los decretos de Trento en toda la cristiandad católica."
+    },
+    {
+      "type": "gap",
+      "text": "___ fue activo en la reevangelización católica de los territorios de lengua alemana.",
+      "options": ["Pedro Canisio", "Roberto Belarmino", "Francisco Javier"],
+      "answer": "Pedro Canisio",
+      "explanation": "Formaba parte del cuerpo de teólogos, predicadores y controversistas jesuitas de primer orden."
+    }
+  ]
+}

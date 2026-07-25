@@ -1,0 +1,243 @@
+{
+  "id": "1.4-mod08",
+  "module": 8,
+  "title": "La Mística y Reforma Carmelita en España",
+  "subtitle": "Santa Teresa de Jesús y San Juan de la Cruz",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Regla Primitiva", "es": "Norma de vida dada por San Alberto de Jerusalén a los ermitaños del Monte Carmelo (c. 1209)" },
+        { "en": "Recogimiento", "es": "Corriente espiritual española de oración interior sistematizada por Francisco de Osuna" },
+        { "en": "Moradas / Castillo Interior", "es": "Metáfora teresiana del itinerario del alma en siete estancias progresivas" },
+        { "en": "Noche Oscura", "es": "Categoría sanjuanista para la fase purificativa del camino místico" },
+        { "en": "Unión Mística / Matrimonio Espiritual", "es": "Culminación del proceso místico, entendida como don gratuito de Dios" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué año fundó Teresa de Jesús el convento de San José de Ávila, primera casa de la reforma carmelitana descalza?",
+      "options": ["1562", "1540", "1568"],
+      "correct": 0,
+      "hint": "Fue más de un año antes de la clausura de Trento.",
+      "explanation": "Esto confirma la autonomía de iniciativa de la reforma carmelitana respecto al proceso conciliar romano."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la norma de vida dada por San Alberto de Jerusalén a los ermitaños del Monte Carmelo hacia 1209.",
+      "options": ["Regla Primitiva", "Constituciones", "Noche Oscura"],
+      "answer": "Regla Primitiva",
+      "explanation": "Fue suavizada en 1432 por una mitigación pontificia que la reforma teresiana buscó revertir."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La fundación fundacional",
+      "tiles": ["Teresa", "fundó", "San", "José", "de", "Ávila", "abandonó", "cerró"],
+      "answer": "Teresa fundó San José de Ávila",
+      "explanation": "Lo hizo el 24 de agosto de 1562, con el respaldo del obispo de Ávila y un breve pontificio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué representa, en sentido estricto, la metáfora de 'las Moradas' o 'Castillo interior' en la obra de Teresa de Jesús?",
+      "options": ["Un recurso didáctico que ordena en etapas progresivas el itinerario del alma hacia la unión con Dios", "Una descripción literal de la arquitectura de los conventos reformados", "Una alegoría sobre la organización jurisdiccional de la orden del Carmen"],
+      "correct": 0,
+      "hint": "La propia autora explica que la eligió por su capacidad de ordenar una experiencia compleja.",
+      "explanation": "Está dirigida a lectoras sin formación teológica técnica."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es la corriente espiritual española de oración interior sistematizada por Francisco de Osuna.",
+      "options": ["Recogimiento", "alumbradismo", "matrimonio espiritual"],
+      "answer": "Recogimiento",
+      "explanation": "Se distinguía del movimiento de los alumbrados, condenado en el Edicto de Toledo de 1525."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada rama carmelitana con su rasgo distintivo",
+      "pairs": [
+        { "en": "Origen normativo Calzado", "es": "Mitigación pontificia de 1432" },
+        { "en": "Origen normativo Descalzo", "es": "Regla primitiva de 1209, restaurada en 1562" },
+        { "en": "Tamaño comunitario Calzado", "es": "Comunidades numerosas, con frecuencia más de cien religiosas" },
+        { "en": "Tamaño comunitario Descalzo", "es": "Comunidades reducidas, máximo aproximado de veinte religiosas" },
+        { "en": "Estatuto canónico final Descalzo", "es": "Provincia separada (1580) y orden autónoma (1593)" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El sistema del recogimiento",
+      "tiles": ["Osuna", "sistematizó", "el", "recogimiento", "rechazó", "ignoró"],
+      "answer": "Osuna sistematizó el recogimiento",
+      "explanation": "Lo hizo en su Tercer abecedario espiritual (1527), afín pero distinto de la mística teresiana posterior."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál fue la causa inmediata del encarcelamiento de Juan de la Cruz en Toledo en 1577?",
+      "options": ["Un conflicto jurisdiccional con los carmelitas calzados, que lo consideraban desobediente a sus mandatos", "Una condena de la Inquisición por sospecha de alumbradismo", "Una orden directa del rey Felipe II por motivos políticos"],
+      "correct": 0,
+      "hint": "El conflicto se agravó tras la intervención de visitadores apostólicos.",
+      "explanation": "Fue secuestrado y recluido por un grupo de carmelitas calzados en el marco del conflicto de gobierno interno."
+    },
+    {
+      "type": "gap",
+      "text": "Teresa de Jesús fundó el convento de ___ el 24 de agosto de 1562.",
+      "options": ["San José de Ávila", "la Encarnación", "Duruelo"],
+      "answer": "San José de Ávila",
+      "explanation": "Fue la primera casa de la rama de las Carmelitas Descalzas."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Teresa de Cepeda y Ahumada", "es": "Fundó San José de Ávila en 1562, primera casa de la reforma descalza" },
+        { "en": "Juan de Yepes (Juan de la Cruz)", "es": "Cofundador de la rama masculina, encarcelado en Toledo en 1577" },
+        { "en": "Francisco de Osuna", "es": "Sistematizó la corriente del recogimiento en el Tercer abecedario espiritual" },
+        { "en": "Jerónimo Gracián", "es": "Provincial de los descalzos que encargó a Teresa la redacción de Las Moradas" },
+        { "en": "Felipe Sega", "es": "Nuncio pontificio hostil a la reforma descalza" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La actividad fundacional",
+      "tiles": ["Teresa", "fundó", "diecisiete", "conventos", "cerró", "abandonó"],
+      "answer": "Teresa fundó diecisiete conventos",
+      "explanation": "Lo hizo entre 1567 y su muerte en 1582, recorriendo Castilla, Andalucía y el Levante peninsular."
+    },
+    {
+      "type": "quiz",
+      "q": "En la doctrina de San Juan de la Cruz, ¿qué designa técnicamente la expresión 'noche del espíritu'?",
+      "options": ["La purificación de las facultades superiores del alma (memoria, entendimiento, voluntad) mediante las virtudes teologales", "Un episodio de desolación emocional equivalente al concepto moderno de depresión", "La fase inicial de purificación de los apetitos sensibles, previa a cualquier otra etapa"],
+      "correct": 0,
+      "hint": "Es distinta y posterior a la purificación de los sentidos.",
+      "explanation": "Es la fase más radical de purificación interior, mediante la fe, la esperanza y la caridad."
+    },
+    {
+      "type": "gap",
+      "text": "El dominico ___ fue uno de los principales apoyos teológicos de Teresa en el discernimiento de su reforma.",
+      "options": ["Domingo Báñez", "Jerónimo Gracián", "Francisco de Osuna"],
+      "answer": "Domingo Báñez",
+      "explanation": "Acompañó el proceso que llevó a Teresa a concebir el proyecto de una regla más austera."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La adhesión de Juan a la reforma",
+      "tiles": ["Juan", "se", "unió", "a", "la", "reforma", "abandonó", "rechazó"],
+      "answer": "Juan se unió a la reforma",
+      "explanation": "Teresa lo persuadió en 1567 de sumarse a la reforma carmelitana en lugar de pasarse a la Cartuja."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué cardenal impulsó ya antes de Trento la reforma disciplinar de las órdenes religiosas en Castilla?",
+      "options": ["Francisco Jiménez de Cisneros", "Domingo Báñez", "Jerónimo Gracián"],
+      "correct": 0,
+      "hint": "Actuó bajo los Reyes Católicos.",
+      "explanation": "Demuestra que la Península Ibérica fue un laboratorio previo de disciplinamiento eclesiástico anterior a Trento."
+    },
+    {
+      "type": "gap",
+      "text": "En 1577, Teresa redactó Las Moradas por mandato del padre ___, provincial de los descalzos.",
+      "options": ["Jerónimo Gracián", "Domingo Báñez", "Felipe Sega"],
+      "answer": "Jerónimo Gracián",
+      "explanation": "La obra sirvió como manual de formación para las religiosas de los conventos reformados."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Fundación de San José de Ávila (1562)", "es": "Primera casa de las Carmelitas Descalzas" },
+        { "en": "Fundación de Duruelo (noviembre de 1568)", "es": "Primera comunidad masculina de descalzos" },
+        { "en": "Edicto de Toledo (1525)", "es": "Condenó el movimiento de los alumbrados" },
+        { "en": "Cautiverio de Juan de la Cruz (diciembre de 1577)", "es": "Reclusión por carmelitas calzados durante nueve meses" },
+        { "en": "Breve de Gregorio XIII (1580)", "es": "Erigió a los descalzos como provincia separada" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El secuestro de Toledo",
+      "tiles": ["Los", "calzados", "encarcelaron", "a", "Juan", "liberaron", "protegieron"],
+      "answer": "Los calzados encarcelaron a Juan",
+      "explanation": "Lo hicieron alegando desobediencia a mandatos superiores, en diciembre de 1577."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué movimiento espiritual fue condenado en el Edicto de Toledo de 1525 por disolver la mediación eclesial?",
+      "options": ["Los alumbrados", "El recogimiento", "El carmelitismo descalzo"],
+      "correct": 0,
+      "hint": "Pretendía una iluminación directa del alma por Dios.",
+      "explanation": "La mística teresiana y sanjuanista se desarrolló bajo vigilancia inquisitorial precisamente por este precedente."
+    },
+    {
+      "type": "gap",
+      "text": "Juan de la Cruz fue recluido por carmelitas calzados en ___ en diciembre de 1577.",
+      "options": ["Toledo", "Ávila", "Duruelo"],
+      "answer": "Toledo",
+      "explanation": "Su cautiverio se prolongó unos nueve meses en condiciones de reclusión severa."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La fuga del cautiverio",
+      "tiles": ["Juan", "de", "la", "Cruz", "escapó", "de", "Toledo", "permaneció", "murió"],
+      "answer": "Juan de la Cruz escapó de Toledo",
+      "explanation": "Logró huir en agosto de 1578, tras componer allí buena parte de su poesía mística."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué localidad se fundó en 1568 la primera comunidad masculina de descalzos?",
+      "options": ["Duruelo", "Ávila", "Toledo"],
+      "correct": 0,
+      "hint": "Se encuentra en la provincia de Ávila.",
+      "explanation": "Juan de la Cruz fue uno de sus primeros miembros, adoptando entonces su nombre religioso."
+    },
+    {
+      "type": "gap",
+      "text": "El nuncio pontificio ___ dictaminó medidas restrictivas hostiles contra los descalzos.",
+      "options": ["Felipe Sega", "Jerónimo Gracián", "Domingo Báñez"],
+      "answer": "Felipe Sega",
+      "explanation": "Su hostilidad se produjo en el contexto del conflicto entre descalzos y calzados."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La función purificativa de la noche",
+      "tiles": ["La", "noche", "purifica", "el", "alma", "destruye", "ignora"],
+      "answer": "La noche purifica el alma",
+      "explanation": "Designa una fase estructurada de purificación interior dentro del itinerario hacia la unión, no un estado de aflicción sin finalidad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué papa constituyó a los carmelitas descalzos como orden autónoma en 1593?",
+      "options": ["Clemente VIII", "Gregorio XIII", "Paulo III"],
+      "correct": 0,
+      "hint": "Trece años antes, un breve papal ya los había erigido como provincia separada.",
+      "explanation": "Esto culminó institucionalmente el proceso iniciado por Teresa en 1562."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ erigió a los descalzos como provincia separada mediante un breve de 1580.",
+      "options": ["Gregorio XIII", "Clemente VIII", "Paulo III"],
+      "answer": "Gregorio XIII",
+      "explanation": "En 1593, el papa Clemente VIII los constituiría después como orden autónoma."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El éxtasis esculpido",
+      "tiles": ["Bernini", "esculpió", "el", "éxtasis", "de", "Teresa", "pintó", "ignoró"],
+      "answer": "Bernini esculpió el éxtasis de Teresa",
+      "explanation": "Lo hizo entre 1647 y 1652 en la capilla Cornaro de Roma, representando la transverberación narrada en el Libro de la Vida."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué año fue Teresa de Jesús declarada Doctora de la Iglesia, la primera mujer en recibir ese título?",
+      "options": ["1970", "1622", "1926"],
+      "correct": 0,
+      "hint": "Fue canonizada mucho antes, en 1622.",
+      "explanation": "Juan de la Cruz recibió el mismo título en 1926, tras su canonización en 1726."
+    },
+    {
+      "type": "gap",
+      "text": "San Juan de la Cruz murió en ___ en el año 1591.",
+      "options": ["Úbeda", "Alba de Tormes", "Toledo"],
+      "answer": "Úbeda",
+      "explanation": "Teresa de Jesús había muerto nueve años antes, en 1582, en Alba de Tormes."
+    }
+  ]
+}

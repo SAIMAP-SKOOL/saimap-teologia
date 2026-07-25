@@ -60,7 +60,26 @@
         { "n": 12, "title": "La Crisis de la Cristiandad Bajomedieval", "es": "12 · Crisis Bajomedieval", "file": "1.3/mod12.json" }
       ]
     },
-    { "code": "1.4", "name": "Reforma y Contrarreforma",               "color": "#6B3E4A", "locked": true, "moduleCount": 12 },
+    {
+      "code": "1.4",
+      "name": "Reforma y Contrarreforma",
+      "sub": "12/12 temas · Completo",
+      "color": "#6B3E4A",
+      "modules": [
+        { "n": 1,  "title": "La Situación Moral, Fiscal e Institucional de la Iglesia en el Siglo XVI", "es": "1 · Iglesia del Siglo XVI", "file": "1.4/mod01.json" },
+        { "n": 2,  "title": "Martín Lutero, las 95 Tesis y la Ruptura con la Eclesiología Romana", "es": "2 · Lutero y las 95 Tesis", "file": "1.4/mod02.json" },
+        { "n": 3,  "title": "El Calvinismo y las Reformas Suizas", "es": "3 · Calvinismo Suizo", "file": "1.4/mod03.json" },
+        { "n": 4,  "title": "La Reforma en Inglaterra", "es": "4 · Reforma Inglesa", "file": "1.4/mod04.json" },
+        { "n": 5,  "title": "La Reforma Radical: Anabautistas, Menonitas y Antitrinitarios", "es": "5 · Reforma Radical", "file": "1.4/mod05.json" },
+        { "n": 6,  "title": "El Concilio de Trento (1545-1563)", "es": "6 · Concilio de Trento", "file": "1.4/mod06.json" },
+        { "n": 7,  "title": "San Ignacio de Loyola y la Compañía de Jesús", "es": "7 · Ignacio de Loyola", "file": "1.4/mod07.json" },
+        { "n": 8,  "title": "La Mística y Reforma Carmelita en España", "es": "8 · Mística Carmelita", "file": "1.4/mod08.json" },
+        { "n": 9,  "title": "La Expansión de la Fe en el Nuevo Mundo", "es": "9 · Misión en el Nuevo Mundo", "file": "1.4/mod09.json" },
+        { "n": 10, "title": "Las Misiones Jesuitas en Asia", "es": "10 · Misiones en Asia", "file": "1.4/mod10.json" },
+        { "n": 11, "title": "Las Guerras de Religión en Europa y la Paz de Westfalia", "es": "11 · Guerras de Religión", "file": "1.4/mod11.json" },
+        { "n": 12, "title": "Los Conflictos Doctrinales Internos: Jansenismo y Puritanismo", "es": "12 · Jansenismo y Puritanismo", "file": "1.4/mod12.json" }
+      ]
+    },
     { "code": "1.5", "name": "Edad Moderna y Contemporánea",           "color": "#4A6B3E", "locked": true, "moduleCount": 12 }
   ]
 }

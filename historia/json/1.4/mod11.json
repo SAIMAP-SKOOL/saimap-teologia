@@ -1,0 +1,243 @@
+{
+  "id": "1.4-mod11",
+  "module": 11,
+  "title": "Las Guerras de Religión en Europa y la Paz de Westfalia",
+  "subtitle": "De Augsburgo a la Guerra de los Treinta Años (1555-1648)",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Cuius Regio, Eius Religio", "es": "La confesión religiosa de un territorio queda determinada por la fe de su príncipe" },
+        { "en": "Ius Reformandi", "es": "Derecho de los príncipes territoriales a establecer la confesión religiosa de sus dominios" },
+        { "en": "Edicto de Tolerancia", "es": "Acto jurídico que reconoce, de forma limitada, el ejercicio legal de una confesión minoritaria" },
+        { "en": "Soberanía Westfaliana", "es": "Principio por el que cada estado ejerce autoridad exclusiva sobre su territorio sin injerencia externa" },
+        { "en": "Simultaneum", "es": "Fórmula que permitía a dos confesiones compartir el uso de un mismo templo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué principio jurídico estableció la Paz de Augsburgo de 1555 para la pacificación religiosa del Sacro Imperio?",
+      "options": ["El principio cuius regio, eius religio, por el cual el príncipe territorial determina la confesión oficial de su territorio", "La libertad de conciencia individual de todos los súbditos del Imperio", "El reconocimiento legal simultáneo del catolicismo, el luteranismo y el calvinismo"],
+      "correct": 0,
+      "hint": "El derecho de emigración (ius emigrandi) era la única salvaguarda para los disidentes.",
+      "explanation": "Dejaba en manos de cada príncipe la determinación de la confesión oficial de su territorio."
+    },
+    {
+      "type": "gap",
+      "text": "El principio ___ establece que la confesión religiosa de un territorio la determina la fe de su príncipe.",
+      "options": ["cuius regio, eius religio", "ius emigrandi", "simultaneum"],
+      "answer": "cuius regio, eius religio",
+      "explanation": "Fue sintetizado retrospectivamente por el jurista luterano Joachim Stephani en 1590."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La pacificación de Augsburgo",
+      "tiles": ["Augsburgo", "dividió", "el", "imperio", "en", "confesiones", "unificó", "ignoró"],
+      "answer": "Augsburgo dividió el imperio en confesiones",
+      "explanation": "Logró, durante más de sesenta años, evitar una guerra civil generalizada en el corazón del Imperio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el rango de consenso historiográfico actual sobre el número de víctimas de la Matanza de San Bartolomé (1572) en el conjunto del reino de Francia?",
+      "options": ["Entre 5.000 y 30.000 víctimas en el conjunto del reino", "Entre 500 y 1.000 víctimas, limitadas exclusivamente a la ciudad de París", "Más de 500.000 víctimas, equivalentes a la práctica totalidad de la población hugonote francesa"],
+      "correct": 0,
+      "hint": "En París se estiman entre 2.000 y 3.000.",
+      "explanation": "Esta horquilla amplia refleja la fragmentariedad documental y el carácter descentralizado de la violencia en las provincias."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el derecho de los príncipes territoriales a establecer la confesión religiosa practicada en sus dominios.",
+      "options": ["Ius Reformandi", "ius emigrandi", "reservatum ecclesiasticum"],
+      "answer": "Ius Reformandi",
+      "explanation": "Los súbditos disconformes solo contaban con el derecho de emigrar a un territorio de su propia confesión."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada hito con su ámbito y alcance",
+      "pairs": [
+        { "en": "Paz de Augsburgo (1555)", "es": "Sacro Imperio; catolicismo y luteranismo; territorial, excluye al calvinismo" },
+        { "en": "Edicto de Nantes (1598)", "es": "Reino de Francia; catolicismo oficial y calvinismo tolerado" },
+        { "en": "Paz de Westfalia (1648)", "es": "Sacro Imperio y Europa; catolicismo, luteranismo y calvinismo" },
+        { "en": "Confesión excluida en Augsburgo", "es": "El calvinismo, expandido en el Palatinado tras 1555" },
+        { "en": "Alcance final de Westfalia", "es": "Soberanía territorial exclusiva de cada estado" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El asesinato del almirante",
+      "tiles": ["Los", "Guisa", "asesinaron", "a", "Coligny", "protegieron", "coronaron"],
+      "answer": "Los Guisa asesinaron a Coligny",
+      "explanation": "Este asesinato desencadenó la Matanza de San Bartolomé en la noche del 23 al 24 de agosto de 1572."
+    },
+    {
+      "type": "quiz",
+      "q": "Según el historiador Peter Wilson, ¿qué caracteriza la evolución de la Guerra de los Treinta Años (1618-1648) a partir de su fase sueca y francesa?",
+      "options": ["Su transformación de conflicto confesional en un conflicto geopolítico entre potencias, con Francia católica combatiendo contra el Imperio y España católicos", "Su reducción progresiva a un conflicto exclusivamente local entre Bohemia y el Emperador", "La retirada total de todas las potencias protestantes tras la muerte de Gustavo Adolfo"],
+      "correct": 0,
+      "hint": "Francia fue financiada por el cardenal Richelieu, pese a ser católica.",
+      "explanation": "Esto demuestra que la razón de Estado había desplazado a la confesión religiosa como criterio de las alianzas."
+    },
+    {
+      "type": "gap",
+      "text": "El emperador ___ negoció la Paz de Augsburgo tras la abdicación de su hermano Carlos V.",
+      "options": ["Fernando I", "Fernando II", "Carlos IX"],
+      "answer": "Fernando I",
+      "explanation": "Debía poner fin a más de tres décadas de conflicto con la Liga de Esmalcalda."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Fernando I", "es": "Negoció la Paz de Augsburgo tras la abdicación de Carlos V" },
+        { "en": "Catalina de Médici", "es": "Regente francesa durante la minoría de los reyes en las Guerras de Religión" },
+        { "en": "Enrique IV", "es": "Rey convertido al catolicismo en 1593, promulgó el Edicto de Nantes en 1598" },
+        { "en": "Gustavo II Adolfo de Suecia", "es": "Revitalizó la causa protestante, murió en la batalla de Lützen (1632)" },
+        { "en": "Inocencio X", "es": "Papa que protestó contra los tratados de Westfalia mediante el breve Zelo Domus Dei" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La promulgación del edicto de tolerancia",
+      "tiles": ["Enrique", "IV", "promulgó", "el", "Edicto", "de", "Nantes", "revocó", "ignoró"],
+      "answer": "Enrique IV promulgó el Edicto de Nantes",
+      "explanation": "Reconoció al calvinismo un estatuto de tolerancia limitada dentro de un reino oficialmente católico."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué novedad introdujo la Paz de Westfalia (1648) respecto al marco confesional fijado en la Paz de Augsburgo (1555)?",
+      "options": ["Extendió el reconocimiento legal al calvinismo como tercera confesión del Imperio y consagró la soberanía territorial de los estados", "Suprimió el reconocimiento legal del luteranismo en favor del calvinismo", "Restauró la autoridad exclusiva del Papa sobre todos los asuntos religiosos del Imperio"],
+      "correct": 0,
+      "hint": "Sentó las bases del llamado 'orden westfaliano'.",
+      "explanation": "El luteranismo mantuvo su plena vigencia legal; Westfalia añadió el calvinismo sin suprimir las dos confesiones anteriores."
+    },
+    {
+      "type": "gap",
+      "text": "La Matanza de ___ comenzó en la noche del 23 al 24 de agosto de 1572 con el asesinato de Gaspard de Coligny.",
+      "options": ["San Bartolomé", "Vassy", "Praga"],
+      "answer": "San Bartolomé",
+      "explanation": "Se extendió en los días siguientes a una masacre generalizada de la población calvinista de la capital."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La defenestración",
+      "tiles": ["Los", "bohemios", "defenestraron", "a", "los", "gobernadores", "coronaron", "protegieron"],
+      "answer": "Los bohemios defenestraron a los gobernadores",
+      "explanation": "Este acto de mayo de 1618 desencadenó la rebelión de Bohemia contra la casa de Habsburgo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué cláusula de la Paz de Augsburgo prohibía a los príncipes-obispos convertidos al luteranismo conservar sus territorios eclesiásticos?",
+      "options": ["El reservatum ecclesiasticum (reserva eclesiástica)", "El ius emigrandi", "El simultaneum"],
+      "correct": 0,
+      "hint": "Fue impuesta unilateralmente por Fernando I.",
+      "explanation": "Generó una controversia jurídica permanente que resurgió con virulencia en el caso de Colonia (1582-1583)."
+    },
+    {
+      "type": "gap",
+      "text": "___ se convirtió al catolicismo en 1593 y promulgó el Edicto de Nantes en 1598.",
+      "options": ["Enrique IV", "Enrique III", "Carlos IX"],
+      "answer": "Enrique IV",
+      "explanation": "Su conversión pragmática se asocia a la célebre frase 'París bien vale una misa'."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Matanza de San Bartolomé (agosto de 1572)", "es": "Asesinato de Coligny y masacre de la población calvinista" },
+        { "en": "Defenestración de Praga (mayo de 1618)", "es": "Desencadenó la rebelión de Bohemia contra los Habsburgo" },
+        { "en": "Batalla de la Montaña Blanca (1620)", "es": "Derrota protestante que permitió recatolizar Bohemia" },
+        { "en": "Edicto de Restitución (1629)", "es": "Ordenó devolver a la Iglesia católica los territorios seculares desde 1552" },
+        { "en": "Breve Zelo Domus Dei (1648)", "es": "Protesta papal contra los tratados de Westfalia" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El mando imperial",
+      "tiles": ["Wallenstein", "comandó", "las", "fuerzas", "imperiales", "abandonó", "traicionó"],
+      "answer": "Wallenstein comandó las fuerzas imperiales",
+      "explanation": "Su eficacia militar contribuyó a la derrota danesa durante la fase de 1625-1629."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué edicto de 1598 reconoció al calvinismo un estatuto de tolerancia limitada en Francia?",
+      "options": ["El Edicto de Nantes", "El Edicto de Restitución", "El Edicto de Fontainebleau"],
+      "correct": 0,
+      "hint": "Otorgaba también el control militar de plazas fuertes como La Rochelle.",
+      "explanation": "Representó la fórmula de convivencia confesional más avanzada de la Europa de su tiempo."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ (mayo de 1618) desencadenó la rebelión de Bohemia contra la casa de Habsburgo.",
+      "options": ["Defenestración de Praga", "Batalla de la Montaña Blanca", "Paz de Praga"],
+      "answer": "Defenestración de Praga",
+      "explanation": "La nobleza protestante bohemia arrojó por una ventana a dos gobernadores imperiales católicos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La muerte del rey sueco",
+      "tiles": ["Gustavo", "Adolfo", "murió", "en", "Lützen", "vivió", "huyó"],
+      "answer": "Gustavo Adolfo murió en Lützen",
+      "explanation": "Su muerte en 1632 privó a la coalición protestante de su liderazgo militar más eficaz."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué rey revocó el Edicto de Nantes en 1685 mediante el Edicto de Fontainebleau?",
+      "options": ["Luis XIV", "Enrique IV", "Luis XIII"],
+      "correct": 0,
+      "hint": "Esto provocó la emigración forzosa de una parte significativa de la población hugonote.",
+      "explanation": "Ocurrió cuando la monarquía absoluta consideró que ya no necesitaba negociar con una minoría confesional armada."
+    },
+    {
+      "type": "gap",
+      "text": "El rey ___ de Suecia murió en la batalla de Lützen en 1632.",
+      "options": ["Gustavo II Adolfo", "Cristián IV", "Federico V"],
+      "answer": "Gustavo II Adolfo",
+      "explanation": "Su entrada en guerra en 1630 fue financiada por la Francia católica del cardenal Richelieu."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El reconocimiento del calvinismo",
+      "tiles": ["Westfalia", "reconoció", "al", "calvinismo", "rechazó", "ignoró"],
+      "answer": "Westfalia reconoció al calvinismo",
+      "explanation": "Le otorgó el mismo estatuto jurídico que la Paz de Augsburgo había reservado a católicos y luteranos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué general imperial comandó con eficacia las fuerzas de Fernando II durante la fase danesa de la guerra?",
+      "options": ["Albrecht von Wallenstein", "Gustavo II Adolfo", "Cristián IV"],
+      "correct": 0,
+      "hint": "Su eficacia contribuyó a la derrota de Cristián IV de Dinamarca.",
+      "explanation": "Esta derrota condujo a la promulgación del Edicto de Restitución de 1629."
+    },
+    {
+      "type": "gap",
+      "text": "Las negociaciones de paz se desarrollaron simultáneamente en las ciudades de Münster y ___.",
+      "options": ["Osnabrück", "Augsburgo", "Praga"],
+      "answer": "Osnabrück",
+      "explanation": "La separación física respondía a consideraciones protocolarias y confesionales entre delegaciones."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La protesta papal",
+      "tiles": ["Inocencio", "X", "protestó", "contra", "el", "tratado", "aprobó", "celebró"],
+      "answer": "Inocencio X protestó contra el tratado",
+      "explanation": "Su protesta careció de toda eficacia práctica sobre el cumplimiento de los acuerdos por las potencias firmantes."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué año se fijó el 'año normativo' en la Paz de Westfalia para determinar la titularidad religiosa de los bienes eclesiásticos?",
+      "options": ["1624", "1555", "1648"],
+      "correct": 0,
+      "hint": "Era un punto intermedio del conflicto.",
+      "explanation": "Esta solución evitaba la reapertura indefinida de reclamaciones históricas por parte de ambas confesiones."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ protestó contra los tratados de Westfalia mediante el breve Zelo Domus Dei.",
+      "options": ["Inocencio X", "Clemente XI", "Paulo III"],
+      "answer": "Inocencio X",
+      "explanation": "Calificó los tratados de nulos, vanos, inicuos e injustos, sin que ello tuviera efecto práctico."
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "id": "1.4-mod01",
+  "module": 1,
+  "title": "La Situación Moral, Fiscal e Institucional de la Iglesia en el Siglo XVI",
+  "subtitle": "Pluralismo, indulgencias y las reformas internas previas a Lutero",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Pluralismo", "es": "Acumulación simultánea de varios beneficios eclesiásticos incompatibles en una sola persona" },
+        { "en": "Absentismo", "es": "Incumplimiento de la obligación de residencia del titular de un beneficio en su sede" },
+        { "en": "Simonía", "es": "Compraventa de bienes espirituales, cargos eclesiásticos o indulgencias" },
+        { "en": "Indulgencia", "es": "Remisión ante Dios de la pena temporal debida por pecados ya perdonados" },
+        { "en": "Conciliarismo", "es": "Doctrina que sostiene la superioridad jurídica del concilio ecuménico sobre el papa" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se denomina la acumulación simultánea de varios beneficios eclesiásticos incompatibles en una sola persona mediante dispensa papal?",
+      "options": ["Pluralismo", "Absentismo", "Nepotismo"],
+      "correct": 0,
+      "hint": "Se ejemplifica en el caso de Alberto de Brandenburgo.",
+      "explanation": "Práctica extendida en la Curia y el episcopado del Renacimiento, distinta del absentismo o el nepotismo."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es la acumulación simultánea de varios beneficios eclesiásticos incompatibles en una sola persona.",
+      "options": ["Pluralismo", "Absentismo", "Nepotismo"],
+      "answer": "Pluralismo",
+      "explanation": "Un mismo clérigo podía ostentar varias sedes episcopales y abadías sin residir jamás en ninguna de ellas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La acumulación de Alberto",
+      "tiles": ["Alberto", "acumuló", "varios", "obispados", "renunció", "perdió"],
+      "answer": "Alberto acumuló varios obispados",
+      "explanation": "Alberto de Brandenburgo aspiró a la sede de Maguncia pese a no cumplir la edad canónica mínima."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál fue el destino oficial declarado de la indulgencia plenaria renovada por León X en 1515 y predicada por Johann Tetzel en los territorios de Alberto de Brandenburgo?",
+      "options": ["La financiación de la construcción de la nueva basílica de San Pedro en Roma", "La financiación de una cruzada contra el Imperio otomano", "La dotación de la Universidad de Wittenberg"],
+      "correct": 0,
+      "hint": "El proyecto había sido iniciado por Julio II en 1506.",
+      "explanation": "El acuerdo con Alberto de Brandenburgo destinó además la mitad de lo recaudado a amortizar su deuda con la banca Fugger."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el incumplimiento de la obligación de residencia del titular de un beneficio en su sede.",
+      "options": ["Absentismo", "Pluralismo", "Simonía"],
+      "answer": "Absentismo",
+      "explanation": "El titular ausente delegaba el cuidado de las almas en un vicario mal remunerado."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada corriente de reforma interna con su rasgo principal",
+      "pairs": [
+        { "en": "Conciliarismo tardomedieval", "es": "Reclamaba la supremacía jurídica del concilio ecuménico; Decretos de Constanza" },
+        { "en": "Devotio Moderna", "es": "Interiorización afectiva de la fe; Gerardo Groote y Tomás de Kempis" },
+        { "en": "Erasmismo", "es": "Filología bíblica, educación y reforma ética gradual; Erasmo de Rotterdam" },
+        { "en": "Beneficio eclesiástico", "es": "Cargo eclesiástico vinculado a una renta patrimonial, base del sistema beneficial" },
+        { "en": "Imitación de Cristo", "es": "Obra atribuida a Tomás de Kempis, texto espiritual de mayor difusión de la Baja Edad Media" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La predicación de Tetzel",
+      "tiles": ["Tetzel", "predicó", "la", "indulgencia", "papal", "rechazó", "ignoró"],
+      "answer": "Tetzel predicó la indulgencia papal",
+      "explanation": "Su prédica popular insistía en la liberación inmediata de las almas del purgatorio a cambio de la limosna."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué corriente de reforma interna previa a 1517 centró su propuesta en la interiorización afectiva de la fe y la imitación práctica de Cristo, sin cuestionar la autoridad papal?",
+      "options": ["La devotio moderna", "El conciliarismo de Constanza", "El erasmismo filológico"],
+      "correct": 0,
+      "hint": "Surgió en los Países Bajos en torno a Gerardo Groote.",
+      "explanation": "Se transmitió sobre todo mediante la Imitación de Cristo, atribuida tradicionalmente a Tomás de Kempis."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ (Rodrigo Borgia) promovió abiertamente a sus hijos César y Lucrecia dentro de la política dinástica pontificia.",
+      "options": ["Alejandro VI", "Julio II", "León X"],
+      "answer": "Alejandro VI",
+      "explanation": "Su pontificado (1492-1503) es uno de los ejemplos mejor documentados del nepotismo renacentista."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Gerardo Groote", "es": "Fundador de la devotio moderna en los Países Bajos, siglo XIV" },
+        { "en": "Tomás de Kempis", "es": "Autor tradicional de la Imitación de Cristo" },
+        { "en": "Erasmo de Rotterdam", "es": "Autor del Enchiridion, el Elogio de la Locura y el Novum Instrumentum omne" },
+        { "en": "Alberto de Brandenburgo", "es": "Arzobispo endeudado con los Fugger que negoció la indulgencia de 1515" },
+        { "en": "Johann Tetzel", "es": "Fraile dominico que predicó la indulgencia en el territorio de Maguncia" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El préstamo de los Fugger",
+      "tiles": ["Los", "Fugger", "financiaron", "la", "deuda", "perdonaron", "ignoraron"],
+      "answer": "Los Fugger financiaron la deuda",
+      "explanation": "Esta casa bancaria de Augsburgo gestionaba además logísticamente la recaudación de la indulgencia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obra de Erasmo de Rotterdam, publicada en 1516, proporcionó la primera edición impresa crítica del Nuevo Testamento en griego?",
+      "options": ["El Novum Instrumentum omne", "El Elogio de la Locura", "El Enchiridion militis Christiani"],
+      "correct": 0,
+      "hint": "Incluía una nueva traducción latina y anotaciones críticas.",
+      "explanation": "Proporcionó a la generación reformadora un instrumento filológico decisivo para contrastar la Vulgata con el texto griego."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___, conocido como el 'papa guerrero', inició la nueva basílica de San Pedro en 1506.",
+      "options": ["Julio II", "León X", "Clemente VI"],
+      "answer": "Julio II",
+      "explanation": "Combinó la reforma disciplinar con una política de poder temporal en Italia central."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La edición filológica de Erasmo",
+      "tiles": ["Erasmo", "editó", "el", "Nuevo", "Testamento", "griego", "quemó", "prohibió"],
+      "answer": "Erasmo editó el Nuevo Testamento griego",
+      "explanation": "El Novum Instrumentum omne (1516) fue la primera edición impresa de este texto en griego."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué banco alemán financió la deuda de Alberto de Brandenburgo y gestionó la recaudación de la indulgencia de 1515?",
+      "options": ["Los Fugger de Augsburgo", "Los Médici de Florencia", "Los Borgia de Roma"],
+      "correct": 0,
+      "hint": "Sus representantes acompañaban a los predicadores autorizados.",
+      "explanation": "La mitad de lo recaudado se destinó a amortizar la deuda personal de Alberto con esta casa bancaria."
+    },
+    {
+      "type": "gap",
+      "text": "El fraile dominico ___ predicó la indulgencia de 1515 en el territorio de Maguncia.",
+      "options": ["Johann Tetzel", "Erasmo de Rotterdam", "Gerardo Groote"],
+      "answer": "Johann Tetzel",
+      "explanation": "Fue nombrado subcomisionado de la indulgencia y desplegó una prédica popular de fuerte carga emotiva."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ extendió en 1476 la aplicación de la indulgencia a las almas ya fallecidas que se encontraban en el purgatorio.",
+      "options": ["Sixto IV", "Clemente VI", "León X"],
+      "answer": "Sixto IV",
+      "explanation": "Amplió considerablemente el alcance práctico y el atractivo popular de la indulgencia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El origen de la devotio moderna",
+      "tiles": ["Groote", "fundó", "la", "devotio", "moderna", "destruyó", "rechazó"],
+      "answer": "Groote fundó la devotio moderna",
+      "explanation": "Surgió en los Países Bajos en el último tercio del siglo XIV, consolidada en la congregación de Windesheim."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué papa formalizó la doctrina del tesoro de los méritos mediante la bula Unigenitus Dei Filius de 1343?",
+      "options": ["Clemente VI", "Sixto IV", "León X"],
+      "correct": 0,
+      "hint": "Sostenía que los méritos de Cristo y los santos constituían un depósito espiritual aplicable a los fieles.",
+      "explanation": "Sixto IV extendería después esta aplicación a las almas del purgatorio en 1476."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ (1516), pactado entre Francisco I y León X, otorgó a la corona francesa el control de los beneficios eclesiásticos.",
+      "options": ["Concordato de Bolonia", "Novum Instrumentum omne", "Enchiridion"],
+      "answer": "Concordato de Bolonia",
+      "explanation": "Consolidó una tradición galicana de control regio que redujo los incentivos franceses para apoyar cualquier ruptura con Roma."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Decreto Haec Sancta (1415)", "es": "Proclamó la superioridad del concilio sobre el papa" },
+        { "en": "Bula Execrabilis (1460)", "es": "Pío II condenó la apelación de decisiones papales a un concilio futuro" },
+        { "en": "Concordato de Bolonia (1516)", "es": "Otorgó a la corona francesa el control de los beneficios eclesiásticos" },
+        { "en": "Novum Instrumentum omne (1516)", "es": "Primera edición impresa del Nuevo Testamento griego de Erasmo" },
+        { "en": "Fundación de Wittenberg (1502)", "es": "Foco de la nueva teología humanista-filológica" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El inicio de la basílica",
+      "tiles": ["Julio", "II", "inició", "la", "nueva", "basílica", "terminó", "demolió"],
+      "answer": "Julio II inició la nueva basílica",
+      "explanation": "Colocó la primera piedra en 1506 bajo diseño de Donato Bramante, en sustitución de la antigua basílica constantiniana."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obra satírica de Erasmo de Rotterdam de 1509 alcanzó directamente a la mundanización del clero?",
+      "options": ["El Elogio de la Locura", "El Novum Instrumentum omne", "El De libero arbitrio"],
+      "correct": 0,
+      "hint": "Fue ilustrada en sus márgenes por Hans Holbein el Joven.",
+      "explanation": "Su sátira alcanzó a la ignorancia teológica de ciertos predicadores y la ostentación de la jerarquía eclesiástica."
+    },
+    {
+      "type": "gap",
+      "text": "La bula ___ (1460) de Pío II condenó la apelación de las decisiones papales a un concilio futuro.",
+      "options": ["Execrabilis", "Unigenitus Dei Filius", "Haec Sancta"],
+      "answer": "Execrabilis",
+      "explanation": "Cerró por vía jurídica la principal vía institucional de reforma desde dentro que la eclesiología medieval había desarrollado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La reforma del clero hispano",
+      "tiles": ["Cisneros", "reformó", "el", "clero", "español", "ignoró", "corrompió"],
+      "answer": "Cisneros reformó el clero español",
+      "explanation": "Su reforma disciplinar avanzó considerablemente antes de 1517, con el respaldo de los Reyes Católicos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué cardenal impulsó la reforma disciplinar del clero en la Península Ibérica antes de 1517?",
+      "options": ["Francisco Jiménez de Cisneros", "Alberto de Brandenburgo", "Johann Tetzel"],
+      "correct": 0,
+      "hint": "Contó con el respaldo de los Reyes Católicos.",
+      "explanation": "Esto explica en parte la menor permeabilidad inicial de los reinos hispánicos a la propaganda reformista alemana."
+    },
+    {
+      "type": "gap",
+      "text": "___ fue el fundador de la devotio moderna en los Países Bajos en el siglo XIV.",
+      "options": ["Gerardo Groote", "Tomás de Kempis", "Erasmo de Rotterdam"],
+      "answer": "Gerardo Groote",
+      "explanation": "Su movimiento se consolidó institucionalmente en la congregación de Windesheim y los Hermanos de la Vida Común."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La difusión de las tesis",
+      "tiles": ["La", "imprenta", "difundió", "las", "tesis", "ocultó", "quemó"],
+      "answer": "La imprenta difundió las tesis",
+      "explanation": "Las 95 tesis circularon impresas y traducidas al alemán por todo el Imperio en cuestión de semanas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué invento tecnológico permitió que las 95 tesis de Wittenberg circularan por todo el Imperio en cuestión de semanas?",
+      "options": ["La imprenta de tipos móviles", "El correo imperial", "La cartografía renacentista"],
+      "correct": 0,
+      "hint": "Fue desarrollada por Johannes Gutenberg hacia 1450.",
+      "explanation": "Transformó una controversia académica local en un fenómeno de opinión pública transnacional."
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "id": "1.4-mod03",
+  "module": 3,
+  "title": "El Calvinismo y las Reformas Suizas",
+  "subtitle": "Zuinglio en Zúrich, Calvino en Ginebra y la fractura de Marburgo",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Memorialismo", "es": "Doctrina eucarística zwingliana: la Cena es un acto conmemorativo, sin presencia corporal real" },
+        { "en": "Consubstanciación (uso escolar)", "es": "Resumen escolar de la posición luterana: presencia real 'en, con y bajo' el pan y el vino" },
+        { "en": "Consistorio", "es": "Órgano disciplinar ginebrino de pastores y ancianos que supervisaba moral y doctrina" },
+        { "en": "Predestinación Doble", "es": "Dios decreta eternamente tanto la elección como la reprobación, sin depender del mérito" },
+        { "en": "Institución de la Religión Cristiana", "es": "Obra sistemática de Calvino, publicada en 1536 y ampliada hasta 1559" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál fue el resultado doctrinal concreto del Coloquio de Marburgo (1529)?",
+      "options": ["Los reformadores acordaron catorce de los quince artículos, pero no lograron consenso sobre la naturaleza de la presencia de Cristo en la Cena", "Lutero y Zuinglio alcanzaron un acuerdo pleno sobre los quince artículos discutidos, incluida la Eucaristía", "El coloquio consagró la doctrina de la transubstanciación como posición común de todo el protestantismo"],
+      "correct": 0,
+      "hint": "El desacuerdo se centró en el artículo decimoquinto.",
+      "explanation": "Esta fractura certificó la separación entre la tradición luterana y la reformada."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es la doctrina eucarística zwingliana según la cual la Cena del Señor es un acto conmemorativo.",
+      "options": ["Memorialismo", "Consistorio", "Predestinación Doble"],
+      "answer": "Memorialismo",
+      "explanation": "Se apoyaba en la lectura del verbo 'est' como 'significat' en las palabras de la institución."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La predicación continua",
+      "tiles": ["Zuinglio", "predicó", "el", "Evangelio", "de", "Mateo", "ignoró", "prohibió"],
+      "answer": "Zuinglio predicó el Evangelio de Mateo",
+      "explanation": "Lo hizo de forma sistemática desde 1519 en el Grossmünster de Zúrich, mediante el método de lectio continua."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué institución ginebrina, creada por las Ordenanzas Eclesiásticas de 1541, se encargaba de vigilar la moral y la disciplina de los ciudadanos?",
+      "options": ["El Consistorio", "La Inquisición ginebrina", "El Parlamento de Ginebra"],
+      "correct": 0,
+      "hint": "Integraba pastores y ancianos laicos.",
+      "explanation": "Podía excluir de la Cena a los infractores, pero remitía los casos penales al Consejo civil."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ ginebrino, compuesto por pastores y ancianos, supervisaba la moral y la doctrina de los ciudadanos.",
+      "options": ["Consistorio", "Consejo civil", "Sínodo"],
+      "answer": "Consistorio",
+      "explanation": "Se reunía semanalmente para examinar denuncias y amonestar conductas contrarias a la disciplina cristiana."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada tradición con su doctrina eucarística y centro",
+      "pairs": [
+        { "en": "Luteranismo", "es": "Presencia real 'en, con y bajo' el pan y el vino; Wittenberg" },
+        { "en": "Zwinglianismo", "es": "Memorialismo, signo conmemorativo; Zúrich" },
+        { "en": "Calvinismo", "es": "Presencia espiritual mediada por el Espíritu Santo; Ginebra" },
+        { "en": "Rasgo distintivo luterano", "es": "Continuidad litúrgica moderada, gobierno por príncipes territoriales" },
+        { "en": "Rasgo distintivo zwingliano", "es": "Reforma cívica republicana, iconoclasia estricta" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La disputa de Marburgo",
+      "tiles": ["Lutero", "escribió", "hoc", "est", "corpus", "meum", "borró", "negó"],
+      "answer": "Lutero escribió hoc est corpus meum",
+      "explanation": "Lo escribió con tiza sobre la mesa de debate, reivindicando el sentido literal de la fórmula de institución."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe con precisión el consenso historiográfico la doctrina calviniana de la predestinación doble?",
+      "options": ["Un decreto eterno y soberano de Dios que determina tanto la elección como la reprobación, sin depender del mérito humano", "Una elección divina condicionada por la previsión de los méritos futuros de cada persona", "Una doctrina exclusiva sobre la salvación, que Calvino nunca vinculó a la reprobación"],
+      "correct": 0,
+      "hint": "Tenía una intención primordialmente pastoral y doxológica.",
+      "explanation": "Ofrecía al creyente la certeza de que su salvación no dependía de la fragilidad de su propio mérito."
+    },
+    {
+      "type": "gap",
+      "text": "En enero de 1523, Zuinglio defendió sesenta y siete artículos en la ___ de Zúrich.",
+      "options": ["Primera Disputación", "Segunda Disputación", "Dieta"],
+      "answer": "Primera Disputación",
+      "explanation": "El Consejo de la ciudad falló a su favor al no comparecer ningún teólogo capaz de refutarlo bíblicamente."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Ulrico Zuinglio", "es": "Predicador del Grossmünster de Zúrich, defensor del memorialismo eucarístico" },
+        { "en": "Juan Calvino", "es": "Autor de la Institución de la Religión Cristiana, reformador de Ginebra" },
+        { "en": "Guillermo Farel", "es": "Predicador que retuvo a Calvino en Ginebra en 1536" },
+        { "en": "Heinrich Bullinger", "es": "Sucesor de Zuinglio, autor de la Segunda Confesión Helvética" },
+        { "en": "Teodoro de Beza", "es": "Sucesor de Calvino, sistematizó el supralapsarismo en Ginebra" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La muerte del reformador zuriqués",
+      "tiles": ["Zuinglio", "murió", "en", "la", "batalla", "huyó", "de"],
+      "answer": "Zuinglio murió en la batalla",
+      "explanation": "Murió en octubre de 1531 en la batalla de Kappel, acompañando a las tropas como capellán castrense."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué reformador estableció en Zúrich el principio de que solo era lícito en el culto lo que la Escritura ordenaba explícitamente?",
+      "options": ["Ulrico Zuinglio", "Martín Lutero", "Juan Calvino"],
+      "correct": 0,
+      "hint": "Este principio explica la radicalidad iconoclasta de la reforma zuriquesa.",
+      "explanation": "Lutero mantenía el criterio contrario: era lícito todo lo que la Escritura no prohibía expresamente."
+    },
+    {
+      "type": "gap",
+      "text": "Zuinglio murió en octubre de 1531 en la batalla de ___.",
+      "options": ["Kappel", "Marburgo", "Worms"],
+      "answer": "Kappel",
+      "explanation": "Sus tropas zuriquesas fueron derrotadas por una coalición de cantones católicos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La publicación de la Institución",
+      "tiles": ["Calvino", "publicó", "la", "Institución", "quemó", "ocultó"],
+      "answer": "Calvino publicó la Institución",
+      "explanation": "Lo hizo en Basilea en marzo de 1536, con apenas veintiséis años de edad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué iglesia de Zúrich comenzó Zuinglio a predicar de forma continua sobre el Evangelio de Mateo en 1519?",
+      "options": ["El Grossmünster", "La catedral de Saint-Pierre", "La iglesia del Castillo"],
+      "correct": 0,
+      "hint": "Este método se conoce como lectio continua.",
+      "explanation": "Expuso el texto bíblico en su lengua original como única fuente normativa de la fe cristiana."
+    },
+    {
+      "type": "gap",
+      "text": "En el Coloquio de ___ (1529), Lutero escribió con tiza 'hoc est corpus meum' sobre la mesa de debate.",
+      "options": ["Marburgo", "Kappel", "Ginebra"],
+      "answer": "Marburgo",
+      "explanation": "Fue convocado por el landgrave Felipe I de Hesse para lograr una unión política protestante."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Primera Disputación de Zúrich (1523)", "es": "Zuinglio defendió sesenta y siete artículos ante el clero" },
+        { "en": "Batalla de Kappel (octubre de 1531)", "es": "Zuinglio murió en combate como capellán castrense" },
+        { "en": "Coloquio de Marburgo (octubre de 1529)", "es": "Acuerdo en catorce de quince artículos, fractura eucarística" },
+        { "en": "Asunto de los Carteles (octubre de 1534)", "es": "Pasquines contra la misa que agravaron la persecución de protestantes franceses" },
+        { "en": "Proceso de Miguel Servet (1553)", "es": "Ejecutado en Ginebra por negar la doctrina trinitaria" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La presión de Farel",
+      "tiles": ["Farel", "retuvo", "a", "Calvino", "en", "Ginebra", "expulsó", "ignoró"],
+      "answer": "Farel retuvo a Calvino en Ginebra",
+      "explanation": "Lo hizo en el verano de 1536, amenazándole con que Dios maldeciría su reposo académico."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué ciudad nació Juan Calvino en 1509?",
+      "options": ["Noyon", "Ginebra", "Estrasburgo"],
+      "correct": 0,
+      "hint": "Está en la Picardía francesa.",
+      "explanation": "Era hijo de un notario y procurador episcopal que lo orientó primero hacia la carrera eclesiástica y luego hacia el derecho."
+    },
+    {
+      "type": "gap",
+      "text": "Calvino nació en ___, en la Picardía francesa, en 1509.",
+      "options": ["Noyon", "Ginebra", "Estrasburgo"],
+      "answer": "Noyon",
+      "explanation": "Estudió jurisprudencia en Orleans y Bourges antes de su conversión hacia 1533-1534."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La vigilancia disciplinar",
+      "tiles": ["El", "Consistorio", "vigilaba", "la", "moral", "ignoraba", "premiaba"],
+      "answer": "El Consistorio vigilaba la moral",
+      "explanation": "Su instrumento sancionador principal era la exclusión temporal de la mesa de la Cena del Señor."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obra publicó Calvino en 1536, con apenas veintiséis años, dirigida al rey Francisco I?",
+      "options": ["La Institución de la Religión Cristiana", "La Confesión de fe galicana", "Las Ordenanzas Eclesiásticas"],
+      "correct": 0,
+      "hint": "Se publicó en Basilea, tras su exilio de Francia.",
+      "explanation": "Su epístola dedicatoria defendía ante el rey la ortodoxia bíblica de los protestantes franceses perseguidos."
+    },
+    {
+      "type": "gap",
+      "text": "El predicador ___ retuvo a Calvino en Ginebra en el verano de 1536, amenazándole con la maldición divina.",
+      "options": ["Guillermo Farel", "Heinrich Bullinger", "Teodoro de Beza"],
+      "answer": "Guillermo Farel",
+      "explanation": "Ginebra había expulsado apenas unos meses antes a su obispo católico y adherido a la Reforma."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La ejecución de Servet",
+      "tiles": ["Servet", "fue", "quemado", "en", "Ginebra", "coronado", "liberado"],
+      "answer": "Servet fue quemado en Ginebra",
+      "explanation": "Fue ejecutado el 27 de octubre de 1553 por negar la doctrina trinitaria clásica."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué reformador escocés fundó en 1560 la Iglesia reformada de gobierno presbiteriano tras formarse en Ginebra?",
+      "options": ["John Knox", "Heinrich Bullinger", "Teodoro de Beza"],
+      "correct": 0,
+      "hint": "Llamó a Ginebra 'la escuela más perfecta de Cristo'.",
+      "explanation": "Su obra quedó plasmada en la Confesión Escocesa de ese mismo año."
+    },
+    {
+      "type": "gap",
+      "text": "El médico y teólogo aragonés ___ fue quemado vivo en Ginebra en 1553 por negar la Trinidad.",
+      "options": ["Miguel Servet", "Nicolás Cop", "Antoine Marcourt"],
+      "answer": "Miguel Servet",
+      "explanation": "El proceso fue instruido y sentenciado por el Consejo civil de Ginebra, no por Calvino ni por el Consistorio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La Iglesia presbiteriana escocesa",
+      "tiles": ["Knox", "fundó", "la", "Iglesia", "presbiteriana", "disolvió", "rechazó"],
+      "answer": "Knox fundó la Iglesia presbiteriana",
+      "explanation": "Se gobernaba por asambleas de pastores y ancianos, sin jerarquía episcopal."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo murió Ulrico Zuinglio en octubre de 1531?",
+      "options": ["En combate, en la batalla de Kappel", "Ejecutado por herejía en Ginebra", "De enfermedad en Zúrich"],
+      "correct": 0,
+      "hint": "Su cadáver fue posteriormente descuartizado y quemado por los vencedores.",
+      "explanation": "Acompañaba a las tropas zuriquesas en su función de capellán castrense."
+    },
+    {
+      "type": "gap",
+      "text": "___ sistematizó el supralapsarismo en Ginebra tras la muerte de Calvino y rigió la Academia de Ginebra.",
+      "options": ["Teodoro de Beza", "Heinrich Bullinger", "John Knox"],
+      "answer": "Teodoro de Beza",
+      "explanation": "Contribuyó a fijar la ortodoxia reformada codificada después en el Sínodo de Dort (1618-1619)."
+    }
+  ]
+}

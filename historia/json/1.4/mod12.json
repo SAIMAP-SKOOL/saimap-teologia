@@ -1,0 +1,243 @@
+{
+  "id": "1.4-mod12",
+  "module": 12,
+  "title": "Los Conflictos Doctrinales Internos: Jansenismo y Puritanismo",
+  "subtitle": "La fragmentación continua del catolicismo postridentino y el protestantismo reformado",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Gracia Eficaz por sí Misma", "es": "Postura de Jansenio: la gracia produce infaliblemente el efecto salvífico en el elegido" },
+        { "en": "Gracia Suficiente y Ciencia Media", "es": "Categorías del molinismo jesuita sobre la libre cooperación humana con la gracia" },
+        { "en": "Formulario", "es": "Documento de adhesión que condenaba las Cinco Proposiciones atribuidas a Jansenio" },
+        { "en": "Puritanismo", "es": "Corriente calvinista que consideraba incompleta la reforma isabelina de la Iglesia de Inglaterra" },
+        { "en": "Casuística y Probabilismo", "es": "Método de teología moral jesuita, blanco satírico de las Provinciales de Pascal" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el postulado doctrinal central del jansenismo formulado en el Augustinus (1640)?",
+      "options": ["La gracia eficaz por sí misma, que vence infaliblemente a la concupiscencia en el elegido sin depender del consentimiento previo de la voluntad", "La gracia suficiente ofrecida a todos los hombres, cuya eficacia depende del libre consentimiento humano", "La negación absoluta de la necesidad de la gracia para la salvación humana"],
+      "correct": 0,
+      "hint": "Se relaciona con la 'delectación victoriosa'.",
+      "explanation": "Jansenio radicalizó la lectura agustiniana de la gracia hasta un extremo muy estricto."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la postura agustiniana de Jansenio según la cual la gracia produce infaliblemente el efecto salvífico.",
+      "options": ["Gracia Eficaz por sí Misma", "Gracia Suficiente", "Casuística"],
+      "answer": "Gracia Eficaz por sí Misma",
+      "explanation": "Para sus adversarios jesuitas, resultaba indistinguible en la práctica del determinismo calvinista."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La postura jansenista",
+      "tiles": ["Jansenio", "defendió", "la", "gracia", "eficaz", "rechazó", "negó"],
+      "answer": "Jansenio defendió la gracia eficaz",
+      "explanation": "Lo hizo en su obra Augustinus, publicada póstumamente en 1640."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué distinción articularon Antoine Arnauld y los defensores de Port-Royal para resistir la condena romana sin romper con la Iglesia?",
+      "options": ["La distinción entre la 'cuestión de derecho' (la herejía de las proposiciones) y la 'cuestión de hecho' (si Jansenio las sostuvo realmente)", "La distinción entre la autoridad del papa y la autoridad del concilio ecuménico", "La distinción entre la gracia actual y la gracia habitual"],
+      "correct": 0,
+      "hint": "Aceptaban la herejía en abstracto pero negaban su autoría real.",
+      "explanation": "Esta estrategia de obediencia formal exasperó tanto a Roma como a la monarquía francesa."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ y la ciencia media son categorías centrales del molinismo jesuita sobre la libre cooperación humana.",
+      "options": ["Gracia Suficiente", "Gracia Eficaz", "Formulario"],
+      "answer": "Gracia Suficiente",
+      "explanation": "Dios ofrece a todos una gracia realmente capaz de salvar, cuya eficacia depende del libre consentimiento humano."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada corriente con su concepto nuclear",
+      "pairs": [
+        { "en": "Jansenismo (Port-Royal)", "es": "Gracia eficaz por sí misma; rigorismo agustiniano; obediencia formal a Roma" },
+        { "en": "Molinismo Jesuita", "es": "Gracia suficiente, ciencia media y libre cooperación humana" },
+        { "en": "Puritanismo", "es": "Predestinación calvinista y reforma 'completa' según el modelo ginebrino" },
+        { "en": "Desenlace del jansenismo", "es": "Condena papal (Cum Occasione, 1653; Unigenitus, 1713) y destrucción de Port-Royal" },
+        { "en": "Desenlace del puritanismo", "es": "Guerra Civil inglesa, Commonwealth y Restauración anglicana" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La doctrina molinista",
+      "tiles": ["Molina", "defendió", "la", "ciencia", "media", "rechazó", "ignoró"],
+      "answer": "Molina defendió la ciencia media",
+      "explanation": "La expuso en su Concordia liberi arbitrii cum gratiae donis (1588)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué reclamaban específicamente los puritanos ingleses respecto al Acuerdo Isabelino de 1559?",
+      "options": ["La eliminación de los restos ceremoniales y jerárquicos de origen católico para completar la reforma según el modelo reformado continental", "La ruptura total e inmediata con la Corona inglesa y la instauración de una república", "La restauración de la autoridad papal sobre la Iglesia de Inglaterra"],
+      "correct": 0,
+      "hint": "Consideraban que conservaba demasiados 'restos papistas'.",
+      "explanation": "Reclamaban una purificación adicional inspirada en Ginebra y en las iglesias reformadas continentales."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ era el documento de adhesión doctrinal que debía firmar el clero condenando las Cinco Proposiciones de Jansenio.",
+      "options": ["Formulario", "Augustinus", "Formulaire de Westminster"],
+      "answer": "Formulario",
+      "explanation": "Su exigencia generó un conflicto que se prolongó durante décadas."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Cornelio Jansenio", "es": "Obispo de Ypres, autor del Augustinus (1640)" },
+        { "en": "Luis de Molina", "es": "Teólogo jesuita, autor de la Concordia liberi arbitrii cum gratiae donis" },
+        { "en": "Antoine Arnauld", "es": "Teólogo de Port-Royal, articuló la distinción entre cuestión de derecho y de hecho" },
+        { "en": "Blaise Pascal", "es": "Autor de las Cartas provinciales contra la casuística jesuita" },
+        { "en": "Thomas Cartwright", "es": "Teólogo de Cambridge que propuso el gobierno presbiteriano en Inglaterra" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La sátira de Pascal",
+      "tiles": ["Pascal", "satirizó", "a", "los", "jesuitas", "defendió", "elogió"],
+      "answer": "Pascal satirizó a los jesuitas",
+      "explanation": "Lo hizo en sus Cartas provinciales (1656-1657), dañando gravemente el prestigio público de la Compañía."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué muestra, en conjunto, el estudio comparado del jansenismo y el puritanismo como cierre de este volumen?",
+      "options": ["Que tanto el catolicismo postridentino como el protestantismo reformado experimentaron procesos de fragmentación doctrinal interna no resueltos, proyectados después a escala misionera global", "Que la fractura de 1517 se resolvió en dos bloques confesionales estables y sin tensiones internas tras Trento", "Que el jansenismo y el puritanismo fueron movimientos idénticos en su doctrina y en sus consecuencias políticas"],
+      "correct": 0,
+      "hint": "Ninguno de los dos bloques alcanzó una paz doctrinal interna estable.",
+      "explanation": "Esta fragmentación se proyectó sobre América y Asia a través de la expansión misionera coetánea."
+    },
+    {
+      "type": "gap",
+      "text": "El obispo de Ypres ___ redactó el Augustinus, publicado póstumamente en 1640.",
+      "options": ["Cornelio Jansenio", "Antoine Arnauld", "Luis de Molina"],
+      "answer": "Cornelio Jansenio",
+      "explanation": "Era teólogo formado en Lovaina y amigo cercano del abad de Saint-Cyran."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La condena romana",
+      "tiles": ["Inocencio", "X", "condenó", "las", "proposiciones", "aprobó", "defendió"],
+      "answer": "Inocencio X condenó las proposiciones",
+      "explanation": "Lo hizo mediante la bula Cum Occasione de 1653."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué teólogo jesuita español desarrolló la doctrina de la ciencia media en su Concordia de 1588?",
+      "options": ["Luis de Molina", "Domingo Báñez", "Cornelio Jansenio"],
+      "correct": 0,
+      "hint": "Su doctrina se enfrentó a la de los dominicos en la controversia De Auxiliis.",
+      "explanation": "Sostenía que Dios conoce de antemano lo que cada persona haría libremente en cualquier circunstancia hipotética."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ condenó las Cinco Proposiciones de Jansenio en la bula Cum Occasione de 1653.",
+      "options": ["Inocencio X", "Alejandro VII", "Clemente XI"],
+      "answer": "Inocencio X",
+      "explanation": "El papa Alejandro VII iría más allá en 1656 con la bula Ad Sacram."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Controversia De Auxiliis (1582-1607)", "es": "Enfrentó a dominicos y jesuitas sobre la gracia" },
+        { "en": "Bula Cum Occasione (1653)", "es": "Inocencio X condenó las Cinco Proposiciones de Jansenio" },
+        { "en": "Bula Unigenitus Dei Filius (1713)", "es": "Clemente XI condenó las Réflexions morales de Quesnel" },
+        { "en": "Conferencia de Hampton Court (1604)", "es": "Encargó la traducción de la King James Bible" },
+        { "en": "Guerras de los Obispos (1639-1640)", "es": "Detonante de la crisis que llevó a la Guerra Civil inglesa" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La destrucción de Port-Royal",
+      "tiles": ["Luis", "XIV", "arrasó", "Port-Royal", "protegió", "fundó"],
+      "answer": "Luis XIV arrasó Port-Royal",
+      "explanation": "La abadía fue clausurada y sus religiosas dispersadas entre 1709 y 1712."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué abadesa reformó desde 1609 la disciplina monástica de Port-Royal?",
+      "options": ["Angélique Arnauld", "Catalina de Médici", "Isabel I"],
+      "correct": 0,
+      "hint": "Era hermana del teólogo Antoine Arnauld.",
+      "explanation": "Impuso una disciplina de extremo rigor tras un proceso personal de conversión."
+    },
+    {
+      "type": "gap",
+      "text": "El teólogo ___ defendió la premoción física divina frente al molinismo en la controversia De Auxiliis.",
+      "options": ["Domingo Báñez", "Luis de Molina", "Cornelio Jansenio"],
+      "answer": "Domingo Báñez",
+      "explanation": "El papa Paulo V optó en 1607 por suspender todo juicio definitivo entre ambas escuelas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El rechazo de las vestiduras",
+      "tiles": ["Los", "puritanos", "rechazaron", "el", "sobrepelliz", "aceptaron", "defendieron"],
+      "answer": "Los puritanos rechazaron el sobrepelliz",
+      "explanation": "Lo consideraban un vestigio idólatra del sacerdocio católico, en la controversia de las vestiduras de la década de 1560."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué rey inglés resumió su rechazo al presbiterianismo con la fórmula 'no bishop, no king'?",
+      "options": ["Jacobo I", "Carlos I", "Enrique VIII"],
+      "correct": 0,
+      "hint": "Encargó también la King James Bible en la Conferencia de Hampton Court.",
+      "explanation": "Revela cómo la jerarquía episcopal se percibía como sostén eclesiástico de la monarquía absoluta."
+    },
+    {
+      "type": "gap",
+      "text": "___ fue el arzobispo de Canterbury que impulsó una política litúrgica ceremonialista bajo Carlos I.",
+      "options": ["William Laud", "Thomas Cartwright", "Jacobo I"],
+      "answer": "William Laud",
+      "explanation": "Su imposición de un nuevo libro de oración sobre Escocia desencadenó las Guerras de los Obispos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El liderazgo militar de Cromwell",
+      "tiles": ["Cromwell", "lideró", "el", "Nuevo", "Ejército", "abandonó", "disolvió"],
+      "answer": "Cromwell lideró el Nuevo Ejército",
+      "explanation": "Sus simpatías religiosas se inclinaban hacia el independentismo congregacionalista."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obra de Blaise Pascal denunció la casuística jesuita como laxismo moral disfrazado?",
+      "options": ["Las Cartas provinciales", "El Augustinus", "La Confesión de Fe de Westminster"],
+      "correct": 0,
+      "hint": "Constaba de dieciocho cartas de prosa satírica.",
+      "explanation": "Alcanzaron una difusión inmensa y dañaron gravemente el prestigio público de la Compañía de Jesús."
+    },
+    {
+      "type": "gap",
+      "text": "La Asamblea de ___ (1643) produjo la Confesión de Fe de 1646, documento clave del calvinismo reformado inglés.",
+      "options": ["Westminster", "Hampton Court", "Trento"],
+      "answer": "Westminster",
+      "explanation": "Fue convocada por el Parlamento para remodelar la Iglesia inglesa según un patrón presbiteriano."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La ejecución del rey",
+      "tiles": ["El", "Parlamento", "ejecutó", "a", "Carlos", "I", "coronó", "protegió"],
+      "answer": "El Parlamento ejecutó a Carlos I",
+      "explanation": "Ocurrió en 1649, marcando el inicio de la Commonwealth y después el Protectorado de Cromwell."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién lideró el Nuevo Ejército Modelo parlamentario y asumió el Protectorado en 1653?",
+      "options": ["Oliver Cromwell", "Thomas Cartwright", "William Laud"],
+      "correct": 0,
+      "hint": "Sus simpatías religiosas eran congregacionalistas.",
+      "explanation": "Marcó el punto culminante, aunque efímero, de la influencia puritana en el gobierno de Inglaterra."
+    },
+    {
+      "type": "gap",
+      "text": "Port-Royal des Champs fue clausurada y arrasada entre 1709 y ___ por orden de Luis XIV.",
+      "options": ["1712", "1685", "1648"],
+      "answer": "1712",
+      "explanation": "Este final ilustra hasta qué punto una controversia sobre la gracia divina podía desembocar en destrucción física por decisión del poder civil."
+    }
+  ]
+}

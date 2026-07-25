@@ -1,0 +1,243 @@
+{
+  "id": "1.4-mod04",
+  "module": 4,
+  "title": "La Reforma en Inglaterra",
+  "subtitle": "Enrique VIII, el Acta de Supremacía y la Vía Media isabelina",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Asunto Real", "es": "Proceso por el que Enrique VIII buscó anular su matrimonio con Catalina de Aragón" },
+        { "en": "Acta de Supremacía", "es": "Norma de 1534 que reconoció al monarca inglés como cabeza suprema de la Iglesia" },
+        { "en": "Disolución de los Monasterios", "es": "Proceso de supresión y confiscación del patrimonio de las casas religiosas (1536-1541)" },
+        { "en": "Vía Media", "es": "Categoría que caracteriza el asentamiento isabelino como posición intermedia entre Roma y la Reforma" },
+        { "en": "Recusancia", "es": "Negativa a asistir al culto de la Iglesia establecida tras el Acta de Uniformidad de 1559" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál fue el factor geopolítico decisivo que impidió a Clemente VII conceder la anulación matrimonial solicitada por Enrique VIII?",
+      "options": ["El Saco de Roma de 1527 y la dependencia política del papa respecto de Carlos V, sobrino de Catalina de Aragón", "La oposición doctrinal de Martín Lutero a la institución del matrimonio real", "La negativa previa del Concilio de Letrán a autorizar dispensas matrimoniales"],
+      "correct": 0,
+      "hint": "Carlos V era sobrino de Catalina de Aragón.",
+      "explanation": "Conceder la anulación habría supuesto un desaire directo al emperador que controlaba militarmente Italia."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es la denominación historiográfica del proceso por el que Enrique VIII buscó anular su matrimonio con Catalina de Aragón.",
+      "options": ["Asunto Real", "Acta de Supremacía", "Vía Media"],
+      "answer": "Asunto Real",
+      "explanation": "Se desarrolló entre 1527 y 1533, articulado como un problema de conciencia teológica sobre el Levítico y el Deuteronomio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La demanda de anulación",
+      "tiles": ["Enrique", "buscó", "anular", "su", "matrimonio", "confirmó", "celebró"],
+      "answer": "Enrique buscó anular su matrimonio",
+      "explanation": "Interpretó la falta de un heredero varón como el cumplimiento de la maldición levítica."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué caracterizaba jurídica y doctrinalmente al Acta de Supremacía de 1534?",
+      "options": ["Transfería la jurisdicción de gobierno eclesiástico de Roma al monarca, sin alterar de forma inmediata la doctrina sacramental", "Establecía la doctrina de la justificación por la fe como dogma oficial del reino", "Suprimía la misa en latín y la sustituía por una liturgia vernácula reformada"],
+      "correct": 0,
+      "hint": "Enrique VIII mantuvo una ortodoxia sacramental sustancialmente católica hasta su muerte.",
+      "explanation": "Esto se reafirmó en la Ley de los Seis Artículos de 1539."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ (1534) reconoció al monarca inglés como cabeza suprema de la Iglesia de Inglaterra.",
+      "options": ["Acta de Supremacía", "Disolución de los Monasterios", "Recusancia"],
+      "answer": "Acta de Supremacía",
+      "explanation": "Sustituyó de forma explícita la jurisdicción del obispo de Roma sobre la Iglesia local."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada reinado con su postura doctrinal",
+      "pairs": [
+        { "en": "Enrique VIII (1509-1547)", "es": "Ortodoxia sacramental católica sin autoridad papal; ruptura jurisdiccional" },
+        { "en": "Eduardo VI (1547-1553)", "es": "Protestantismo reformado; ruptura doctrinal plena" },
+        { "en": "María I (1553-1558)", "es": "Catolicismo romano restaurado; reconciliación con Roma (1554)" },
+        { "en": "Isabel I (1558-1603)", "es": "Síntesis reformada con forma episcopal; Acuerdo Isabelino (1559)" },
+        { "en": "Consecuencia del reinado eduardiano", "es": "Iconoclasia y supresión de las cofradías" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La declaración de nulidad",
+      "tiles": ["Cranmer", "declaró", "nulo", "el", "matrimonio", "válido", "celebró"],
+      "answer": "Cranmer declaró nulo el matrimonio",
+      "explanation": "Lo hizo en mayo de 1533, amparado en el Acta en Restricción de Apelaciones."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué revisión historiográfica reciente matiza la imagen tradicional del reinado de María I como mero episodio de fanatismo reaccionario?",
+      "options": ["La revisión de historiadores como Eamon Duffy, que presenta la Contrarreforma mariana como un proyecto religioso activo y organizado", "La tesis de Joseph Lortz sobre las causas internas de la ruptura luterana", "La reinterpretación de John Foxe, que amplificó el número de ejecuciones marianas con fines devocionales"],
+      "correct": 0,
+      "hint": "El proyecto quedó truncado por su muerte prematura sin descendencia.",
+      "explanation": "Foxe es precisamente la fuente confesional cuyas cifras deben leerse con cautela crítica, no el historiador que las revisa."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ concedió la dispensa que permitió el matrimonio de Enrique VIII con Catalina de Aragón.",
+      "options": ["Julio II", "Clemente VII", "León X"],
+      "answer": "Julio II",
+      "explanation": "La dispensa presuponía la no consumación del matrimonio previo de Catalina con Arturo Tudor."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Thomas Cranmer", "es": "Arzobispo de Canterbury, autor del Libro de Oración Común" },
+        { "en": "Thomas Cromwell", "es": "Jurista que articuló la vía jurídica de independencia de Roma" },
+        { "en": "Ana Bolena", "es": "Segunda esposa de Enrique VIII, madre de Isabel I" },
+        { "en": "Tomás Moro", "es": "Excanciller ejecutado en 1535 por negarse a jurar el Acta de Supremacía" },
+        { "en": "Reginald Pole", "es": "Cardenal legado que selló la reconciliación con Roma bajo María I" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La objeción de conciencia",
+      "tiles": ["Moro", "se", "negó", "a", "jurar", "aceptó", "firmó"],
+      "answer": "Moro se negó a jurar",
+      "explanation": "Tomás Moro y el obispo John Fisher fueron ejecutados en el verano de 1535 por esta negativa."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué sustituyó el Acuerdo Isabelino de 1559 el título de 'Cabeza Suprema' por el de 'Gobernadora Suprema' de la Iglesia de Inglaterra?",
+      "options": ["Porque el término 'cabeza' remitía a una prerrogativa cristológica reservada a Cristo, resultando doctrinalmente incómodo aplicado a una monarca mujer", "Porque Isabel I rechazaba personalmente cualquier autoridad sobre la Iglesia", "Porque el Parlamento isabelino buscaba una plena reconciliación con la autoridad papal"],
+      "correct": 0,
+      "hint": "El término remite a Efesios 5:23.",
+      "explanation": "El vocablo 'gobernadora', de alcance jurisdiccional, facilitó la aceptación por sensibilidades católicas y protestantes moderadas."
+    },
+    {
+      "type": "gap",
+      "text": "El Saco de ___ (1527) dejó al papa Clemente VII bajo la dependencia política de Carlos V.",
+      "options": ["Roma", "Aviñón", "Londres"],
+      "answer": "Roma",
+      "explanation": "Fue perpetrado por las tropas del emperador, sobrino de Catalina de Aragón."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La supresión monástica",
+      "tiles": ["Cromwell", "disolvió", "los", "monasterios", "fundó", "protegió"],
+      "answer": "Cromwell disolvió los monasterios",
+      "explanation": "Este proceso, ejecutado entre 1536 y 1541, transfirió el patrimonio monástico a la Corona."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién había sido el primer esposo de Catalina de Aragón, fallecido en 1502?",
+      "options": ["Arturo Tudor", "Enrique VIII", "Felipe II de España"],
+      "correct": 0,
+      "hint": "Era el hermano mayor de Enrique VIII, heredero al trono.",
+      "explanation": "Su muerte prematura permitió el segundo matrimonio de Catalina con Enrique en 1509."
+    },
+    {
+      "type": "gap",
+      "text": "El excanciller ___ fue ejecutado en 1535 por negarse a jurar el Acta de Supremacía.",
+      "options": ["Tomás Moro", "Thomas Cromwell", "Thomas Cranmer"],
+      "answer": "Tomás Moro",
+      "explanation": "Junto al obispo John Fisher, se negó por motivos de conciencia, siendo ambos ejecutados."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Saco de Roma (1527)", "es": "Dejó al papa bajo la dependencia política de Carlos V" },
+        { "en": "Acta de Supremacía (noviembre de 1534)", "es": "Reconoció al rey como cabeza suprema de la Iglesia de Inglaterra" },
+        { "en": "Peregrinación de Gracia (1536)", "es": "Revuelta popular en el norte de Inglaterra en defensa de los monasterios" },
+        { "en": "Bula Regnans in Excelsis (1570)", "es": "Pío V excomulgó a Isabel I y liberó a sus súbditos de obediencia" },
+        { "en": "Acuerdo Isabelino (1559)", "es": "Estableció a la reina como Gobernadora Suprema de la Iglesia" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El Libro de Oración Común",
+      "tiles": ["Cranmer", "publicó", "el", "Libro", "de", "Oración", "quemó", "ocultó"],
+      "answer": "Cranmer publicó el Libro de Oración",
+      "explanation": "Lo hizo en 1549, sustituyendo la misa latina por una liturgia íntegramente vernácula."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obra de Thomas Cranmer sustituyó la misa latina por una liturgia en lengua vernácula en 1549?",
+      "options": ["El Libro de Oración Común", "Los Treinta y Nueve Artículos", "El Acta de Uniformidad"],
+      "correct": 0,
+      "hint": "Fue revisado en una versión más reformada en 1552.",
+      "explanation": "Reformuló el lenguaje eucarístico alejándose deliberadamente de la transubstanciación."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ de 1536 fue una revuelta popular en el norte de Inglaterra en defensa de los monasterios.",
+      "options": ["Peregrinación de Gracia", "Disolución de los Monasterios", "Recusancia"],
+      "answer": "Peregrinación de Gracia",
+      "explanation": "Combinaba agravios religiosos con quejas económicas y fiscales antes de ser sofocada con dureza."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La restauración católica",
+      "tiles": ["María", "restauró", "la", "obediencia", "romana", "rechazó", "rompió"],
+      "answer": "María restauró la obediencia romana",
+      "explanation": "La reconciliación formal con Roma se selló en 1554 bajo la mediación del cardenal Reginald Pole."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quiénes fueron ejecutados en 1535 por negarse a jurar el Acta de Supremacía?",
+      "options": ["Tomás Moro y John Fisher", "Thomas Cranmer y Thomas Cromwell", "Hugh Latimer y Nicholas Ridley"],
+      "correct": 0,
+      "hint": "Uno era excanciller y el otro obispo de Rochester.",
+      "explanation": "La historiografía actual los presenta como una genuina objeción de conciencia, no como simples disidentes políticos."
+    },
+    {
+      "type": "gap",
+      "text": "El cardenal ___ selló la reconciliación de Inglaterra con Roma en 1554 bajo María I.",
+      "options": ["Reginald Pole", "Thomas Cranmer", "Thomas Wolsey"],
+      "answer": "Reginald Pole",
+      "explanation": "El Parlamento derogó entonces la legislación religiosa del reinado anterior."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El gobierno eclesiástico de Isabel",
+      "tiles": ["Isabel", "gobernó", "la", "Iglesia", "inglesa", "abandonó", "ignoró"],
+      "answer": "Isabel gobernó la Iglesia inglesa",
+      "explanation": "Lo hizo con el título de Gobernadora Suprema, de alcance jurisdiccional y no místico."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué título recibió Enrique VIII del papa León X en 1521 por su tratado contra Lutero?",
+      "options": ["Fidei Defensor (Defensor de la Fe)", "Gobernador Supremo", "Cabeza Suprema de la Iglesia"],
+      "correct": 0,
+      "hint": "El tratado se titulaba Assertio Septem Sacramentorum.",
+      "explanation": "Enrique VIII jamás renegó de su ortodoxia sacramental, pese a romper con la jurisdicción papal en 1534."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ excomulgó a Isabel I mediante la bula Regnans in Excelsis en 1570.",
+      "options": ["Pío V", "Julio II", "León X"],
+      "answer": "Pío V",
+      "explanation": "Esta bula liberaba también a sus súbditos católicos del deber de obediencia a la reina."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La excomunión de la reina",
+      "tiles": ["El", "papa", "excomulgó", "a", "Isabel", "coronó", "bendijo"],
+      "answer": "El papa excomulgó a Isabel",
+      "explanation": "Esto endureció la posición de la minoría católica inglesa, asociada crecientemente con la deslealtad política."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con quién se casó María I, un matrimonio que resultó políticamente impopular?",
+      "options": ["Felipe II de España", "Carlos V", "Reginald Pole"],
+      "correct": 0,
+      "hint": "El matrimonio se sumó a la pérdida de Calais frente a Francia.",
+      "explanation": "Ambos factores lastraron políticamente el reinado mariano."
+    },
+    {
+      "type": "gap",
+      "text": "El Acuerdo Isabelino de 1559 otorgó a la reina el título de '___' de la Iglesia de Inglaterra.",
+      "options": ["Gobernadora Suprema", "Cabeza Suprema", "Defensora de la Fe"],
+      "answer": "Gobernadora Suprema",
+      "explanation": "Este término, de raíz jurisdiccional, sustituyó al título enriciano de 'Cabeza Suprema'."
+    }
+  ]
+}

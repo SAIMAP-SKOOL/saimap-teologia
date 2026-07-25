@@ -1,0 +1,243 @@
+{
+  "id": "1.4-mod10",
+  "module": 10,
+  "title": "Las Misiones Jesuitas en Asia",
+  "subtitle": "San Francisco Javier, Matteo Ricci y la Controversia de los Ritos Chinos",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Accommodatio", "es": "Principio misionero de adaptar la presentación del mensaje a las categorías culturales del receptor" },
+        { "en": "Patronato Regio (Padroado)", "es": "Sistema por el que las coronas ibéricas patrocinaban la evangelización a cambio de control eclesiástico" },
+        { "en": "Shenshi", "es": "Clase social china de funcionarios-eruditos formados en los clásicos confucianos" },
+        { "en": "Ritos Chinos", "es": "Prácticas ceremoniales de veneración a los antepasados y a Confucio" },
+        { "en": "Regla de Ricci", "es": "Posición jesuita que permitía a los conversos chinos continuar practicando los ritos tras el bautismo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué error terminológico cometió inicialmente Francisco Javier al predicar en Japón y cómo lo resolvió?",
+      "options": ["Empleó el término 'Dainichi' para referirse a Dios, generando confusión con una divinidad budista, y lo corrigió con la transliteración 'Deusu'", "Tradujo el nombre de Cristo por un título imperial japonés, lo que fue interpretado como sedición política", "Utilizó exclusivamente el latín litúrgico, lo que impidió cualquier comprensión por parte de sus oyentes"],
+      "correct": 0,
+      "hint": "Su intérprete Anjiro le proporcionó vocabulario budista.",
+      "explanation": "Al advertir la confusión doctrinal, adoptó la transliteración fonética 'Deusu' con una aclaración explícita."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es el principio misionero jesuita de adaptar la presentación del mensaje a las categorías culturales del receptor.",
+      "options": ["Accommodatio", "Patronato Regio", "Regla de Ricci"],
+      "answer": "Accommodatio",
+      "explanation": "Fue sistematizado por el visitador jesuita Alessandro Valignano."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La corrección terminológica",
+      "tiles": ["Javier", "corrigió", "el", "término", "Dainichi", "mantuvo", "defendió"],
+      "answer": "Javier corrigió el término Dainichi",
+      "explanation": "La traducción cultural del mensaje cristiano no podía resolverse mediante equivalencias léxicas superficiales."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué Matteo Ricci abandonó hacia 1595 el hábito de monje budista adoptado inicialmente por Michele Ruggieri?",
+      "options": ["Porque los monjes budistas gozaban de escaso prestigio social frente a la clase letrada confuciana, y Ricci optó por vestir como un letrado (shenshi)", "Porque el emperador Wanli prohibió expresamente el uso de hábitos religiosos extranjeros en la corte", "Porque el Concilio de Trento había prohibido a los misioneros vestir hábitos de religiones no cristianas"],
+      "correct": 0,
+      "hint": "El poder real y la autoridad moral residían en la clase de los letrados.",
+      "explanation": "Ricci adoptó la identidad de 'letrado de Occidente' (Xi Ru), con el nombre chino de Li Madou."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el sistema por el que las coronas ibéricas patrocinaban la evangelización a cambio de control eclesiástico.",
+      "options": ["Patronato Regio", "Accommodatio", "Ritos Chinos"],
+      "answer": "Patronato Regio",
+      "explanation": "Fue el marco jurídico bajo el que Francisco Javier partió hacia Asia a petición de Juan III de Portugal."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento del método con su misionero o contexto",
+      "pairs": [
+        { "en": "Público prioritario de Javier", "es": "Comunidades humildes en India; señores feudales en Japón" },
+        { "en": "Público prioritario de Ricci", "es": "Élite letrada confuciana y corte imperial" },
+        { "en": "Vestimenta de Ricci", "es": "Túnica de letrado confuciano (Xi Ru)" },
+        { "en": "Vocabulario religioso de Javier", "es": "Adaptación y corrección terminológica (Dainichi a Deusu)" },
+        { "en": "Respaldo coercitivo del Patronato Ibérico", "es": "Presente: conquista, encomienda, patronato regio" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La muerte en la isla",
+      "tiles": ["Javier", "murió", "en", "Shangchuan", "vivió", "predicó"],
+      "answer": "Javier murió en Shangchuan",
+      "explanation": "Falleció el 3 de diciembre de 1552 aguardando en vano el permiso para desembarcar en China continental."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál era la posición de Matteo Ricci y la primera generación jesuita respecto a los Ritos Chinos de veneración a los antepasados y a Confucio?",
+      "options": ["Los consideraban prácticas de naturaleza esencialmente civil y conmemorativa, compatibles con la fe cristiana de los conversos", "Los consideraban una idolatría manifiesta que exigía su abolición inmediata como condición del bautismo", "Los prohibieron a los conversos chinos desde el primer momento, anticipando la decisión romana posterior"],
+      "correct": 0,
+      "hint": "Ricci estudió detenidamente los textos rituales clásicos.",
+      "explanation": "Esta posición se conoció en la historiografía como la 'regla de Ricci'."
+    },
+    {
+      "type": "gap",
+      "text": "Los ___ eran la clase social china de funcionarios-eruditos formados en los clásicos confucianos.",
+      "options": ["shenshi", "heshang", "daimyō"],
+      "answer": "shenshi",
+      "explanation": "Poseían un prestigio simbólico muy superior al de los monjes budistas o taoístas."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Francisco Javier", "es": "Pionero de la misión jesuita en Asia, murió en Shangchuan en 1552" },
+        { "en": "Matteo Ricci", "es": "Fundador de la misión jesuita en China, adoptó el nombre de Li Madou" },
+        { "en": "Alessandro Valignano", "es": "Visitador jesuita que sistematizó el principio de accommodatio" },
+        { "en": "Xu Guangqi", "es": "Alto funcionario chino bautizado Pablo, colaborador de Ricci en la traducción de Euclides" },
+        { "en": "Charles Maigrot", "es": "Vicario apostólico crítico de la tolerancia jesuita hacia los Ritos Chinos" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La vestimenta letrada de Ricci",
+      "tiles": ["Ricci", "vistió", "como", "letrado", "confuciano", "budista", "taoísta"],
+      "answer": "Ricci vistió como letrado confuciano",
+      "explanation": "Esto le permitió acceder al círculo de mayor prestigio de la sociedad Ming."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué decisión papal cerró de forma definitiva la Controversia de los Ritos Chinos en el siglo XVIII?",
+      "options": ["La bula Ex Quo Singulari (1742) de Benedicto XIV, que confirmó la condena de los ritos y exigió juramento a los misioneros", "El decreto Cum Deus Optimus del Concilio de Trento en su sesión final de 1563", "La encíclica Plane Compertum Est de 1939, que prohibió definitivamente cualquier tolerancia ritual"],
+      "correct": 0,
+      "hint": "Fue precedida por Ex Illa Die de Clemente XI en 1715.",
+      "explanation": "Exigió a todos los misioneros en China un juramento explícito de rechazo a los Ritos Chinos."
+    },
+    {
+      "type": "gap",
+      "text": "Francisco Javier desembarcó en ___ en agosto de 1549 acompañado del japonés Anjiro.",
+      "options": ["Kagoshima", "Goa", "Macao"],
+      "answer": "Kagoshima",
+      "explanation": "Lo acompañaban también los jesuitas Cosme de Torres y Juan Fernández."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El regalo imperial",
+      "tiles": ["Ricci", "presentó", "un", "mapamundi", "al", "emperador", "ocultó", "vendió"],
+      "answer": "Ricci presentó un mapamundi al emperador",
+      "explanation": "El Kunyu Wanguo Quantu situaba a China en una posición central en el plano, respetando su autopercepción como 'Reino del Centro'."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué año llegó Francisco Javier a Goa, capital del Estado Portugués de la India?",
+      "options": ["1542", "1549", "1552"],
+      "correct": 0,
+      "hint": "Había partido de Lisboa en abril de 1541.",
+      "explanation": "Su labor quedó estructuralmente enmarcada por la infraestructura naval, comercial y militar portuguesa."
+    },
+    {
+      "type": "gap",
+      "text": "Michele Ruggieri estableció la primera residencia jesuita estable en China en la ciudad de ___ en 1583.",
+      "options": ["Zhaoqing", "Pekín", "Nankín"],
+      "answer": "Zhaoqing",
+      "explanation": "Ricci se benefició de esta labor pionera, en la provincia de Cantón."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Fundación de la residencia de Zhaoqing (1583)", "es": "Primer asentamiento jesuita estable en China" },
+        { "en": "Tianzhu Shiyi (1603)", "es": "Obra de Ricci en forma de diálogo entre un letrado chino y uno occidental" },
+        { "en": "Kunyu Wanguo Quantu", "es": "Mapamundi de Ricci que situaba a China en posición central" },
+        { "en": "Ex Illa Die (1715)", "es": "Clemente XI formalizó la condena de los Ritos Chinos" },
+        { "en": "Ex Quo Singulari (1742)", "es": "Benedicto XIV confirmó de forma definitiva la condena de los ritos" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La traducción de Euclides",
+      "tiles": ["Xu", "Guangqi", "tradujo", "a", "Euclides", "rechazó", "ignoró"],
+      "answer": "Xu Guangqi tradujo a Euclides",
+      "explanation": "Colaboró con Ricci en la versión china de los Elementos de Euclides (Jihe Yuanben, 1607)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Dónde murió Francisco Javier en 1552, aguardando el permiso para entrar en China?",
+      "options": ["La isla de Shangchuan", "Goa", "Kagoshima"],
+      "correct": 0,
+      "hint": "Se encuentra frente a las costas de Cantón.",
+      "explanation": "Su muerte dejó abierta la empresa de la evangelización china que retomaría Matteo Ricci."
+    },
+    {
+      "type": "gap",
+      "text": "Hacia 1595, Ricci adoptó la identidad de un letrado de Occidente con el nombre chino de ___.",
+      "options": ["Li Madou", "Xi Ru", "Tianzhu"],
+      "answer": "Li Madou",
+      "explanation": "Con este nombre sería conocido durante el resto de su vida y en la historiografía china posterior."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La tolerancia de los ritos",
+      "tiles": ["Ricci", "permitió", "los", "ritos", "chinos", "prohibió", "condenó"],
+      "answer": "Ricci permitió los ritos chinos",
+      "explanation": "Consideraba que tenían una naturaleza esencialmente civil y conmemorativa, no religiosa."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué astrónomo y matemático del Colegio Romano formó a Matteo Ricci en ciencias exactas?",
+      "options": ["Cristóbal Clavio", "Alessandro Valignano", "Michele Ruggieri"],
+      "correct": 0,
+      "hint": "Esta formación resultó decisiva para el proyecto misionero posterior de Ricci.",
+      "explanation": "Ricci empleó la astronomía, la cartografía y la mecánica de relojes como instrumento de prestigio ante los letrados."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ (1603) es la obra de Ricci en forma de diálogo entre un letrado chino y uno occidental.",
+      "options": ["Tianzhu Shiyi", "Kunyu Wanguo Quantu", "Jihe Yuanben"],
+      "answer": "Tianzhu Shiyi",
+      "explanation": "Argumentaba que los textos confucianos más antiguos contenían ya una noción de divinidad compatible con el Dios cristiano."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La condena de Benedicto XIV",
+      "tiles": ["Benedicto", "XIV", "condenó", "los", "ritos", "aprobó", "toleró"],
+      "answer": "Benedicto XIV condenó los ritos",
+      "explanation": "Lo hizo mediante la bula Ex Quo Singulari de 1742, exigiendo juramento a todos los misioneros en China."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué emperador chino concedió a Ricci un terreno para su sepultura en Pekín, honor sin precedentes para un extranjero?",
+      "options": ["El emperador Wanli", "El emperador Kangxi", "El emperador Yongzheng"],
+      "correct": 0,
+      "hint": "Nunca llegó a concederle una audiencia personal.",
+      "explanation": "Este honor simbolizaba el grado de integración social alcanzado por Ricci en la sociedad china."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ formalizó la primera condena de los Ritos Chinos mediante el decreto Ex Illa Die de 1715.",
+      "options": ["Clemente XI", "Benedicto XIV", "Paulo III"],
+      "answer": "Clemente XI",
+      "explanation": "Su legado, el patriarca Maillard de Tournon, chocó frontalmente con el emperador Kangxi y murió detenido en Macao."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La expulsión final",
+      "tiles": ["Yongzheng", "expulsó", "a", "los", "misioneros", "protegió", "acogió"],
+      "answer": "Yongzheng expulsó a los misioneros",
+      "explanation": "Lo decretó en 1724, cerrando de facto casi un siglo de mediana tolerancia hacia la presencia cristiana en China."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obra colaborativa de Ricci y Xu Guangqi introdujo la terminología geométrica occidental en China en 1607?",
+      "options": ["La versión china de los Elementos de Euclides (Jihe Yuanben)", "El Tianzhu Shiyi", "El Kunyu Wanguo Quantu"],
+      "correct": 0,
+      "hint": "Tradujo los primeros seis libros al chino clásico.",
+      "explanation": "Xu Guangqi ayudó a verterla a un chino clásico de gran depuración estilística."
+    },
+    {
+      "type": "gap",
+      "text": "El emperador ___ decretó en 1724 la prohibición general del cristianismo y la expulsión de los misioneros.",
+      "options": ["Yongzheng", "Kangxi", "Wanli"],
+      "answer": "Yongzheng",
+      "explanation": "Fue el sucesor de Kangxi, indignado por lo que interpretó como una injerencia extranjera."
+    }
+  ]
+}
