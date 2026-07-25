@@ -1,0 +1,243 @@
+{
+  "id": "1.5-mod04",
+  "module": 4,
+  "title": "El Concilio Vaticano I y la Infalibilidad Pontificia",
+  "subtitle": "Pastor Aeternus, la toma de Roma y el cisma Viejo Católico",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Ex Cathedra", "es": "Ejercicio formal y solemne de la autoridad magisterial suprema del Papa" },
+        { "en": "Syllabus Errorum", "es": "Catálogo de ochenta proposiciones condenadas por Pío IX en 1864" },
+        { "en": "Ultramontanismo", "es": "Corriente que reforzaba la autoridad centralizada de Roma frente a las Iglesias nacionales" },
+        { "en": "Inopportunismo", "es": "Postura que no negaba la infalibilidad, pero consideraba imprudente definirla en 1870" },
+        { "en": "Galicanismo", "es": "Tradición francesa que subordinaba las definiciones pontificias al consentimiento de la Iglesia" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué catálogo doctrinal de 1864 condenó ochenta proposiciones del liberalismo, el racionalismo y el naturalismo?",
+      "options": ["El Syllabus Errorum, anexo a la encíclica Quanta Cura", "La constitución Pastor Aeternus", "La bula Aeterni Patris"],
+      "correct": 0,
+      "hint": "Se publicó el 8 de diciembre de 1864.",
+      "explanation": "Recopiló proposiciones relativas al panteísmo, el racionalismo, el liberalismo doctrinal y el poder civil pontificio."
+    },
+    {
+      "type": "gap",
+      "text": "La expresión ___ designa el ejercicio formal y solemne de la autoridad magisterial suprema del Papa.",
+      "options": ["Ex Cathedra", "Syllabus", "Ultramontanismo"],
+      "answer": "Ex Cathedra",
+      "explanation": "Es condición imprescindible para que una definición pontificia sea considerada infalible."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La convocatoria conciliar",
+      "tiles": ["Pío", "IX", "convocó", "el", "concilio", "ecuménico", "disolvió", "evitó"],
+      "answer": "Pío IX convocó el concilio ecuménico",
+      "explanation": "Lo hizo mediante la bula Aeterni Patris de junio de 1868, el primero desde Trento."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué condiciones deben concurrir simultáneamente para que una definición pontificia sea considerada infalible según Pastor Aeternus?",
+      "options": ["Que el Papa actúe como pastor supremo, ejerza su autoridad apostólica plena, la materia sea de fe o costumbres y exista intención definitoria vinculante", "Que el Papa hable en cualquier contexto público y sea citado por la prensa oficial vaticana", "Que el documento sea aprobado posteriormente por un concilio ecuménico"],
+      "correct": 0,
+      "hint": "Son cuatro condiciones acumulativas.",
+      "explanation": "Ninguna declaración pública casual, entrevista u homilía cumple por sí sola estas condiciones."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el catálogo de ochenta proposiciones condenadas por Pío IX en 1864.",
+      "options": ["Syllabus Errorum", "Pastor Aeternus", "Aeterni Patris"],
+      "answer": "Syllabus Errorum",
+      "explanation": "La proposición 80 condenaba la idea de que el Papa debía reconciliarse con el liberalismo tal como se entendía entonces."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada postura conciliar con su objeto de desacuerdo",
+      "pairs": [
+        { "en": "Mayoría Infalibilista", "es": "Impulsaron activamente la definición; Manning, von Senestrey, Cullen" },
+        { "en": "Minoría Inopportunista", "es": "La oportunidad histórica, no la doctrina en sí; Dupanloup, Hefele, Strossmayer" },
+        { "en": "Viejos Católicos", "es": "La doctrina misma de la infalibilidad; Döllinger, Reinkens" },
+        { "en": "Resultado de la minoría inopportunista", "es": "Sumisión progresiva al dogma tras el concilio (1870-1871)" },
+        { "en": "Resultado de los Viejos Católicos", "es": "Cisma organizado; Unión de Utrecht (1889)" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La condena del liberalismo",
+      "tiles": ["El", "Syllabus", "condenó", "el", "liberalismo", "aprobó", "celebró"],
+      "answer": "El Syllabus condenó el liberalismo",
+      "explanation": "Condenaba una formulación ideológica concreta que exigía a la Iglesia renunciar a su magisterio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál era, mayoritariamente, el argumento central de la minoría conciliar frente a la definición de la infalibilidad?",
+      "options": ["Que, sin negar la doctrina en sí, resultaba inoportuno definirla dogmáticamente en aquel contexto histórico", "Que el Papa carecía de toda autoridad doctrinal sobre la Iglesia universal", "Que la infalibilidad pontificia era una doctrina teológicamente falsa e inaceptable"],
+      "correct": 0,
+      "hint": "Se conoce como postura inopportunista.",
+      "explanation": "Solo un sector muy reducido, ya fuera del aula conciliar, llegó a rechazar la doctrina misma."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ reforzaba la autoridad centralizada de Roma frente a las Iglesias nacionales.",
+      "options": ["Ultramontanismo", "Galicanismo", "Inopportunismo"],
+      "answer": "Ultramontanismo",
+      "explanation": "Impulsó activamente la definición de la infalibilidad pontificia."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Pío IX", "es": "Papa del pontificado más largo, convocó el Vaticano I y perdió los Estados Pontificios" },
+        { "en": "Henry Edward Manning", "es": "Arzobispo de Westminster, promovió la petición a favor de la infalibilidad" },
+        { "en": "Félix Dupanloup", "es": "Obispo de Orleans, principal organizador de la oposición inopportunista" },
+        { "en": "Ignaz von Döllinger", "es": "Historiador excomulgado en 1871 por rechazar el dogma" },
+        { "en": "Raffaele Cadorna", "es": "General que dirigió la toma de Roma por la Porta Pia en 1870" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La promoción de la infalibilidad",
+      "tiles": ["Manning", "promovió", "la", "infalibilidad", "rechazó", "ignoró"],
+      "answer": "Manning promovió la infalibilidad",
+      "explanation": "Junto a Ignatius von Senestrey, impulsó la petición para incorporarla al orden del día conciliar."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué acontecimiento militar interrumpió de forma abrupta el Concilio Vaticano I?",
+      "options": ["La entrada de las tropas italianas en Roma por la Porta Pia el 20 de septiembre de 1870", "La firma del Concordato de 1801 entre Napoleón y Pío VII", "La batalla de Mentana de 1867"],
+      "correct": 0,
+      "hint": "Ocurrió tras la retirada de la guarnición francesa por la guerra franco-prusiana.",
+      "explanation": "Puso fin al poder temporal pontificio e interrumpió indefinidamente el concilio."
+    },
+    {
+      "type": "gap",
+      "text": "La postura ___ no negaba la infalibilidad, pero consideraba imprudente definirla dogmáticamente en 1870.",
+      "options": ["Inopportunista", "Ultramontana", "Galicana"],
+      "answer": "Inopportunista",
+      "explanation": "Temían complicar las relaciones con las Iglesias ortodoxas y con los gobiernos protestantes o liberales."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Quanta Cura y Syllabus Errorum (1864)", "es": "Condenaron ochenta proposiciones del liberalismo y racionalismo" },
+        { "en": "Bula Aeterni Patris (1868)", "es": "Convocó formalmente el Concilio Vaticano I" },
+        { "en": "Constitución Pastor Aeternus (18-VII-1870)", "es": "Definió el primado y la infalibilidad pontificia" },
+        { "en": "Toma de Roma por la Porta Pia (20-IX-1870)", "es": "Puso fin al poder temporal pontificio" },
+        { "en": "Pactos de Letrán (1929)", "es": "Resolvieron la Cuestión Romana bajo Pío XI" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La organización de la oposición",
+      "tiles": ["Dupanloup", "organizó", "la", "oposición", "evitó", "ignoró"],
+      "answer": "Dupanloup organizó la oposición",
+      "explanation": "Fue el principal organizador de folletos y memoriales inopportunistas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué grupo eclesial surgió del rechazo minoritario al dogma de la infalibilidad tras el concilio?",
+      "options": ["La Iglesia Vieja Católica", "La Iglesia Ortodoxa de Utrecht", "La Iglesia Anglicana"],
+      "correct": 0,
+      "hint": "Se formalizó mediante la Unión de Utrecht en 1889.",
+      "explanation": "Rechazaban tanto la infalibilidad pontificia como la jurisdicción universal e inmediata del Papa."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es la tradición francesa que subordinaba las definiciones pontificias al consentimiento de la Iglesia universal.",
+      "options": ["Galicanismo", "Ultramontanismo", "Inopportunismo"],
+      "answer": "Galicanismo",
+      "explanation": "Pastor Aeternus lo refutó de forma explícita mediante la cláusula ex sese, non ex consensu Ecclesiae."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La definición del primado",
+      "tiles": ["El", "concilio", "definió", "el", "primado", "papal", "rechazó", "ignoró"],
+      "answer": "El concilio definió el primado papal",
+      "explanation": "Lo hizo como una potestad de jurisdicción plena, suprema, ordinaria e inmediata sobre toda la Iglesia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué significa la cláusula 'ex sese, non autem ex consensu Ecclesiae' de Pastor Aeternus?",
+      "options": ["Que las definiciones pontificias ex cathedra son irreformables por sí mismas, sin ratificación posterior de la Iglesia", "Que el Papa puede definir dogmas sin ninguna relación con la fe recibida por la Iglesia", "Que el Papa debe consultar siempre a un concilio antes de definir cualquier dogma"],
+      "correct": 0,
+      "hint": "Refutaba directamente el galicanismo.",
+      "explanation": "El propio texto exige que la doctrina definida sea 'sostenida por toda la Iglesia', es decir, coherente con la fe recibida."
+    },
+    {
+      "type": "gap",
+      "text": "Pío IX huyó disfrazado a ___ tras el asesinato de su ministro Pellegrino Rossi en 1848.",
+      "options": ["Gaeta", "Roma", "Fulda"],
+      "answer": "Gaeta",
+      "explanation": "Solo la intervención militar de tropas francesas permitió su restauración en 1850."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La toma de la ciudad",
+      "tiles": ["Las", "tropas", "italianas", "tomaron", "Roma", "defendieron", "evitaron"],
+      "answer": "Las tropas italianas tomaron Roma",
+      "explanation": "Lo hicieron el 20 de septiembre de 1870, rompiendo las murallas junto a la Porta Pia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué ciudad se refugió Pío IX tras la revolución romana de 1848?",
+      "options": ["Gaeta", "Nápoles", "Venecia"],
+      "correct": 0,
+      "hint": "Estaba en el reino de Nápoles.",
+      "explanation": "A partir de esa experiencia, Pío IX identificó el liberalismo político como una amenaza existencial."
+    },
+    {
+      "type": "gap",
+      "text": "El obispo ___ de Orleans fue el principal organizador de la oposición inopportunista.",
+      "options": ["Félix Dupanloup", "Karl von Hefele", "Josip Strossmayer"],
+      "answer": "Félix Dupanloup",
+      "explanation": "Otros intervinientes destacados fueron Hefele, historiador de los concilios, y Strossmayer, obispo de Đakovo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El rechazo del dogma",
+      "tiles": ["Döllinger", "rechazó", "el", "nuevo", "dogma", "aceptó", "defendió"],
+      "answer": "Döllinger rechazó el nuevo dogma",
+      "explanation": "Fue excomulgado por el arzobispo de Múnich en abril de 1871."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué corriente eclesiológica reforzaba la autoridad centralizada de Roma frente a las Iglesias nacionales?",
+      "options": ["El Ultramontanismo", "El Galicanismo", "El Inopportunismo"],
+      "correct": 0,
+      "hint": "Su nombre significa 'más allá de los montes'.",
+      "explanation": "Publicaciones como Civiltà Cattolica y L'Univers convirtieron su defensa en una causa popular católica."
+    },
+    {
+      "type": "gap",
+      "text": "El historiador ___ fue excomulgado en 1871 por negarse a aceptar el dogma de la infalibilidad.",
+      "options": ["Ignaz von Döllinger", "Karl von Hefele", "Joseph Reinkens"],
+      "answer": "Ignaz von Döllinger",
+      "explanation": "Su magisterio intelectual catalizó la organización de la Iglesia Vieja Católica."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La unión con Utrecht",
+      "tiles": ["Los", "Viejos", "Católicos", "se", "unieron", "a", "Utrecht", "Roma"],
+      "answer": "Los Viejos Católicos se unieron a Utrecht",
+      "explanation": "Esta sede episcopal independiente, de origen jansenista, proporcionó sucesión episcopal válida a las nuevas comunidades."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuántos obispos mantuvieron su voto contrario hasta el final en la sesión pública del 18 de julio de 1870?",
+      "options": ["Dos", "Sesenta y dos", "Ochenta y ocho"],
+      "correct": 0,
+      "hint": "Entre cincuenta y sesenta obispos de la minoría abandonaron Roma antes de la votación.",
+      "explanation": "Fueron el obispo Aloisio Riccio y el obispo Edward Fitzgerald, de Little Rock."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ no se resolvió hasta la firma de los Pactos de Letrán en 1929.",
+      "options": ["Cuestión Romana", "Cuestión Alemana", "Cuestión Francesa"],
+      "answer": "Cuestión Romana",
+      "explanation": "Pío IX se declaró 'prisionero en el Vaticano', gesto mantenido por sus sucesores durante décadas."
+    }
+  ]
+}

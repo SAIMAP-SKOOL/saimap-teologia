@@ -80,6 +80,25 @@
         { "n": 12, "title": "Los Conflictos Doctrinales Internos: Jansenismo y Puritanismo", "es": "12 · Jansenismo y Puritanismo", "file": "1.4/mod12.json" }
       ]
     },
-    { "code": "1.5", "name": "Edad Moderna y Contemporánea",           "color": "#4A6B3E", "locked": true, "moduleCount": 12 }
+    {
+      "code": "1.5",
+      "name": "Edad Moderna y Contemporánea",
+      "sub": "12/12 temas · Completo",
+      "color": "#4A6B3E",
+      "modules": [
+        { "n": 1,  "title": "La Ilustración y el Deísmo", "es": "1 · Ilustración y Deísmo", "file": "1.5/mod01.json" },
+        { "n": 2,  "title": "La Revolución Francesa y el Concordato Napoleónico", "es": "2 · Revolución Francesa", "file": "1.5/mod02.json" },
+        { "n": 3,  "title": "John Wesley y el Metodismo", "es": "3 · Wesley y el Metodismo", "file": "1.5/mod03.json" },
+        { "n": 4,  "title": "El Concilio Vaticano I y la Infalibilidad Papal", "es": "4 · Vaticano I", "file": "1.5/mod04.json" },
+        { "n": 5,  "title": "León XIII y la Rerum Novarum", "es": "5 · Rerum Novarum", "file": "1.5/mod05.json" },
+        { "n": 6,  "title": "Las Persecuciones del Siglo XX", "es": "6 · Persecuciones del s. XX", "file": "1.5/mod06.json" },
+        { "n": 7,  "title": "Los Cristianos ante el Nazismo: Kolbe y Bonhoeffer", "es": "7 · Kolbe y Bonhoeffer", "file": "1.5/mod07.json" },
+        { "n": 8,  "title": "El Concilio Vaticano II", "es": "8 · Vaticano II", "file": "1.5/mod08.json" },
+        { "n": 9,  "title": "La Teología de la Liberación en América Latina", "es": "9 · Teología de la Liberación", "file": "1.5/mod09.json" },
+        { "n": 10, "title": "El Movimiento Ecuménico Moderno", "es": "10 · Movimiento Ecuménico", "file": "1.5/mod10.json" },
+        { "n": 11, "title": "Globalización y Pentecostalismo", "es": "11 · Globalización y Pentecostalismo", "file": "1.5/mod11.json" },
+        { "n": 12, "title": "La Iglesia ante los Retos del Siglo XXI", "es": "12 · Retos del Siglo XXI", "file": "1.5/mod12.json" }
+      ]
+    }
   ]
 }

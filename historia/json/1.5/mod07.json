@@ -1,0 +1,243 @@
+{
+  "id": "1.5-mod07",
+  "module": 7,
+  "title": "Los Cristianos ante el Nazismo y el Holocausto",
+  "subtitle": "Maximilian Kolbe y Dietrich Bonhoeffer",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Kirchenkampf", "es": "Conflicto interno del protestantismo alemán entre 1933 y 1945" },
+        { "en": "Deutsche Christen", "es": "Movimiento que buscó fusionar la doctrina luterana con la ideología racial nazi" },
+        { "en": "Iglesia Confesante", "es": "Movimiento de oposición teológica cristalizado en la Declaración de Barmen (1934)" },
+        { "en": "Gracia Barata", "es": "Concepto de Bonhoeffer: el perdón cristiano sin exigencia de discipulado real" },
+        { "en": "Shoá / Holocausto", "es": "Exterminio sistemático de unos seis millones de judíos europeos (1941-1945)" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué documento articuló la oposición teológica de la Iglesia Confesante alemana frente a los Cristianos Alemanes en 1934?",
+      "options": ["La Declaración Teológica de Barmen", "El Reichskonkordat", "La encíclica Mit brennender Sorge"],
+      "correct": 0,
+      "hint": "Fue redactada principalmente por Karl Barth.",
+      "explanation": "Afirmó que la Iglesia reconoce en Jesucristo a su único Señor, rechazando la subordinación al Führerprinzip."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el término alemán para el conflicto interno del protestantismo alemán entre 1933 y 1945.",
+      "options": ["Kirchenkampf", "Deutsche Christen", "Iglesia Confesante"],
+      "answer": "Kirchenkampf",
+      "explanation": "Significa literalmente 'lucha de las iglesias'."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La firma del concordato",
+      "tiles": ["Pacelli", "firmó", "el", "Reichskonkordat", "rechazó", "rompió"],
+      "answer": "Pacelli firmó el Reichskonkordat",
+      "explanation": "Lo hizo en julio de 1933, a cambio de la renuncia del clero a la actividad política partidista."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué circunstancia concreta ofreció Maximilian Kolbe su vida en Auschwitz en 1941?",
+      "options": ["Para ocupar el lugar de Franciszek Gajowniczek, seleccionado para morir de inanición en represalia por una fuga ajena", "Para sustituir a un compañero condenado a la horca por intento de fuga", "Como castigo autoimpuesto por publicar materiales clandestinos"],
+      "correct": 0,
+      "hint": "Gajowniczek había lamentado la suerte de su esposa e hijos.",
+      "explanation": "Kolbe se identificó ante la guardia como sacerdote sin familia propia que sostener."
+    },
+    {
+      "type": "gap",
+      "text": "Los ___ buscaron fusionar la doctrina luterana con la ideología racial nacionalsocialista.",
+      "options": ["Deutsche Christen", "Iglesia Confesante", "Kirchenkampf"],
+      "answer": "Deutsche Christen",
+      "explanation": "Promovieron el 'párrafo ario' para excluir del ministerio a los pastores de origen judío."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada postura ante el nazismo con su actitud documentada",
+      "pairs": [
+        { "en": "Colaboración ideológica (Deutsche Christen radical)", "es": "Adhesión activa a la ideología racial, párrafo ario; Ludwig Müller" },
+        { "en": "Autopreservación institucional (jerarquía católica)", "es": "Cautela diplomática, Mit brennender Sorge; Pío XI, Pío XII" },
+        { "en": "Resistencia teológica organizada (Iglesia Confesante)", "es": "Rechazo del Führerprinzip eclesial; Karl Barth, Niemöller" },
+        { "en": "Resistencia radical hasta el martirio", "es": "Entrega voluntaria o conspiración activa; Kolbe, Bonhoeffer" },
+        { "en": "Documento fundacional de la resistencia teológica", "es": "Declaración de Barmen (1934)" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La redacción teológica de Barth",
+      "tiles": ["Barth", "redactó", "la", "Declaración", "de", "Barmen", "rechazó", "ignoró"],
+      "answer": "Barth redactó la Declaración de Barmen",
+      "explanation": "Fue una afirmación estrictamente teológica, no un manifiesto político de oposición partidista."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué consistió la implicación final de Dietrich Bonhoeffer en la resistencia alemana?",
+      "options": ["Colaboró con la sección de contrainteligencia militar (Abwehr) y fue vinculado a la conspiración para asesinar a Hitler", "Se limitó exclusivamente a la predicación pública contra el régimen", "Organizó una huelga general del clero luterano en 1943"],
+      "correct": 0,
+      "hint": "Fue reclutado por su cuñado Hans von Dohnányi.",
+      "explanation": "Tras el fallido atentado del 20 de julio de 1944, la documentación incautada lo implicó directamente."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es el movimiento de oposición teológica cristalizado en la Declaración de Barmen (1934).",
+      "options": ["Iglesia Confesante", "Deutsche Christen", "Milicia de la Inmaculada"],
+      "answer": "Iglesia Confesante",
+      "explanation": "Fue fundada por un grupo de pastores encabezado por Martin Niemöller."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Maximilian Kolbe", "es": "Franciscano polaco, se ofreció voluntario para morir en Auschwitz en 1941" },
+        { "en": "Dietrich Bonhoeffer", "es": "Pastor luterano, ejecutado en Flossenbürg en 1945 por conspiración contra Hitler" },
+        { "en": "Karl Barth", "es": "Teólogo reformado, redactor principal de la Declaración de Barmen" },
+        { "en": "Franciszek Gajowniczek", "es": "Sargento polaco cuyo lugar ocupó Kolbe en Auschwitz" },
+        { "en": "Eugenio Pacelli", "es": "Cardenal secretario de Estado que firmó el Reichskonkordat en 1933" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La fundación de Niepokalanów",
+      "tiles": ["Kolbe", "fundó", "Niepokalanów", "abandonó", "destruyó"],
+      "answer": "Kolbe fundó Niepokalanów",
+      "explanation": "Fue una de las mayores comunidades franciscanas del mundo, dotada de imprenta y emisora de radio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo debe valorarse historiográficamente la actuación conjunta de las instituciones cristianas ante el Holocausto?",
+      "options": ["Como un espectro documentado y heterogéneo de colaboración, autopreservación institucional, indiferencia y resistencia radical", "Como un bloque uniforme de colaboración activa con el régimen nazi", "Como un bloque uniforme de resistencia heroica generalizada"],
+      "correct": 0,
+      "hint": "La historiografía documenta comportamientos muy diversos.",
+      "explanation": "Esto impide cualquier generalización monolítica sobre 'la Iglesia' como actor único."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es el concepto de Bonhoeffer para el perdón cristiano sin exigencia de discipulado real.",
+      "options": ["Gracia Barata", "Gracia Costosa", "Kirchenkampf"],
+      "answer": "Gracia Barata",
+      "explanation": "La acuñó en su obra Nachfolge (El precio de la gracia), en contraste con la 'gracia costosa'."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El sustituto voluntario",
+      "tiles": ["Kolbe", "ocupó", "el", "lugar", "de", "Gajowniczek", "abandonó", "rechazó"],
+      "answer": "Kolbe ocupó el lugar de Gajowniczek",
+      "explanation": "Lo hizo tras la selección de represalia por la fuga de un prisionero de su mismo bloque."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué cardenal firmó el Reichskonkordat en julio de 1933 en nombre de la Santa Sede?",
+      "options": ["Eugenio Pacelli", "Karl Barth", "Ludwig Müller"],
+      "correct": 0,
+      "hint": "Más tarde sería elegido papa con el nombre de Pío XII.",
+      "explanation": "El tratado supuso en la práctica la disolución del Partido de Centro católico alemán."
+    },
+    {
+      "type": "gap",
+      "text": "El cardenal ___ firmó el Reichskonkordat en julio de 1933.",
+      "options": ["Eugenio Pacelli", "Pío XI", "Karl Barth"],
+      "answer": "Eugenio Pacelli",
+      "explanation": "La historiografía lo reconoce como una decisión defensiva de institución amenazada."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Reichskonkordat (julio de 1933)", "es": "Tratado entre la Santa Sede y el Estado alemán" },
+        { "en": "Declaración Teológica de Barmen (1934)", "es": "Afirmó que la Iglesia reconoce solo a Cristo como su Señor" },
+        { "en": "Encíclica Mit brennender Sorge (1937)", "es": "Denunció el neopaganismo racial nazi" },
+        { "en": "Ofrecimiento de Kolbe en Auschwitz (1941)", "es": "Sustituyó a Gajowniczek en la celda de inanición" },
+        { "en": "Atentado del 20 de julio de 1944", "es": "Implicó a Bonhoeffer en la conspiración contra Hitler" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La distinción teológica de Bonhoeffer",
+      "tiles": ["Bonhoeffer", "distinguió", "la", "gracia", "costosa", "ignoró", "rechazó"],
+      "answer": "Bonhoeffer distinguió la gracia costosa",
+      "explanation": "Es la gracia que 'cuesta a un hombre su vida' porque exige discipulado real."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué convento fundó Kolbe cerca de Varsovia, dotado de imprenta y emisora de radio propias?",
+      "options": ["Niepokalanów", "Mugenzai no Sono", "Finkenwalde"],
+      "correct": 0,
+      "hint": "Su nombre significa 'Ciudad de la Inmaculada'.",
+      "explanation": "Llegó a albergar refugiados desplazados por la guerra, incluidos cerca de dos mil de origen judío."
+    },
+    {
+      "type": "gap",
+      "text": "Kolbe fue deportado en 1941 al campo de concentración de ___.",
+      "options": ["Auschwitz", "Flossenbürg", "Buchenwald"],
+      "answer": "Auschwitz",
+      "explanation": "Recibió allí el número de prisionero 16670."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La colaboración con la inteligencia militar",
+      "tiles": ["Bonhoeffer", "colaboró", "con", "el", "Abwehr", "evitó", "rechazó"],
+      "answer": "Bonhoeffer colaboró con el Abwehr",
+      "explanation": "Fue reclutado por su cuñado Hans von Dohnányi bajo la dirección del almirante Wilhelm Canaris."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué fecha fue ejecutado Kolbe mediante una inyección letal de fenol?",
+      "options": ["El 14 de agosto de 1941", "El 17 de febrero de 1941", "El 9 de abril de 1945"],
+      "correct": 0,
+      "hint": "Fue en vísperas de la fiesta de la Asunción de María.",
+      "explanation": "Fue el último superviviente del grupo de condenados a inanición en el Bloque 11."
+    },
+    {
+      "type": "gap",
+      "text": "El sargento polaco ___ fue seleccionado para morir de inanición antes de que Kolbe ocupara su lugar.",
+      "options": ["Franciszek Gajowniczek", "Karl Fritsch", "Bruno Borgowiec"],
+      "answer": "Franciszek Gajowniczek",
+      "explanation": "Sobrevivió a la guerra y estuvo presente en Roma cuando Juan Pablo II canonizó a Kolbe en 1982."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La ejecución en el campo",
+      "tiles": ["Los", "nazis", "ejecutaron", "a", "Bonhoeffer", "en", "Flossenbürg", "liberaron"],
+      "answer": "Los nazis ejecutaron a Bonhoeffer en Flossenbürg",
+      "explanation": "Ocurrió al amanecer del 9 de abril de 1945, apenas semanas antes de la liberación del campo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obra de Bonhoeffer, escrita en Finkenwalde, distingue entre 'gracia barata' y 'gracia costosa'?",
+      "options": ["Nachfolge (El precio de la gracia)", "Gemeinsames Leben", "Ética"],
+      "correct": 0,
+      "hint": "Se publicó en 1937.",
+      "explanation": "Surgió de su experiencia dirigiendo el seminario clandestino de la Iglesia Confesante."
+    },
+    {
+      "type": "gap",
+      "text": "Bonhoeffer colaboró con la sección de contrainteligencia militar alemana llamada ___.",
+      "options": ["Abwehr", "Gestapo", "Wehrmacht"],
+      "answer": "Abwehr",
+      "explanation": "Le sirvió de cobertura para viajar a países neutrales y contactar con círculos ecuménicos internacionales."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La canonización del mártir",
+      "tiles": ["Juan", "Pablo", "II", "canonizó", "a", "Kolbe", "rechazó", "ignoró"],
+      "answer": "Juan Pablo II canonizó a Kolbe",
+      "explanation": "Lo hizo en 1982, declarándolo formalmente mártir de la caridad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué campo de concentración fue ejecutado Bonhoeffer el 9 de abril de 1945?",
+      "options": ["Flossenbürg", "Auschwitz", "Buchenwald"],
+      "correct": 0,
+      "hint": "Fue ejecutado junto con Canaris, Oster y otros miembros del círculo conspirativo.",
+      "explanation": "Dejó inconclusa su obra Ética, publicada póstumamente por su amigo Eberhard Bethge."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ canonizó a Kolbe en 1982, declarándolo mártir de la caridad.",
+      "options": ["Juan Pablo II", "Pío XII", "Pablo VI"],
+      "answer": "Juan Pablo II",
+      "explanation": "Esta fórmula teológica subraya la entrega voluntaria de la vida por amor al prójimo."
+    }
+  ]
+}

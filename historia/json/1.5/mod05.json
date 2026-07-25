@@ -1,0 +1,243 @@
+{
+  "id": "1.5-mod05",
+  "module": 5,
+  "title": "León XIII y la Encíclica Rerum Novarum (1891)",
+  "subtitle": "El nacimiento formal de la Doctrina Social de la Iglesia",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Cuestión Social", "es": "Problemas derivados de la industrialización que exigían una respuesta política y moral" },
+        { "en": "Doctrina Social de la Iglesia", "es": "Cuerpo de enseñanza magisterial inaugurado formalmente por Rerum Novarum" },
+        { "en": "Subsidiariedad", "es": "El Estado solo interviene cuando las instancias menores no pueden resolver un problema" },
+        { "en": "Salario Justo", "es": "Debe garantizar una subsistencia digna, más allá de lo pactado en un contrato libre" },
+        { "en": "Socialismo Científico", "es": "Propone la abolición de la propiedad privada de los medios de producción" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál fue la postura de Rerum Novarum sobre la propiedad privada frente al socialismo?",
+      "options": ["Defendió la propiedad privada como derecho natural, aunque sujeto a función social", "Condenó la propiedad privada por considerarla un obstáculo para la justicia social", "Se abstuvo de pronunciarse sobre la propiedad para no interferir en la política económica"],
+      "correct": 0,
+      "hint": "Se fundamenta en la racionalidad humana y su capacidad de previsión familiar.",
+      "explanation": "Es un derecho natural anterior a la ley civil, aunque acompañado de deberes de justicia y caridad."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es el conjunto de problemas derivados de la industrialización que exigían una respuesta política y moral.",
+      "options": ["Cuestión Social", "Doctrina Social", "Subsidiariedad"],
+      "answer": "Cuestión Social",
+      "explanation": "Incluía las condiciones laborales, la urbanización y la pobreza obrera del siglo XIX."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El desarraigo industrial",
+      "tiles": ["La", "industrialización", "desarraigó", "a", "los", "campesinos", "protegió", "fortaleció"],
+      "answer": "La industrialización desarraigó a los campesinos",
+      "explanation": "Los atrajo hacia los cinturones industriales de ciudades como Manchester, Lille o Bilbao."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué crítica dirigió la encíclica al capitalismo liberal sin regular?",
+      "options": ["Denunció que un reducido número de hombres opulentos había sometido a los obreros a una condición próxima a la esclavitud", "Ninguna: León XIII consideró el mercado libre como la única solución legítima a la cuestión social", "Exigió la nacionalización inmediata de la industria pesada europea"],
+      "correct": 0,
+      "hint": "Lo atribuyó en parte a la desaparición de los antiguos gremios corporativos.",
+      "explanation": "León XIII critica expresamente el laissez-faire sin regulación moral alguna."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es el cuerpo de enseñanza magisterial inaugurado formalmente por Rerum Novarum.",
+      "options": ["Doctrina Social de la Iglesia", "Cuestión Social", "Socialismo Científico"],
+      "answer": "Doctrina Social de la Iglesia",
+      "explanation": "Se prolonga hasta el presente mediante encíclicas conmemorativas de sus distintos aniversarios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cuestión con la posición de la Doctrina Social",
+      "pairs": [
+        { "en": "Propiedad privada", "es": "Derecho natural, pero con función social y deberes de justicia" },
+        { "en": "Salario", "es": "Debe garantizar una vida digna, más allá del contrato libre" },
+        { "en": "Asociación obrera", "es": "Derecho natural, cauce de colaboración y formación cristiana" },
+        { "en": "Papel del Estado", "es": "Intervención subsidiaria en defensa del bien común y los débiles" },
+        { "en": "Relación capital-trabajo", "es": "Colaboración basada en deberes recíprocos de justicia" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La propuesta marxista",
+      "tiles": ["Marx", "propuso", "abolir", "la", "propiedad", "defendió", "protegió"],
+      "answer": "Marx propuso abolir la propiedad",
+      "explanation": "Lo formuló en El Capital, explicando la historia como sucesión de luchas de clases."
+    },
+    {
+      "type": "quiz",
+      "q": "Según Rerum Novarum, ¿qué determina la justicia de un salario?",
+      "options": ["Que sea suficiente para sostener con dignidad al trabajador sobrio y a su familia, más allá del contrato libre", "Únicamente el libre acuerdo entre empleador y trabajador", "La cotización que fije el mercado de trabajo en cada momento"],
+      "correct": 0,
+      "hint": "León XIII introduce el criterio del salario justo o vital.",
+      "explanation": "La mera libertad contractual no basta para garantizar la justicia si el salario resultante es insuficiente."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es el principio por el que el Estado solo interviene cuando las instancias menores no pueden resolver un problema.",
+      "options": ["Subsidiariedad", "Salario Justo", "Cuestión Social"],
+      "answer": "Subsidiariedad",
+      "explanation": "Está presente ya en forma embrionaria en Rerum Novarum, aunque el término se acuñaría en 1931."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "León XIII", "es": "Papa que publicó Rerum Novarum en 1891" },
+        { "en": "Wilhelm Emmanuel von Ketteler", "es": "Obispo de Maguncia, autor de La cuestión obrera y el cristianismo" },
+        { "en": "Frédéric Ozanam", "es": "Fundó las Conferencias de San Vicente de Paúl en 1833" },
+        { "en": "Adolph Kolping", "es": "Creó el Kolpingwerk para artesanos y obreros migrantes" },
+        { "en": "Karl Marx", "es": "Autor de El Capital, formuló el socialismo científico" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La defensa de la propiedad",
+      "tiles": ["León", "XIII", "defendió", "la", "propiedad", "privada", "rechazó", "abolió"],
+      "answer": "León XIII defendió la propiedad privada",
+      "explanation": "La fundamentó en la capacidad humana de prever el futuro y proveer para la familia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué derecho de los trabajadores reivindicó explícitamente la encíclica?",
+      "options": ["El derecho de asociación en sindicatos u organizaciones obreras", "El derecho de huelga revolucionaria como instrumento legítimo de transformación social", "El derecho a la propiedad colectiva de las fábricas en que trabajaban"],
+      "correct": 0,
+      "hint": "Se presentan como herederas de los antiguos gremios.",
+      "explanation": "Este derecho resultó decisivo para el posterior desarrollo del sindicalismo católico."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ debe garantizar una subsistencia digna al trabajador, más allá de lo pactado en un contrato libre.",
+      "options": ["Salario Justo", "Liberalismo Económico", "Socialismo Científico"],
+      "answer": "Salario Justo",
+      "explanation": "Si la necesidad del obrero le obliga a aceptar condiciones insuficientes, el empleador comete una injusticia real."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La denuncia de la explotación",
+      "tiles": ["La", "encíclica", "denunció", "la", "explotación", "obrera", "celebró", "ignoró"],
+      "answer": "La encíclica denunció la explotación obrera",
+      "explanation": "Describió cómo un reducido número de hombres opulentos sometía a la multitud de proletarios a una condición próxima a la esclavitud."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué papel asigna Rerum Novarum al Estado en materia laboral?",
+      "options": ["Intervención subsidiaria, legislando en defensa del bien común y de los más vulnerables cuando sea necesario", "Abstención total, dejando la regulación exclusivamente al mercado", "Absorción completa de la actividad económica y productiva"],
+      "correct": 0,
+      "hint": "Puede legislar sobre jornada laboral y trabajo infantil.",
+      "explanation": "Este principio sería formalizado terminológicamente cuarenta años después por Pío XI."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ propone la abolición de la propiedad privada de los medios de producción.",
+      "options": ["Socialismo Científico", "Liberalismo Económico", "Salario Justo"],
+      "answer": "Socialismo Científico",
+      "explanation": "Fue formulado por Karl Marx y Friedrich Engels para distinguirlo de los socialismos utópicos anteriores."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Manifiesto del Partido Comunista (1848)", "es": "Formuló la historia como sucesión de luchas de clases" },
+        { "en": "Syllabus Errorum (1864)", "es": "Pío IX condenó el racionalismo y el liberalismo político" },
+        { "en": "Huelga de los estibadores de Londres (1889)", "es": "Mediada con éxito por el cardenal Manning" },
+        { "en": "Publicación de Rerum Novarum (15-V-1891)", "es": "Acta fundacional de la Doctrina Social de la Iglesia" },
+        { "en": "Quadragesimo Anno (1931)", "es": "Pío XI acuñó formalmente el término subsidiariedad" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La caridad organizada",
+      "tiles": ["Ozanam", "fundó", "las", "Conferencias", "de", "San", "Vicente", "disolvió", "ignoró"],
+      "answer": "Ozanam fundó las Conferencias de San Vicente",
+      "explanation": "Lo hizo en 1833, promoviendo un modelo de caridad que visitaba a las familias obreras en sus domicilios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pontífice antecedió a León XIII y qué caracterizó su relación con el mundo moderno?",
+      "options": ["Pío IX, cuyo pontificado final se caracterizó por una postura defensiva, con el Syllabus de 1864 y la pérdida de los Estados Pontificios", "Pío X, que impulsó activamente la Doctrina Social antes que León XIII", "Gregorio XVI, que convocó el Concilio Vaticano I"],
+      "correct": 0,
+      "hint": "Perdió la soberanía temporal sobre Roma en 1870.",
+      "explanation": "Este clima de repliegue defensivo explica el vacío doctrinal que León XIII vendría a llenar."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ publicó Rerum Novarum el 15 de mayo de 1891.",
+      "options": ["León XIII", "Pío IX", "Pío X"],
+      "answer": "León XIII",
+      "explanation": "Su nombre de nacimiento era Gioacchino Pecci, elegido papa en 1878."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La mediación laboral",
+      "tiles": ["Manning", "medió", "en", "la", "huelga", "portuaria", "ignoró", "provocó"],
+      "answer": "Manning medió en la huelga portuaria",
+      "explanation": "Demostró en 1889 que la Iglesia podía intervenir activamente y con eficacia en conflictos laborales concretos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obispo de Maguncia influyó directamente en la redacción de Rerum Novarum con su obra de 1864?",
+      "options": ["Wilhelm Emmanuel von Ketteler", "Adolph Kolping", "Gaspard Mermillod"],
+      "correct": 0,
+      "hint": "Su obra se titulaba La cuestión obrera y el cristianismo.",
+      "explanation": "Defendió tempranamente el derecho de los trabajadores a asociarse en sindicatos y cooperativas."
+    },
+    {
+      "type": "gap",
+      "text": "___ fue el obispo de Maguncia cuya obra de 1864 influyó directamente en la encíclica.",
+      "options": ["Wilhelm Emmanuel von Ketteler", "Adolph Kolping", "Gaspard Mermillod"],
+      "answer": "Wilhelm Emmanuel von Ketteler",
+      "explanation": "Ejerció una influencia directa y reconocida sobre la redacción posterior de Rerum Novarum."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La defensa salarial",
+      "tiles": ["Rerum", "Novarum", "defendió", "el", "salario", "justo", "rechazó", "ignoró"],
+      "answer": "Rerum Novarum defendió el salario justo",
+      "explanation": "Introdujo un criterio de justicia objetiva que corrige la pura lógica de la oferta y la demanda."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién fundó en 1833 las Conferencias de San Vicente de Paúl?",
+      "options": ["Frédéric Ozanam", "Wilhelm von Ketteler", "Adolph Kolping"],
+      "correct": 0,
+      "hint": "Fue en Francia.",
+      "explanation": "Este modelo de caridad organizada fue uno de los precursores del catolicismo social."
+    },
+    {
+      "type": "gap",
+      "text": "El cardenal ___ medió con éxito en la huelga de los estibadores de Londres en 1889.",
+      "options": ["Henry Edward Manning", "Gaspard Mermillod", "Wilhelm von Ketteler"],
+      "answer": "Henry Edward Manning",
+      "explanation": "Era arzobispo de Westminster y ganó un notable prestigio público con esta mediación."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El principio de subsidiariedad",
+      "tiles": ["Pío", "XI", "acuñó", "la", "subsidiariedad", "rechazó", "ignoró"],
+      "answer": "Pío XI acuñó la subsidiariedad",
+      "explanation": "Lo hizo formalmente en la encíclica Quadragesimo Anno de 1931."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué encíclica de 1931 acuñó Pío XI formalmente el término 'subsidiariedad'?",
+      "options": ["Quadragesimo Anno", "Aeterni Patris", "Rerum Novarum"],
+      "correct": 0,
+      "hint": "El principio ya estaba presente de forma embrionaria en 1891.",
+      "explanation": "Esta continuidad doctrinal explica por qué se reconoce a León XIII como quien sentó sus bases."
+    },
+    {
+      "type": "gap",
+      "text": "El término 'subsidiariedad' fue acuñado formalmente por Pío XI en la encíclica ___ de 1931.",
+      "options": ["Quadragesimo Anno", "Aeterni Patris", "Rerum Novarum"],
+      "answer": "Quadragesimo Anno",
+      "explanation": "La teología moral posterior reconoce unánimemente a León XIII como el autor que sentó sus bases doctrinales."
+    }
+  ]
+}

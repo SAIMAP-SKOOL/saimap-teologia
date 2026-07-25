@@ -1,0 +1,243 @@
+{
+  "id": "1.5-mod01",
+  "module": 1,
+  "title": "La Ilustración, el Racionalismo Filosófico y el Impacto del Deísmo",
+  "subtitle": "De Locke y Hume al regalismo católico y la alta crítica protestante",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Deísmo", "es": "Afirma un Dios creador cognoscible por la razón natural, pero niega la revelación y los milagros" },
+        { "en": "Religión Natural", "es": "Verdades religiosas mínimas accesibles a toda persona racional sin revelación positiva" },
+        { "en": "Alta Crítica", "es": "Somete los textos bíblicos al mismo escrutinio filológico e histórico que cualquier documento antiguo" },
+        { "en": "Regalismo", "es": "Subordina el gobierno de la Iglesia local a la autoridad del monarca o del Estado" },
+        { "en": "Febronianismo", "es": "Defiende la superioridad del episcopado colegiado sobre el primado papal" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el rasgo distintivo del deísmo frente al teísmo cristiano ortodoxo?",
+      "options": ["Afirma un Dios creador cognoscible por la razón natural, pero niega la revelación sobrenatural, los milagros y la providencia particular tras la creación", "Niega por completo la existencia de un Dios creador", "Sostiene que Dios y el universo son idénticos y se confunden en una sola sustancia"],
+      "correct": 0,
+      "hint": "Se resume en la imagen del 'Dios relojero'.",
+      "explanation": "El deísmo mantiene la necesidad racional de un Dios creador, pero rechaza que se haya revelado o intervenga providencialmente."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ afirma un Dios creador cognoscible por la razón natural, pero niega la revelación y los milagros.",
+      "options": ["Deísmo", "Regalismo", "Febronianismo"],
+      "answer": "Deísmo",
+      "explanation": "Ocupa una posición intermedia genuina entre el teísmo ortodoxo y el ateísmo materialista."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El programa kantiano",
+      "tiles": ["Kant", "definió", "la", "Ilustración", "rechazó", "ignoró"],
+      "answer": "Kant definió la Ilustración",
+      "explanation": "Lo hizo en su ensayo de 1784, acuñando la divisa sapere aude, 'atrévete a saber'."
+    },
+    {
+      "type": "quiz",
+      "q": "Según el argumento humeano sobre los milagros formulado en la Investigación sobre el entendimiento humano (1748), ¿cuál es su núcleo epistemológico?",
+      "options": ["Ningún testimonio resulta suficiente para establecer un milagro, salvo que su falsedad fuera un hecho más milagroso que el suceso que pretende probar", "Los milagros son metafísicamente imposibles porque contradicen leyes lógicas necesarias", "Los milagros bíblicos quedan demostrados siempre que exista al menos un testigo ocular directo del hecho"],
+      "correct": 0,
+      "hint": "Es un argumento de estructura probabilística, no de imposibilidad lógica.",
+      "explanation": "La experiencia uniforme de las leyes naturales pesa más que cualquier testimonio humano aislado."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es el conjunto mínimo de verdades religiosas accesibles a toda persona racional sin revelación positiva.",
+      "options": ["Religión Natural", "Alta Crítica", "Deísmo"],
+      "answer": "Religión Natural",
+      "explanation": "Incluía la existencia de Dios, la virtud moral y la retribución póstuma."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada postura con su tesis sobre la revelación",
+      "pairs": [
+        { "en": "Teísmo Ortodoxo Cristiano", "es": "Afirma un Dios creador; revelación y milagros aceptados; providencia activa continua" },
+        { "en": "Deísmo Ilustrado", "es": "Afirma un Dios cognoscible por razón natural; niega revelación y providencia particular" },
+        { "en": "Escepticismo Humeano", "es": "Existencia suspendida o incierta; rechaza milagros por insuficiencia probatoria" },
+        { "en": "Materialismo Ateo Ilustrado", "es": "Niega la existencia de Dios; sin objeto la revelación ni la providencia" },
+        { "en": "Defensor del materialismo ateo", "es": "El barón d'Holbach, autor del Sistema de la naturaleza (1770)" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El rechazo de los misterios",
+      "tiles": ["Toland", "rechazó", "los", "misterios", "cristianos", "defendió", "aceptó"],
+      "answer": "Toland rechazó los misterios cristianos",
+      "explanation": "Lo hizo en El cristianismo no misterioso (1696), obra quemada públicamente por orden de un jurado de Dublín."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué defendía el febronianismo formulado por Justinus Febronius (Johann Nikolaus von Hontheim) en 1763?",
+      "options": ["Que el primado papal es de honor y coordinación, mientras que el poder supremo de gobierno reside colegiadamente en el conjunto de los obispos", "La infalibilidad pontificia como dogma de fe revelado directamente por Dios", "La abolición completa del episcopado diocesano en favor de un papado de gobierno absoluto"],
+      "correct": 0,
+      "hint": "Inspiró las reivindicaciones del Congreso de Ems (1786).",
+      "explanation": "El dogma de la infalibilidad pontificia se definiría casi un siglo después, en el Vaticano I (1870), en sentido opuesto."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ somete los textos bíblicos al mismo escrutinio filológico e histórico que cualquier documento antiguo.",
+      "options": ["Alta Crítica", "Religión Natural", "Regalismo"],
+      "answer": "Alta Crítica",
+      "explanation": "Nació en la Alemania protestante del siglo XVIII, con Reimarus y Semler como pioneros."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Immanuel Kant", "es": "Autor de ¿Qué es la Ilustración?, acuñó la divisa sapere aude" },
+        { "en": "David Hume", "es": "Filósofo escocés que criticó el argumento del diseño y los milagros" },
+        { "en": "Voltaire", "es": "Difusor del deísmo continental, autor de la consigna Écrasez l'infâme" },
+        { "en": "Hermann Samuel Reimarus", "es": "Distinguió entre el Jesús histórico y el Cristo de la fe apostólica" },
+        { "en": "Johann Nikolaus von Hontheim", "es": "Bajo el pseudónimo de Justinus Febronius, sistematizó el febronianismo" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La crítica al argumento del diseño",
+      "tiles": ["Hume", "cuestionó", "el", "argumento", "del", "diseño", "defendió", "ignoró"],
+      "answer": "Hume cuestionó el argumento del diseño",
+      "explanation": "Lo hizo mediante el personaje Philo en sus Diálogos sobre la religión natural."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el balance historiográfico de consenso sobre el efecto de la Ilustración en el cristianismo europeo del siglo XVIII?",
+      "options": ["El cristianismo, sin ser destruido institucionalmente, perdió su condición de presuposición cultural incuestionada y pasó a requerir defensa argumentativa explícita", "La Ilustración erradicó por completo la práctica religiosa y la implantación institucional de la Iglesia en Europa antes de 1789", "La Ilustración fue un movimiento exclusivamente anticlerical y ateo, sin ninguna corriente compatible con la creencia religiosa"],
+      "correct": 0,
+      "hint": "Esto impulsó el auge de la apologética racional, como la de Paley.",
+      "explanation": "La práctica y la implantación institucional del cristianismo se mantuvieron sustancialmente estables hasta la Revolución Francesa."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ subordina el gobierno de la Iglesia local a la autoridad del monarca o del Estado.",
+      "options": ["Regalismo", "Febronianismo", "Deísmo"],
+      "answer": "Regalismo",
+      "explanation": "Restringía la jurisdicción efectiva de Roma en materia disciplinar, económica y administrativa."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La defensa deísta de Dios",
+      "tiles": ["Voltaire", "defendió", "la", "necesidad", "de", "Dios", "negó", "rechazó"],
+      "answer": "Voltaire defendió la necesidad de Dios",
+      "explanation": "Escribió que si Dios no existiera, sería necesario inventarlo, combinando anticlericalismo con teísmo filosófico."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué filósofo inglés publicó en 1696 El cristianismo no misterioso, obra quemada públicamente en Dublín?",
+      "options": ["John Toland", "Matthew Tindal", "Anthony Collins"],
+      "correct": 0,
+      "hint": "Argumentaba que ninguna doctrina revelada podía contener elementos contrarios a la razón.",
+      "explanation": "Fue condenada por un gran jurado de Dublín en 1697."
+    },
+    {
+      "type": "gap",
+      "text": "Immanuel Kant acuñó la divisa latina ___ ('atrévete a saber') en su ensayo de 1784.",
+      "options": ["sapere aude", "cuius regio", "ecrasez l'infâme"],
+      "answer": "sapere aude",
+      "explanation": "Resumía el programa de salida de la 'culpable minoría de edad' del ser humano."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Publicación de la Enciclopedia (1751-1772)", "es": "Sometió instituciones y creencias al escrutinio racional" },
+        { "en": "Diálogos sobre la religión natural (1779)", "es": "Demolición del argumento del diseño mediante el personaje Philo" },
+        { "en": "Sínodo de Pistoya (1786)", "es": "Combinó rigorismo jansenista tardío con reforma litúrgica, condenado en 1794" },
+        { "en": "Patente de Tolerancia de José II (1781)", "es": "Concedió derechos civiles limitados a luteranos, calvinistas y ortodoxos" },
+        { "en": "Congreso de Ems (1786)", "es": "Príncipes-arzobispos alemanes reclamaron competencias jurisdiccionales frente a Roma" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La distinción de Reimarus",
+      "tiles": ["Reimarus", "distinguió", "a", "Jesús", "del", "Cristo", "confundió", "igualó"],
+      "answer": "Reimarus distinguió a Jesús del Cristo",
+      "explanation": "Diferenciaba entre el Jesús histórico y el Cristo de la fe apostólica construido por los discípulos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obra de Matthew Tindal (1730) fue conocida como 'la Biblia de los deístas'?",
+      "options": ["El cristianismo tan antiguo como la creación", "El cristianismo no misterioso", "El Sistema de la naturaleza"],
+      "correct": 0,
+      "hint": "Sostenía que la revelación cristiana no añadía nada a la religión natural.",
+      "explanation": "Representó la formulación más acabada de la síntesis deísta inglesa."
+    },
+    {
+      "type": "gap",
+      "text": "___ puso en boca del personaje Philo la crítica al argumento del diseño en sus Diálogos sobre la religión natural.",
+      "options": ["David Hume", "Voltaire", "Immanuel Kant"],
+      "answer": "David Hume",
+      "explanation": "Argumentaba que solo tenemos experiencia de un único universo, sin muestra comparativa para inferir un diseñador."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El materialismo de Holbach",
+      "tiles": ["José", "II", "disolvió", "los", "monasterios", "austríacos", "fundó", "protegió"],
+      "answer": "José II disolvió los monasterios austríacos",
+      "explanation": "Disolvió cerca de setecientos, aproximadamente un tercio del total, por considerarlos socialmente improductivos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué teólogo de Halle distinguió entre la 'Palabra de Dios' y el texto bíblico transmitido históricamente?",
+      "options": ["Johann Salomo Semler", "Hermann Samuel Reimarus", "Gotthold Ephraim Lessing"],
+      "correct": 0,
+      "hint": "Es considerado el padre del racionalismo bíblico alemán.",
+      "explanation": "Sostenía que el canon fue el resultado de un proceso histórico contingente de selección eclesiástica."
+    },
+    {
+      "type": "gap",
+      "text": "El barón ___ defendió el materialismo ateo explícito en su Sistema de la naturaleza (1770).",
+      "options": ["d'Holbach", "Hontheim", "Reimarus"],
+      "answer": "d'Holbach",
+      "explanation": "A diferencia del deísta, prescindía por completo de cualquier causa no material."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El viaje papal a Viena",
+      "tiles": ["Pío", "VI", "viajó", "a", "Viena", "evitó", "rechazó"],
+      "answer": "Pío VI viajó a Viena",
+      "explanation": "Lo hizo en 1782 para intentar disuadir a José II de continuar sus reformas eclesiásticas, sin éxito."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué emperador austríaco disolvió cerca de setecientos monasterios contemplativos en 1781-1790?",
+      "options": ["José II", "Pedro Leopoldo", "Francisco I"],
+      "correct": 0,
+      "hint": "Promulgó también la Patente de Tolerancia en 1781.",
+      "explanation": "Sustituyó la formación clerical tradicional por seminarios generales estatales."
+    },
+    {
+      "type": "gap",
+      "text": "___ redactó en secreto una obra que distinguía entre el Jesús histórico y el Cristo de la fe apostólica.",
+      "options": ["Hermann Samuel Reimarus", "Johann Salomo Semler", "Gotthold Ephraim Lessing"],
+      "answer": "Hermann Samuel Reimarus",
+      "explanation": "Su obra fue publicada póstumamente por Lessing bajo el título de Fragmentos de un anónimo de Wolfenbüttel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La condena del sínodo toscano",
+      "tiles": ["Roma", "condenó", "el", "Sínodo", "de", "Pistoya", "aprobó", "celebró"],
+      "answer": "Roma condenó el Sínodo de Pistoya",
+      "explanation": "Pío VI lo hizo mediante la bula Auctorem Fidei de 1794."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué papa viajó personalmente a Viena en 1782 para disuadir a José II de sus reformas eclesiásticas?",
+      "options": ["Pío VI", "Pío V", "Clemente XIV"],
+      "correct": 0,
+      "hint": "Fue un gesto sin precedentes en la diplomacia pontificia moderna.",
+      "explanation": "El viaje fue recibido con cortesía protocolaria pero no alteró el rumbo de la política eclesiástica imperial."
+    },
+    {
+      "type": "gap",
+      "text": "El Sínodo de ___ (1786) fue condenado por Pío VI en la bula Auctorem Fidei de 1794.",
+      "options": ["Pistoya", "Ems", "Trento"],
+      "answer": "Pistoya",
+      "explanation": "Fue convocado por el obispo Scipione de' Ricci con el respaldo del gran duque Pedro Leopoldo."
+    }
+  ]
+}

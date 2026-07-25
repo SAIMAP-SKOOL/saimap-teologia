@@ -1,0 +1,243 @@
+{
+  "id": "1.5-mod06",
+  "module": 6,
+  "title": "Las Persecuciones Religiosas en el Siglo XX",
+  "subtitle": "La Cristiada mexicana, la violencia anticlerical española y la Iglesia del Silencio",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Ley Calles (1926)", "es": "Endureció la aplicación penal de los artículos anticlericales de la Constitución mexicana" },
+        { "en": "Cristero", "es": "Combatiente católico mexicano alzado bajo el grito '¡Viva Cristo Rey!'" },
+        { "en": "Arreglos de 1929", "es": "Pusieron fin a las hostilidades armadas sin derogar la legislación anticlerical" },
+        { "en": "Iglesia del Silencio", "es": "Expresión de Pío XII para las comunidades cristianas bajo control comunista" },
+        { "en": "Ateísmo de Estado", "es": "Política oficial de un gobierno que promueve activamente el rechazo religioso" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué reforma legal mexicana de 1926 desencadenó directamente el levantamiento armado cristero?",
+      "options": ["La Ley Calles, reforma del Código Penal que endureció la aplicación de los artículos anticlericales constitucionales", "La Constitución de 1917", "Los arreglos de 1929"],
+      "correct": 0,
+      "hint": "La Constitución de 1917 ya contenía los artículos anticlericales de fondo.",
+      "explanation": "La Ley Calles activó su aplicación penal estricta y provocó la suspensión del culto y el alzamiento armado."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ (1926) endureció la aplicación penal de los artículos anticlericales de la Constitución mexicana.",
+      "options": ["Ley Calles", "Arreglos de 1929", "Ateísmo de Estado"],
+      "answer": "Ley Calles",
+      "explanation": "Provocó el cierre de conventos, la expulsión de sacerdotes extranjeros y la exigencia de registro estatal."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La ley anticlerical",
+      "tiles": ["Calles", "promulgó", "la", "ley", "anticlerical", "derogó", "rechazó"],
+      "answer": "Calles promulgó la ley anticlerical",
+      "explanation": "Su aplicación intensiva provocó la suspensión del culto público en todo el país."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál era el grito de guerra distintivo de los combatientes católicos mexicanos durante la Cristiada?",
+      "options": ["¡Viva Cristo Rey!", "¡Viva la Revolución!", "¡Viva la Constitución!"],
+      "correct": 0,
+      "hint": "Remite a la fiesta instituida por Pío XI en 1925.",
+      "explanation": "Fue adoptado como lema identitario de los cristeros frente a la persecución."
+    },
+    {
+      "type": "gap",
+      "text": "Los ___ eran los combatientes católicos mexicanos que se alzaron bajo el grito '¡Viva Cristo Rey!'",
+      "options": ["Cristeros", "Arreglos", "Militantes Sin Dios"],
+      "answer": "Cristeros",
+      "explanation": "Eran mayoritariamente campesinos con escasa preparación militar del centro-occidente de México."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada episodio con su ideología y mecanismo",
+      "pairs": [
+        { "en": "Guerra Cristera (México)", "es": "Nacionalismo revolucionario anticlerical; conflicto armado convencional (1926-1929)" },
+        { "en": "Guerra Civil Española (zona republicana)", "es": "Anarquismo y comunismo revolucionario; violencia descentralizada (1936)" },
+        { "en": "URSS", "es": "Marxismo-leninismo y ateísmo de Estado; política de Estado sostenida" },
+        { "en": "Bloque del Este (Hungría)", "es": "Marxismo-leninismo de posguerra; control burocrático y juicios-espectáculo" },
+        { "en": "Resolución de la Guerra Cristera", "es": "Arreglos de 1929, una pacificación incompleta" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El martirio del padre Pro",
+      "tiles": ["El", "padre", "Pro", "perdonó", "a", "sus", "verdugos", "condenó", "maldijo"],
+      "answer": "El padre Pro perdonó a sus verdugos",
+      "explanation": "Fue fusilado sin juicio formal el 23 de noviembre de 1927 y beatificado por Juan Pablo II en 1988."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién medió diplomáticamente en los arreglos de 1929 que pusieron fin a la Guerra Cristera?",
+      "options": ["El embajador de Estados Unidos, Dwight Morrow", "El papa Pío XI directamente", "La Sociedad de Naciones"],
+      "correct": 0,
+      "hint": "Contó con el arzobispo Pascual Díaz Barreto como interlocutor eclesiástico.",
+      "explanation": "Logró la reanudación del culto sin derogar la legislación anticlerical de fondo."
+    },
+    {
+      "type": "gap",
+      "text": "Los ___ de 1929 pusieron fin a las hostilidades armadas sin derogar la legislación anticlerical.",
+      "options": ["Arreglos", "Ley Calles", "Gran Terror"],
+      "answer": "Arreglos",
+      "explanation": "Fueron mediados por el embajador estadounidense Dwight Morrow."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Plutarco Elías Calles", "es": "Presidente mexicano que promulgó la Ley Calles en 1926" },
+        { "en": "Miguel Agustín Pro", "es": "Jesuita fusilado en 1927, beatificado en 1988" },
+        { "en": "Dwight Morrow", "es": "Embajador estadounidense que medió en los arreglos de 1929" },
+        { "en": "József Mindszenty", "es": "Cardenal húngaro refugiado quince años en la embajada de EE.UU." },
+        { "en": "Pío XII", "es": "Papa que acuñó la expresión 'Iglesia del Silencio'" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La violencia en la zona republicana",
+      "tiles": ["Milicias", "asesinaron", "a", "sacerdotes", "españoles", "protegieron", "liberaron"],
+      "answer": "Milicias asesinaron a sacerdotes españoles",
+      "explanation": "Ocurrió especialmente en los primeros meses del conflicto, tras el colapso del orden público republicano."
+    },
+    {
+      "type": "quiz",
+      "q": "Según la obra de referencia de Antonio Montero Moreno, ¿cuál es el orden de magnitud de consenso historiográfico del clero y religiosos asesinados en la zona republicana durante la Guerra Civil española?",
+      "options": ["Aproximadamente 6.800-7.000 personas", "Alrededor de 500 personas", "Más de 50.000 personas"],
+      "correct": 0,
+      "hint": "Incluye 13 obispos, unos 4.184 sacerdotes diocesanos y otros religiosos.",
+      "explanation": "Esta cifra es aceptada como orden de magnitud por historiadores posteriores de procedencias ideológicas diversas."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la expresión de Pío XII para las comunidades cristianas bajo control comunista tras el Telón de Acero.",
+      "options": ["Iglesia del Silencio", "Liga de los Militantes Sin Dios", "Cuestión Romana"],
+      "answer": "Iglesia del Silencio",
+      "explanation": "La popularizó en sus alocuciones de la década de 1950."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Constitución mexicana de 1917", "es": "Contenía los artículos anticlericales de fondo" },
+        { "en": "Encíclica Quas Primas (1925)", "es": "Instituyó la fiesta de Cristo Rey, origen del grito cristero" },
+        { "en": "Gran Terror soviético (1937-1938)", "es": "Ejecución o deportación de decenas de miles de clérigos" },
+        { "en": "Beatificación de 498 mártires españoles (2007)", "es": "Mayor ceremonia de beatificación conjunta de la historia" },
+        { "en": "Albania como 'Estado ateo' (1967)", "es": "Bajo el régimen de Enver Hoxha" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La represión soviética",
+      "tiles": ["La", "URSS", "cerró", "miles", "de", "templos", "abrió", "construyó"],
+      "answer": "La URSS cerró miles de templos",
+      "explanation": "Hacia 1939 solo permanecían abiertos unos pocos cientos en todo el territorio soviético."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué papa acuñó la expresión 'Iglesia del Silencio' para las comunidades cristianas bajo regímenes comunistas?",
+      "options": ["Pío XII", "Juan Pablo II", "Pablo VI"],
+      "correct": 0,
+      "hint": "Su pontificado fue entre 1939 y 1958.",
+      "explanation": "Lo hizo en referencia a la falta de libertad religiosa tras el Telón de Acero."
+    },
+    {
+      "type": "gap",
+      "text": "El presidente mexicano ___ promulgó la Ley Calles en julio de 1926.",
+      "options": ["Plutarco Elías Calles", "Álvaro Obregón", "Pascual Díaz Barreto"],
+      "answer": "Plutarco Elías Calles",
+      "explanation": "Concebía el anticlericalismo constitucional como un programa efectivo de secularización forzosa."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La descripción papal",
+      "tiles": ["Pío", "XII", "describió", "la", "Iglesia", "del", "Silencio", "ignoró", "celebró"],
+      "answer": "Pío XII describió la Iglesia del Silencio",
+      "explanation": "Se refería al conjunto de comunidades cristianas que vivían tras el Telón de Acero."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le sucedió al cardenal József Mindszenty tras el levantamiento húngaro de 1956?",
+      "options": ["Se refugió durante quince años en la embajada de Estados Unidos en Budapest", "Fue ejecutado inmediatamente por las autoridades soviéticas", "Fue nombrado jefe de Estado del gobierno provisional húngaro"],
+      "correct": 0,
+      "hint": "Solo en 1971 se le permitió salir al exilio.",
+      "explanation": "Esto ocurrió tras la intervención soviética que sofocó la revuelta de 1956."
+    },
+    {
+      "type": "gap",
+      "text": "El jesuita ___ fue fusilado sin juicio formal el 23 de noviembre de 1927.",
+      "options": ["Miguel Agustín Pro", "Pascual Díaz Barreto", "Dwight Morrow"],
+      "answer": "Miguel Agustín Pro",
+      "explanation": "Calles autorizó la difusión de fotografías de su ejecución para disuadir a la población de la causa cristera."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El refugio diplomático",
+      "tiles": ["Mindszenty", "se", "refugió", "en", "la", "embajada", "huyó", "regresó"],
+      "answer": "Mindszenty se refugió en la embajada",
+      "explanation": "Permaneció allí quince años, entre 1956 y 1971, tras el fracaso del levantamiento húngaro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué rasgo estructural comparten la Cristiada mexicana, la violencia anticlerical española y la represión soviética, pese a sus diferencias ideológicas de fondo?",
+      "options": ["Las tres identificaron a la Iglesia como un obstáculo estructural para su proyecto de transformación social, aunque con métodos y escala muy distintos", "Las tres fueron ordenadas y ejecutadas de manera centralizada por un único aparato estatal con idéntica intensidad", "Las tres tuvieron exactamente el mismo número de víctimas"],
+      "correct": 0,
+      "hint": "No hay que homogeneizar métodos, escala o grado de planificación estatal.",
+      "explanation": "La historiografía no sostiene una intencionalidad estatal centralizada equivalente para el caso español."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es la política oficial de un gobierno que promueve activamente el rechazo de toda creencia religiosa.",
+      "options": ["Ateísmo de Estado", "Anticlericalismo revolucionario", "Iglesia del Silencio"],
+      "answer": "Ateísmo de Estado",
+      "explanation": "Llevado a su expresión más extrema en la Albania de Enver Hoxha en 1967."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La proclamación albanesa",
+      "tiles": ["Albania", "se", "proclamó", "Estado", "ateo", "religioso", "católico"],
+      "answer": "Albania se proclamó Estado ateo",
+      "explanation": "Lo hizo en 1967, prohibiendo legalmente toda práctica religiosa hasta 1990-1991."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién fue el jesuita fusilado en 1927 cuya imagen con los brazos en cruz se convirtió en icono de la resistencia católica?",
+      "options": ["Miguel Agustín Pro", "József Mindszenty", "Stefan Wyszyński"],
+      "correct": 0,
+      "hint": "Ejercía un ministerio clandestino en la Ciudad de México.",
+      "explanation": "El efecto de difundir su ejecución resultó contrario al buscado por Calles."
+    },
+    {
+      "type": "gap",
+      "text": "El embajador estadounidense ___ medió en los arreglos de 1929.",
+      "options": ["Dwight Morrow", "Plutarco Elías Calles", "Álvaro Obregón"],
+      "answer": "Dwight Morrow",
+      "explanation": "El acuerdo permitió la reanudación del culto público a partir de junio de 1929."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué régimen se autoproclamó en 1967 el primer 'Estado ateo' del mundo?",
+      "options": ["Albania, bajo Enver Hoxha", "Hungría, bajo el gobierno comunista", "La URSS, bajo Stalin"],
+      "correct": 0,
+      "hint": "Prohibió legalmente toda práctica religiosa, pública o privada.",
+      "explanation": "Esta situación se mantuvo hasta la caída del régimen en 1990-1991."
+    },
+    {
+      "type": "gap",
+      "text": "El cardenal ___ fue internado sin juicio en Polonia entre 1953 y 1956.",
+      "options": ["Stefan Wyszyński", "József Mindszenty", "Pío XII"],
+      "answer": "Stefan Wyszyński",
+      "explanation": "Sufrió un patrón similar de represión al del cardenal Mindszenty en Hungría."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El obispado suspendió el culto",
+      "tiles": ["El", "episcopado", "suspendió", "el", "culto", "público", "amplió", "celebró"],
+      "answer": "El episcopado suspendió el culto público",
+      "explanation": "Lo hizo a partir del 31 de julio de 1926, dejando a millones de fieles sin acceso a los sacramentos."
+    }
+  ]
+}

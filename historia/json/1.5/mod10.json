@@ -1,0 +1,243 @@
+{
+  "id": "1.5-mod10",
+  "module": 10,
+  "title": "El Movimiento Ecuménico Moderno",
+  "subtitle": "De Edimburgo 1910 a la Declaración Conjunta sobre la Justificación de 1999",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Ecumenismo", "es": "Movimiento moderno que busca la unidad visible entre las iglesias cristianas divididas" },
+        { "en": "Iglesias y Comunidades Eclesiales", "es": "Distinción católica entre cuerpos con sucesión apostólica y comunidades surgidas de la Reforma" },
+        { "en": "Consenso Diferenciado", "es": "Metodología que declara acuerdo doctrinal sustancial admitiendo matices propios de cada tradición" },
+        { "en": "Cisma de 1054", "es": "Ruptura de comunión entre Roma y Constantinopla por excomunión mutua" },
+        { "en": "Anatema", "es": "Sentencia formal de exclusión de la comunión eclesial contra una persona o doctrina" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué contexto surgió el movimiento ecuménico moderno según el consenso historiográfico?",
+      "options": ["En la cooperación misionera protestante de principios del siglo XX, en la Conferencia de Edimburgo de 1910", "En un concilio dogmático convocado por la Santa Sede a finales del siglo XIX", "En una iniciativa conjunta de Roma y Constantinopla tras la Primera Guerra Mundial"],
+      "correct": 0,
+      "hint": "Fue presidida por el laico metodista John R. Mott.",
+      "explanation": "De Edimburgo derivaron después las corrientes de Fe y Constitución y Vida y Acción."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el movimiento moderno que busca la restauración de la unidad visible entre las iglesias cristianas divididas.",
+      "options": ["Ecumenismo", "Consenso Diferenciado", "Anatema"],
+      "answer": "Ecumenismo",
+      "explanation": "No debe confundirse con el 'concilio ecuménico' de la Antigüedad, que presuponía una Iglesia ya unida."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La cautela metodológica de Edimburgo",
+      "tiles": ["Edimburgo", "excluyó", "el", "debate", "doctrinal", "promovió", "inició"],
+      "answer": "Edimburgo excluyó el debate doctrinal",
+      "explanation": "Se concentró deliberadamente en la cooperación práctica: reparto de territorios y traducción bíblica."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué caracterizó a la fundación del Consejo Mundial de Iglesias en Ámsterdam en 1948?",
+      "options": ["Reunió principalmente a iglesias protestantes y ortodoxas, sin participación católica, tras la fusión de Fe y Constitución y Vida y Acción", "Fue una plataforma constituida conjuntamente por católicos, ortodoxos y protestantes desde su origen", "Fue convocada directamente por el papa Pío XII como gesto de apertura ecuménica católica"],
+      "correct": 0,
+      "hint": "La Iglesia católica permaneció ausente por la condena de Mortalium Animos.",
+      "explanation": "Reunió a 147 iglesias de 44 países, con el Patriarcado Ecuménico como miembro fundador ortodoxo."
+    },
+    {
+      "type": "gap",
+      "text": "El Consejo Mundial de Iglesias se fundó en ___ en 1948.",
+      "options": ["Ámsterdam", "Ginebra", "Lausana"],
+      "answer": "Ámsterdam",
+      "explanation": "Su sede permanente quedó establecida en Ginebra."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada hito ecuménico con su naturaleza y límite",
+      "pairs": [
+        { "en": "Conferencia de Edimburgo (1910)", "es": "Cooperación misionera práctica; excluyó el debate doctrinal" },
+        { "en": "Fundación del CMI (1948, Ámsterdam)", "es": "Institución permanente de diálogo; sin participación católica como miembro" },
+        { "en": "Unitatis Redintegratio (1964)", "es": "Reconocimiento doctrinal de elementos eclesiales en otras comunidades" },
+        { "en": "Levantamiento de excomuniones (1965)", "es": "Supresión de las sentencias de 1054; no resuelve el cisma jurisdiccional" },
+        { "en": "Declaración Conjunta sobre la Justificación (1999)", "es": "Consenso diferenciado sobre un punto doctrinal específico" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La condena de Pío XI",
+      "tiles": ["Pío", "XI", "condenó", "el", "pan-cristianismo", "aprobó", "ignoró"],
+      "answer": "Pío XI condenó el pan-cristianismo",
+      "explanation": "Lo hizo mediante la encíclica Mortalium Animos de 1928."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué significó el decreto Unitatis Redintegratio (1964) del Concilio Vaticano II?",
+      "options": ["El reconocimiento católico de elementos reales de santificación y verdad en las comunidades separadas de Roma, sin implicar una unión ya consumada", "La plena integración de la Iglesia católica como miembro de pleno derecho del Consejo Mundial de Iglesias", "La renuncia formal de la Santa Sede al primado petrino como condición para el diálogo ecuménico"],
+      "correct": 0,
+      "hint": "Distingue entre Iglesias orientales y comunidades eclesiales protestantes.",
+      "explanation": "Se articuló con la fórmula de que la única Iglesia de Cristo 'subsiste en' la Iglesia católica."
+    },
+    {
+      "type": "gap",
+      "text": "El decreto ___ (1964) reconoció elementos de santificación y verdad fuera de los límites visibles de la Iglesia católica.",
+      "options": ["Unitatis Redintegratio", "Mortalium Animos", "Lumen Gentium"],
+      "answer": "Unitatis Redintegratio",
+      "explanation": "Es considerado desde entonces la carta magna del ecumenismo católico."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "John R. Mott", "es": "Laico metodista estadounidense que presidió la Conferencia de Edimburgo de 1910" },
+        { "en": "Charles Henry Brent", "es": "Obispo episcopaliano que impulsó la corriente Fe y Constitución" },
+        { "en": "Nathan Söderblom", "es": "Arzobispo luterano sueco que promovió la corriente Vida y Acción" },
+        { "en": "Agustín Bea", "es": "Cardenal jesuita que presidió el Secretariado para la Unidad de los Cristianos" },
+        { "en": "Atenágoras I", "es": "Patriarca ecuménico de Constantinopla que se abrazó con Pablo VI en 1964" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El diálogo abierto por el concilio",
+      "tiles": ["El", "Vaticano", "Segundo", "abrió", "el", "diálogo", "cerró", "rechazó"],
+      "answer": "El Vaticano Segundo abrió el diálogo",
+      "explanation": "Invitó a observadores de otras iglesias cristianas a asistir a sus sesiones."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué es exactamente la Declaración Conjunta sobre la Doctrina de la Justificación (1999)?",
+      "options": ["Un consenso diferenciado que declara superadas las condenas confesionales del siglo XVI en esa materia, sin resolver las diferencias eclesiológicas pendientes", "Un acuerdo de unión eclesial plena entre la Iglesia católica y la Federación Luterana Mundial, con intercomunión eucarística", "Una declaración exclusivamente simbólica sin ningún contenido doctrinal verificable"],
+      "correct": 0,
+      "hint": "Se firmó en Augsburgo el 31 de octubre de 1999.",
+      "explanation": "La fecha coincidió deliberadamente con el aniversario de las noventa y cinco tesis de Lutero."
+    },
+    {
+      "type": "gap",
+      "text": "La Declaración Conjunta sobre la Doctrina de la Justificación se firmó en ___ en 1999.",
+      "options": ["Augsburgo", "Wittenberg", "Ginebra"],
+      "answer": "Augsburgo",
+      "explanation": "El Consejo Metodista Mundial se asoció al documento en 2006."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Mortalium Animos (1928)", "es": "Encíclica de Pío XI que condenó la participación católica en el ecumenismo" },
+        { "en": "Conferencia de Edimburgo (1910)", "es": "Origen misionero práctico del ecumenismo moderno" },
+        { "en": "Fundación del CMI (1948, Ámsterdam)", "es": "Fusión institucional de Fe y Constitución y Vida y Acción" },
+        { "en": "Unitatis Redintegratio (21-XI-1964)", "es": "Carta magna del ecumenismo católico" },
+        { "en": "Declaración Católico-Ortodoxa Conjunta (7-XII-1965)", "es": "Levantamiento de las excomuniones de 1054" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El gesto de Jerusalén",
+      "tiles": ["Pablo", "VI", "abrazó", "a", "Atenágoras", "excomulgó", "evitó"],
+      "answer": "Pablo VI abrazó a Atenágoras",
+      "explanation": "El encuentro tuvo lugar en el monte de los Olivos en enero de 1964."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué año se fundó el Secretariado para la Promoción de la Unidad de los Cristianos, bajo Juan XXIII?",
+      "options": ["1960", "1948", "1965"],
+      "correct": 0,
+      "hint": "Fue presidido por el cardenal jesuita Agustín Bea.",
+      "explanation": "Se convirtió en el motor conciliar del diálogo ecuménico católico."
+    },
+    {
+      "type": "gap",
+      "text": "Las ___ son sociedades misioneras protestantes que, en Edimburgo 1910, buscaron cooperación práctica más allá del debate doctrinal.",
+      "options": ["sociedades misioneras", "comunidades eclesiales", "iglesias autocéfalas"],
+      "answer": "sociedades misioneras",
+      "explanation": "Presidía la conferencia el laico metodista John R. Mott."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El levantamiento de las sentencias antiguas",
+      "tiles": ["Roma", "levantó", "las", "excomuniones", "antiguas", "mantuvo", "ignoró"],
+      "answer": "Roma levantó las excomuniones antiguas",
+      "explanation": "Se hizo simultáneamente en Roma y Constantinopla el 7 de diciembre de 1965."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dos corrientes organizativas surgieron de la Conferencia de Edimburgo de 1910?",
+      "options": ["Fe y Constitución, y Vida y Acción", "El Consejo Mundial de Iglesias y el Secretariado para la Unidad", "La Comisión Mixta Internacional y la Federación Luterana Mundial"],
+      "correct": 0,
+      "hint": "Una se centró en lo doctrinal y otra en la acción social.",
+      "explanation": "Fe y Constitución celebró su primera conferencia en Lausana en 1927; Vida y Acción, en Estocolmo en 1925."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ se reunió con el patriarca Atenágoras I en Jerusalén en enero de 1964.",
+      "options": ["Pablo VI", "Juan XXIII", "Pío XI"],
+      "answer": "Pablo VI",
+      "explanation": "Fue el primer encuentro entre un obispo de Roma y un patriarca de Constantinopla desde 1439."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El consenso firmado en Augsburgo",
+      "tiles": ["Luteranos", "y", "católicos", "firmaron", "un", "consenso", "rompieron", "evitaron"],
+      "answer": "Luteranos y católicos firmaron un consenso",
+      "explanation": "El documento emplea la metodología del consenso diferenciado."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué asamblea de 1961 se incorporó la Iglesia ortodoxa rusa al Consejo Mundial de Iglesias?",
+      "options": ["Nueva Delhi", "Ámsterdam", "Lausana"],
+      "correct": 0,
+      "hint": "Esa misma asamblea integró también al antiguo Consejo Misionero Internacional.",
+      "explanation": "Ocurrió en un contexto de deshielo relativo de la Guerra Fría."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ de 1054 separó a Roma y Constantinopla mediante excomunión mutua entre Humberto de Silva Cándida y Miguel Cerulario.",
+      "options": ["Cisma", "Anatema", "Concordato"],
+      "answer": "Cisma",
+      "explanation": "Permaneció como herida institucional sin gesto oficial de reconciliación durante nueve siglos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La composición del Consejo Mundial",
+      "tiles": ["El", "CMI", "reunió", "iglesias", "protestantes", "y", "ortodoxas", "excluyó", "católicas"],
+      "answer": "El CMI reunió iglesias protestantes y ortodoxas",
+      "explanation": "La Iglesia católica permaneció ausente por la condena de Mortalium Animos de 1928."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué papa promulgó la encíclica Mortalium Animos en 1928, condenando la participación católica en el ecumenismo?",
+      "options": ["Pío XI", "Pío XII", "Juan XXIII"],
+      "correct": 0,
+      "hint": "Consideraba incompatible la idea de un acercamiento entre confesiones como iguales.",
+      "explanation": "Su posición se mantuvo vigente hasta el Concilio Vaticano II tres décadas después."
+    },
+    {
+      "type": "gap",
+      "text": "Un ___ es una sentencia formal de exclusión de la comunión eclesial contra una persona o proposición doctrinal.",
+      "options": ["Anatema", "Consenso Diferenciado", "Concordato"],
+      "answer": "Anatema",
+      "explanation": "Las de 1054 fueron formalmente levantadas en 1965."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué fecha exacta se promulgó el decreto Unitatis Redintegratio durante el Concilio Vaticano II?",
+      "options": ["El 21 de noviembre de 1964", "El 7 de diciembre de 1965", "El 31 de octubre de 1999"],
+      "correct": 0,
+      "hint": "Fue aprobado por una mayoría abrumadora de los padres conciliares.",
+      "explanation": "Se considera desde entonces la carta magna del ecumenismo católico."
+    },
+    {
+      "type": "gap",
+      "text": "La Comisión Mixta Internacional para el Diálogo Teológico entre la Iglesia Católica y la Iglesia Ortodoxa se constituyó en ___.",
+      "options": ["1979", "1965", "1948"],
+      "answer": "1979",
+      "explanation": "Permitió avances doctrinales posteriores sobre cuestiones eclesiológicas y sacramentales."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El balance final del ecumenismo",
+      "tiles": ["El", "ecumenismo", "no", "logró", "la", "unidad", "plena", "alcanzó", "rechazó"],
+      "answer": "El ecumenismo no logró la unidad plena",
+      "explanation": "Sustituyó la condena recíproca por el diálogo, pero sin restaurar la unidad visible completa."
+    }
+  ]
+}

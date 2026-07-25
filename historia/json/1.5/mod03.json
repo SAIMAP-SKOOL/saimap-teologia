@@ -1,0 +1,243 @@
+{
+  "id": "1.5-mod03",
+  "module": 3,
+  "title": "John Wesley y el Nacimiento de las Iglesias Metodistas",
+  "subtitle": "Aldersgate Street, el arminianismo y el Gran Despertar",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Metodista", "es": "Apodo burlesco de Oxford por la rigurosa metodicidad de sus disciplinas devocionales" },
+        { "en": "Clase (class meeting)", "es": "Célula básica metodista de unas doce personas para el examen mutuo de conciencia" },
+        { "en": "Banda (band)", "es": "Grupo más reducido, segregado por sexo, orientado a la confesión mutua y la santificación" },
+        { "en": "Arminianismo", "es": "La gracia divina se ofrece universalmente y coopera con una voluntad humana libre" },
+        { "en": "Predicación al Aire Libre", "es": "Predicar fuera de los recintos consagrados, dirigida a poblaciones sin acceso parroquial" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué problemas estructurales caracterizaban a la Iglesia de Inglaterra del siglo XVIII según el consenso historiográfico?",
+      "options": ["El pluralismo beneficial y el absentismo del clero, junto a una predicación de escasa vitalidad pastoral", "La ausencia total de clero ordenado en las parroquias rurales", "La prohibición legal de la predicación anglicana fuera de Londres"],
+      "correct": 0,
+      "hint": "Estos problemas eran ampliamente documentados por los historiadores eclesiásticos.",
+      "explanation": "Se agravaban por una predicación rutinaria que no llegaba a las nuevas poblaciones industriales."
+    },
+    {
+      "type": "gap",
+      "text": "El apodo ___ fue atribuido burlonamente en Oxford por la rigurosa metodicidad de sus disciplinas devocionales.",
+      "options": ["Metodista", "Arminianismo", "Banda"],
+      "answer": "Metodista",
+      "explanation": "Con el tiempo perdió su carga peyorativa y se convirtió en el nombre propio del movimiento."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La experiencia de Aldersgate",
+      "tiles": ["Wesley", "sintió", "su", "corazón", "inflamado", "frío", "vacío"],
+      "answer": "Wesley sintió su corazón inflamado",
+      "explanation": "Ocurrió el 24 de mayo de 1738 mientras se leía el prefacio de Lutero a la Epístola a los Romanos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurrió exactamente el 24 de mayo de 1738 en Aldersgate Street, Londres?",
+      "options": ["John Wesley experimentó, durante la lectura del prefacio de Lutero a Romanos, la certeza de la salvación por la fe", "John Wesley fue ordenado obispo por la Iglesia morava", "George Whitefield predicó por primera vez al aire libre ante los mineros de Kingswood"],
+      "correct": 0,
+      "hint": "Wesley describió que su corazón se sintió 'extrañamente inflamado'.",
+      "explanation": "Wesley nunca fue ordenado obispo; siempre actuó canónicamente como presbítero de la Iglesia de Inglaterra."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ era la célula básica metodista, de unas doce personas, para el examen mutuo de conciencia.",
+      "options": ["Clase", "Banda", "Sociedad"],
+      "answer": "Clase",
+      "explanation": "Se reunía semanalmente bajo un líder laico y recaudaba una modesta cuota de un penique."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada figura con su postura teológica y método",
+      "pairs": [
+        { "en": "John Wesley", "es": "Arminianismo: gracia universal, libertad humana cooperante; sociedades/clases/bandas" },
+        { "en": "George Whitefield", "es": "Calvinismo: predestinación particular; predicación al aire libre transatlántica" },
+        { "en": "Jonathan Edwards", "es": "Calvinismo reformado puritano, con análisis de los afectos; predicación expositiva" },
+        { "en": "Resultado institucional de Wesley", "es": "Conexión Wesleyana; separación formal en 1795 en Inglaterra" },
+        { "en": "Resultado del Gran Despertar de Edwards", "es": "Fortalecimiento del 'New Light' congregacionalista" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La predicación entre mineros",
+      "tiles": ["Whitefield", "predicó", "a", "los", "mineros", "ignoró", "evitó"],
+      "answer": "Whitefield predicó a los mineros",
+      "explanation": "Lo hizo en Kingswood, cerca de Bristol, en 1739, persuadiendo después a Wesley de este método."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál fue el motivo central de la controversia teológica entre John Wesley y George Whitefield?",
+      "options": ["La oposición entre el arminianismo de Wesley (gracia universal y libertad humana) y el calvinismo de Whitefield (predestinación particular)", "La validez de la predicación al aire libre frente a la predicación parroquial", "La cuestión de si el bautismo debía administrarse por inmersión o por aspersión"],
+      "correct": 0,
+      "hint": "Estalló con el sermón wesleyano Free Grace.",
+      "explanation": "Ambos coincidían plenamente en la validez de la predicación al aire libre; no fue un punto de discordia."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ era un grupo más reducido, segregado por sexo, orientado a la confesión mutua y la santificación.",
+      "options": ["Banda", "Clase", "Conferencia"],
+      "answer": "Banda",
+      "explanation": "Buscaba la 'perfección cristiana', doctrina distintiva de la teología wesleyana."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "John Wesley", "es": "Fundador del metodismo, experimentó su conversión en Aldersgate Street en 1738" },
+        { "en": "George Whitefield", "es": "Persuadió a Wesley de la predicación al aire libre tras predicar a los mineros de Kingswood" },
+        { "en": "Jonathan Edwards", "es": "Pastor de Northampton, autor del sermón Pecadores en manos de un Dios airado" },
+        { "en": "Thomas Coke", "es": "Ordenado por Wesley como 'superintendente' para las sociedades metodistas de América" },
+        { "en": "Charles Wesley", "es": "Hermano de John, compuso miles de himnos metodistas" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La defensa de la gracia universal",
+      "tiles": ["Wesley", "defendió", "la", "gracia", "universal", "negó", "rechazó"],
+      "answer": "Wesley defendió la gracia universal",
+      "explanation": "Lo hizo en su sermón Free Grace, atacando la doctrina de la predestinación calvinista."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué caracterizó, según el consenso académico, la obra teológica de Jonathan Edwards más allá del célebre sermón 'Pecadores en manos de un Dios airado'?",
+      "options": ["Un esfuerzo, propio de su formación empirista, por distinguir los afectos religiosos genuinos de la mera excitación emocional pasajera", "Un rechazo total de cualquier análisis racional de la experiencia religiosa", "Una defensa explícita del arminianismo wesleyano frente al calvinismo puritano tradicional"],
+      "correct": 0,
+      "hint": "Lo desarrolló en su Tratado sobre los afectos religiosos (1746).",
+      "explanation": "Edwards, formado en la filosofía de Locke, matizó la imagen simplificada del predicador puramente emocional."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ sostiene que la gracia divina se ofrece universalmente y coopera con una voluntad humana libre.",
+      "options": ["Arminianismo", "Calvinismo", "Metodismo"],
+      "answer": "Arminianismo",
+      "explanation": "Frente a la predestinación calvinista, esta corriente sostiene que la voluntad puede resistir o perder la gracia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El sermón de Enfield",
+      "tiles": ["Edwards", "predicó", "en", "Enfield", "evitó", "canceló"],
+      "answer": "Edwards predicó en Enfield",
+      "explanation": "Lo hizo el 8 de julio de 1741, provocando reacciones emocionales intensas entre los asistentes."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué año nació John Wesley en la rectoría de Epworth?",
+      "options": ["1703", "1729", "1738"],
+      "correct": 0,
+      "hint": "Su madre, Susanna Wesley, le impuso una disciplina doméstica de oración y examen de conciencia.",
+      "explanation": "Se ordenó presbítero de la Iglesia de Inglaterra en 1728, permaneciendo fiel a esa comunión toda su vida."
+    },
+    {
+      "type": "gap",
+      "text": "Wesley experimentó su conversión el 24 de mayo de ___ en Aldersgate Street.",
+      "options": ["1738", "1729", "1784"],
+      "answer": "1738",
+      "explanation": "Fue durante la lectura del prefacio luterano al Comentario a la Epístola a los Romanos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Fundación del Club Santo en Oxford (h. 1729)", "es": "Origen del apodo burlesco 'metodistas'" },
+        { "en": "Conversión de Aldersgate Street (1738)", "es": "Wesley sintió su corazón 'extrañamente inflamado'" },
+        { "en": "Sermón Free Grace (1739-1741)", "es": "Wesley atacó la predestinación calvinista, ruptura con Whitefield" },
+        { "en": "Conferencia de Navidad (Baltimore, 1784)", "es": "Constitución de la Iglesia Metodista Episcopal en América" },
+        { "en": "Plan de Pacificación (1795)", "es": "Separación institucional definitiva del metodismo británico" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La emoción de los mineros",
+      "tiles": ["Los", "mineros", "lloraron", "durante", "el", "sermón", "rieron", "durmieron"],
+      "answer": "Los mineros lloraron durante el sermón",
+      "explanation": "Sus lágrimas dejaban surcos visibles sobre sus rostros ennegrecidos por el polvo del carbón."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué apodo recibió el grupo de Oxford por su disciplina espiritual metódica?",
+      "options": ["El Club Santo (metodistas)", "Los Despertados", "Los Puritanos"],
+      "correct": 0,
+      "hint": "Incluía oración regular, ayuno y visita a los presos.",
+      "explanation": "El nombre 'metodistas' no fue elegido por sus miembros, sino impuesto desde fuera como burla."
+    },
+    {
+      "type": "gap",
+      "text": "___ persuadió a Wesley de adoptar la predicación al aire libre tras su éxito con los mineros de Kingswood.",
+      "options": ["George Whitefield", "Jonathan Edwards", "Charles Wesley"],
+      "answer": "George Whitefield",
+      "explanation": "Wesley superó sus reparos iniciales y adoptó esta práctica a partir de abril de 1739."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La ordenación americana",
+      "tiles": ["Wesley", "ordenó", "a", "Thomas", "Coke", "rechazó", "ignoró"],
+      "answer": "Wesley ordenó a Thomas Coke",
+      "explanation": "Lo hizo en 1784 como 'superintendente' para las sociedades metodistas de América."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién predicó el sermón 'Pecadores en manos de un Dios airado' en Enfield, Connecticut, en 1741?",
+      "options": ["Jonathan Edwards", "George Whitefield", "John Wesley"],
+      "correct": 0,
+      "hint": "Usó la imagen de una araña sostenida sobre una llama por un hilo.",
+      "explanation": "Era pastor congregacionalista en Northampton, Massachusetts."
+    },
+    {
+      "type": "gap",
+      "text": "El sermón wesleyano ___ (1739-1741) atacó la doctrina de la predestinación calvinista.",
+      "options": ["Free Grace", "Sinners in the Hands", "A Faithful Narrative"],
+      "answer": "Free Grace",
+      "explanation": "Provocó una ruptura pública con Whitefield, dividiendo al movimiento evangélico en arminianos y calvinistas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La fundación en Baltimore",
+      "tiles": ["Baltimore", "acogió", "la", "Conferencia", "de", "Navidad", "rechazó", "evitó"],
+      "answer": "Baltimore acogió la Conferencia de Navidad",
+      "explanation": "Allí se constituyó formalmente la Iglesia Metodista Episcopal a finales de 1784."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A quién ordenó Wesley en 1784 como 'superintendente' para las sociedades metodistas de América?",
+      "options": ["Thomas Coke", "Francis Asbury", "Charles Wesley"],
+      "correct": 0,
+      "hint": "Wesley lo autorizó a su vez a ordenar a Francis Asbury.",
+      "explanation": "Fue una medida de necesidad pastoral extraordinaria tras la independencia de Estados Unidos."
+    },
+    {
+      "type": "gap",
+      "text": "En la Conferencia de Navidad de 1784, celebrada en ___, se constituyó la Iglesia Metodista Episcopal.",
+      "options": ["Baltimore", "Filadelfia", "Boston"],
+      "answer": "Baltimore",
+      "explanation": "Wesley recibió la noticia con sentimientos encontrados de satisfacción y de inquietud por la deriva separatista."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La autonomía sacramental",
+      "tiles": ["Los", "metodistas", "administraron", "sus", "propios", "sacramentos", "rechazaron", "evitaron"],
+      "answer": "Los metodistas administraron sus propios sacramentos",
+      "explanation": "El Plan de Pacificación de 1795 formalizó la separación del metodismo británico respecto a la Iglesia de Inglaterra."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué año murió John Wesley?",
+      "options": ["1791", "1784", "1795"],
+      "correct": 0,
+      "hint": "El Plan de Pacificación se aprobó cuatro años después de su muerte.",
+      "explanation": "Mantuvo hasta el final la convicción de que el metodismo debía permanecer dentro de la Iglesia de Inglaterra."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ de 1795 autorizó a los predicadores metodistas británicos a administrar los sacramentos de forma independiente.",
+      "options": ["Plan de Pacificación", "Acta de Declaración", "Deed of Declaration"],
+      "answer": "Plan de Pacificación",
+      "explanation": "Formalizó, cuatro años después de la muerte de Wesley, la separación definitiva del metodismo británico."
+    }
+  ]
+}

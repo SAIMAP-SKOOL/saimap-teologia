@@ -1,0 +1,243 @@
+{
+  "id": "1.5-mod12",
+  "module": 12,
+  "title": "La Iglesia ante los Retos del Siglo XXI",
+  "subtitle": "Secularización, biotecnología, la crisis de los abusos y la nueva evangelización digital",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Secularización", "es": "Proceso de diferenciación de las esferas seculares respecto de las normas e instituciones religiosas" },
+        { "en": "Bioética", "es": "Disciplina que examina los dilemas morales derivados de intervenciones sobre la vida humana" },
+        { "en": "Edición Genética (CRISPR-Cas9)", "es": "Técnica que permite modificar secuencias de ADN con precisión sin precedentes desde 2012" },
+        { "en": "Areópago Digital", "es": "Expresión que designa los medios de comunicación social como nuevo espacio misionero" },
+        { "en": "Creer sin Pertenecer", "es": "Fórmula que describe la creencia personal difusa que persiste tras abandonar la práctica institucional" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Según la distinción propuesta por José Casanova, ¿qué implica necesariamente el declive de la práctica religiosa institucional en una sociedad?",
+      "options": ["La diferenciación de las esferas seculares respecto de las normas religiosas, sin que ello implique de forma automática el declive de la creencia personal", "La desaparición completa de la creencia religiosa personal en esa sociedad", "Un proceso idéntico y sincrónico en todas las regiones del mundo"],
+      "correct": 0,
+      "hint": "Casanova distingue tres procesos que no avanzan necesariamente al mismo ritmo.",
+      "explanation": "La fórmula 'creer sin pertenecer' documenta la persistencia de creencias personales difusas incluso entre quienes abandonan la práctica institucional."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es el proceso de diferenciación de las esferas seculares respecto de las instituciones religiosas.",
+      "options": ["Secularización", "Bioética", "Nueva Evangelización"],
+      "answer": "Secularización",
+      "explanation": "Procede del latín tardío saeculum y tuvo originalmente un sentido jurídico-canónico distinto del sociológico."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La distinción de Casanova",
+      "tiles": ["Casanova", "distinguió", "tres", "procesos", "distintos", "identificó", "uno"],
+      "answer": "Casanova distinguió tres procesos distintos",
+      "explanation": "Diferenciación institucional, declive de la práctica y privatización de la religión."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el principio ético central que articula la respuesta del magisterio católico ante la revolución biotecnológica?",
+      "options": ["La defensa de la dignidad humana intrínseca desde la concepción hasta la muerte natural, que impide instrumentalizar o descartar vidas humanas", "El rechazo genérico de toda intervención científica sobre la biología humana", "La aceptación sin límites de cualquier avance biotecnológico en nombre del progreso científico"],
+      "correct": 0,
+      "hint": "Se articula en documentos como Donum Vitae, Evangelium Vitae y Dignitas Personae.",
+      "explanation": "El magisterio reconoce como positivos los avances biomédicos orientados a fines terapéuticos."
+    },
+    {
+      "type": "gap",
+      "text": "La técnica ___ permite modificar secuencias de ADN con precisión sin precedentes desde 2012.",
+      "options": ["CRISPR-Cas9", "in vitro", "FIV"],
+      "answer": "CRISPR-Cas9",
+      "explanation": "Abrió perspectivas terapéuticas pero también interrogantes éticos sobre su aplicación en embriones humanos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada reto del siglo XXI con su naturaleza y respuesta eclesial",
+      "pairs": [
+        { "en": "Secularización", "es": "Declive institucional en Europa Occidental; distinción de Casanova y nueva evangelización" },
+        { "en": "Revolución biotecnológica", "es": "Edición genética y final de vida; defensa de la dignidad humana desde la concepción" },
+        { "en": "Abusos sexuales", "es": "Crisis de credibilidad institucional; tolerancia cero y Vos estis lux mundi" },
+        { "en": "Evangelización digital", "es": "Ecosistema mediático plural y competitivo; concepto de areópago digital" },
+        { "en": "Síntesis de la Asignatura 1.5", "es": "Una Iglesia que pasa de administrar una posición heredada a argumentar su relevancia" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El declive documentado por McLeod",
+      "tiles": ["McLeod", "documentó", "un", "declive", "largo", "y", "desigual", "súbito", "uniforme"],
+      "answer": "McLeod documentó un declive largo y desigual",
+      "explanation": "Sus raíces se remontan a la segunda mitad del siglo XIX, ligadas a la urbanización industrial."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué documento estableció en 2019 procedimientos vinculantes para investigar a obispos y superiores religiosos acusados de encubrir abusos sexuales?",
+      "options": ["Vos estis lux mundi", "Dignitas Personae", "Rerum Novarum"],
+      "correct": 0,
+      "hint": "Se promulgó tras la cumbre vaticana sobre protección de menores.",
+      "explanation": "Estableció procedimientos de investigación y rendición de cuentas no solo para autores directos de abusos."
+    },
+    {
+      "type": "gap",
+      "text": "El motu proprio ___ (2019) estableció procedimientos vinculantes contra obispos encubridores.",
+      "options": ["Vos estis lux mundi", "Redemptoris Missio", "Unitatis Redintegratio"],
+      "answer": "Vos estis lux mundi",
+      "explanation": "Se promulgó tras la cumbre vaticana de febrero de 2019 sobre protección de menores."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "José Casanova", "es": "Sociólogo autor de Public Religions in the Modern World" },
+        { "en": "Hugh McLeod", "es": "Historiador autor de Secularisation in Western Europe, 1848-1914" },
+        { "en": "Cicely Saunders", "es": "Médica británica que inició el movimiento moderno de cuidados paliativos en 1967" },
+        { "en": "Juan Pablo II", "es": "Papa que empleó la expresión Nueva Evangelización desde 1983" },
+        { "en": "Benedicto XVI", "es": "Papa que abrió la cuenta @Pontifex en Twitter en 2012" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La defensa de la dignidad humana",
+      "tiles": ["La", "Iglesia", "defiende", "la", "dignidad", "humana", "intrínseca", "relativiza", "descarta"],
+      "answer": "La Iglesia defiende la dignidad humana intrínseca",
+      "explanation": "Se sostiene desde la concepción hasta la muerte natural según el magisterio católico."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué expresión, acuñada a partir de la encíclica Redemptoris Missio (1990), designa a los medios de comunicación social como nuevo espacio misionero?",
+      "options": ["Areópago digital", "Cristiandad global", "Concordato mediático"],
+      "correct": 0,
+      "hint": "Se inspira en el discurso de San Pablo ante el Areópago de Atenas.",
+      "explanation": "Dio origen a la expresión empleada para describir la evangelización a través de redes sociales."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ designa los medios de comunicación social como nuevo espacio misionero.",
+      "options": ["Areópago Digital", "Consenso Diferenciado", "Aggiornamento"],
+      "answer": "Areópago Digital",
+      "explanation": "Fue acuñado a partir de la encíclica Redemptoris Missio de 1990."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Investigación del Boston Globe (2002)", "es": "Punto de inflexión mediático sobre el encubrimiento de abusos clericales" },
+        { "en": "Encíclica Redemptoris Missio (1990)", "es": "Formuló la noción de nuevos areópagos" },
+        { "en": "Motu proprio Vos estis lux mundi (2019)", "es": "Procedimientos vinculantes contra obispos encubridores" },
+        { "en": "Bendición Urbi et Orbi en plaza vacía (27-III-2020)", "es": "Icono visual de la pandemia y la adaptación digital" },
+        { "en": "Instrucción Dignitas Personae (2008)", "es": "Actualiza los criterios de discernimiento bioético" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El destape del Boston Globe",
+      "tiles": ["El", "Boston", "Globe", "destapó", "el", "encubrimiento", "clerical", "ocultó", "negó"],
+      "answer": "El Boston Globe destapó el encubrimiento clerical",
+      "explanation": "Su investigación de 2002 documentó traslados de sacerdotes acusados sin comunicación a las autoridades civiles."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué año publicó el Boston Globe la investigación que documentó el encubrimiento sistemático de abusos clericales?",
+      "options": ["2002", "1990", "2019"],
+      "correct": 0,
+      "hint": "Fue el punto de inflexión mediático y social de la crisis.",
+      "explanation": "Documentó traslados de sacerdotes acusados entre parroquias sin comunicación a las autoridades."
+    },
+    {
+      "type": "gap",
+      "text": "El Boston Globe publicó en ___ la investigación que destapó el encubrimiento sistemático de abusos.",
+      "options": ["2002", "1990", "2019"],
+      "answer": "2002",
+      "explanation": "Le siguieron informes en Irlanda (2009), Australia (2013-2017), Pensilvania (2018) y Francia (2021)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La bendición en soledad",
+      "tiles": ["Francisco", "impartió", "la", "bendición", "en", "soledad", "compañía", "multitud"],
+      "answer": "Francisco impartió la bendición en soledad",
+      "explanation": "Ocurrió el 27 de marzo de 2020 en una plaza de San Pedro vacía por la pandemia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué médica británica inició el movimiento moderno de cuidados paliativos en 1967?",
+      "options": ["Cicely Saunders", "José Casanova", "Hugh McLeod"],
+      "correct": 0,
+      "hint": "Su enfoque reivindica el acompañamiento integral del enfermo terminal.",
+      "explanation": "Su movimiento ofrece una alternativa asistencial frente a la eutanasia."
+    },
+    {
+      "type": "gap",
+      "text": "La instrucción ___ (1987) fue el primer documento sistemático del magisterio sobre bioética reproductiva.",
+      "options": ["Donum Vitae", "Evangelium Vitae", "Dignitas Personae"],
+      "answer": "Donum Vitae",
+      "explanation": "Fue seguida por Evangelium Vitae (1995) y Dignitas Personae (2008)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La apertura de Benedicto en redes",
+      "tiles": ["Benedicto", "abrió", "una", "cuenta", "en", "Twitter", "cerró", "evitó"],
+      "answer": "Benedicto abrió una cuenta en Twitter",
+      "explanation": "Lo hizo en diciembre de 2012 bajo el nombre @Pontifex."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué historiador documentó que el declive religioso en Europa Occidental fue un proceso largo y desigual iniciado en el siglo XIX?",
+      "options": ["Hugh McLeod", "José Casanova", "Cicely Saunders"],
+      "correct": 0,
+      "hint": "Es autor de Secularisation in Western Europe, 1848-1914.",
+      "explanation": "Lo vinculó a la urbanización industrial y la emergencia de subculturas obreras."
+    },
+    {
+      "type": "gap",
+      "text": "La fórmula '___' describe a quienes abandonan la práctica institucional pero conservan una creencia personal difusa.",
+      "options": ["creer sin pertenecer", "consenso diferenciado", "misión inversa"],
+      "answer": "creer sin pertenecer",
+      "explanation": "Conservan rituales de paso vinculados a la Iglesia, como bautismos y funerales."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los cuidados paliativos de Saunders",
+      "tiles": ["Saunders", "inició", "los", "cuidados", "paliativos", "modernos", "rechazó", "ignoró"],
+      "answer": "Saunders inició los cuidados paliativos modernos",
+      "explanation": "Su movimiento comenzó en 1967 como alternativa asistencial al final de la vida."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué fecha exacta impartió el papa Francisco la bendición Urbi et Orbi en solitario en una plaza de San Pedro vacía?",
+      "options": ["El 27 de marzo de 2020", "El 22 de febrero de 2019", "El 31 de octubre de 1999"],
+      "correct": 0,
+      "hint": "Fue durante las restricciones sanitarias de la pandemia de COVID-19.",
+      "explanation": "Se transmitió en directo a audiencias globales a través de plataformas digitales."
+    },
+    {
+      "type": "gap",
+      "text": "El sociólogo ___ distinguió tres procesos distintos bajo el término secularización.",
+      "options": ["José Casanova", "Hugh McLeod", "Max Weber"],
+      "answer": "José Casanova",
+      "explanation": "Es autor de la obra Public Religions in the Modern World."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué informe francés de 2021 estimó en más de doscientas mil el número de víctimas de abusos cometidos por clérigos católicos desde 1950?",
+      "options": ["El informe de la Comisión Independiente sobre los Abusos Sexuales en la Iglesia (CIASE)", "El John Jay Report", "Los informes Ryan y Murphy"],
+      "correct": 0,
+      "hint": "Se publicó en Francia en 2021.",
+      "explanation": "Se suma a otros informes de gran repercusión, como los de Irlanda (2009), Australia (2013-2017) y Pensilvania (2018)."
+    },
+    {
+      "type": "gap",
+      "text": "El informe de la Comisión Independiente sobre los Abusos Sexuales en la Iglesia (___, 2021) estimó más de doscientas mil víctimas en Francia desde 1950.",
+      "options": ["CIASE", "John Jay Report", "Ryan"],
+      "answer": "CIASE",
+      "explanation": "Se suma a otros grandes informes internacionales sobre abusos clericales de la última década."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La relevancia que la Iglesia debe argumentar hoy",
+      "tiles": ["La", "Iglesia", "argumenta", "su", "relevancia", "hoy", "asume", "ignora"],
+      "answer": "La Iglesia argumenta su relevancia hoy",
+      "explanation": "Ya no puede darla por supuesta como en las etapas históricas anteriores estudiadas en esta asignatura."
+    }
+  ]
+}

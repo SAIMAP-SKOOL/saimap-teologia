@@ -1,0 +1,243 @@
+{
+  "id": "1.5-mod02",
+  "module": 2,
+  "title": "La Revolución Francesa: Descristianización y el Concordato Napoleónico",
+  "subtitle": "De la Constitución Civil del Clero al Concordato de 1801",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Clero Juramentado", "es": "Prestó el juramento civil exigido por la Constitución Civil del Clero de 1790" },
+        { "en": "Clero Refractario", "es": "Se negó a prestar el juramento, permaneciendo en comunión con Roma" },
+        { "en": "Descristianización", "es": "Política de la Convención (1793-1794) para erradicar el culto católico del espacio público" },
+        { "en": "Concordato", "es": "Tratado bilateral entre la Santa Sede y un Estado sobre el estatuto de la Iglesia" },
+        { "en": "Artículos Orgánicos", "es": "Disposiciones unilaterales de Napoleón, sin acuerdo previo con Roma, de control estatal del culto" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué elemento de la Constitución Civil del Clero (1790) resultó decisivo para que Pío VI la condenara como cismática?",
+      "options": ["La elección de obispos y párrocos por asambleas electorales civiles y la supresión de la confirmación pontificia en su institución canónica", "La obligación de que los seminarios adoptaran el francés como lengua litúrgica", "La prohibición explícita de la vida monástica contemplativa en todo el territorio francés"],
+      "correct": 0,
+      "hint": "Prescindía de la intervención de Roma en la institución canónica.",
+      "explanation": "Pío VI consideró esto una usurpación de la jurisdicción espiritual de la Sede Apostólica."
+    },
+    {
+      "type": "gap",
+      "text": "El clero ___ se negó a prestar el juramento civil, permaneciendo en comunión con Roma.",
+      "options": ["refractario", "juramentado", "constitucional"],
+      "answer": "refractario",
+      "explanation": "Fue progresivamente calificado de sospechoso, perseguido y deportado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La nacionalización eclesiástica",
+      "tiles": ["La", "Asamblea", "nacionalizó", "los", "bienes", "eclesiásticos", "protegió", "devolvió"],
+      "answer": "La Asamblea nacionalizó los bienes eclesiásticos",
+      "explanation": "El decreto del 2 de noviembre de 1789 dio origen a los llamados biens nationaux."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué acontecimiento marcó el punto culminante simbólico de la campaña de descristianización de 1793?",
+      "options": ["La ceremonia de entronización de la Razón en la catedral de Notre-Dame el 10 de noviembre de 1793", "La firma del Concordato entre Napoleón y Pío VII", "La promulgación de la Constitución Civil del Clero"],
+      "correct": 0,
+      "hint": "Una actriz personificó a la diosa Razón sobre el altar mayor.",
+      "explanation": "Esto condensó de manera pública el intento de sustituir el culto católico por una religión cívica alternativa."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la política impulsada por la Convención en 1793-1794 para erradicar el culto católico del espacio público.",
+      "options": ["Descristianización", "Concordato", "Artículos Orgánicos"],
+      "answer": "Descristianización",
+      "explanation": "Incluyó el cierre de iglesias, la destrucción de símbolos religiosos y la imposición de cultos cívicos sustitutivos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada fase histórica con su medida principal",
+      "pairs": [
+        { "en": "Constitución Civil del Clero (1790-1791)", "es": "Reorganización estatal de diócesis; cisma entre clero juramentado y refractario" },
+        { "en": "Terror descristianizador (1793-1794)", "es": "Calendario revolucionario, cierre de iglesias; persecución y martirio (Compiègne)" },
+        { "en": "Directorio (1795-1799)", "es": "Tolerancia limitada con recaídas represivas" },
+        { "en": "Concordato napoleónico (1801-1802)", "es": "Reconocimiento de religión mayoritaria; Artículos Orgánicos como fricción residual" },
+        { "en": "Actitud del poder en el Concordato", "es": "Normalización pragmática bajo control estatal" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La condena pontificia",
+      "tiles": ["Pío", "VI", "condenó", "la", "Constitución", "Civil", "aprobó", "celebró"],
+      "answer": "Pío VI condenó la Constitución Civil",
+      "explanation": "Lo hizo mediante los breves Quod aliquantum y Charitas de 1791."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué el Concordato de 1801 evitó deliberadamente calificar al catolicismo como 'religión del Estado'?",
+      "options": ["Porque la fórmula 'religión de la gran mayoría de los ciudadanos' preservaba el principio revolucionario de neutralidad confesional del Estado mientras normalizaba socialmente el culto católico", "Porque Napoleón profesaba públicamente el protestantismo calvinista", "Porque Pío VII exigió expresamente la separación total entre la Iglesia y el Estado francés"],
+      "correct": 0,
+      "hint": "Era un compromiso deliberado entre el legado revolucionario y la normalización religiosa.",
+      "explanation": "Reconocía el peso sociológico mayoritario del catolicismo sin devolverle el estatuto de confesionalidad estatal."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el tratado bilateral entre la Santa Sede y un Estado que regula el estatuto jurídico de la Iglesia católica.",
+      "options": ["Concordato", "Artículos Orgánicos", "Descristianización"],
+      "answer": "Concordato",
+      "explanation": "El de 1801 normalizó las relaciones entre Napoleón Bonaparte y Pío VII."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Pío VI", "es": "Condenó la Constitución Civil del Clero, murió en cautiverio en Valence en 1799" },
+        { "en": "Pío VII", "es": "Firmó el Concordato de 1801, elegido en Venecia bajo protección austriaca" },
+        { "en": "Napoleón Bonaparte", "es": "Primer Cónsul que negoció el Concordato y añadió los Artículos Orgánicos" },
+        { "en": "Robespierre", "es": "Promovió el Culto al Ser Supremo frente al ateísmo hebertista" },
+        { "en": "Las carmelitas de Compiègne", "es": "Dieciséis religiosas guillotinadas en 1794, canonizadas en 2024" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El cierre de los templos",
+      "tiles": ["La", "Convención", "cerró", "las", "iglesias", "abrió", "protegió"],
+      "answer": "La Convención cerró las iglesias",
+      "explanation": "Numerosas iglesias fueron reconvertidas en almacenes, templos de la Razón o depósitos municipales."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué fueron los Artículos Orgánicos de 1802 y por qué generaron fricción con Roma?",
+      "options": ["Disposiciones unilaterales añadidas por Napoleón a la publicación del Concordato, que sometían el culto católico a un estricto control estatal sin acuerdo previo de la Santa Sede", "Cláusulas del propio Concordato negociadas y firmadas conjuntamente por Napoleón y Pío VII", "Un conjunto de indulgencias concedidas por Pío VII al clero constitucional como gesto de reconciliación"],
+      "correct": 0,
+      "hint": "Eran setenta y siete disposiciones de inspiración galicana.",
+      "explanation": "Pío VII protestó formalmente por considerarlas ajenas a lo pactado, sin capacidad real de forzar su retirada."
+    },
+    {
+      "type": "gap",
+      "text": "Los ___ fueron disposiciones unilaterales añadidas por Napoleón sin acuerdo previo con Roma.",
+      "options": ["Artículos Orgánicos", "Concordato", "Constitución Civil"],
+      "answer": "Artículos Orgánicos",
+      "explanation": "Restringían la comunicación directa de los obispos con Roma y la organización de los seminarios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La religión cívica",
+      "tiles": ["Robespierre", "instauró", "el", "Ser", "Supremo", "rechazó", "prohibió"],
+      "answer": "Robespierre instauró el Ser Supremo",
+      "explanation": "Lo hizo mediante el decreto del 7 de mayo de 1794, receloso del ateísmo hebertista."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué decreto de noviembre de 1789 puso los bienes del clero a disposición de la nación francesa?",
+      "options": ["El decreto del 2 de noviembre de 1789", "La Constitución Civil del Clero", "El decreto de tolerancia de cultos"],
+      "correct": 0,
+      "hint": "Dio origen a los llamados biens nationaux.",
+      "explanation": "Se vendieron progresivamente para respaldar la nueva moneda fiduciaria, el assignat."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ condenó la Constitución Civil del Clero mediante los breves Quod aliquantum y Charitas en 1791.",
+      "options": ["Pío VI", "Pío VII", "Pío X"],
+      "answer": "Pío VI",
+      "explanation": "Calificó el texto legislativo de cismático y cercano a la herejía."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Decreto del 2 de noviembre de 1789", "es": "Puso los bienes del clero a disposición de la nación" },
+        { "en": "Breves Quod aliquantum y Charitas (1791)", "es": "Pío VI condenó la Constitución Civil del Clero" },
+        { "en": "Adopción del calendario revolucionario (1793)", "es": "Sustituyó la semana de siete días por décadas de diez" },
+        { "en": "Decreto de tolerancia de cultos (1795)", "es": "Reconoció una libertad de culto limitada" },
+        { "en": "Firma del Concordato (15 de julio de 1801)", "es": "Normalizó las relaciones entre Napoleón y Pío VII" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El canto de las mártires",
+      "tiles": ["Las", "carmelitas", "cantaron", "camino", "del", "patíbulo", "huyeron", "callaron"],
+      "answer": "Las carmelitas cantaron camino del patíbulo",
+      "explanation": "Entonaron el Salve Regina y el Veni Creator Spiritus el 17 de julio de 1794."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué culto cívico deísta instauró Robespierre mediante el decreto de mayo de 1794?",
+      "options": ["El Culto al Ser Supremo", "El Templo de la Razón", "El Culto de la Patria"],
+      "correct": 0,
+      "hint": "Culminó en una gran fiesta pública en el Campo de Marte.",
+      "explanation": "Robespierre presidió los actos como una suerte de sumo sacerdote laico de la nueva religión republicana."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ (5 de octubre de 1793) sustituyó la semana de siete días por décadas de diez.",
+      "options": ["calendario revolucionario", "Concordato", "Culto al Ser Supremo"],
+      "answer": "calendario revolucionario",
+      "explanation": "Pretendía borrar del tiempo cotidiano cualquier referencia estructural al culto católico."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La negociación con Roma",
+      "tiles": ["Napoleón", "negoció", "con", "Pío", "VII", "ignoró", "rechazó"],
+      "answer": "Napoleón negoció con Pío VII",
+      "explanation": "Concluyó que la normalización con Roma era indispensable para consolidar la paz interior de su régimen."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuántas carmelitas descalzas de Compiègne fueron guillotinadas en julio de 1794?",
+      "options": ["Dieciséis", "Diez", "Veinte"],
+      "correct": 0,
+      "hint": "Fue apenas diez días antes de la caída de Robespierre.",
+      "explanation": "Fueron beatificadas en 1906 y canonizadas por el papa Francisco en diciembre de 2024."
+    },
+    {
+      "type": "gap",
+      "text": "Las dieciséis carmelitas de ___ fueron guillotinadas en París el 17 de julio de 1794.",
+      "options": ["Compiègne", "Valence", "Nevers"],
+      "answer": "Compiègne",
+      "explanation": "Fueron acusadas de fanatismo y conspiración contrarrevolucionaria."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La imposición unilateral",
+      "tiles": ["Napoleón", "añadió", "los", "Artículos", "Orgánicos", "eliminó", "rechazó"],
+      "answer": "Napoleón añadió los Artículos Orgánicos",
+      "explanation": "Lo hizo en el mismo acto de publicación del Concordato, sin negociación previa con la Santa Sede."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Dónde murió el papa Pío VI en cautiverio en agosto de 1799?",
+      "options": ["Valence", "Roma", "Venecia"],
+      "correct": 0,
+      "hint": "Había sido depuesto de sus Estados Pontificios por las tropas revolucionarias.",
+      "explanation": "Su sucesor, Pío VII, fue elegido en Venecia bajo protección austriaca."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ firmó el Concordato con Napoleón el 15 de julio de 1801.",
+      "options": ["Pío VII", "Pío VI", "Pío IX"],
+      "answer": "Pío VII",
+      "explanation": "Solicitó la renuncia de todos los titulares episcopales, constitucionales y legitimistas, para renovar la jerarquía."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La celebración de la restauración",
+      "tiles": ["Notre-Dame", "celebró", "el", "Te", "Deum", "pascual", "rechazó", "evitó"],
+      "answer": "Notre-Dame celebró el Te Deum pascual",
+      "explanation": "La publicación solemne del Concordato se retrasó hasta el 18 de abril de 1802, domingo de Pascua."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué fecha se publicó solemnemente el Concordato con un Te Deum en Notre-Dame?",
+      "options": ["El 18 de abril de 1802", "El 15 de julio de 1801", "El 27 de julio de 1794"],
+      "correct": 0,
+      "hint": "Era domingo de Pascua.",
+      "explanation": "Fue el escenario simbólico de la restauración pública del culto católico en Francia."
+    },
+    {
+      "type": "gap",
+      "text": "Napoleón fue elevado a Primer Cónsul tras el golpe de Estado del 18 de brumario del Año ___.",
+      "options": ["VIII", "III", "V"],
+      "answer": "VIII",
+      "explanation": "Ocurrió el 9 de noviembre de 1799, tras años de precariedad jurídica del culto bajo el Directorio."
+    }
+  ]
+}

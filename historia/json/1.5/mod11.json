@@ -1,0 +1,243 @@
+{
+  "id": "1.5-mod11",
+  "module": 11,
+  "title": "Globalización y Pentecostalismo",
+  "subtitle": "El Avivamiento de la Calle Azusa y el desplazamiento del centro de gravedad del cristianismo mundial",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Pentecostalismo", "es": "Movimiento evangélico que enfatiza el bautismo del Espíritu Santo evidenciado por la glosolalia" },
+        { "en": "Glosolalia", "es": "Expresión vocal extática entendida como hablar en lenguas bajo la acción del Espíritu Santo" },
+        { "en": "Movimiento Carismático", "es": "Renovación que introduce dones pentecostales en iglesias históricas sin abandonar su denominación" },
+        { "en": "Sur Global / Norte Global", "es": "Categoría que distingue las regiones de expansión cristiana del declive relativo de Europa" },
+        { "en": "Teología de la Prosperidad", "es": "Corriente que vincula fe, ofrenda económica y promesa de bendición material" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué ciudad y año se inició el Avivamiento de la Calle Azusa, considerado el epicentro organizativo del pentecostalismo moderno?",
+      "options": ["Los Ángeles (California), 1906", "Topeka (Kansas), 1901", "Belém do Pará (Brasil), 1911"],
+      "correct": 0,
+      "hint": "Fue liderado por William J. Seymour.",
+      "explanation": "Se desarrolló entre 1906 y 1909 en el número 312 de la Calle Azusa."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ enfatiza el bautismo del Espíritu Santo evidenciado por la glosolalia.",
+      "options": ["Pentecostalismo", "Movimiento Carismático", "Sur Global"],
+      "answer": "Pentecostalismo",
+      "explanation": "Nació a comienzos del siglo XX dentro del protestantismo evangélico norteamericano."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El liderazgo de Seymour",
+      "tiles": ["Seymour", "lideró", "el", "avivamiento", "de", "Azusa", "ignoró", "evitó"],
+      "answer": "Seymour lideró el avivamiento de Azusa",
+      "explanation": "Era predicador afroamericano, hijo de antiguos esclavos."
+    },
+    {
+      "type": "quiz",
+      "q": "Según la tesis historiográfica de Philip Jenkins en The Next Christendom, ¿qué proceso describe el 'desplazamiento del centro de gravedad' del cristianismo mundial?",
+      "options": ["El desplazamiento numérico y geográfico de la mayoría de los cristianos desde Europa y Norteamérica hacia África, América Latina y Asia", "La sustitución completa del catolicismo por el protestantismo evangélico en todo el planeta", "El traslado oficial de la sede administrativa del Vaticano hacia el hemisferio sur"],
+      "correct": 0,
+      "hint": "Jenkins lo describe como el nacimiento de una 'próxima cristiandad'.",
+      "explanation": "El catolicismo y las iglesias históricas conservan un peso sustancial en el Sur Global."
+    },
+    {
+      "type": "gap",
+      "text": "La categoría ___ distingue las regiones de expansión cristiana (África, América Latina, Asia) del declive relativo de Europa.",
+      "options": ["Sur Global", "Teología de la Prosperidad", "Glosolalia"],
+      "answer": "Sur Global",
+      "explanation": "Es una categoría historiográfica empleada por Philip Jenkins."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada corriente o región con su origen y énfasis doctrinal",
+      "pairs": [
+        { "en": "Pentecostalismo Clásico (EE. UU.)", "es": "Avivamiento de la Calle Azusa, 1906; bautismo del Espíritu con glosolalia" },
+        { "en": "Pentecostalismo Latinoamericano", "es": "Misiones desde 1909; adaptación cultural popular y comunidad urbana" },
+        { "en": "Neopentecostalismo Africano", "es": "Iglesias Independientes Africanas; sanidad y teología de la prosperidad" },
+        { "en": "Renovación Carismática Católica", "es": "Universidad de Duquesne, 1967; dones carismáticos vividos en comunión con Roma" },
+        { "en": "Iglesia del Evangelio Completo de Yoido", "es": "Seúl, 1958; congregación cristiana individual de mayor tamaño del mundo" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La escuela de Parham",
+      "tiles": ["Parham", "fundó", "una", "escuela", "bíblica", "en", "Topeka", "cerró", "vendió"],
+      "answer": "Parham fundó una escuela bíblica en Topeka",
+      "explanation": "Fue el Bethel Bible College, fundado en 1900."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál de las siguientes afirmaciones describe con mayor precisión académica la teología de la prosperidad?",
+      "options": ["Es una corriente minoritaria dentro del universo neopentecostal, criticada también desde dentro del propio movimiento, que vincula fe, ofrenda y bendición material", "Es la doctrina oficial compartida por la totalidad de las denominaciones pentecostales clásicas en todo el mundo", "Fue la doctrina original predicada por William J. Seymour en el Avivamiento de la Calle Azusa"],
+      "correct": 0,
+      "hint": "Se sistematizó en el llamado movimiento de la Palabra de Fe.",
+      "explanation": "Numerosas denominaciones pentecostales clásicas no adoptan este marco doctrinal."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ vincula la fe, la ofrenda económica y la promesa de bendición material.",
+      "options": ["Teología de la Prosperidad", "Glosolalia", "Renovación Carismática"],
+      "answer": "Teología de la Prosperidad",
+      "explanation": "Fue sistematizada por predicadores como E. W. Kenyon y Kenneth Hagin."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "William J. Seymour", "es": "Predicador afroamericano líder del Avivamiento de la Calle Azusa" },
+        { "en": "Charles Fox Parham", "es": "Pastor que fundó el Bethel Bible College en Topeka en 1900" },
+        { "en": "David Yonggi Cho", "es": "Fundó en 1958 la Iglesia del Evangelio Completo de Yoido en Seúl" },
+        { "en": "Philip Jenkins", "es": "Historiador autor de The Next Christendom (2002)" },
+        { "en": "David Martin", "es": "Sociólogo británico que estudió la adaptabilidad cultural del pentecostalismo latinoamericano" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El carácter interracial de Azusa",
+      "tiles": ["Azusa", "mostró", "un", "carácter", "interracial", "segregado", "excluyente"],
+      "answer": "Azusa mostró un carácter interracial",
+      "explanation": "Ocurrió en pleno periodo de segregación institucionalizada en Estados Unidos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué papel desempeñó la Renovación Carismática Católica, surgida en 1967, respecto al fenómeno pentecostal?",
+      "options": ["Introdujo dones y prácticas de tipo pentecostal dentro de la comunión católica, sin ruptura con Roma", "Constituyó un rechazo doctrinal frontal del catolicismo hacia todo lo relacionado con el pentecostalismo", "Fue el movimiento que dio origen histórico al pentecostalismo protestante en la Calle Azusa"],
+      "correct": 0,
+      "hint": "Surgió en la Universidad de Duquesne, Pittsburgh.",
+      "explanation": "Fue recibida con reconocimiento progresivo por parte de Pablo VI y Juan Pablo II."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ introduce dones pentecostales en iglesias históricas sin abandonar su denominación.",
+      "options": ["Movimiento Carismático", "Pentecostalismo", "Neopentecostalismo"],
+      "answer": "Movimiento Carismático",
+      "explanation": "Incluye a la Renovación Carismática Católica, surgida en 1967."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento con su lugar y fecha",
+      "pairs": [
+        { "en": "Avivamiento de la Calle Azusa (1906-1909)", "es": "Los Ángeles, epicentro organizativo del pentecostalismo moderno" },
+        { "en": "Fundación de las Assembleias de Deus (1911)", "es": "Belém do Pará, Brasil" },
+        { "en": "Fundación de la Iglesia del Evangelio Completo de Yoido (1958)", "es": "Seúl, Corea del Sur" },
+        { "en": "Renovación Carismática Católica (1967)", "es": "Universidad de Duquesne, Pittsburgh" },
+        { "en": "Publicación de The Next Christendom (2002)", "es": "Obra de referencia de Philip Jenkins" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La fundación brasileña",
+      "tiles": ["Berg", "y", "Vingren", "fundaron", "las", "Assembleias", "de", "Deus", "disolvieron", "rechazaron"],
+      "answer": "Berg y Vingren fundaron las Assembleias de Deus",
+      "explanation": "Lo hicieron en Belém do Pará en 1911, siendo misioneros suecos formados en Estados Unidos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién fundó el Bethel Bible College en Topeka en 1900?",
+      "options": ["Charles Fox Parham", "William J. Seymour", "David Yonggi Cho"],
+      "correct": 0,
+      "hint": "Su alumna Agnes Ozman experimentó glosolalia en 1901.",
+      "explanation": "Este antecedente doctrinal precedió al Avivamiento de la Calle Azusa."
+    },
+    {
+      "type": "gap",
+      "text": "El avivamiento de la Calle ___ (1906) es considerado el epicentro organizativo del pentecostalismo moderno.",
+      "options": ["Azusa", "Bonnie Brae", "Topeka"],
+      "answer": "Azusa",
+      "explanation": "Se ubicaba en el número 312 de dicha calle en Los Ángeles."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La tesis de Jenkins",
+      "tiles": ["Jenkins", "describió", "una", "próxima", "cristiandad", "negó", "ignoró"],
+      "answer": "Jenkins describió una próxima cristiandad",
+      "explanation": "Lo hizo en su obra The Next Christendom, publicada en 2002."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué año se fundaron las Asambleas de Dios en Hot Springs, Arkansas?",
+      "options": ["1914", "1906", "1958"],
+      "correct": 0,
+      "hint": "Se convertiría en la mayor denominación pentecostal blanca de Estados Unidos.",
+      "explanation": "Surgió de las redes misioneras derivadas del Avivamiento de la Calle Azusa."
+    },
+    {
+      "type": "gap",
+      "text": "William J. Seymour lideró el avivamiento en el número 312 de la Calle Azusa en ___.",
+      "options": ["Los Ángeles", "Topeka", "Houston"],
+      "answer": "Los Ángeles",
+      "explanation": "El edificio había sido previamente empleado como cuadra y almacén."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Las estructuras descentralizadas",
+      "tiles": ["El", "pentecostalismo", "permite", "estructuras", "descentralizadas", "centralizadas", "jerárquicas"],
+      "answer": "El pentecostalismo permite estructuras descentralizadas",
+      "explanation": "Esto multiplica exponencialmente el número de congregaciones en poco tiempo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué sociólogo británico subrayó la adaptabilidad cultural como factor clave del crecimiento pentecostal en América Latina?",
+      "options": ["David Martin", "Philip Jenkins", "David Yonggi Cho"],
+      "correct": 0,
+      "hint": "Contrastó el modelo pentecostal con las denominaciones misioneras históricas.",
+      "explanation": "Señaló que el pentecostalismo permitió apropiación local de música y predicación."
+    },
+    {
+      "type": "gap",
+      "text": "Daniel Berg y Gunnar Vingren fundaron las Assembleias de Deus en ___ en 1911.",
+      "options": ["Belém do Pará", "São Paulo", "Valparaíso"],
+      "answer": "Belém do Pará",
+      "explanation": "Con el tiempo se convertiría en la mayor denominación pentecostal del mundo por número de miembros."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El nacimiento de la Renovación Carismática",
+      "tiles": ["La", "Renovación", "Carismática", "nació", "en", "Duquesne", "murió", "desapareció"],
+      "answer": "La Renovación Carismática nació en Duquesne",
+      "explanation": "Surgió en 1967 a partir de un retiro de oración de estudiantes y profesores católicos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué fenómeno describe el envío de misioneros desde iglesias africanas o latinoamericanas hacia Europa y Norteamérica?",
+      "options": ["Misión inversa", "Teología de la prosperidad", "Movimiento de santidad"],
+      "correct": 0,
+      "hint": "Invierte la dirección tradicional del flujo misionero decimonónico.",
+      "explanation": "Un ejemplo es la expansión de la Iglesia Redimida de Dios en ciudades como Londres."
+    },
+    {
+      "type": "gap",
+      "text": "David Yonggi Cho fundó en 1958 en Seúl la Iglesia del Evangelio Completo de ___.",
+      "options": ["Yoido", "Duquesne", "Azusa"],
+      "answer": "Yoido",
+      "explanation": "Ha sido descrita como la congregación cristiana individual de mayor tamaño del mundo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué papel atribuye la historiografía especializada al Avivamiento de la Calle Azusa frente a episodios de glosolalia casi simultáneos en la India y Gales?",
+      "options": ["El de epicentro simbólico y organizativo desde el cual el movimiento adquirió una identidad denominacional y una red misionera global", "El de único origen posible de todo fenómeno de glosolalia registrado en el mundo", "El de un episodio aislado sin ninguna influencia posterior fuera de Estados Unidos"],
+      "correct": 0,
+      "hint": "La Mukti Mission en India y el avivamiento galés ocurrieron de forma prácticamente independiente.",
+      "explanation": "Azusa no tuvo el monopolio del origen, pero sí articuló la red misionera que proyectó el movimiento globalmente."
+    },
+    {
+      "type": "gap",
+      "text": "El pastor afroamericano Charles H. Mason lideró la ___.",
+      "options": ["Iglesia de Dios en Cristo", "Iglesia Redimida de Dios", "Iglesia Cristiana Sionista"],
+      "answer": "Iglesia de Dios en Cristo",
+      "explanation": "Fue una de las principales denominaciones pentecostales clásicas surgidas de las redes de Azusa."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El liderazgo del Sur Global",
+      "tiles": ["El", "Sur", "Global", "lidera", "el", "crecimiento", "cristiano", "frena", "detiene"],
+      "answer": "El Sur Global lidera el crecimiento cristiano",
+      "explanation": "Contrasta con el declive relativo del cristianismo practicante en Europa Occidental."
+    }
+  ]
+}

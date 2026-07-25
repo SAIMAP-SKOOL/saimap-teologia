@@ -1,0 +1,243 @@
+{
+  "id": "1.5-mod08",
+  "module": 8,
+  "title": "El Concilio Vaticano II (1962-1965)",
+  "subtitle": "Aggiornamento, las cuatro constituciones y el giro ecuménico",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Aggiornamento", "es": "Término de Juan XXIII para la 'puesta al día' pastoral de la Iglesia" },
+        { "en": "Colegialidad Episcopal", "es": "El colegio de los obispos, unido al Papa, ejerce junto con este la autoridad suprema" },
+        { "en": "Pueblo de Dios", "es": "Categoría bíblica de Lumen Gentium para la totalidad de los fieles" },
+        { "en": "Ressourcement", "es": "Corriente teológica que propuso 'volver a las fuentes' bíblicas y patrísticas" },
+        { "en": "Hermenéutica de la Continuidad / de la Ruptura", "es": "Debate historiográfico sobre si el Vaticano II fue reforma o evento cualitativamente nuevo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué término empleó Juan XXIII para describir el objetivo pastoral de la convocatoria del Concilio Vaticano II?",
+      "options": ["Aggiornamento", "Ressourcement", "Subsistit in"],
+      "correct": 0,
+      "hint": "Significa 'puesta al día' en italiano.",
+      "explanation": "Describía su propósito de renovar el lenguaje pastoral sin alterar el contenido del depósito de la fe."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el término italiano de Juan XXIII para la puesta al día pastoral de la Iglesia.",
+      "options": ["Aggiornamento", "Ressourcement", "Subsistit in"],
+      "answer": "Aggiornamento",
+      "explanation": "Lo anunció el 25 de enero de 1959 en la basílica de San Pablo Extramuros."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La convocatoria del concilio",
+      "tiles": ["Juan", "XXIII", "convocó", "el", "concilio", "ecuménico", "disolvió", "evitó"],
+      "answer": "Juan XXIII convocó el concilio ecuménico",
+      "explanation": "La noticia sorprendió incluso a la Curia romana, que no había sido consultada previamente."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál de las siguientes constituciones conciliares estableció la participación activa de los fieles y reguló el uso de las lenguas vernáculas en la liturgia?",
+      "options": ["Sacrosanctum Concilium", "Dei Verbum", "Gaudium et Spes"],
+      "correct": 0,
+      "hint": "Fue el primer documento aprobado por el concilio.",
+      "explanation": "Se promulgó el 4 de diciembre de 1963 y estableció el principio de la participatio actuosa."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la doctrina de que el colegio de los obispos, unido al Papa, ejerce junto con este la autoridad suprema.",
+      "options": ["Colegialidad Episcopal", "Pueblo de Dios", "Ressourcement"],
+      "answer": "Colegialidad Episcopal",
+      "explanation": "Se desarrolla en el capítulo tercero de Lumen Gentium, siempre en unión con el Romano Pontífice."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada constitución con su tema central",
+      "pairs": [
+        { "en": "Sacrosanctum Concilium", "es": "Reforma litúrgica; participación activa de los fieles (4-XII-1963)" },
+        { "en": "Lumen Gentium", "es": "Eclesiología; Pueblo de Dios y colegialidad episcopal (21-XI-1964)" },
+        { "en": "Dei Verbum", "es": "Revelación divina; unidad de Escritura y Tradición (18-XI-1965)" },
+        { "en": "Gaudium et Spes", "es": "Iglesia y mundo contemporáneo; método de los 'signos de los tiempos' (7-XII-1965)" },
+        { "en": "Documento del giro ecuménico", "es": "Unitatis Redintegratio (21-XI-1964)" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El rechazo del esquema preparatorio",
+      "tiles": ["Los", "padres", "rechazaron", "el", "esquema", "preparatorio", "aprobaron", "celebraron"],
+      "answer": "Los padres rechazaron el esquema preparatorio",
+      "explanation": "Ocurrió con De Fontibus Revelationis en noviembre de 1962, señal de que la asamblea asumiría un papel activo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué documento conciliar reconoció 'elementos de santificación y de verdad' en las comunidades cristianas separadas de Roma?",
+      "options": ["Unitatis Redintegratio", "Nostra Aetate", "Dei Verbum"],
+      "correct": 0,
+      "hint": "Distinguía entre Iglesias orientales y comunidades protestantes.",
+      "explanation": "Calificó la conversión interior y la oración compartida como 'el alma de todo el movimiento ecuménico'."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es la categoría bíblica de Lumen Gentium para describir a la totalidad de los fieles antes de la jerarquía.",
+      "options": ["Pueblo de Dios", "Colegialidad Episcopal", "Aggiornamento"],
+      "answer": "Pueblo de Dios",
+      "explanation": "Se sitúa en el segundo capítulo, antes de tratar la distinción de ministerios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Juan XXIII (Angelo Roncalli)", "es": "Convocó el concilio en 1959, murió en 1963 sin verlo concluido" },
+        { "en": "Pablo VI (Giovanni Battista Montini)", "es": "Continuó y clausuró el concilio en 1965" },
+        { "en": "Joseph Ratzinger", "es": "Formuló la 'hermenéutica de la reforma' frente a la 'de la ruptura'" },
+        { "en": "Giuseppe Alberigo", "es": "Historiador de la Escuela de Bolonia, autor de Historia del Concilio Vaticano II" },
+        { "en": "Atenágoras I", "es": "Patriarca de Constantinopla, se encontró con Pablo VI en Jerusalén en 1964" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La reforma de la liturgia",
+      "tiles": ["Sacrosanctum", "Concilium", "reformó", "la", "liturgia", "ignoró", "prohibió"],
+      "answer": "Sacrosanctum Concilium reformó la liturgia",
+      "explanation": "Autorizó a las conferencias episcopales a introducir el uso regulado de las lenguas vernáculas."
+    },
+    {
+      "type": "quiz",
+      "q": "Según el debate historiográfico posterior al concilio, ¿qué distinguió Joseph Ratzinger (Benedicto XVI) en su discurso a la Curia romana de 2005?",
+      "options": ["La hermenéutica de la discontinuidad y de la ruptura frente a la hermenéutica de la reforma en continuidad", "La hermenéutica alejandrina frente a la hermenéutica antioquena", "La hermenéutica histórico-crítica frente a la hermenéutica alegórica"],
+      "correct": 0,
+      "hint": "Consideraba la primera una lectura errónea del concilio.",
+      "explanation": "Defendía leer el Vaticano II como un desarrollo orgánico y coherente de la Tradición católica."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es la corriente teológica que propuso 'volver a las fuentes' bíblicas y patrísticas.",
+      "options": ["Ressourcement", "Aggiornamento", "Subsistit in"],
+      "answer": "Ressourcement",
+      "explanation": "Estaba asociada a autores como Congar, de Lubac o Chenu, e influyó en los textos conciliares."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La definición eclesiológica",
+      "tiles": ["Lumen", "Gentium", "definió", "el", "Pueblo", "de", "Dios", "rechazó", "ignoró"],
+      "answer": "Lumen Gentium definió el Pueblo de Dios",
+      "explanation": "Fue una novedad de método significativa respecto al esquema preparatorio original."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién fue elegido papa tras la muerte de Juan XXIII en 1963 y decidió continuar el concilio?",
+      "options": ["Pablo VI (Giovanni Battista Montini)", "Angelo Roncalli", "Joseph Ratzinger"],
+      "correct": 0,
+      "hint": "Era arzobispo de Milán antes de su elección.",
+      "explanation": "Disipó así los temores de quienes preveían la suspensión del concilio."
+    },
+    {
+      "type": "gap",
+      "text": "Juan XXIII anunció la convocatoria del concilio el 25 de enero de ___.",
+      "options": ["1959", "1958", "1962"],
+      "answer": "1959",
+      "explanation": "Lo hizo ante un reducido grupo de cardenales, apenas tres meses después de su elección."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Discurso Gaudet Mater Ecclesia (11-X-1962)", "es": "Apertura solemne del concilio por Juan XXIII" },
+        { "en": "Rechazo del esquema De Fontibus Revelationis", "es": "Primer episodio decisivo de la deliberación conciliar" },
+        { "en": "Encuentro de Jerusalén (enero de 1964)", "es": "Pablo VI y Atenágoras I, revocación de las excomuniones de 1054" },
+        { "en": "Declaración Nostra Aetate (28-X-1965)", "es": "Repudió la acusación de deicidio contra los judíos" },
+        { "en": "Clausura del concilio (8-XII-1965)", "es": "Festividad de la Inmaculada Concepción" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La continuidad conciliar",
+      "tiles": ["Pablo", "VI", "continuó", "el", "concilio", "suspendió", "canceló"],
+      "answer": "Pablo VI continuó el concilio",
+      "explanation": "Anunció con rapidez su decisión, disipando los temores de una posible suspensión."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué declaración conciliar repudió la acusación de deicidio contra el pueblo judío?",
+      "options": ["Nostra Aetate", "Unitatis Redintegratio", "Dei Verbum"],
+      "correct": 0,
+      "hint": "Fue el documento más corto de todo el concilio.",
+      "explanation": "También expresó una consideración positiva hacia el hinduismo, el budismo y el islam."
+    },
+    {
+      "type": "gap",
+      "text": "El cardenal ___ presidió, junto a Ottaviani, la comisión mixta que reelaboró el esquema sobre la Revelación.",
+      "options": ["Bea", "Alberigo", "Ratzinger"],
+      "answer": "Bea",
+      "explanation": "Era de orientación más abierta al diálogo ecuménico, frente a la orientación de Ottaviani."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El abrazo ecuménico",
+      "tiles": ["Pablo", "VI", "abrazó", "al", "patriarca", "Atenágoras", "rechazó", "ignoró"],
+      "answer": "Pablo VI abrazó al patriarca Atenágoras",
+      "explanation": "Fue el primer encuentro entre un papa y un patriarca ortodoxo desde el Concilio de Florencia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué ciudad se encontraron Pablo VI y el patriarca Atenágoras I en enero de 1964?",
+      "options": ["Jerusalén", "Roma", "Constantinopla"],
+      "correct": 0,
+      "hint": "Culminaría en 1965 con la revocación de las excomuniones de 1054.",
+      "explanation": "Fue un gesto simbólico de gran resonancia pública del giro ecuménico conciliar."
+    },
+    {
+      "type": "gap",
+      "text": "___ fue elegido papa en 1963 con el nombre de Pablo VI.",
+      "options": ["Giovanni Battista Montini", "Angelo Roncalli", "Joseph Ratzinger"],
+      "answer": "Giovanni Battista Montini",
+      "explanation": "Era conocido por su sensibilidad hacia las corrientes de renovación teológica europeas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La condena del antisemitismo",
+      "tiles": ["Nostra", "Aetate", "condenó", "el", "antisemitismo", "defendió", "ignoró"],
+      "answer": "Nostra Aetate condenó el antisemitismo",
+      "explanation": "Marcó un giro doctrinal de gran calado en las relaciones judeo-católicas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuántos padres conciliares asistieron aproximadamente a la apertura del Vaticano II en 1962?",
+      "options": ["Unos 2.500", "Unos 500", "Unos 10.000"],
+      "correct": 0,
+      "hint": "Fue una asamblea de escala sin precedentes en la historia de la Iglesia.",
+      "explanation": "Incluía una presencia creciente de obispos de África, Asia y América Latina."
+    },
+    {
+      "type": "gap",
+      "text": "El decreto ___ reconoció 'elementos de santificación y de verdad' en las comunidades cristianas separadas.",
+      "options": ["Unitatis Redintegratio", "Nostra Aetate", "Dei Verbum"],
+      "answer": "Unitatis Redintegratio",
+      "explanation": "Se promulgó el 21 de noviembre de 1964."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La defensa de la reforma",
+      "tiles": ["Ratzinger", "defendió", "la", "hermenéutica", "de", "la", "reforma", "rechazó"],
+      "answer": "Ratzinger defendió la hermenéutica de la reforma",
+      "explanation": "Lo hizo en su discurso a la Curia romana de diciembre de 2005, ya como Benedicto XVI."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué fórmula de Lumen Gentium 8 sustituyó el verbo 'es' de Mystici Corporis para describir la relación entre la Iglesia de Cristo y la católica?",
+      "options": ["Subsistit in", "Aggiornamento", "Ressourcement"],
+      "correct": 0,
+      "hint": "Significa 'subsiste en'.",
+      "explanation": "Permite reconocer 'elementos de Iglesia' fuera de sus límites visibles, en sintonía con el ecumenismo."
+    },
+    {
+      "type": "gap",
+      "text": "Pablo VI clausuró el concilio el 8 de diciembre de ___.",
+      "options": ["1965", "1963", "1964"],
+      "answer": "1965",
+      "explanation": "Fue en la festividad de la Inmaculada Concepción, con mensajes dirigidos a distintos grupos sociales."
+    }
+  ]
+}

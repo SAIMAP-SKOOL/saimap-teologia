@@ -1,0 +1,243 @@
+{
+  "id": "1.5-mod09",
+  "module": 9,
+  "title": "La Teología de la Liberación en América Latina",
+  "subtitle": "De Medellín y Gutiérrez a las instrucciones de la Congregación para la Doctrina de la Fe",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Opción Preferencial por los Pobres", "es": "El Evangelio debe dar prioridad a los sectores empobrecidos, sin exclusividad" },
+        { "en": "Praxis", "es": "Acción transformadora comprometida, punto de partida de la reflexión teológica" },
+        { "en": "Comunidades Eclesiales de Base", "es": "Pequeños grupos de laicos en torno a la lectura bíblica y el compromiso social" },
+        { "en": "Análisis Social Marxista como Instrumento", "es": "Categorías marxistas usadas para diagnosticar mecanismos de pobreza, sin el sistema filosófico ateo" },
+        { "en": "Pecado Social o Estructural", "es": "Injusticias inscritas en las estructuras económicas y políticas, no solo individuales" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué conferencia episcopal latinoamericana de 1968 sentó las bases pastorales de la opción por los pobres, sin acuñar todavía esa fórmula terminológica exacta?",
+      "options": ["La Conferencia de Medellín", "El Concilio Vaticano II", "La Conferencia de Puebla"],
+      "correct": 0,
+      "hint": "Fue inaugurada personalmente por Pablo VI.",
+      "explanation": "Introdujo la categoría de 'violencia institucionalizada', sentando las bases de lo que Puebla formularía en 1979."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ sostiene que el anuncio del Evangelio debe dar prioridad a los sectores empobrecidos, sin exclusividad.",
+      "options": ["Opción Preferencial por los Pobres", "Praxis", "Pecado Social"],
+      "answer": "Opción Preferencial por los Pobres",
+      "explanation": "Se consolidó terminológicamente en la conferencia de Puebla en 1979."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La denuncia de Medellín",
+      "tiles": ["Medellín", "denunció", "la", "violencia", "institucionalizada", "celebró", "ignoró"],
+      "answer": "Medellín denunció la violencia institucionalizada",
+      "explanation": "La entendían como la opresión estructural generada por sistemas económicos y políticos injustos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la tesis metodológica central de Gustavo Gutiérrez en su obra de 1971?",
+      "options": ["La teología es un 'segundo acto' de reflexión crítica sobre una praxis de compromiso con los pobres", "La teología debe partir exclusivamente de la exégesis histórico-crítica de la Escritura", "La teología debe subordinarse por completo al materialismo histórico como método científico"],
+      "correct": 0,
+      "hint": "Integraba tres niveles de liberación: sociopolítica, histórica y del pecado.",
+      "explanation": "Gutiérrez integraba explícitamente la liberación del pecado como el nivel más profundo."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la acción transformadora comprometida que se convierte en el punto de partida de la reflexión teológica.",
+      "options": ["Praxis", "Opción Preferencial", "Pecado Social"],
+      "answer": "Praxis",
+      "explanation": "En la metodología de Gutiérrez, la teología es un 'segundo acto' que reflexiona sobre ella."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada posición con su categoría central y valoración magisterial",
+      "pairs": [
+        { "en": "Medellín (1968)", "es": "Violencia institucionalizada; documento episcopal recibido con pleno reconocimiento" },
+        { "en": "Gutiérrez, Teología de la Liberación (1971)", "es": "Opción preferencial por los pobres; corregido en matices por Libertatis Nuntius" },
+        { "en": "Corrientes radicalizadas", "es": "Lucha de clases como categoría eclesiológica; objeto directo de la crítica de 1984" },
+        { "en": "Libertatis Conscientia (1986)", "es": "Libertad cristiana; reafirmación positiva de la opción preferencial" },
+        { "en": "Puebla (1979)", "es": "Consagró terminológicamente la opción preferencial por los pobres" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La definición metodológica",
+      "tiles": ["Gutiérrez", "definió", "la", "teología", "como", "segundo", "acto", "primero"],
+      "answer": "Gutiérrez definió la teología como segundo acto",
+      "explanation": "Esta inversión metodológica desplazaba el punto de partida hacia la experiencia vivida de compromiso."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué distinción establece explícitamente la Instrucción Libertatis Nuntius (1984) respecto al uso de categorías marxistas?",
+      "options": ["Reconoce que separar el análisis social marxista de su matriz filosófica es posible en teoría, pero advierte de su enorme dificultad práctica", "Prohíbe cualquier análisis social de la pobreza bajo pena de excomunión", "Equipara sin matices toda la teología de la liberación con el marxismo ateo"],
+      "correct": 0,
+      "hint": "El marxismo se presenta como una unidad orgánica.",
+      "explanation": "El documento no prohíbe el análisis social de la pobreza, que reconoce como legítimo y necesario."
+    },
+    {
+      "type": "gap",
+      "text": "Las ___ son pequeños grupos de laicos articulados en torno a la lectura bíblica y el compromiso social.",
+      "options": ["Comunidades Eclesiales de Base", "Congregaciones religiosas", "Ligas de emergencia"],
+      "answer": "Comunidades Eclesiales de Base",
+      "explanation": "En países como Brasil llegaron a contar con varios millones de miembros hacia la década de 1980."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Gustavo Gutiérrez", "es": "Sacerdote peruano, autor de Teología de la Liberación (1971)" },
+        { "en": "Leonardo Boff", "es": "Teólogo brasileño sometido a 'silencio obsequioso' en 1985" },
+        { "en": "Joseph Ratzinger", "es": "Cardenal que presidió la Congregación para la Doctrina de la Fe desde 1981" },
+        { "en": "Óscar Arnulfo Romero", "es": "Arzobispo de San Salvador asesinado en 1980, canonizado en 2018" },
+        { "en": "Ernesto Cardenal", "es": "Sacerdote y poeta nicaragüense que asumió cargos en el gobierno sandinista" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La consagración de Puebla",
+      "tiles": ["Puebla", "consagró", "la", "opción", "preferencial", "rechazó", "ignoró"],
+      "answer": "Puebla consagró la opción preferencial",
+      "explanation": "Contó con la participación activa de Gutiérrez y otros teólogos afines en su redacción."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Libertatis Conscientia (1986) la opción preferencial por los pobres?",
+      "options": ["Como una exigencia implícita en la fe cristológica misma", "Como una estrategia política coyuntural ajena al núcleo del Evangelio", "Como una desviación ideológica que debe abandonarse por completo"],
+      "correct": 0,
+      "hint": "Reafirma en positivo la legitimidad de una auténtica teología de la liberación.",
+      "explanation": "El documento la sitúa como exigencia evangélica intrínseca, no como mera estrategia política."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ designa las injusticias inscritas en las estructuras económicas y políticas, no solo en decisiones individuales.",
+      "options": ["Pecado Social o Estructural", "Análisis Marxista", "Praxis"],
+      "answer": "Pecado Social o Estructural",
+      "explanation": "Fue profundizado por los teólogos posteriores a partir de la 'violencia institucionalizada' de Medellín."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "II Conferencia de Medellín (agosto de 1968)", "es": "Introdujo la noción de violencia institucionalizada" },
+        { "en": "III Conferencia de Puebla (1979)", "es": "Consagró la fórmula 'opción preferencial por los pobres'" },
+        { "en": "Instrucción Libertatis Nuntius (6-VIII-1984)", "es": "Advirtió contra las desviaciones marxistizantes" },
+        { "en": "Instrucción Libertatis Conscientia (22-III-1986)", "es": "Reafirmó la opción preferencial por los pobres" },
+        { "en": "Asesinato de Óscar Romero (24-III-1980)", "es": "Mientras celebraba misa en San Salvador" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El examen doctrinal",
+      "tiles": ["Ratzinger", "examinó", "la", "nueva", "corriente", "teológica", "ignoró", "aprobó"],
+      "answer": "Ratzinger examinó la nueva corriente teológica",
+      "explanation": "Lo hizo como presidente de la Congregación para la Doctrina de la Fe desde 1981."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué año publicó Gustavo Gutiérrez su obra fundacional Teología de la Liberación: Perspectivas?",
+      "options": ["1971", "1968", "1984"],
+      "correct": 0,
+      "hint": "La publicó en Lima.",
+      "explanation": "El texto se convirtió en la referencia fundacional de toda la corriente."
+    },
+    {
+      "type": "gap",
+      "text": "El sacerdote peruano ___ publicó en 1971 la obra fundacional Teología de la Liberación.",
+      "options": ["Gustavo Gutiérrez", "Leonardo Boff", "Jon Sobrino"],
+      "answer": "Gustavo Gutiérrez",
+      "explanation": "Se había formado en Lyon y Lovaina antes de ser asesor teológico en la recepción conciliar latinoamericana."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El silencio impuesto a Boff",
+      "tiles": ["Roma", "impuso", "silencio", "a", "Boff", "premió", "ignoró"],
+      "answer": "Roma impuso silencio a Boff",
+      "explanation": "Fue en 1985; Boff terminaría abandonando el estado clerical en 1992."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué cardenal presidía la Congregación para la Doctrina de la Fe cuando se publicaron las instrucciones de 1984 y 1986?",
+      "options": ["Joseph Ratzinger", "Jorge Mario Bergoglio", "Karol Wojtyła"],
+      "correct": 0,
+      "hint": "Presidía la Congregación desde 1981.",
+      "explanation": "Actuaba bajo el pontificado de Juan Pablo II."
+    },
+    {
+      "type": "gap",
+      "text": "La Conferencia de ___ (1968) introdujo la noción de violencia institucionalizada.",
+      "options": ["Medellín", "Puebla", "Santo Domingo"],
+      "answer": "Medellín",
+      "explanation": "Fue inaugurada personalmente por Pablo VI durante su visita a Bogotá."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La reafirmación positiva",
+      "tiles": ["Libertatis", "Conscientia", "reafirmó", "la", "opción", "por", "los", "pobres", "rechazó", "ignoró"],
+      "answer": "Libertatis Conscientia reafirmó la opción por los pobres",
+      "explanation": "La situó como exigencia intrínseca del Evangelio y no como concesión táctica."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué teólogo brasileño fue sometido a un 'silencio obsequioso' en 1985 por la Congregación para la Doctrina de la Fe?",
+      "options": ["Leonardo Boff", "Jon Sobrino", "Juan Luis Segundo"],
+      "correct": 0,
+      "hint": "Estaba centrado en la eclesiología y la crítica del poder institucional.",
+      "explanation": "Terminaría abandonando el estado clerical en 1992, sin que ello afectara a Gutiérrez."
+    },
+    {
+      "type": "gap",
+      "text": "La instrucción ___ (1984) advirtió contra las desviaciones marxistizantes de ciertas formas de teología de la liberación.",
+      "options": ["Libertatis Nuntius", "Libertatis Conscientia", "Rerum Novarum"],
+      "answer": "Libertatis Nuntius",
+      "explanation": "Fue el primer documento romano dedicado monográficamente a la cuestión."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El martirio del arzobispo",
+      "tiles": ["Romero", "fue", "asesinado", "celebrando", "misa", "huyó", "sobrevivió"],
+      "answer": "Romero fue asesinado celebrando misa",
+      "explanation": "Ocurrió el 24 de marzo de 1980; su canonización llegó en 2018 bajo el papa Francisco."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué arzobispo de San Salvador fue asesinado mientras celebraba misa el 24 de marzo de 1980?",
+      "options": ["Óscar Arnulfo Romero", "Leonardo Boff", "Ernesto Cardenal"],
+      "correct": 0,
+      "hint": "Era defensor decidido de los derechos de los pobres.",
+      "explanation": "Se convirtió en símbolo del coste humano de la defensa episcopal de los pobres en el continente."
+    },
+    {
+      "type": "gap",
+      "text": "La instrucción ___ (1986) reafirmó que la opción preferencial por los pobres está implícita en la fe cristológica.",
+      "options": ["Libertatis Conscientia", "Libertatis Nuntius", "Quas Primas"],
+      "answer": "Libertatis Conscientia",
+      "explanation": "Se concibió explícitamente como complemento constructivo del documento de 1984."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El cargo sandinista",
+      "tiles": ["Cardenal", "asumió", "un", "cargo", "sandinista", "rechazó", "evitó"],
+      "answer": "Cardenal asumió un cargo sandinista",
+      "explanation": "Esto generó fricción con la disciplina eclesiástica sobre cargos políticos partidistas para sacerdotes."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué conferencia de 1979 se consagró terminológicamente la fórmula 'opción preferencial por los pobres'?",
+      "options": ["Puebla", "Medellín", "Santo Domingo"],
+      "correct": 0,
+      "hint": "Juan Pablo II estuvo presente en su apertura.",
+      "explanation": "Sus raíces conceptuales se encontraban ya en Medellín y en la obra de Gutiérrez de 1971."
+    },
+    {
+      "type": "gap",
+      "text": "El arzobispo ___ fue asesinado en San Salvador el 24 de marzo de 1980 y canonizado en 2018.",
+      "options": ["Óscar Arnulfo Romero", "Leonardo Boff", "Ernesto Cardenal"],
+      "answer": "Óscar Arnulfo Romero",
+      "explanation": "Su asesinato conmocionó a la Iglesia universal durante la guerra civil salvadoreña."
+    }
+  ]
+}
