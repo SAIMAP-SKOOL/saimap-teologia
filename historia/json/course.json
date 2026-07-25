@@ -20,7 +20,26 @@
         { "n": 12, "title": "La Estructura Jerárquica y el Desarrollo Eclesiástico", "es": "12 · Estructura Eclesiástica", "file": "1.1/mod12.json" }
       ]
     },
-    { "code": "1.2", "name": "Iglesia Imperial y Concilios",           "color": "#3E5B6B", "locked": true, "moduleCount": 12 },
+    {
+      "code": "1.2",
+      "name": "Iglesia Imperial y Concilios",
+      "sub": "12/12 temas · Completo",
+      "color": "#3E5B6B",
+      "modules": [
+        { "n": 1,  "title": "El Fin de la Clandestinidad y la Paz de la Iglesia (311-313 d.C.)", "es": "1 · Fin de la Clandestinidad", "file": "1.2/mod01.json" },
+        { "n": 2,  "title": "El Giro Constantiniano e Instrumentalización Política", "es": "2 · Giro Constantiniano", "file": "1.2/mod02.json" },
+        { "n": 3,  "title": "La Crisis Arriana y el Concilio de Nicea (325 d.C.)", "es": "3 · Concilio de Nicea", "file": "1.2/mod03.json" },
+        { "n": 4,  "title": "El Concilio de Constantinopla I (381 d.C.) y el Espíritu Santo", "es": "4 · Constantinopla I", "file": "1.2/mod04.json" },
+        { "n": 5,  "title": "El Surgimiento del Monacato Primitivo", "es": "5 · Monacato Primitivo", "file": "1.2/mod05.json" },
+        { "n": 6,  "title": "El Cristianismo como Religión Oficial del Imperio (380 d.C.)", "es": "6 · Religión Oficial", "file": "1.2/mod06.json" },
+        { "n": 7,  "title": "La Controversia Nestoriana y el Concilio de Éfeso (431 d.C.)", "es": "7 · Concilio de Éfeso", "file": "1.2/mod07.json" },
+        { "n": 8,  "title": "La Controversia Monofisita y el Concilio de Calcedonia (451 d.C.)", "es": "8 · Concilio de Calcedonia", "file": "1.2/mod08.json" },
+        { "n": 9,  "title": "San Agustín y el Cisma Donatista", "es": "9 · Cisma Donatista", "file": "1.2/mod09.json" },
+        { "n": 10, "title": "La Controversia Pelagiana y la Gracia", "es": "10 · Controversia Pelagiana", "file": "1.2/mod10.json" },
+        { "n": 11, "title": "San Jerónimo y la Fijación de la Vulgata", "es": "11 · La Vulgata", "file": "1.2/mod11.json" },
+        { "n": 12, "title": "El Colapso de Occidente (476 d.C.) y el Papado", "es": "12 · Colapso de Occidente", "file": "1.2/mod12.json" }
+      ]
+    },
     { "code": "1.3", "name": "Cristianismo Medieval",                  "color": "#5B3E6B", "locked": true, "moduleCount": 12 },
     { "code": "1.4", "name": "Reforma y Contrarreforma",               "color": "#6B3E4A", "locked": true, "moduleCount": 12 },
     { "code": "1.5", "name": "Edad Moderna y Contemporánea",           "color": "#4A6B3E", "locked": true, "moduleCount": 12 }

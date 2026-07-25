@@ -1,0 +1,243 @@
+{
+  "id": "1.2-mod12",
+  "module": 12,
+  "title": "El Colapso de Occidente (476 d.C.) y el Papado",
+  "subtitle": "De León Magno a la doctrina gelasiana de las dos espadas",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Auctoritas", "es": "Autoridad moral y sagrada del sacerdocio, atribuida de forma suprema al Papa" },
+        { "en": "Potestas", "es": "Poder temporal y ejecutivo de coerción militar reservado a reyes y emperadores" },
+        { "en": "Principatus", "es": "Primado romano del obispo de Roma sobre el conjunto de la Iglesia" },
+        { "en": "Tuitio", "es": "Amparo cívico de la Iglesia sobre las poblaciones tras el colapso del funcionariado imperial" },
+        { "en": "Plenitudo potestatis", "es": "Plenitud del poder papal para definir el dogma y legislar sobre la disciplina canónica" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obispo de Roma asumió un liderazgo civil crucial ante las invasiones de Atila y Odoacro?",
+      "options": ["San León el Grande", "San Silvestre I", "San Dámaso I"],
+      "correct": 0,
+      "hint": "Negoció con Atila en el año 452 d.C.",
+      "explanation": "León I lideró la embajada romana ante Atila y negoció con el vándalo Genserico, asumiendo funciones de defensor civil ante el vacío de poder imperial."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la autoridad moral y sagrada del sacerdocio, atribuida de forma suprema al Papa.",
+      "options": ["auctoritas", "potestas", "tuitio"],
+      "answer": "auctoritas",
+      "explanation": "Esta autoridad guía espiritualmente a la cristiandad, distinta del poder temporal de coerción de los reyes."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La embajada ante Atila",
+      "tiles": ["León", "convenció", "a", "Atila", "de", "retirarse", "avanzar", "luchó"],
+      "answer": "León convenció a Atila de retirarse",
+      "explanation": "Empleando su elocuencia persuasiva, el papa convenció a Atila de replegar sus huestes fuera de Italia en el año 452 d.C."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué fundamento teológico del primado papal consolidó León el Grande?",
+      "options": ["Que el obispo de Roma es el sucesor y heredero indigno de San Pedro (vicarius Petri)", "El nombramiento del Papa por votación secreta del Senado romano", "El primado imperial del obispo de Constantinopla"],
+      "correct": 0,
+      "hint": "Es un concepto jurídico romano.",
+      "explanation": "León I formuló la doctrina del primado de Pedro, afirmando que el Papa hereda la potestad de las llaves conferida a Pedro."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es el poder temporal de coerción militar reservado a reyes y emperadores.",
+      "options": ["potestas", "auctoritas", "principatus"],
+      "answer": "potestas",
+      "explanation": "Este poder ejecutivo se reservaba a los soberanos seculares para gobernar los asuntos terrenales."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada característica con el modelo occidental gelasiano",
+      "pairs": [
+        { "en": "Centro de Poder", "es": "Roma con el Papa como vicario de Pedro" },
+        { "en": "Relación Iglesia-Estado", "es": "Autonomía espiritual con separación de esferas jurisdiccionales" },
+        { "en": "Rol del Emperador", "es": "Protector militar limitado a la coerción secular externa" },
+        { "en": "Origen de la Legitimidad", "es": "Sucesión petrina divina e ininterrumpida de la cátedra" },
+        { "en": "Concepto Jurídico", "es": "Auctoritas papal que prevalece en la moral de las almas" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La fórmula del vicario de Pedro",
+      "tiles": ["El", "papa", "es", "el", "heredero", "indigno", "de", "Pedro", "digno", "apóstol"],
+      "answer": "El papa es el heredero indigno de Pedro",
+      "explanation": "Este concepto jurídico separaba la dignidad objetiva del cargo pontificio de la santidad personal del individuo que lo ocupara."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué consecuencia tuvo el colapso del Imperio de Occidente en el desarrollo del papado?",
+      "options": ["La consolidación de la sede de Roma como único factor estable de cohesión civil y jurídica", "La desaparición definitiva del episcopado rural en Italia", "El sometimiento del clero de Roma a los patriarcas coptos"],
+      "correct": 0,
+      "hint": "La Iglesia sirvió de puente frente a los reinos bárbaros.",
+      "explanation": "Con la desaparición de la corte imperial de Occidente, las estructuras de la Iglesia sirvieron de integrador cultural y legal frente a los reinos germanos."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el primado romano del obispo de Roma sobre el conjunto de la Iglesia.",
+      "options": ["principatus", "tuitio", "plenitudo potestatis"],
+      "answer": "principatus",
+      "explanation": "Este primado jurídico se fundamentaba en la sucesión petrina de la cátedra episcopal de Roma."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué teoría sobre las relaciones del poder espiritual y temporal formuló Gelasio I?",
+      "options": ["La doctrina de las dos espadas, subordinando el poder real a la autoridad sagrada en materias espirituales", "El sometimiento absoluto de los obispos al césar de Constantinopla", "El nombramiento del emperador de Oriente como cabeza sacramental de la Iglesia"],
+      "correct": 0,
+      "hint": "La formuló en una carta al emperador Anastasio I.",
+      "explanation": "Gelasio I distinguió la auctoritas sacrata pontificum de la regalis potestas, señalando que los obispos responden ante Dios por la salud espiritual de los reyes."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es el amparo cívico ejercido por la Iglesia sobre las poblaciones desamparadas.",
+      "options": ["tuitio", "potestas", "auctoritas"],
+      "answer": "tuitio",
+      "explanation": "Este amparo eclesiástico se convirtió en el principal motor de cohesión comunitaria ante la inacción del funcionariado romano."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La doctrina gelasiana",
+      "tiles": ["Dos", "poderes", "gobiernan", "el", "mundo", "uno", "cielo"],
+      "answer": "Dos poderes gobiernan el mundo",
+      "explanation": "Gelasio I defendió que Dios había dispuesto dos principios rectores soberanos: la autoridad de los obispos y el poder de los reyes."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué caudillo hérulo depuso al último emperador de Occidente, Rómulo Augústulo, en el año 476 d.C.?",
+      "options": ["Odoacro", "Atila", "Genserico"],
+      "correct": 0,
+      "hint": "Su acción cesó el envío de insignias imperiales a Constantinopla.",
+      "explanation": "Este acontecimiento fue la culminación formal de un prolongado proceso de fragmentación institucional y debilidad del funcionariado civil."
+    },
+    {
+      "type": "gap",
+      "text": "___ depuso a Rómulo Augústulo en el año 476 d.C., poniendo fin al Imperio de Occidente.",
+      "options": ["Odoacro", "Atila", "Genserico"],
+      "answer": "Odoacro",
+      "explanation": "Al cesar el envío de insignias imperiales a Constantinopla, Italia quedó sumida en un profundo vacío de poder."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada persona con su papel histórico",
+      "pairs": [
+        { "en": "Odoacro", "es": "Caudillo hérulo que depuso a Rómulo Augústulo en el año 476 d.C." },
+        { "en": "León I Magno", "es": "Negoció con Atila y Genserico, defendiendo la ciudad de Roma" },
+        { "en": "Gelasio I", "es": "Formuló la doctrina de las dos espadas en su carta a Anastasio I" },
+        { "en": "Teodorico el Grande", "es": "Rey ostrogodo arriano que respetó la administración romana" },
+        { "en": "Dionisio el Exiguo", "es": "Canonista que recopiló las cartas decretales papales en el siglo VI" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La auctoritas sacrata pontificum",
+      "tiles": ["Los", "obispos", "responden", "ante", "Dios", "por", "los", "reyes", "nunca", "césares"],
+      "answer": "Los obispos responden ante Dios por los reyes",
+      "explanation": "El papa argumentó que los obispos deben rendir cuentas ante Dios por el comportamiento moral y la salvación de los reyes."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué rey vándalo saqueó Roma en el año 455 d.C. tras el asesinato de Valentiniano III?",
+      "options": ["Genserico", "Teodorico", "Odoacro"],
+      "correct": 0,
+      "hint": "León I evitó el exterminio de la población.",
+      "explanation": "El papa logró pactar con el monarca germánico para evitar el exterminio de la población y la profanación de las basílicas."
+    },
+    {
+      "type": "gap",
+      "text": "León I se entrevistó con ___ el Huno a orillas del río Mincio en el año 452 d.C.",
+      "options": ["Atila", "Genserico", "Teodorico"],
+      "answer": "Atila",
+      "explanation": "El obispo de Roma asumió el riesgo personal de parlamentar con el caudillo bárbaro para impedir el saqueo de la urbe."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El rechazo al canon 28",
+      "tiles": ["La", "primacía", "no", "depende", "de", "la", "política", "siempre", "emperador"],
+      "answer": "La primacía no depende de la política",
+      "explanation": "León I rechazó el canon 28 de Calcedonia, argumentando que la primacía eclesiástica no dependía de la relevancia civil de una ciudad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué canon de Calcedonia rechazó León I por basar la primacía eclesiástica en criterios políticos?",
+      "options": ["El canon 28", "El canon 3", "El canon 12"],
+      "correct": 0,
+      "hint": "Pretendía equiparar Constantinopla a Roma.",
+      "explanation": "León I defendió que la primacía eclesiástica depende de la institución divina de Cristo sobre Pedro, no del estatus civil de una ciudad."
+    },
+    {
+      "type": "gap",
+      "text": "___ saqueó Roma en el año 455 d.C. tras el asesinato de Valentiniano III.",
+      "options": ["Genserico", "Atila", "Odoacro"],
+      "answer": "Genserico",
+      "explanation": "Durante los catorce días que duró el pillaje vándalo, el clero romano coordinó las tareas de auxilio y refugio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El saqueo vándalo de Roma",
+      "tiles": ["Genserico", "perdonó", "a", "la", "población", "exterminó", "quemó"],
+      "answer": "Genserico perdonó a la población",
+      "explanation": "Aunque no pudo evitar la ocupación militar de la ciudad, León I logró pactar para evitar el exterminio de la población."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o documento con su descripción",
+      "pairs": [
+        { "en": "Embajada ante Atila (452 d.C.)", "es": "León I convenció al caudillo huno de replegar sus tropas" },
+        { "en": "Saqueo vándalo (455 d.C.)", "es": "Genserico ocupó Roma, pero León I evitó el exterminio" },
+        { "en": "Canon 28 de Calcedonia", "es": "León I lo rechazó por basar la primacía en criterios políticos" },
+        { "en": "Cisma Acaciano (484-519 d.C.)", "es": "Ruptura entre Roma y Constantinopla por el Henotikon" },
+        { "en": "Carta a Anastasio I (494 d.C.)", "es": "Gelasio I distinguió la auctoritas sacrata y la regalis potestas" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El vacío institucional de Italia",
+      "tiles": ["La", "Iglesia", "sostiene", "a", "la", "ciudad", "abandona", "imperio"],
+      "answer": "La Iglesia sostiene a la ciudad",
+      "explanation": "Ante la evaporación de las prefecturas y del senado tradicional, la Iglesia permaneció como la única red administrativa coherente."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué canonista del siglo VI recopiló las cartas decretales papales, consolidando una fuente de derecho canónico?",
+      "options": ["Dionisio el Exiguo", "Casiodoro", "Isidoro de Sevilla"],
+      "correct": 0,
+      "hint": "Su nombre da origen al calendario de la era cristiana.",
+      "explanation": "Estas decretales, redactadas con terminología forense romana, respondían de forma vinculante a las consultas de los obispos occidentales."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ formuló la doctrina de las dos espadas en su carta al emperador Anastasio I.",
+      "options": ["Gelasio I", "León I", "Dámaso I"],
+      "answer": "Gelasio I",
+      "explanation": "Esta carta del año 494 d.C. representa el cimiento conceptual de la separación medieval de jurisdicciones."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El cisma acaciano",
+      "tiles": ["Roma", "rompió", "la", "comunión", "con", "Acacio", "mantuvo", "aceptó"],
+      "answer": "Roma rompió la comunión con Acacio",
+      "explanation": "El papa Félix III y Gelasio I excomulgaron al patriarca Acacio por promulgar el Henotikon, que diluía las definiciones de Calcedonia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué rey ostrogodo arriano respetó la administración romana y delegó en el clero católico la mediación con la población itálica?",
+      "options": ["Teodorico el Grande", "Clodoveo I", "Alarico"],
+      "correct": 0,
+      "hint": "Profesaba la herejía condenada en Nicea.",
+      "explanation": "A pesar de su heterodoxia arriana, delegó en el clero católico el mantenimiento del orden público local en Italia."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es el rey ostrogodo arriano que respetó la administración romana en Italia.",
+      "options": ["Teodorico", "Clodoveo", "Alarico"],
+      "answer": "Teodorico",
+      "explanation": "El papado debió ejercer una constante vigilancia para evitar la intromisión arriana en los templos de la urbe."
+    }
+  ]
+}

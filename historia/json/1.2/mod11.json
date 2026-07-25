@@ -1,0 +1,243 @@
+{
+  "id": "1.2-mod11",
+  "module": 11,
+  "title": "San Jerónimo y la Fijación de la Vulgata",
+  "subtitle": "De la Vetus Latina a la hebraica veritas",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Hebraica veritas", "es": "Principio de crítica textual que otorga autoridad a los manuscritos hebreos" },
+        { "en": "Vetus Latina", "es": "Conjunto de traducciones latinas dispares realizadas antes del trabajo de Jerónimo" },
+        { "en": "Septuaginta", "es": "Traducción griega de los Setenta, venerada como obra inspirada por el Espíritu Santo" },
+        { "en": "Hexapla", "es": "Obra de Orígenes con el Antiguo Testamento en seis columnas comparativas" },
+        { "en": "Prologus Galeatus", "es": "Prólogo de Jerónimo que delimita el canon hebreo frente a los libros apócrifos" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué principio metodológico defendió Jerónimo en su traducción de las Escrituras al latín?",
+      "options": ["La hebraica veritas, traduciendo el Antiguo Testamento directamente del hebreo", "La fidelidad exclusiva a la traducción copta y aramea tardía", "La paráfrasis literaria libre para complacer al Senado"],
+      "correct": 0,
+      "hint": "Rompía con la primacía de la Septuaginta.",
+      "explanation": "Jerónimo sostenía que para traducir con fidelidad el Antiguo Testamento era preciso recurrir al texto hebreo original custodiado por los judíos."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es el principio de crítica textual que otorga autoridad a los manuscritos hebreos.",
+      "options": ["hebraica veritas", "Vetus Latina", "Septuaginta"],
+      "answer": "hebraica veritas",
+      "explanation": "Este principio de Jerónimo otorga autoridad original a los manuscritos hebreos frente a las traducciones griegas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El encargo de Dámaso I",
+      "tiles": ["Corrige", "el", "texto", "de", "los", "Evangelios", "destruye", "ignora"],
+      "answer": "Corrige el texto de los Evangelios",
+      "explanation": "El papa buscaba dotar a la liturgia romana de un texto depurado, elegante y libre de las corrupciones de los copistas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pontífice encargó a Jerónimo la revisión del texto latino de los Evangelios en el año 382 d.C.?",
+      "options": ["El Papa Dámaso I", "El Papa León el Grande", "El Papa Silvestre I"],
+      "correct": 0,
+      "hint": "Jerónimo era su secretario personal.",
+      "explanation": "Dámaso I comisionó a Jerónimo para realizar una revisión erudita del Nuevo Testamento basada en los manuscritos griegos más antiguos."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es el conjunto de traducciones latinas dispares anteriores al trabajo de Jerónimo.",
+      "options": ["Vetus Latina", "hebraica veritas", "Hexapla"],
+      "answer": "Vetus Latina",
+      "explanation": "Estas traducciones surgieron de manera espontánea en las comunidades de la cuenca mediterránea, generando un caos textual."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada versión o edición con su descripción",
+      "pairs": [
+        { "en": "Vetus Latina", "es": "Siglo II d.C., latín, autoridad local" },
+        { "en": "Septuaginta", "es": "Siglo III a.C., griego, autoridad apostólica" },
+        { "en": "Vulgata", "es": "Siglo IV d.C., latín, autoridad eclesiástica" },
+        { "en": "Codex Amiatinus", "es": "Manuscrito completo más antiguo de la Vulgata, copiado en Northumbria (716 d.C.)" },
+        { "en": "Biblia de Alcuino", "es": "Edición carolingia unificada presentada a Carlomagno en el año 800 d.C." }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El principio de la hebraica veritas",
+      "tiles": ["La", "verdad", "está", "en", "el", "texto", "hebreo", "griego", "latino"],
+      "answer": "La verdad está en el texto hebreo",
+      "explanation": "Jerónimo constató que la Septuaginta contenía numerosas divergencias con respecto al texto hebreo custodiado por las sinagogas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué reacción inicial cosechó la traducción directa de Jerónimo en Occidente?",
+      "options": ["Una fuerte resistencia por la pérdida de familiaridad con las lecturas de la Septuaginta", "Una aprobación unánime e inmediata en todas las diócesis", "La censura civil decretada por Teodosio I"],
+      "correct": 0,
+      "hint": "Incluso Agustín aconsejó cautela.",
+      "explanation": "Los fieles estaban habituados al fraseo de la Vetus Latina, y Jerónimo fue acusado de judaizante por apelar al texto hebreo."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la traducción griega de los Setenta, venerada como obra inspirada.",
+      "options": ["Septuaginta", "Vulgata", "Hexapla"],
+      "answer": "Septuaginta",
+      "explanation": "Esta traducción era venerada por la tradición patrística oriental y occidental como una obra inspirada por el Espíritu Santo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo afectaron los prefacios de Jerónimo a la delimitación del canon bíblico de Occidente?",
+      "options": ["Distinguiendo entre los libros canónicos hebreos y los apócrifos o eclesiásticos", "Excluyendo los Evangelios Sinópticos del uso litúrgico", "Declarando que los Salmos carecían de inspiración divina"],
+      "correct": 0,
+      "hint": "La Iglesia conservó estos libros en el uso litúrgico.",
+      "explanation": "Jerónimo constató que ciertos libros leídos en griego no figuraban en el canon hebreo, denominándolos apócrifos o eclesiásticos."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ de Orígenes presentaba el Antiguo Testamento en seis columnas comparativas.",
+      "options": ["Hexapla", "Vetus Latina", "Vulgata"],
+      "answer": "Hexapla",
+      "explanation": "Esta herramienta filológica fue clave para el trabajo crítico de Jerónimo en su primera revisión del Salterio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El tumulto de Oea",
+      "tiles": ["Los", "fieles", "no", "reconocieron", "la", "palabra", "hedera", "aceptaron", "cucurbita"],
+      "answer": "Los fieles no reconocieron la palabra hedera",
+      "explanation": "El cambio del término «cucurbita» por «hedera» en el libro de Jonás provocó un tumulto en la comunidad norteafricana."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué obra de Orígenes, con el Antiguo Testamento en seis columnas, usó Jerónimo para su primera revisión del Salterio?",
+      "options": ["La Hexapla", "El Prologus Galeatus", "El Codex Amiatinus"],
+      "correct": 0,
+      "hint": "Se custodiaba en la biblioteca de Cesarea de Palestina.",
+      "explanation": "Esta herramienta le permitió depurar el texto de los Salmos con los signos críticos del asterisco y el óbelo."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ encargó a Jerónimo la revisión de los Evangelios en el año 382 d.C.",
+      "options": ["Dámaso I", "León I", "Silvestre I"],
+      "answer": "Dámaso I",
+      "explanation": "Buscaba dotar a la liturgia de la Iglesia romana de un texto depurado y libre de las corrupciones de los copistas."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada persona con su papel en la fijación de la Vulgata",
+      "pairs": [
+        { "en": "Jerónimo de Estridón", "es": "Tradujo la Biblia directamente del hebreo, apelando a la hebraica veritas" },
+        { "en": "Dámaso I", "es": "Papa que encargó la revisión de los Evangelios en el año 382 d.C." },
+        { "en": "Paula de Roma", "es": "Patricia romana que financió el monasterio y scriptorium de Belén" },
+        { "en": "Agustín de Hipona", "es": "Defendió la autoridad de la Septuaginta frente a la traducción hebrea" },
+        { "en": "Alcuino de York", "es": "Realizó la revisión carolingia de la Vulgata para Carlomagno" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La Carta LVII ad Pammachium",
+      "tiles": ["Traducir", "el", "sentido", "no", "cada", "palabra", "literal", "siempre"],
+      "answer": "Traducir el sentido no cada palabra",
+      "explanation": "Jerónimo defendió que el traductor no debe someterse a un literalismo ciego, sino verter el sentido completo del mensaje."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué patricia romana financió el monasterio doble de Belén donde Jerónimo estableció su scriptorium?",
+      "options": ["Paula de Roma", "Elena", "Mónica"],
+      "correct": 0,
+      "hint": "Costeó la construcción del monasterio para hombres y mujeres.",
+      "explanation": "Este monasterio se convirtió en el epicentro de la investigación filológica bíblica del Occidente latino."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Roma financió el monasterio doble de Belén donde trabajó Jerónimo.",
+      "options": ["Paula", "Elena", "Mónica"],
+      "answer": "Paula",
+      "explanation": "Jerónimo encontró en este entorno propicio el lugar para fundar un scriptorium científico."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El scriptorium de Belén",
+      "tiles": ["Jerónimo", "tradujo", "el", "Antiguo", "Testamento", "quemó", "olvidó"],
+      "answer": "Jerónimo tradujo el Antiguo Testamento",
+      "explanation": "Entre los años 390 y 405 d.C., el filólogo tradujo sistemáticamente el Pentateuco y los demás libros desde el hebreo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué incidente ilustró el conflicto entre Agustín y Jerónimo por el cambio terminológico en la Vulgata?",
+      "options": ["El tumulto de Oea por la traducción de «hedera» en vez de «cucurbita» en el libro de Jonás", "El linchamiento de un obispo en Cartago", "La quema pública de la Vetus Latina en Roma"],
+      "correct": 0,
+      "hint": "Se refiere a la planta bajo la que se cobijó Jonás.",
+      "explanation": "Los fieles acusaron al clero de alterar la Palabra de Dios al escuchar un término desconocido en la liturgia tradicional."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Hipona defendió la autoridad de la Septuaginta frente a la traducción hebrea de Jerónimo.",
+      "options": ["Agustín", "Ambrosio", "Dámaso"],
+      "answer": "Agustín",
+      "explanation": "Sostenía que los Setenta traductores habían actuado bajo el influjo directo del Espíritu Santo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o concepto con su descripción",
+      "pairs": [
+        { "en": "Incidente de Oea", "es": "Tumulto por la traducción de «hedera» en vez de «cucurbita» en Jonás" },
+        { "en": "Carta LVII ad Pammachium", "es": "Distingue entre translatio literal e interpretatio del sentido" },
+        { "en": "Concilio de Trento (1546 d.C.)", "es": "Declaró a la Vulgata la única edición latina auténtica" },
+        { "en": "Monasterio de Vivarium", "es": "Casiodoro adoptó la Vulgata como texto oficial de su scriptorium" },
+        { "en": "Isidoro de Sevilla", "es": "Consagró el término «Vulgata» en sus Etimologías" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La reforma carolingia de Alcuino",
+      "tiles": ["Alcuino", "corrigió", "la", "Biblia", "para", "Carlomagno", "destruyó", "Constantino"],
+      "answer": "Alcuino corrigió la Biblia para Carlomagno",
+      "explanation": "Esta edición unificada, presentada en la Navidad del año 800 d.C., fue copiada masivamente por todo el Imperio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué emperador encargó a Alcuino de York la revisión unificada de la Vulgata en el año 789 d.C.?",
+      "options": ["Carlomagno", "Constantino", "Justiniano"],
+      "correct": 0,
+      "hint": "Buscaba la cohesión litúrgica de su imperio.",
+      "explanation": "Esta edición se convirtió en el texto de referencia litúrgico y académico oficial de la cristiandad."
+    },
+    {
+      "type": "gap",
+      "text": "___ de York realizó la revisión carolingia de la Vulgata para Carlomagno.",
+      "options": ["Alcuino", "Casiodoro", "Isidoro"],
+      "answer": "Alcuino",
+      "explanation": "Reunió en el scriptorium de Tours los mejores manuscritos de la Vulgata para depurar el texto de las interpolaciones."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El Concilio de Trento sobre la Vulgata",
+      "tiles": ["La", "Vulgata", "es", "la", "edición", "auténtica", "falsa", "antigua"],
+      "answer": "La Vulgata es la edición auténtica",
+      "explanation": "Esta declaración respondió a la fragmentación doctrinal provocada por las traducciones vernáculas de la Reforma protestante."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué concilio del siglo XVI declaró a la Vulgata la única edición latina auténtica de la Iglesia?",
+      "options": ["El Concilio de Trento", "El Concilio de Constanza", "El Concilio de Basilea"],
+      "correct": 0,
+      "hint": "Se celebró en el año 1546 d.C.",
+      "explanation": "Este decreto ratificó la autoridad del texto tradicional frente a las traducciones vernáculas de los reformadores protestantes."
+    },
+    {
+      "type": "gap",
+      "text": "El Concilio de ___ (1546 d.C.) declaró a la Vulgata la única edición latina auténtica.",
+      "options": ["Trento", "Constanza", "Basilea"],
+      "answer": "Trento",
+      "explanation": "El decreto Insuper declaró a la Vulgata autorizada para la lectura pública, la disputa teológica y la enseñanza."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El canon de los apócrifos",
+      "tiles": ["Los", "apócrifos", "no", "están", "en", "el", "canon", "hebreo", "griego", "siempre"],
+      "answer": "Los apócrifos no están en el canon hebreo",
+      "explanation": "Jerónimo defendió que únicamente los libros contenidos en la ley y los profetas hebreos debían considerarse canónicos."
+    }
+  ]
+}
