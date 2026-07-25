@@ -1,0 +1,243 @@
+{
+  "id": "1.2-mod08",
+  "module": 8,
+  "title": "La Controversia Monofisita y el Concilio de Calcedonia (451 d.C.)",
+  "subtitle": "Del Latrocinio de Éfeso a los cuatro adverbios apofáticos",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Monophysitismus", "es": "Herejía de Eutiques: absorción de la naturaleza humana de Cristo por la divina" },
+        { "en": "Asynchytos", "es": "«Sin confusión»: preserva la integridad de la divinidad y la humanidad" },
+        { "en": "Atreptos", "es": "«Sin cambio»: las naturalezas no sufrieron alteración al unirse" },
+        { "en": "Tomus ad Flavianum", "es": "Carta dogmática de León I a Flaviano, base teológica de Calcedonia" },
+        { "en": "Latrocinium", "es": "«Latrocinio»: término de León Magno para calificar el sínodo de Éfeso del 449" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué afirmaba el monofisismo de Eutiques sobre las naturalezas de Cristo?",
+      "options": ["Que la naturaleza humana de Cristo fue absorbida por la divina, quedando solo una naturaleza", "Que Cristo poseía dos voluntades contrarias e inestables", "Que no existía divinidad en la persona histórica de Jesús"],
+      "correct": 0,
+      "hint": "Se comparaba con una gota de miel disuelta en el océano.",
+      "explanation": "Eutiques sostenía que tras la encarnación las dos naturalezas se fusionaron de tal modo que la divina absorbió a la humana."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es la herejía de Eutiques: la absorción de la naturaleza humana de Cristo por la divina.",
+      "options": ["monofisismo", "nestorianismo", "donatismo"],
+      "answer": "monofisismo",
+      "explanation": "Este término deriva del griego y alude a una sola naturaleza tras la unión encarnada."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La fórmula de Eutiques",
+      "tiles": ["Una", "sola", "naturaleza", "después", "de", "la", "unión", "dos", "antes"],
+      "answer": "Una sola naturaleza después de la unión",
+      "explanation": "Eutiques sostenía que Cristo poseía dos naturalezas antes de la unión, pero que después solo subsistía una."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué documento pontificio fijó la cristología de Calcedonia frente al monofisismo?",
+      "options": ["El Tomo a Flaviano del Papa León el Grande", "La encíclica Quas Primas del Papa Dámaso I", "Las Epístolas Sinodales de Cirilo de Alejandría"],
+      "correct": 0,
+      "hint": "Fue enviado en el año 449 d.C.",
+      "explanation": "León el Grande expuso con precisión latina la coexistencia de las dos naturalezas íntegras en la única persona de Cristo."
+    },
+    {
+      "type": "gap",
+      "text": "El término ___ significa «sin confusión», preservando la integridad de ambas naturalezas.",
+      "options": ["asynchytos", "atreptos", "adiairetos"],
+      "answer": "asynchytos",
+      "explanation": "Este término dogmático de Calcedonia preserva la integridad e inmutabilidad de la divinidad y la humanidad."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada doctrina cristológica con su autor",
+      "pairs": [
+        { "en": "Eutiques", "es": "Una sola naturaleza después de la unión" },
+        { "en": "Calcedonia", "es": "Dos naturalezas distintas en una persona" },
+        { "en": "Nestorio", "es": "Dos personas y dos naturalezas separadas" },
+        { "en": "Condena de Eutiques", "es": "Condenado en Calcedonia en el año 451" },
+        { "en": "Cirilo de Alejandría", "es": "Una sola naturaleza encarnada del Verbo, mal interpretada por Eutiques" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La aclamación a León Magno en Calcedonia",
+      "tiles": ["Pedro", "ha", "hablado", "por", "boca", "de", "León", "callado", "Pablo"],
+      "answer": "Pedro ha hablado por boca de León",
+      "explanation": "Esta aclamación unánime reconoció que el papa romano exponía fielmente el misterio de la encarnación."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la fórmula definitoria de Calcedonia sobre las dos naturalezas de Cristo?",
+      "options": ["Una sola Persona en dos naturalezas unidas sin confusión, sin cambio, sin división y sin separación", "Dos personas divinas unidas en una sola voluntad", "Una sola naturaleza divina que simula operaciones humanas"],
+      "correct": 0,
+      "hint": "Son los cuatro adverbios apofáticos griegos.",
+      "explanation": "Calcedonia consagró estos cuatro adverbios para definir que Cristo posee la deidad y la humanidad perfectas unidas en una sola hipóstasis."
+    },
+    {
+      "type": "gap",
+      "text": "El ___ es la carta dogmática de León I a Flaviano, base teológica de Calcedonia.",
+      "options": ["Tomus ad Flavianum", "Henotikon", "Codex Theodosianus"],
+      "answer": "Tomus ad Flavianum",
+      "explanation": "Esta carta fue enviada por el papa León I Magno a Flaviano de Constantinopla en el año 449 d.C."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué canon de Calcedonia motivó la protesta del Papa León el Grande?",
+      "options": ["El canon 28, que equiparaba los privilegios de Constantinopla a los de Roma", "El canon que regulaba el celibato sacerdotal rural", "El canon de condena a la traducción de la Septuaginta"],
+      "correct": 0,
+      "hint": "Se basaba en criterios políticos, no apostólicos.",
+      "explanation": "León defendió que la primacía de Roma descansa sobre la sucesión de Pedro y no sobre el estatus de la capital civil."
+    },
+    {
+      "type": "gap",
+      "text": "León Magno calificó el sínodo de Éfeso del 449 d.C. como un ___.",
+      "options": ["Latrocinium", "Concilium", "Synodos"],
+      "answer": "Latrocinium",
+      "explanation": "León declaró que aquella asamblea no había sido un concilio legítimo, sino una reunión de ladrones y violentos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los cuatro adverbios de Calcedonia",
+      "tiles": ["Sin", "confusión", "sin", "cambio", "sin", "división", "con", "mezcla"],
+      "answer": "Sin confusión sin cambio sin división",
+      "explanation": "Estos adverbios apofáticos griegos establecieron un marco insuperable de ortodoxia cristológica."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién presidió el sínodo de Éfeso del 449 d.C., calificado por León Magno como «Latrocinio»?",
+      "options": ["Dióscoro de Alejandría", "Flaviano de Constantinopla", "Eusebio de Dorilea"],
+      "correct": 0,
+      "hint": "Era el sucesor de Cirilo en la sede de San Marcos.",
+      "explanation": "Dióscoro impuso un control dictatorial de la asamblea, impidiendo que los opositores de Eutiques ejercieran su defensa."
+    },
+    {
+      "type": "gap",
+      "text": "___, archimandrita de Constantinopla, formuló la doctrina de la absorción monofisita.",
+      "options": ["Eutiques", "Flaviano", "Dióscoro"],
+      "answer": "Eutiques",
+      "explanation": "Favorecido por su relación con el eunuco imperial Crisafio, comenzó a enseñar una cristología extrema."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada persona con su papel en la controversia",
+      "pairs": [
+        { "en": "Eutiques", "es": "Archimandrita de Constantinopla, formuló la absorción monofisita" },
+        { "en": "Flaviano de Constantinopla", "es": "Patriarca que depuso a Eutiques y murió tras ser agredido en Éfeso" },
+        { "en": "Dióscoro de Alejandría", "es": "Presidió el Latrocinio de Éfeso y fue depuesto en Calcedonia" },
+        { "en": "León I Magno", "es": "Escribió el Tomus ad Flavianum y calificó Éfeso 449 de Latrocinio" },
+        { "en": "Marciano y Pulqueria", "es": "Convocaron el Concilio de Calcedonia en el año 451 d.C." }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El Latrocinio de Éfeso",
+      "tiles": ["Los", "obispos", "firmaron", "bajo", "amenaza", "libremente", "rechazaron"],
+      "answer": "Los obispos firmaron bajo amenaza",
+      "explanation": "Los guardias pretorianos retuvieron a los padres conciliares hasta que estamparon su rúbrica en el documento impuesto."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué monje sirio dirigió a la turba armada que agredió a los obispos en el Latrocinio de Éfeso?",
+      "options": ["Barsumas", "Ibas de Edesa", "Jacobo Baradeo"],
+      "correct": 0,
+      "hint": "Sus monjes portaban palos.",
+      "explanation": "Estos monjes rodearon a los obispos y profirieron amenazas de muerte contra quienes admitieran dos naturalezas en Cristo."
+    },
+    {
+      "type": "gap",
+      "text": "El patriarca ___ murió tras ser agredido físicamente en el Latrocinio de Éfeso.",
+      "options": ["Flaviano", "Dióscoro", "Proterio"],
+      "answer": "Flaviano",
+      "explanation": "Su muerte en el destierro de Lidia lo convirtió en un mártir de la fe ortodoxa."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La condena del Papa León",
+      "tiles": ["Esto", "no", "fue", "un", "concilio", "sino", "un", "latrocinio", "sínodo", "legítimo"],
+      "answer": "Esto no fue un concilio sino un latrocinio",
+      "explanation": "León declaró nulas todas las decisiones de Éfeso y excomulgó a Dióscoro de Alejandría."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué emperatriz, junto a su esposo Marciano, convocó el Concilio de Calcedonia?",
+      "options": ["Pulqueria", "Elena", "Fausta"],
+      "correct": 0,
+      "hint": "Era hermana de Teodosio II.",
+      "explanation": "Tras la muerte de Teodosio II, Pulqueria destituyó al eunuco Crisafio y restauró el orden eclesiástico ortodoxo."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Alejandría presidió el Latrocinio de Éfeso y fue depuesto en Calcedonia.",
+      "options": ["Dióscoro", "Cirilo", "Teófilo"],
+      "answer": "Dióscoro",
+      "explanation": "Fue depuesto solemnemente de su cargo por el concilio y desterrado a Paflagonia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La deposición de Dióscoro",
+      "tiles": ["Dióscoro", "fue", "depuesto", "y", "desterrado", "coronado", "perdonado"],
+      "answer": "Dióscoro fue depuesto y desterrado",
+      "explanation": "Este juicio forense desmanteló la prepotencia del patriarcado alejandrino tras las acusaciones de agresión y falsificación."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada concilio o evento con su descripción",
+      "pairs": [
+        { "en": "Sínodo Home (448 d.C.)", "es": "Condenó y depuso a Eutiques por primera vez en Constantinopla" },
+        { "en": "Latrocinio de Éfeso (449 d.C.)", "es": "Rehabilitó a Eutiques mediante coacción física y militar" },
+        { "en": "Concilio de Calcedonia (451 d.C.)", "es": "Definió las dos naturalezas unidas sin confusión ni división" },
+        { "en": "Henotikon (482 d.C.)", "es": "Edicto de Zenón que intentó reconciliar calcedonianos y monofisitas" },
+        { "en": "Cisma Acaciano (484-519 d.C.)", "es": "Primera ruptura formal entre Roma y Constantinopla" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué edicto del emperador Zenón intentó reconciliar a calcedonianos y monofisitas en el año 482 d.C.?",
+      "options": ["El Henotikon", "El Tomus ad Flavianum", "La Fórmula de Hormisdas"],
+      "correct": 0,
+      "hint": "Silenciaba deliberadamente los términos de Calcedonia.",
+      "explanation": "Este documento provocó el Cisma Acaciano con Roma al evitar el uso de los términos de una o dos naturalezas en Cristo."
+    },
+    {
+      "type": "gap",
+      "text": "El Concilio de ___ se celebró en el año 451 d.C. en la Basílica de Santa Eufemia.",
+      "options": ["Calcedonia", "Éfeso", "Nicea"],
+      "answer": "Calcedonia",
+      "explanation": "Esta ciudad, situada frente a Constantinopla, reunió a más de 500 obispos bajo estricto control civil."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El Henotikon de Zenón",
+      "tiles": ["El", "edicto", "silenció", "las", "dos", "naturalezas", "proclamó", "una"],
+      "answer": "El edicto silenció las dos naturalezas",
+      "explanation": "Esta solución de compromiso político fracasó rotundamente, pues no satisfizo a los monofisitas radicales."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué patriarca de Alejandría fue linchado por una multitud monofisita tras la muerte del emperador Marciano?",
+      "options": ["Proterio", "Cirilo", "Teófilo"],
+      "correct": 0,
+      "hint": "Fue asesinado en la propia basílica.",
+      "explanation": "Este asesinato demostró que la controversia cristológica se había convertido en un conflicto social de primer orden en Egipto."
+    },
+    {
+      "type": "gap",
+      "text": "El emperador ___ promulgó el Henotikon en el año 482 d.C. para reconciliar a las facciones.",
+      "options": ["Zenón", "Marciano", "Justiniano"],
+      "answer": "Zenón",
+      "explanation": "Ante la amenaza de fragmentación del Imperio, redactado por el patriarca Acacio, intentó silenciar las fórmulas dogmáticas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El linchamiento de Proterio",
+      "tiles": ["La", "multitud", "mató", "al", "patriarca", "Proterio", "coronó", "defendió"],
+      "answer": "La multitud mató al patriarca Proterio",
+      "explanation": "Este derramamiento de sangre en el altar mayor reflejó el grado de fanatismo al que habían llegado las facciones eclesiales."
+    }
+  ]
+}

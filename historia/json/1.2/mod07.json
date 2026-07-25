@@ -1,0 +1,243 @@
+{
+  "id": "1.2-mod07",
+  "module": 7,
+  "title": "La Controversia Nestoriana y el Concilio de Éfeso (431 d.C.)",
+  "subtitle": "Theotokos frente a Christotokos: la unión hipostática",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada término con su definición",
+      "pairs": [
+        { "en": "Theotokos", "es": "Madre de Dios: título mariológico que salvaguarda la unidad de la persona divina" },
+        { "en": "Christotokos", "es": "Madre de Cristo: fórmula de Nestorio que limita la maternidad de María a lo humano" },
+        { "en": "Henosis Hypostatike", "es": "Unión hipostática: unión sustancial de divinidad y humanidad en Cristo, según Cirilo" },
+        { "en": "Communicatio Idiomatum", "es": "Comunicación de propiedades divinas y humanas a la única persona del Verbo" },
+        { "en": "Prosopon", "es": "«Rostro» o manifestación externa: término de Nestorio para la unión visible de las naturalezas" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué afirmaba Nestorio sobre la persona de Cristo y la maternidad de María?",
+      "options": ["Que en Cristo hay dos personas y naturalezas separadas, y María solo engendró al hombre Cristo", "Que en Cristo hay una sola naturaleza divina que absorbió a la humana", "Que María es Madre de la naturaleza divina únicamente"],
+      "correct": 0,
+      "hint": "Propuso el título Christotokos.",
+      "explanation": "Nestorio negaba la unión hipostática íntima en Cristo, argumentando que María no podía ser llamada Madre de Dios, sino solo del hombre asumido."
+    },
+    {
+      "type": "gap",
+      "text": "El título ___ significa «Madre de Dios» y salvaguarda la unidad de la persona divina de Cristo.",
+      "options": ["Theotokos", "Christotokos", "Anthropotokos"],
+      "answer": "Theotokos",
+      "explanation": "Este título expresaba la convicción dogmática de que la Virgen María era verdaderamente la Madre de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La pregunta de Cirilo a Nestorio",
+      "tiles": ["María", "es", "la", "madre", "de", "Dios", "hombre", "Cristo"],
+      "answer": "María es la madre de Dios",
+      "explanation": "Cirilo demostró que rechazar el título Theotokos implicaba negar que el niño nacido de María fuese el Verbo eterno de Dios encarnado."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué título mariano defendió Cirilo de Alejandría y consagró el Concilio de Éfeso?",
+      "options": ["Theotokos", "Christotokos", "Anthropotokos"],
+      "correct": 0,
+      "hint": "Significa «Madre de Dios».",
+      "explanation": "El dogma de la Theotokos afirma que, dado que en Cristo las dos naturalezas están indisolublemente unidas, María engendró verdaderamente a Dios hecho hombre."
+    },
+    {
+      "type": "gap",
+      "text": "El término ___, propuesto por Nestorio, significa «Madre de Cristo».",
+      "options": ["Christotokos", "Theotokos", "Prosopon"],
+      "answer": "Christotokos",
+      "explanation": "Nestorio argumentaba que una madre no puede engendrar a alguien anterior a ella, por lo que María solo dio a luz a la naturaleza humana de Jesús."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada criterio cristológico con la postura de Cirilo",
+      "pairs": [
+        { "en": "Sujeto de la Unión", "es": "Un único sujeto divino que es el Verbo encarnado" },
+        { "en": "Carácter de la Unión", "es": "Unión sustancial o hipostática de las naturalezas" },
+        { "en": "Maternidad de María", "es": "Madre de Dios según la carne (Theotokos)" },
+        { "en": "Comunicación de Idiotismos", "es": "Aceptación plena del intercambio real de propiedades" },
+        { "en": "Sujeto de la Pasión", "es": "El propio Verbo eterno sufrió la muerte según la carne" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La fórmula de Nestorio",
+      "tiles": ["María", "es", "la", "madre", "de", "Cristo", "Dios", "hombre"],
+      "answer": "María es la madre de Cristo",
+      "explanation": "Nestorio proponía esta fórmula para evitar atribuir a María un origen temporal de la esencia divina inmutable."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo define la ortodoxia de Éfeso la unión de las naturalezas divina y humana?",
+      "options": ["Unión hipostática o sustancial en la única Persona del Hijo", "Unión moral o asociativa extrínseca", "Fusión de ambas naturalezas en una tercera sustancia mixta"],
+      "correct": 0,
+      "hint": "Es el término acuñado por Cirilo.",
+      "explanation": "Éfeso definió que el Logos se unió a la carne según la hipóstasis, de modo que la persona de Jesucristo es la misma persona eterna de la Trinidad."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ es la unión sustancial y perfecta de la divinidad y la humanidad en la persona de Cristo, según Cirilo.",
+      "options": ["henosis hypostatike", "communicatio idiomatum", "physis"],
+      "answer": "henosis hypostatike",
+      "explanation": "Esta unión no implicaba mezcla, confusión ni alteración de las propiedades de ambas naturalezas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anomalía procesal caracterizó el desarrollo del Concilio de Éfeso?",
+      "options": ["La apertura y condena unilateral de Nestorio por Cirilo antes de la llegada de Juan de Antioquía", "La presidencia del concilio por un general de legiones bárbaras", "La exclusión forzosa de todos los delegados del obispo de Roma"],
+      "correct": 0,
+      "hint": "Esto provocó un contra-sínodo disidente.",
+      "explanation": "Cirilo abrió las sesiones sin esperar a los obispos sirios que venían a defender a Nestorio, desatando un cisma temporal resuelto con la Fórmula de Unión de 433."
+    },
+    {
+      "type": "gap",
+      "text": "___, arzobispo de Constantinopla, propuso el término Christotokos.",
+      "options": ["Nestorio", "Cirilo", "Juan"],
+      "answer": "Nestorio",
+      "explanation": "Fue consagrado arzobispo de Constantinopla en el año 428 d.C., iniciando una campaña para purificar el lenguaje teológico popular."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La unión hipostática",
+      "tiles": ["Una", "sola", "persona", "dos", "naturalezas", "tres", "ninguna"],
+      "answer": "Una sola persona dos naturalezas",
+      "explanation": "Esta fórmula definía una unión real y sustancial sin mezcla ni confusión de las propiedades de ambas naturalezas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué escuela teológica defendía la integridad de la naturaleza humana de Cristo mediante la cristología del Logos-Anthropos?",
+      "options": ["La escuela de Antioquía", "La escuela de Alejandría", "La escuela de Nísibis"],
+      "correct": 0,
+      "hint": "Su hermenéutica era histórico-literal.",
+      "explanation": "Esta tradición concebía la encarnación como la inhabitación del Verbo divino en un hombre completo y autónomo."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Alejandría defendió la Theotokos con sus doce anatematismos.",
+      "options": ["Cirilo", "Nestorio", "Teodoreto"],
+      "answer": "Cirilo",
+      "explanation": "Estos enunciados exigían la aceptación incondicional de la unión hipostática y de la comunicación de idiotismos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja a cada persona con su papel en la controversia",
+      "pairs": [
+        { "en": "Nestorio", "es": "Arzobispo de Constantinopla, propuso el término Christotokos" },
+        { "en": "Cirilo de Alejandría", "es": "Defendió la Theotokos y la unión hipostática con sus doce anatematismos" },
+        { "en": "Teodoro de Mopsuestia", "es": "Sistematizó la distinción de naturalezas de la escuela antioquena" },
+        { "en": "Juan de Antioquía", "es": "Convocó un contra-sínodo tras la apertura unilateral del concilio" },
+        { "en": "Celestino I", "es": "Papa que condenó a Nestorio en un sínodo romano en el año 430 d.C." }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El testimonio del legado romano Felipe",
+      "tiles": ["Pedro", "vive", "en", "la", "sede", "de", "Roma", "murió", "Antioquía"],
+      "answer": "Pedro vive en la sede de Roma",
+      "explanation": "Esta intervención sentó un precedente fundamental para el desarrollo eclesiológico del primado de la sede romana."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué documento redactó Cirilo de Alejandría condenando sistemáticamente las tesis nestorianas?",
+      "options": ["Los doce anatematismos", "La Fórmula de Unión", "El Libro de Heráclides"],
+      "correct": 0,
+      "hint": "Se adjuntaron a su tercera carta a Nestorio.",
+      "explanation": "Estos enunciados exigían la aceptación incondicional de la unión hipostática y provocaron alarma en la escuela de Antioquía."
+    },
+    {
+      "type": "gap",
+      "text": "El papa ___ condenó a Nestorio en un sínodo romano en agosto del año 430 d.C.",
+      "options": ["Celestino I", "Dámaso I", "Silvestre I"],
+      "answer": "Celestino I",
+      "explanation": "Tras examinar la documentación aportada por Cirilo, el papa condenó formalmente la cristología nestoriana."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El destierro de Nestorio",
+      "tiles": ["Nestorio", "fue", "desterrado", "a", "Egipto", "Persia", "coronado"],
+      "answer": "Nestorio fue desterrado a Egipto",
+      "explanation": "Sus escritos fueron condenados a la quema pública, y allí redactó su obra de autodefensa, el Libro de Heráclides de Damasco."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A dónde fue desterrado Nestorio en el año 435 d.C.?",
+      "options": ["A los oasis del desierto de Egipto", "A la ciudad de Nísibis en Persia", "A la isla de Patmos"],
+      "correct": 0,
+      "hint": "Allí redactó su obra de autodefensa.",
+      "explanation": "El emperador Teodosio II decretó su exilio forzado, prohibiendo la posesión o difusión de sus escritos en todo el Imperio."
+    },
+    {
+      "type": "gap",
+      "text": "El Concilio de ___ (431 d.C.) definió el dogma de la Theotokos y depuso a Nestorio.",
+      "options": ["Éfeso", "Calcedonia", "Nicea"],
+      "answer": "Éfeso",
+      "explanation": "Este antiquísimo enclave costero de Asia Menor fue elegido por su profunda resonancia mariana y litúrgica."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La comunicación de idiotismos",
+      "tiles": ["Dios", "nació", "padeció", "y", "murió", "nunca", "vivió"],
+      "answer": "Dios nació padeció y murió",
+      "explanation": "Este principio establece que las propiedades de ambas naturalezas pueden atribuirse al único sujeto que es el Verbo encarnado."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada evento o concepto con su descripción",
+      "pairs": [
+        { "en": "Concilio de Éfeso (431 d.C.)", "es": "Definió el dogma de la Theotokos y depuso a Nestorio" },
+        { "en": "Fórmula de Unión (433 d.C.)", "es": "Reconcilió a Alejandría y Antioquía con la fórmula de las dos naturalezas" },
+        { "en": "Sínodo de Beth Lapat (484 d.C.)", "es": "La Iglesia de Persia adoptó la cristología antioquena, consumando el cisma" },
+        { "en": "Doce anatematismos", "es": "Condena sistemática de Cirilo contra las tesis nestorianas" },
+        { "en": "Escuela de Nísibis", "es": "Refugio de los teólogos antioquenos expulsados de Edesa" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué acuerdo de 433 d.C. reconcilió a las sedes de Alejandría y Antioquía?",
+      "options": ["La Fórmula de Unión", "El Edicto de Tesalónica", "El Sínodo de Beth Lapat"],
+      "correct": 0,
+      "hint": "Combinó el lenguaje de ambas escuelas teológicas.",
+      "explanation": "Este documento confesaba una sola persona en Jesucristo, reconociendo la distinción de dos naturalezas sin mezcla ni confusión."
+    },
+    {
+      "type": "gap",
+      "text": "La ___ de 433 d.C. reconcilió a Alejandría y Antioquía con la fórmula de las dos naturalezas.",
+      "options": ["Fórmula de Unión", "Fórmula de Calcedonia", "Regla de Fe"],
+      "answer": "Fórmula de Unión",
+      "explanation": "Este documento sirvió de puente conceptual entre la escuela alejandrina y la antioquena."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La Fórmula de Unión de 433",
+      "tiles": ["Dos", "naturalezas", "sin", "mezcla", "ni", "confusión", "una", "con"],
+      "answer": "Dos naturalezas sin mezcla ni confusión",
+      "explanation": "Esta fórmula sentó el andamiaje lingüístico que sería retomado en el Concilio de Calcedonia del año 451 d.C."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué sínodo del año 484 d.C. la Iglesia de Persia adoptó formalmente la cristología antioquena, consumando el cisma nestoriano?",
+      "options": ["El Sínodo de Beth Lapat", "El Sínodo de Éfeso", "El Sínodo de Roma"],
+      "correct": 0,
+      "hint": "Dio origen a la Iglesia del Oriente.",
+      "explanation": "Este cisma dio origen a una institución misionera que expandió la fe cristiana por Asia central hasta llegar a China en el siglo VII."
+    },
+    {
+      "type": "gap",
+      "text": "___ de Antioquía convocó un contra-sínodo tras la apertura unilateral del concilio de Éfeso.",
+      "options": ["Juan", "Teodoro", "Ibas"],
+      "answer": "Juan",
+      "explanation": "Indignado por la apertura unilateral de las sesiones presididas por Cirilo, convocó de inmediato un contra-sínodo disidente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El cisma de la Iglesia de Persia",
+      "tiles": ["La", "Iglesia", "del", "Oriente", "se", "separó", "unió", "Roma"],
+      "answer": "La Iglesia del Oriente se separó",
+      "explanation": "Los cristianos refugiados en Persia gozaron de la protección de las autoridades sasánidas, hostiles al Imperio romano bizantino."
+    }
+  ]
+}
